@@ -1,0 +1,159 @@
+    <div class="countRow">
+        Результатов:
+        <span>211</span>    </div>
+            <div class="article">
+            <a href="/books/person/33330/" class="title" target="_blank">Федосов Василий Ильич</a>
+            <div class="content">
+                                <div class="main">
+                    <div class="desc">1897 г. р., уроженец с. Софиевка Андреевского р-на Днепропетровской обл., болгарин, беспартийный, инженер Волховского алюминиевого завода, проживал: п. Волховстрой-2 Лен. обл. Арестован 2 ноября 1937 г. Комиссией НКВД и Прокуратуры СССР 13 января 1938 г. приговорен по ст. ст. 58-8-10-11 УК РСФСР к...</div>
+                    <div class="links">
+                        <a href="/books/LM_Tom_8/" target="_blank" class="showContentBook">Ленинградский мартиролог. Том 8</a>
+                    </div>
+                </div>
+            </div>
+                        <div class="dataBook" data='{&quot;title&quot;:&quot;Ленинградский мартиролог. Том 8&quot;,&quot;alias&quot;:&quot;LM_Tom_8&quot;,&quot;desc&quot;:&quot;Ленинградский мартиролог&amp;nbsp;&amp;mdash; серия книг памяти о репрессированных в советское время жителях&amp;nbsp;Ленинграда, издаваемая Центром &amp;laquo;Возвращённые имена&amp;raquo; при Российской Национальной библиотеке (Санкт-Петербург).\n\nИздаётся с 1995 года на средства бюджета Санкт-Петербурга. Редактор&amp;nbsp;&amp;mdash; сотрудник&amp;nbsp;РНБ&amp;nbsp;Анатолий Яковлевич Разумов, руководитель Центра &amp;laquo;Возвращённые имена&amp;raquo;.\n\n&amp;laquo;Ленинградский мартиролог 1937-1938 годов&amp;raquo;- многотомная книга памяти о Большом терроре в Ленинграде и Ленинградской области, куда входили также территории нынешних...&quot;,&quot;img&quot;:&quot;\/img\/books\/thumbs\/LM_Tom_8.jpg&quot;}'></div>
+        </div>
+                <div class="article">
+            <a href="/books/person/183555/" class="title" target="_blank">Федосов Василий Федорович</a>
+            <div class="content">
+                                <div class="main">
+                    <div class="desc">1900 г. р.,  уроженец и житель д. Большое Вороново,  русский,  образование 3 класса,  беспартийный,  колхозник. Арестован 16 января 1942 г. Дело прекращено 25 апреля 1942 г. Освобожден. (НовгКП: т. 4,  с. 322; Старорусский р-н Новгородской обл.)</div>
+                    <div class="links">
+                        <a href="/books/NovgorodKP/" target="_blank" class="showContentBook">Книга памяти Новгородской области</a>
+                    </div>
+                </div>
+            </div>
+                        <div class="dataBook" data='{&quot;title&quot;:&quot;Книга памяти Новгородской области&quot;,&quot;alias&quot;:&quot;NovgorodKP&quot;,&quot;desc&quot;:&quot;В Новгородской области издана многотомная Книга памяти жертв политических репрессий. Девять томов Книги составлены и изданы Обществом реабилитированных Новгородской области (ОРНО) по документам местных и иногородних архивов, прежде всего архива Управления ФСБ и Государственного архива области, а также семейных архивов.&amp;nbsp;\n\nБиографические справки и статистические сведения о репрессированных (социальный состав, формы репрессий, возраст, образование) расположены порайонно, соответственно современному административному делению области.\n\nВ девяти томах Книги более 43800 имен граждан...&quot;,&quot;img&quot;:&quot;\/img\/books\/thumbs\/NovgorodKP.jpg&quot;}'></div>
+        </div>
+                <div class="article">
+            <a href="/books/person/377431/" class="title" target="_blank">ФЕДОСОВ Василий Матвеевич</a>
+            <div class="content">
+                                <div class="main">
+                    <div class="desc">Род. в 1900. Проживал в с. Семеновка Уярского р-на. Раскулачен в 1930, выслан в Игарку с семьей: жена Ксения Федоровна 1900 г. р., дети Александра 1919 г. р., Афанасий 1923 г. р., Парасковья 1929 г. р.</div>
+                    <div class="links">
+                        <a href="/books/Krasnoyarsky_kray_Tom_11/" target="_blank" class="showContentBook">Книга памяти Красноярского края. Том 11</a>
+                    </div>
+                </div>
+            </div>
+                        <div class="dataBook" data='{&quot;title&quot;:&quot;Книга памяти Красноярского края. Том 11&quot;,&quot;alias&quot;:&quot;Krasnoyarsky_kray_Tom_11&quot;,&quot;desc&quot;:&quot;Правительство Красноярского края \nАрхивное агентство администрации Красноярского края \nКрасноярское историко-просветительское и правозащитное&amp;nbsp; общество &amp;quot;Мемориал&amp;quot; \nОАО &amp;quot;Производственно-издательский комплекс Офсет&amp;quot; 2012\n\nВ одиннадцатый том Книги памяти включены списки граждан, раскулаченных на территории Красноярского края. Списки подготовлены на основе фонда восстановленных дел бывших спецпоселенцев-&amp;laquo;кулаков&amp;raquo; ИЦ ГУВД по Красноярскому краю.\n\nВ книгу также помещены документы, регламентировавшие проведение раскулачивания: постановление Политбюро ЦК ВКП(б) от...&quot;,&quot;img&quot;:&quot;\/img\/books\/thumbs\/Krasnoyarsky_kray_Tom_11.jpg&quot;}'></div>
+        </div>
+                <div class="article">
+            <a href="/books/person/494272/" class="title" target="_blank">ФЕДОСОВ Василий Антонович</a>
+            <div class="content">
+                                <div class="main">
+                    <div class="desc">1891 г. р., рабочий, Химзавод им. Фрунзе, Бережковская наб., 44, кв. 4, дело П-15546</div>
+                    <div class="links">
+                        <a href="/books/vozv_imena/" target="_blank" class="showContentBook">Возвращенные имена. Москва и Московская область</a>
+                    </div>
+                </div>
+            </div>
+                        <div class="dataBook" data='{&quot;title&quot;:&quot;Возвращенные имена. Москва и Московская область&quot;,&quot;alias&quot;:&quot;vozv_imena&quot;,&quot;desc&quot;:&quot;Совместный проект &amp;laquo;Открытый архив&amp;raquo; газеты &amp;laquo;Московская правда&amp;raquo; и Управления ФСБ РФ по Москве и Московской области. С 18 марта 1997 года, когда на страницах газеты вышел первый выпуск \&quot;Возвращенных имен\&quot;, было опубликовано 25 тысяч кратких справок о незаконно репрессированных, а ныне реабилитированных людях. Тем самым им возвращены честное имя и гражданская репутация.\n\nКопия электронной версии &amp;mdash; это и мартиролог безвинно убиенных, и список жертв политических репрессий, которым удалось выжить в нечеловеческих условиях ГУЛАГа. Еще не все имена, не все лица выведены...&quot;,&quot;img&quot;:&quot;\/img\/books\/thumbs\/vozv_imena.jpg&quot;}'></div>
+        </div>
+                <div class="article">
+            <a href="/books/person/494527/" class="title" target="_blank">Федосов Василий Антонович</a>
+            <div class="content">
+                                <div class="main">
+                    <div class="desc">1891 г. р., рабочий, химзавод им.Фрунзе, Бережковская наб., 44, 4, дело П-15546</div>
+                    <div class="links">
+                        <a href="/books/vozv_imena/" target="_blank" class="showContentBook">Возвращенные имена. Москва и Московская область</a>
+                    </div>
+                </div>
+            </div>
+                        <div class="dataBook" data='{&quot;title&quot;:&quot;Возвращенные имена. Москва и Московская область&quot;,&quot;alias&quot;:&quot;vozv_imena&quot;,&quot;desc&quot;:&quot;Совместный проект &amp;laquo;Открытый архив&amp;raquo; газеты &amp;laquo;Московская правда&amp;raquo; и Управления ФСБ РФ по Москве и Московской области. С 18 марта 1997 года, когда на страницах газеты вышел первый выпуск \&quot;Возвращенных имен\&quot;, было опубликовано 25 тысяч кратких справок о незаконно репрессированных, а ныне реабилитированных людях. Тем самым им возвращены честное имя и гражданская репутация.\n\nКопия электронной версии &amp;mdash; это и мартиролог безвинно убиенных, и список жертв политических репрессий, которым удалось выжить в нечеловеческих условиях ГУЛАГа. Еще не все имена, не все лица выведены...&quot;,&quot;img&quot;:&quot;\/img\/books\/thumbs\/vozv_imena.jpg&quot;}'></div>
+        </div>
+                <div class="article">
+            <a href="/books/person/511951/" class="title" target="_blank">Федосов Василий Павлович</a>
+            <div class="content">
+                                <div class="main">
+                    <div class="desc">1878 г.р., м.р. г. Одесса, русский, из мещан, б/п, женат, обр. низшее, место жит. до ареста г. Ялта, не работал, арест. 08.11.1937 г. Ялтинской пограничной комендатурой, ст. 58-10 УК РСФСР: антисоветская агитация, осужден 26.11.1937 г. Тройкой НКВД Крыма к расстрелу, расстрелян 22.01.1938 г....</div>
+                    <div class="links">
+                        <a href="/books/respublika_krym_tom6/" target="_blank" class="showContentBook">Автономная Республика Крым. Том 6</a>
+                    </div>
+                </div>
+            </div>
+                        <div class="dataBook" data='{&quot;title&quot;:&quot;Автономная Республика Крым. Том 6&quot;,&quot;alias&quot;:&quot;respublika_krym_tom6&quot;,&quot;desc&quot;:&quot;&amp;laquo;Реабилитированные историей. Автономная Республика Крым. Книга шестая&amp;raquo; &amp;mdash; шестая книга Крымского тома всеукраинской научно-документальной серии &amp;laquo;Реабілітовані історією&amp;raquo;, посвящённой жертвам политических репрессий советского периода и восстановлению их имён и судеб.\n\nИздание продолжает публикацию документальных и биографических материалов о людях, подвергшихся политическим преследованиям на территории Крыма. Книга подготовлена в рамках многотомного проекта &amp;laquo;Реабілітовані історією&amp;raquo;, основанного на изучении архивных источников, материалов репрессивных...&quot;,&quot;img&quot;:&quot;\/img\/books\/thumbs\/respublika_krym_tom6.jpg&quot;}'></div>
+        </div>
+                <div class="article">
+            <a href="/books/person/581587/" class="title" target="_blank">Федосов Василий Николаевич</a>
+            <div class="content">
+                                <div class="main">
+                    <div class="desc">1887 г. р., уроженец с. Сукромли Рославльского р-на Смоленской области. Работал в колхозе «Красный пахарь Украины» в с. Сукромли Свободненского р-на. Постановлением тройки УНКВД по ДВК от 17.02.1938 осужден к ВМН. Расстрелян. Реабилитирован 27.01.1958 постановлением президиума Амурского облсуда.</div>
+                    <div class="links">
+                        <a href="/books/Kniga_pamyati_Amur_obl_4/" target="_blank" class="showContentBook">Книга памяти Амурской области. Том 4</a>
+                    </div>
+                </div>
+            </div>
+                        <div class="dataBook" data='{&quot;title&quot;:&quot;Книга памяти Амурской области. Том 4&quot;,&quot;alias&quot;:&quot;Kniga_pamyati_Amur_obl_4&quot;,&quot;desc&quot;:&quot;&quot;,&quot;img&quot;:&quot;\/img\/books\/thumbs\/Kniga_pamyati_Amur_obl_4.jpg&quot;}'></div>
+        </div>
+                <div class="article">
+            <a href="/books/person/581588/" class="title" target="_blank">Федосов Василий Николаевич</a>
+            <div class="content">
+                                <div class="main">
+                    <div class="desc">русский, 1887 г. р., уроженец Рословского уезда Смоленской губернии. Проживал в д. Сукромли Свободненского р-на, работал в колхозе «Красный пахарь». Арестован 28.11.1937. Постановлением тройки УНКВД по ДВК от 17.02.1938 осужден к ВМН. Расстрелян 21.03.1938. Реабилитирован 27.01.1958 постановлением...</div>
+                    <div class="links">
+                        <a href="/books/Kniga_pamyati_Amur_obl_4/" target="_blank" class="showContentBook">Книга памяти Амурской области. Том 4</a>
+                    </div>
+                </div>
+            </div>
+                        <div class="dataBook" data='{&quot;title&quot;:&quot;Книга памяти Амурской области. Том 4&quot;,&quot;alias&quot;:&quot;Kniga_pamyati_Amur_obl_4&quot;,&quot;desc&quot;:&quot;&quot;,&quot;img&quot;:&quot;\/img\/books\/thumbs\/Kniga_pamyati_Amur_obl_4.jpg&quot;}'></div>
+        </div>
+                <div class="article">
+            <a href="/books/person/1050309/" class="title" target="_blank">Федосов Василий Прокофьевич</a>
+            <div class="content">
+                                <div class="main">
+                    <div class="desc">1901 г.р.</div>
+                    <div class="links">
+                        <a href="/books/spisok_repressiy_kazahstan/" target="_blank" class="showContentBook">Список жертв репрессий Республики Казахстан</a>
+                    </div>
+                </div>
+            </div>
+                        <div class="dataBook" data='{&quot;title&quot;:&quot;Список жертв репрессий Республики Казахстан&quot;,&quot;alias&quot;:&quot;spisok_repressiy_kazahstan&quot;,&quot;desc&quot;:&quot;Список репрессированных граждан Республики Казахстан, составлен Министерством внутренних дел по материалам арестованных или отбывавших наказание на данной территории, или находящейся под их современной юрисдикцией.&amp;nbsp;&quot;,&quot;img&quot;:&quot;\/img\/books\/thumbs\/spisok_repressiy_kazahstan.jpg&quot;}'></div>
+        </div>
+                <div class="article">
+            <a href="/books/person/1623496/" class="title" target="_blank">Федосов Василий Семенович</a>
+            <div class="content">
+                                <div class="main">
+                    <div class="desc">1886 г.р.</div>
+                    <div class="links">
+                        <a href="/books/spisok_stavropol/" target="_blank" class="showContentBook">Список репрессированных. Ставропольский край</a>
+                    </div>
+                </div>
+            </div>
+                        <div class="dataBook" data='{&quot;title&quot;:&quot;Список репрессированных. Ставропольский край&quot;,&quot;alias&quot;:&quot;spisok_stavropol&quot;,&quot;desc&quot;:&quot;Список репрессированных граждан Ставропольского края, составлен Управлением внутренних дел Ставропольского края по материалам арестованных или отбывавших наказание на территории, находящейся под их современной юрисдикцией.&amp;nbsp;&quot;,&quot;img&quot;:&quot;\/img\/books\/thumbs\/spisok_stavropol.jpg&quot;}'></div>
+        </div>
+                <div class="article">
+            <a href="/books/person/1749641/" class="title" target="_blank">ФЕДОСОВ Василий Герасимович</a>
+            <div class="content">
+                                <div class="main">
+                    <div class="desc">1886 г. р., уроженец и житель с. Кошелево Дмитровского района Орловской обл., единоличник. Арестован в 1930 г. Осужден на 5 лет концлагерей.</div>
+                    <div class="links">
+                        <a href="/books/repressiy_na_orlovschine_tom_3/" target="_blank" class="showContentBook">Книга Памяти Орловщины. Том 3</a>
+                    </div>
+                </div>
+            </div>
+                        <div class="dataBook" data='{&quot;title&quot;:&quot;Книга Памяти Орловщины. Том 3&quot;,&quot;alias&quot;:&quot;repressiy_na_orlovschine_tom_3&quot;,&quot;desc&quot;:&quot;&amp;ldquo;Ноги их бегут ко злу, и они спешат на пролитие невинной крови; \n\nи мысли их &amp;mdash; мысли нечестивыя; опустошение и гибель на стезях их&amp;rdquo;.\n\n(Ис. 59.7).\n\nОктябрь 1917 года положил начало трагическому периоду в истории Русской Православной Церкви. Многие годы атеистическая пропаганда в СССР создавала миф об антигосударственной и антинародной сущности Русской Православной Церкви. Ее называли реакционной и черносотенной, обвиняли в мракобесии и контрреволюционности. Однако факты свидетельствуют о том, что такая оценка деятельности Русской Православной Церкви носит предвзятый и...&quot;,&quot;img&quot;:&quot;\/img\/books\/thumbs\/repressiy_na_orlovschine_tom_3.jpg&quot;}'></div>
+        </div>
+                <div class="article">
+            <a href="/books/person/1814132/" class="title" target="_blank">Федосов Василий Антонович</a>
+            <div class="content">
+                                <div class="main">
+                    <div class="desc">1891 г.р. Архивно-следственное дело: ГАРФ. Фонд 10035. Опись . Номер дела: . Делопроизводственный номер: П-</div>
+                    <div class="links">
+                        <a href="/books/sledstvennye_dela_msk/" target="_blank" class="showContentBook">Следственные дела УКГБ по Москве и Московской области</a>
+                    </div>
+                </div>
+            </div>
+                        <div class="dataBook" data='{&quot;title&quot;:&quot;Следственные дела УКГБ по Москве и Московской области&quot;,&quot;alias&quot;:&quot;sledstvennye_dela_msk&quot;,&quot;desc&quot;:&quot;&quot;,&quot;img&quot;:&quot;&quot;}'></div>
+        </div>
+                <ul class="listing">
+            
+                                                <li class="active">1</li>
+                                                                                        <li><a href="#query=федосов василий&section=books&page=2">2</a></li>
+                                                                                                            <li><a href="#query=федосов василий&section=books&page=3">3</a></li>
+                                                                                                            <li><a href="#query=федосов василий&section=books&page=4">4</a></li>
+                                                                                                            <li><a href="#query=федосов василий&section=books&page=5">5</a></li>
+                                                                                                            <li><a href="#query=федосов василий&section=books&page=6">6</a></li>
+                                                
+                            <li><a href="#query=федосов василий&section=books&page=18">&hellip;18</a></li>
+                    </ul>
+        

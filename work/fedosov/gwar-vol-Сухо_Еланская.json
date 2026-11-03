@@ -1,0 +1,29 @@
+{
+  "source": "gwar",
+  "query": {
+    "birth_place_volost": "Сухо Еланская",
+    "birth_place_gubernia": "Воронежская"
+  },
+  "entities": [
+    "chelovek_donesenie",
+    "chelovek_gospital",
+    "chelovek_nagrazhdenie",
+    "chelovek_plen"
+  ],
+  "fingerprint": "0badbb990972d1f5bc96e49906289a5616bd7afd80352733f05c2b23974eeeca",
+  "total": 0,
+  "hits": [],
+  "next_offset": 0,
+  "started_at": "2026-11-02T20:57:31+00:00",
+  "captured_at": "2026-11-02T20:57:35+00:00",
+  "coverage": {
+    "complete": true,
+    "retrieved_records": 0,
+    "reported_total": 0,
+    "limit": 5000,
+    "reason": "",
+    "scope": "returned-source-records-not-population-census"
+  },
+  "updated_at": "2026-11-02T20:57:35+00:00",
+  "blocked": null
+}

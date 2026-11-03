@@ -1,0 +1,411 @@
+ 
+ 
+ 
+ 
+ 
+ Страница не найдена - 404 
+ 
+ 
+ 
+ 
+ 
+ window.yaContextCb = window.yaContextCb || []; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+window.yaContextCb.push(() => {
+ Ya.Context.AdvManager.render({
+ "blockId": "R-A-18816203-15",
+ "type": "topAd"
+ })
+})
+ 
+ 
+ 
+ 
+ ☰ 
+ 
+ 
+ 
+ Страница не найдена - 404 
+ 🔍 
+ 
+ 
+ 
+ 
+ 
+ 
+ ✕ 
+ 
+ 
+ Найти 
+ 
+ 
+ Точный 
+ Неточный 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Главная 
+ Статьи 
+ Библиотека 
+ Форум 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+window.yaContextCb.push(() => {
+ Ya.Context.AdvManager.render({
+ "blockId": "R-A-18816203-13",
+ "renderTo": "yandex_rtb_R-A-18816203-13"
+ })
+})
+ 
+ 
+ 
+ 
+ 
+ 
+			 
+				 
+					 
+						 
+							 Поиск по фамилии 
+							 
+								 
+									 
+									 Точный 
+								 
+								 
+									 
+									 Неточный 
+								 
+							 
+							 
+								 
+								 
+							 
+						 
+						
+						 
+						 
+ 
+							document.querySelector('#sf').addEventListener('submit', function(e) {
+								e.preventDefault();
+								var s = this.querySelector('.s_word').value.trim();
+								if (s.length > 0) {
+									var url = this.querySelector('.strict_search').checked 
+										? '/strict-search/' + translitToLatin(s)
+										: '/search/' + translitToLatin(s);
+									window.location.href = url;
+								}
+							});
+						 
+					 
+				 
+				 
+			
+			 
+ 
+ 
+ 
+ 
+ 
+ 
+window.yaContextCb.push(() => {
+ Ya.Context.AdvManager.render({
+ "blockId": "R-A-18816203-1",
+ "renderTo": "yandex_rtb_R-A-18816203-1"
+ })
+})
+ 
+ 
+ 
+ 
+ 404 
+ Страница не найдена 
+ 
+ К сожалению, запрашиваемая страница не существует или была перемещена. 
+ Возможно, вы допустили ошибку в адресе или страница была удалена.
+ 
+ 
+ 
+ 🏠 
+ Перейти на главную
+ 
+ 
+ ← 
+ Вернуться назад
+ 
+ 
+ 
+ Или попробуйте поиск по фамилии: 
+ 
+ 
+ 
+ Найти 
+ 
+ 
+ 
+ Точный
+ 
+ 
+ Неточный
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+document.getElementById('error-search-form').addEventListener('submit', function(e) {
+ e.preventDefault();
+ var s = document.getElementById('error-search-input').value.trim();
+ if (s.length > 0) {
+ var isStrict = document.getElementById('error-strict').checked;
+ var url = isStrict ? '/strict-search/' + translitToLatin(s) : '/search/' + translitToLatin(s);
+ window.location.href = url;
+ }
+});
+ 
+ 
+ 
+ 
+ 
+window.yaContextCb.push(() => {
+ Ya.Context.AdvManager.render({
+ "blockId": "R-A-18816203-14",
+ "renderTo": "yandex_rtb_R-A-18816203-14"
+ })
+})
+ 
+ 
+ 
+ 
+ (function(w,doc) {
+if (!w.__utlWdgt ) {
+ w.__utlWdgt = true;
+ var d = doc, s = d.createElement('script'), g = 'getElementsByTagName';
+ s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
+ s.src = ('https:' == w.location.protocol ? 'https' : 'http') + '://w.uptolike.com/widgets/v1/uptolike.js';
+ var h=d[g]('body')[0];
+ h.appendChild(s);
+}})(window,document);
+ 
+ 
+ 
+ 
+ 
+ 
+				 <!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank rel=nofollow><img src='//counter.yadro.ru/hit?t26.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число посетителей за"+
+" сегодня' "+
+"border='0' width='88' height='15'> ")
+//--> 				 
+ 
+ (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+ m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+ (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+ ym(46104696, "init", {
+ clickmap:true,
+ trackLinks:true,
+ accurateTrackBounce:true,
+ webvisor:true
+ });
+ 
+ 
+ 				 
+ (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,"script","https://www.google-analytics.com/analytics.js","ga");
+ ga("create", "UA-101161212-1", "auto");
+ ga("send", "pageview");
+ 			 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ☰ 
+ 
+ 
+document.addEventListener('DOMContentLoaded', function() {
+ var sidebar = document.querySelector('.sidebar');
+ var mobileMenuIcon = document.getElementById('mobileMenuIcon');
+ var menuToggle = document.getElementById('menu-toggle');
+ var menuOverlay = document.getElementById('menuOverlay');
+ function toggleMenu(force) {
+ if (force === undefined) {
+ force = !sidebar.classList.contains('active');
+ }
+ if (force) {
+ sidebar.classList.add('active');
+ if (menuOverlay) menuOverlay.classList.add('active');
+ if (menuToggle) menuToggle.checked = true;
+ } else {
+ sidebar.classList.remove('active');
+ if (menuOverlay) menuOverlay.classList.remove('active');
+ if (menuToggle) menuToggle.checked = false;
+ }
+ }
+ if (mobileMenuIcon) {
+ mobileMenuIcon.addEventListener('click', function(e) {
+ e.stopPropagation();
+ toggleMenu();
+ });
+ }
+ if (menuToggle) {
+ menuToggle.addEventListener('change', function() {
+ toggleMenu(this.checked);
+ });
+ }
+ if (menuOverlay) {
+ menuOverlay.addEventListener('click', function() {
+ toggleMenu(false);
+ });
+ }
+ document.querySelectorAll('.sidebar a').forEach(function(link) {
+ link.addEventListener('click', function() {
+ toggleMenu(false);
+ });
+ });
+ document.addEventListener('click', function(e) {
+ if (sidebar && sidebar.classList.contains('active')) {
+ if (!sidebar.contains(e.target) && mobileMenuIcon && !mobileMenuIcon.contains(e.target)) {
+ toggleMenu(false);
+ }
+ }
+ });
+ // Мобильный поиск (оставляем как есть)
+ var searchIcon = document.getElementById('mobileSearchIcon');
+ var searchPanel = document.getElementById('mobileSearchPanel');
+ var searchClose = document.getElementById('searchCloseBtn');
+ var searchOverlay = document.getElementById('mobileSearchOverlay');
+ var searchForm = document.getElementById('mobileSearchForm');
+ var searchInput = document.getElementById('mobileSearchInput');
+	
+	if (searchPanel) {
+		searchPanel.classList.remove('active');
+	}
+ function openSearch() {
+ if (searchPanel) searchPanel.classList.add('active');
+ if (searchOverlay) searchOverlay.classList.add('active');
+ setTimeout(function() { searchInput?.focus(); }, 100);
+ }
+ function closeSearch() {
+ if (searchPanel) searchPanel.classList.remove('active');
+ if (searchOverlay) searchOverlay.classList.remove('active');
+ }
+ if (searchIcon) {
+ searchIcon.addEventListener('click', function(e) {
+ e.stopPropagation();
+ openSearch();
+ });
+ }
+ if (searchClose) searchClose.addEventListener('click', closeSearch);
+ if (searchOverlay) searchOverlay.addEventListener('click', closeSearch);
+ if (searchForm) {
+ searchForm.addEventListener('submit', function(e) {
+ e.preventDefault();
+ var s = searchInput.value.trim();
+ if (s.length > 0) {
+ var isStrict = document.querySelector('input[name="mobileSearchType"]:checked').value === 'strict';
+ var url = isStrict ? '/strict-search/' + translitToLatin(s) : '/search/' + translitToLatin(s);
+ window.location.href = url;
+ }
+ });
+ }
+ document.addEventListener('keydown', function(e) {
+ if (e.key === 'Escape' && searchPanel?.classList.contains('active')) {
+ closeSearch();
+ }
+ });
+});
+// Кнопка "Показать ещё"
+var loadMoreBtn = document.querySelector('.load-more-btn');
+if (loadMoreBtn) {
+ var currentPage = parseInt(loadMoreBtn.dataset.page);
+ var totalPages = parseInt(loadMoreBtn.dataset.totalPages);
+ var baseUrl = loadMoreBtn.dataset.baseUrl;
+ var isLoading = false;
+ 
+ loadMoreBtn.addEventListener('click', function(e) {
+ e.preventDefault();
+ if (isLoading) return;
+ if (currentPage > totalPages) {
+ this.style.display = 'none';
+ return;
+ }
+ 
+ isLoading = true;
+ var loader = document.querySelector('.load-more-loader');
+ if (loader) loader.style.display = 'block';
+ this.style.display = 'none';
+ 
+ var url = baseUrl + '/page_' + currentPage;
+ 
+ fetch(url, {
+ headers: { 'X-Requested-With': 'XMLHttpRequest' }
+ })
+ .then(function(response) { 
+ if (!response.ok) throw new Error('Network error');
+ return response.text(); 
+ })
+ .then(function(html) {
+ var temp = document.createElement('div');
+ temp.innerHTML = html;
+ var newItems = temp.querySelectorAll('.surname-item');
+ var container = document.getElementById('surnames-container');
+ 
+ if (container && newItems.length) {
+ newItems.forEach(function(item) {
+ container.appendChild(item.cloneNode(true));
+ });
+ currentPage++;
+ 
+ if (currentPage <= totalPages) {
+ loadMoreBtn.style.display = 'inline-block';
+ loadMoreBtn.dataset.page = currentPage;
+ } else {
+ loadMoreBtn.style.display = 'none';
+ if (loader) loader.style.display = 'none';
+ }
+ } else {
+ loadMoreBtn.style.display = 'inline-block';
+ }
+ 
+ if (loader) loader.style.display = 'none';
+ isLoading = false;
+ })
+ .catch(function() {
+ if (loader) loader.style.display = 'none';
+ loadMoreBtn.style.display = 'inline-block';
+ isLoading = false;
+ });
+ });
+}
+ 
+ 
+ 

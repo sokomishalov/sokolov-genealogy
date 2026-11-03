@@ -1,0 +1,9 @@
+ 
+ 
+ 405 Method Not Allowed 
+ 
+ Method Not Allowed 
+The requested method POST is not allowed for the URL /m/minaew_d_n/kaz_zer_kras_ter_6_1_1_1.shtml. 
+ 
+ Apache/1.3.41 Server at samlib.ru Port 80 
+ 

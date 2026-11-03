@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <identifier>1925.ListOfMedicalDoctorsOfTheUSSR.On1January1924.875Pp.</identifier>
+  <mediatype>texts</mediatype>
+  <collection>russianempiregenealogyresources</collection>
+  <collection>genealogy</collection>
+  <description>Lists of Russian medical personnel including doctors, dentists, etc.</description>
+  <scanner>Internet Archive HTML5 Uploader 1.6.3</scanner>
+  <subject>Russian medical personnel</subject>
+  <subject>Russian doctors</subject>
+  <subject>Russian dentists</subject>
+  <subject>Russian veterinarians</subject>
+  <subject>doctors</subject>
+  <subject>dentists</subject>
+  <subject>veterinarians</subject>
+  <title>Russian Medical Lists 1810 - 1925</title>
+  <publicdate>2015-11-28 23:32:22</publicdate>
+  <uploader>joelrat1@hotmail.com</uploader>
+  <addeddate>2015-11-28 23:32:22</addeddate>
+  <curation>[curator]validator@archive.org[/curator][date]20151128233752[/date][comment]checked for malware[/comment]</curation>
+  <language>Russian</language>
+  <identifier-access>http://archive.org/details/1925.ListOfMedicalDoctorsOfTheUSSR.On1January1924.875Pp.</identifier-access>
+  <identifier-ark>ark:/13960/t42r7n952</identifier-ark>
+  <ppi>300</ppi>
+  <repub_state>4</repub_state>
+  <backup_location>ia905505_32</backup_location>
+  <page_number_confidence>69</page_number_confidence>
+  <ocr>tesseract 4.1.1</ocr>
+  <ocr_parameters>-l rus</ocr_parameters>
+  <ocr_module_version>0.0.10</ocr_module_version>
+  <ocr_detected_script>Cyrillic</ocr_detected_script>
+  <ocr_detected_script_conf>1.0000</ocr_detected_script_conf>
+  <ocr_detected_lang>ru</ocr_detected_lang>
+  <ocr_detected_lang_conf>1.0000</ocr_detected_lang_conf>
+  <collection_added>genealogy</collection_added>
+  <page_number_module_version>1.0.5</page_number_module_version>
+  <pdf_degraded>invalid-jp2-headers</pdf_degraded>
+  <pdf_module_version>0.0.25</pdf_module_version>
+</metadata>

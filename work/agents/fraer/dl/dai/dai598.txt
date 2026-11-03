@@ -1,0 +1,205 @@
+DAI T81-598, Frames 5386042-604 (D. Martin)
+
+        Published by the Odessa Digital Library - 6 Feb 2000
+             http://www.odessa3.org
+
+        This document may be freely used for personal, nonprofit
+        purposes or linked by other WWW sites.  It may also be
+        shared with others, provided the header with copyright
+        notice is included.  However, it may not be republished
+        in any form without permission of the copyright owner.
+
+        Copyright 1999, Diane Martin
+        
+NOTES:
+
+The following data is taken from film DAI T81-598, frames 5386042-604
+The dating of this data has not been defined so far.
+
+This data was inputted by Diane Martin in support of Projects as coordinated by
+the GRHS Clearing House.
+
+The intended use of this file is to share with the Bessarabian newsletter, the
+Bessarabian Homepage and/or the Odessa Library as appropriate.
+
+Regional Administration
+Bessarabien Office of Statistics and Family Characteristics (Fiechtner)
+Division of Farmers
+
+District         Community                   Farming Families        Farming Familes       Hired Working
+                                             who own property Souls  who lease land Souls  Families   Souls
+---------------- --------------------------- ---------------- -----  -------------- -----  ---------- ------
+I. Mannsburg
+                 Andrejewka                              79     321             1       3           1     8
+                 Eigenheim                              105     433             2       9           3    15
+                 Eigengut Schimke                        11      49             1       -           -     -
+                 Halle                                   41     161             1       2           4    13
+                 Mannsburg                              150     510            13      54           8    54
+                 Neu-Alexandrowka                        34     130             -       -           -     -
+                 Romanowka                               35     121             1       6           2     8
+                 Seimeny                                108     457             -       -          15    76
+                 Strassburg I                            14      66            10      37           7    32
+                 Strassburg II                           42     215             3       9           2     8
+                 Neu-Seimey
+                 Akkerman
+                 Balabanka                               11      42             3      16           4    24
+                 Basyrjamka (Mit Burnas)                 88     317            10      37           8    47
+                 Benkendorf                              92     377             4      16           4    18
+                 Ensslen Gut (S.Balabanka)
+                 Kamtschatka                             63     259             4      17           7    30
+                 Katlebug                                64     300            10      44          27    85
+                 Kantemir b Mannsb.
+                 Luxemburg                               13      53             3      19           -     -
+                 Neufall                                 41     201             4      21          10    45
+                 Popastru                                16      76             1       4          11    54
+                 Postal                                  73     272             7      33           -     -
+                 Pawlowka                                43     177             1       3           1    10
+                 Sangerowka                              48     248             7      31          21    86
+                 Schaba                                 105     307             3      11          12    18
+                 Schabolat                               47     217             9      46          27   102
+                 Schulzenheim                             5       1             -       -           -     -
+                 Sofiental                               83     318            12      49           -     -
+                 Bairamtscha                              5      22             -       -           -     -
+
+II Sarata
+                 Amara (Tamurka)                         20      89             2      12           -     -
+                 Annowka                                 88     377             2       7           2    10
+                 Balaktschelly                           36     157             2       9           -     -
+                 Eigenfeld                              105     451             -       -          12    65
+                 Friedensfeld                           115     518             6      29           2     9
+                 (Mit Stanhopka)
+                 Gnadenfeld                             135     584             4      18          16    59
+                 (Mit Faranowka)
+                 Jakobstal                               86     377             -       -           6    25
+                 Kisil                                   53     258             1       7           2    12
+                 Korntal I                               41     197             -       -           -     -
+                 Korntal II                              34     186             6      21           1     5
+                 Lichtental                             327   1,484             3      18          16    82
+                 Maraslienfeld                          120     594            33     141           8    48
+                 Neu-Annowka                             26     123            10      33           4    11
+                 Neu-Odessa                              13      69             8      35           3    11
+                 Oloneschti                               4       8             3      11           1     4
+                 Raskajetz                                8      34             -       -           -     -
+                 Sarata                                 162     642             9      23           5    12
+                 Rosenfeld                               21     107             -       -           1     4
+                 Sarjari                                 31     147             2       6           6    20
+                 Stanhopka s. Friedenstal
+                 Tatarbunar                               2       5
+                 Tschemtschelly                          71     314            12      46          13    44
+                 Tschiligider                            56     230             2       7           -     -
+
+III Arzis
+                 Arzis                                  233     921            10      37          45   165
+                 Alt-Elft                               224     964            64     279          30   118
+                 Brienne                                191     828            21      98          96   401
+                 Demir-Chadschi                          10      47             2      12           1     7
+                 Dennewitz                              108     410             3      14          12    50
+                 Fridenstal                             331   1,551             -       -          96   437
+                 Friedrichsdorf                          41     164             -       -           3    12
+                 Gnadental                              215     839             6      16          30   102
+                 Hoffnungstal                            72     307             -       -           1     5
+                 Kaschpolat
+                 Neu-Arzis                              149     580             4      18          24   121
+                 Neu-Brienne                             36     143             -       -           1     4
+                 Neu-Elft                               120     542             5      17          20    79
+                 Neu-Friendestal                         20     107             -       -           1     6
+                 Parapara                                33     158             1       7           -     -
+                 Plotzk                                  78     298             -       -           -     -
+                 Pomasan                                 36     181             -       -           4    16
+                 Teplitz                                279   1,053             1       3           6    24
+
+IV Tarutino
+                 Alt-Postal                             174     811            10      29           2     6
+                 Beresina                               411   1,644            19      59          15    62
+                 Borodino                               409   1,918             8      19          35   166
+                 Friedrichsfeld                          11      42             -       -           -     -
+                 Gnadenheim                               9      41             2      10           1     1
+                 Hoffnungstal                           296   1,432            21      97          72   237
+                 Hoffmannsfeld                           23     104             6      20           5    24
+                 Katzbach                               225   1,019             1       5          17    76
+                 Kloestitz                              478   2,297            19      71          44   201
+                 Krasna                                 446   2,148            56     300          67   277
+                 Kulm                                   306   1,254            12      49          66   255
+                 Kolatschowka                           108     447             -       -           6    30
+                 Kurudschika                            115     560             5      19          21   100
+                 Leipzig                                414   1,439             5     219          48   201
+                 Mintschuna                              76     348             1       3          10   52?
+                 Neu-Borodino                            41     225             -       -          22    82
+                 Neu-Paris                               69     417             1       3          22    95
+                 Paris                                  198     896            20      92          61   318
+                 Peterstal                               21     105             4      17           -     -
+                 Phillipowka                              8      29             -       -           1     8
+                 Romanowka                               12      49             3      12          62   266
+                 Reulingen                               14      68             3       8           2    10
+                 Tarutino                               329   1,331             5      17          56   254
+                 Wittenberg                             194     782             -       -           -     -
+
+V Albota
+                 Albota                                 145     685             4      17           5    24
+                 Alexanderfeld                          112     528             7      24          10    47
+                 Alexandrowka                            77     400             5      26          13    66
+                 Balaban                                 27     142             2       7           -     -
+                 Baimaklia                               25     115             2       4           4    15
+                 Eichendorf                              81     420             1       5           4    15
+                 Neu-Dennewitz                           29     136             3      16           7    30
+                 Netusche Weiler b. Alexanderfeld
+                 Nusstal b. Unter-Albota
+                 Sofiewka                               136     674             1       6          12    59
+                 Unter-Albota                            30     148             5      23           5    21
+
+VI Neu-Sarata:Sued
+                 Bajusch                                 16     103             2       4           2    12
+                 Bergdorf                                43     237             2       8          21    85
+                 Ebenfeld                                44     120             1       2           6    16
+                 Jargara                                 34     180             2       7          17    94
+                 Leowa                                    2       8             -       -           -     -
+                 Manukbejewka                            76     421             -       -          40   173
+                 Mischeni                                18      93             -       -           -     -
+                 Neu-Sarata                              75     391             2       7           2    19
+                 Rohrbach                                69     361             7      27          24   102
+                 Wischniowka
+                 Neu-Congras                              9      50             -       -           -     -
+                 Nord:
+                 Alt-Oneschti                            70     324            10      41           1     3
+                 Bratuleni                                9      40             1       3           1     4
+                 Blumental                               33     147             3      15           5    25
+                 Fundu-Sarazika                          29     144             -       -           2    13
+                 Fuerstenfeld I                          24     139            14      66          11    45
+                 Fuerstenfeld II                         89     397             -       -          11    51
+                 Fuerstenfeld III                        14      79             5      27           -     -
+                 Jekaterinowka                          147     631             -       -           8    32
+                 Mariental                              106     507             1       3           6    18
+                 Marienfeld                             141     673             -       -          13    51
+                 Neu-Oneschti                            52     296             6      26           -     -
+                 Principesa Ileana                       14      68             -       -           -     -
+                 Rosental                                20      92             -       -           -     -
+                 Strymbeni                               58     312             8      24          22   112
+                 Tschimischlia                            -       -             -       -           2    13
+
+VII Bender
+                 Glueckstal
+                 Hanscheschti                            16      62             2       9           3     8
+                 Neu-Strymba
+                 Ryschkanowka
+                 Scholtoi
+                 Emmental                               120     583            20      70           9    46
+                 Hannowka                                76     353             6      25           2    11
+                 Helenowka                               70     369             6      31           1     9
+                 Josefsdorf                              68     350             -       -           -     -
+                 Lunga                                   36     167             1       3           -     -
+                 Mansyr                                  14      62             5      28           2     7
+                 Mariowka                                55     275             6      26           1     2
+                 Mathildendorf                           79     360             5      24           4    16
+                 Neu-Josefsdorf                          14      94             -       -           -     -
+                 Neu-Mathildendorf                       62     174             9      44           9    41
+                 Neu-Mariowka                            30     167             2      19           1     9
+                 Neu-Tarutino                            73     379             -       -           -     -
+                 Balmas                                  58     268            24      85           1     4
+                 Bender                                   -       -             -       -           -     -
+                 Hirtenheim                              61     275            10      42          12    56
+                 Ketrossy                                61     225             2       9           1     8
+                 Kischineff                               -       -             -       -           -     -
+                 Larga                                   19      68             5      20           -     -
+                 Missowka                                15      74             1       3           -     -
+                 Neu-Kureni                              22     108             3      10           2     6
+                 Neu-Nikolajewka                        103     466             4      24           -     -

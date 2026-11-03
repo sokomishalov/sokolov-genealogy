@@ -1,0 +1,1645 @@
+DAI Film 302 of Series T81 Index - Church Records (D. Wahl)
+
+        Published by the Odessa Digital Library - 5 Feb 2000
+             http://www.odessa3.org
+
+        This document may be freely used for personal, nonprofit
+        purposes or linked by other WWW sites.  It may also be
+        shared with others, provided the header with copyright
+        notice is included.  However, it may not be republished
+        in any form without permission of the copyright owner.
+
+        Copyright 2000, Dale Lee Wahl
+
+                              N O T E
+It is intended that this film be incorporated into the German Russian 
+collection of films held at GRHS Headquarters in Bismarck ND.  Copies can be 
+obtained from the National Archives.
+
+We found on film 302 of the T81 DAI records that we had a definition of church 
+records by notes of Karl Stumpp as they existed in Bessarabia in 1941.
+
+We have tried to index this data to include most all of the information that is 
+on the notes.  There is however other data on this film relative to these notes 
+and with time we will further clarify more what these notes were all about.
+
+For now, the person who is interested in the Bessarabian church records can use 
+this list to understand what apparently existed in 1941 and to also see the 
+results of a matching with the LDS church records to see what we already have 
+in the LDS inventory and what we don't at the time of this list.
+
+(When performing the "matching" of this listed data with the LDS inventory, 
+there may not be a complete overlapping of dates in each instance, check the 
+LDS Bessarabian film list found posted here at this site also.)
+
+It should be noted that we do know for a fact that the LDS are processing other 
+Bessarabian Church records which will become available very soon in their 
+inventory. But until those film numbers are made available to the public along 
+with the record description, we cannot reflect them as being in the system yet.  
+So stay tuned to news about new Bessarabian church records.
+
+Also in this same data, there are listings of other records other than church 
+records.  We have a continuing project at the GRHS Clearing House to further 
+process this data and make it available to the Bessarabian researcher.
+
+Column Descriptions:
+
+LDS                 is the item in the LDS inventory?
+Village             as reflected on the listings
+Period              as reflected on the listings
+Parish              as reflected on the listings
+T81                 film number
+Frame               as assigned on film 302
+No.                 as assigned on that frame
+Remarks             as reflected on the listings
+
+
+LDS Village                   Period     Record Type          Parish         T81 Frame   No.Remarks
+--- ------------------------- ---------- -------------------- -------------- --- ------- -- -----------------
+    (not used)                           Verstorbene                         302 2429001 22
+    (not used)                           Verstorbene                         302 2429006 119
+yes Akkermann                 1879-1887  Geborene                            302 2428959  1
+yes Akkermann                 1879-1906  Geborene                            302 2428959  1
+yes Akkermann                 1887-1891  Geborene                            302 2428959  1
+yes Akkermann                 1892-1931  Geborene                            302 2428959  1
+yes Akkermann                 1908-1940  Geborene                            302 2428959  1 vollstaendig
+yes Akkermann                 1879-1891  Verstorbene                         302 2429000  1
+yes Akkermann                 1881-1907  Verstorbene                         302 2429000  1
+yes Akkermann                 1892-1934  Verstorbene                         302 2428959  1
+yes Akkermann                 1907-1940  Verstorbene                         302 2429000  1
+    Albina                    1886       Geborene                            302 2429028 93
+    Albina                    1886       Verstorbene                         302 2429028 93
+    Albina (Algina)           1886-1899  Geborene                            302 2428972  1 Erloschene Gemeinde (extinct community/municipality)
+    Albina (Algina)           1886-1899  Verstorbene                         302 2428972  1 Erloschene Gemeinde (extinct community/municipality)
+yes Albota                    1938       Geborene                            302 2429027 15
+yes Albota                    1938-1939  Geborene                            302 2429027 12
+    Albota                    1938-1939  Getaufte                            302 2429027 12
+    Albota                    1878-1937  Getraute                            302 2428996  1
+    Albota                    1932-1940  Getraute                            302 2428996  1
+yes Albota                    1880-1908  Verstorbene                         302 2429000  2
+yes Albota                    1909-1940  Verstorbene                         302 2429000  2
+yes Albota (1880)             1880-1908  Geborene                            302 2428959  3
+yes Albota (1880)             1909-1940  Geborene                            302 2428959  3
+yes Albota (1880)             1938-1940  Geborene                            302 2428959  3 vollstaendig
+yes Alexanderfeld             1908-1934  Verstorbene                         302 2429000  3
+yes Alexanderfeld             1935-1940  Verstorbene                         302 2429000  3
+yes Alexanderfeld (1908)      1908-1934  Geborene                            302 2428959  4
+yes Alexanderfeld (1908)      1934-1940  Geborene                            302 2428959  4 vollstaendig
+yes Alexanderfeld (1908)      1935-1940  Geborene                            302 2428959  4
+    Alexanderthal             1872-1880  Geborene                            302 2428972  2 Erloschene Gemeinde (extinct community/municipality)
+    Alexanderthal             1873-1880  Verstorbene                         302 2428972  2 Erloschene Gemeinde (extinct community/municipality)
+yes Alexandrowka              1908-1913  Verstorbene                         302 2429000  4
+yes Alexandrowka              1914-1937  Verstorbene                         302 2429000  4
+yes Alexandrowka              1938-1940  Verstorbene                         302 2429000  4
+yes Alexandrowka (1908)       1908-1913  Geborene                            302 2428959  5
+yes Alexandrowka (1908)       1914-1925  Geborene                            302 2428959  5
+yes Alexandrowka (1908)       1926-1938  Geborene                            302 2428959  5
+yes Alexandrowka (1908)       1933-1940  Geborene                            302 2428959  5 vollstaendig
+yes Alt Elft                  1817-1876  Geborene             Alt Elft       302 2428959  6
+yes Alt Elft                  1820-1836  Geborene             Alt Elft       302 2428959  6
+yes Alt Elft                  1837-1840  Geborene             Alt Elft       302 2428960  6
+yes Alt Elft                  1841-1842  Geborene             Alt Elft       302 2428959  6
+yes Alt Elft                  1843-1854  Geborene             Alt Elft       302 2428959  6
+yes Alt Elft                  1855-1862  Geborene             Alt Elft       302 2428960  6
+yes Alt Elft                  1860-1917  Geborene             Alt Elft       302 2428960  6 Alt Elft Vollstaendig "Separatisten"
+yes Alt Elft                  1862-1886  Geborene             Alt Elft       302 2428960  6
+yes Alt Elft                  1876-1903  Geborene             Alt Elft       302 2428960  6
+yes Alt Elft                  1887-1891  Geborene             Alt Elft       302 2428960  6
+yes Alt Elft                  1892-1906  Geborene             Alt Elft       302 2428960  6
+yes Alt Elft                  1903-1934  Geborene             Alt Elft       302 2428960  6
+yes Alt Elft                  1906-1924  Geborene             Alt Elft       302 2428960  6
+yes Alt Elft                  1924-1939  Geborene             Alt Elft       302 2428960  6
+yes Alt Elft                  1935-1940  Geborene             Alt Elft       302 2428960  6
+yes Alt Elft                  1938-1939  Geborene                            302 2429027 10
+yes Alt Elft                  1938-1939  Getaufte                            302 2429027 10
+yes Alt Elft                  1820-1836  Getraute             Alt Elft       302 2428959  6
+yes Alt Elft                  1820-1851  Getraute                            302 2428996  4
+yes Alt Elft                  1851-1891  Getraute                            302 2428996  4
+yes Alt Elft                  1892-1937  Getraute                            302 2428996  4
+yes Alt Elft                  1938-1940  Getraute                            302 2428996  4
+    Alt Elft                  1814-1932  Kirchenchronik                      302 2428946  7
+yes Alt Elft                  1820-1836  Verstorbene          Alt Elft       302 2428959  6
+yes Alt Elft                  1820-1937  Verstorbene                         302 2429000  5
+yes Alt Elft                  1938-1939  Verstorbene                         302 2429000  5
+yes Alt Elft (1816)           1815-1840  Geborene             Alt Elft       302 2428959  6
+yes Alt Oncschti (1885)       1898-1937  Geborene                            302 2428960  7
+yes Alt Oncschti (1885)       1937-1940  Geborene                            302 2428960  7 ?
+yes Alt Oneschti              1916       Geborene             Kischineff     302 2428964 60
+yes Alt Oneschti              1932-1936  Geborene             Kischineff     302 2428964 60
+yes Alt Oneschti              1921-1927  Verstorbene          Kischineff     302 2429003 60
+yes Alt Oneschti              1938       Verstorbene                         302 2429000  6
+    Alt Posttal               1817-1849  Geborene                            302 2429037  2
+yes Alt Posttal               1824-1940  Geborene             Tarutino       302 2429030 25 8 Bde
+yes Alt Posttal               1848       Personalbuch         Tarutino       302 2429030 26
+    Alt Posttal               1817-1849  Verstorbene                         302 2429037  2
+yes Alt Posttal               1824-1867  Verstorbene                         302 2429000  7
+yes Alt Posttal               1824-1940  Verstorbene          Tarutino       302 2429030 24 6 Bde
+yes Alt Posttal               1831-1847  Verstorbene          Tarutino       302 2429007 137
+yes Alt Posttal               1861-1864  Verstorbene          Tarutino       302 2429007 137
+yes Alt Posttal               1865-1876  Verstorbene                         302 2429000  7
+yes Alt Posttal               1866-1887  Verstorbene                         302 2429000  7
+yes Alt Posttal               1877-1891  Verstorbene                         302 2429000  7
+yes Alt Posttal               1888-1910  Verstorbene                         302 2429000  7
+yes Alt Posttal               1892-1909  Verstorbene                         302 2429000  7
+yes Alt Posttal               1910-1927  Verstorbene                         302 2429000  7
+yes Alt Posttal               1910-1940  Verstorbene                         302 2429000  7
+yes Alt Posttal               1928-1940  Verstorbene                         302 2429000  7
+    Alt Posttal               1818-1866  Vorschriften                        302 2429037  3
+yes Alt Posttal (1823)        1826-1865  Geborene                            302 2428960  8
+yes Alt Posttal (1823)        1865-1872  Geborene                            302 2428960  8
+yes Alt Posttal (1823)        1866-1884  Geborene                            302 2428960  8
+yes Alt Posttal (1823)        1873-1881  Geborene                            302 2428960  8
+yes Alt Posttal (1823)        1882-1891  Geborene                            302 2428960  8
+yes Alt Posttal (1823)        1885-1900  Geborene                            302 2428960  8
+yes Alt Posttal (1823)        1892-1901  Geborene                            302 2428960  8
+yes Alt Posttal (1823)        1901-1909  Geborene                            302 2428960  8
+yes Alt Posttal (1823)        1902-1910  Geborene                            302 2428960  8
+yes Alt Posttal (1823)        1910-1930  Geborene                            302 2428960  8
+yes Alt Posttal (1823)        1911-1925  Geborene                            302 2428960  8
+yes Alt Posttal (1823)        1926-1940  Geborene                            302 2428960  8
+yes Alt Posttal (1823)        1931-1940  Geborene                            302 2428960  8
+    Alt Scholtei              1921-1927  Verstorbene          Kischineff     302 2429003 60
+    Alt Scholtoi              1916       Geborene             Kischineff     302 2428964 60
+    Alt Scholtoi              1932-1936  Geborene             Kischineff     302 2428964 60
+    Amalinskaja               1895-1912  Geborene                            302 2428972  3 Erloschene Gemeinde (extinct community/municipality)
+    Amalinskaja               1895-1912  Verstorbene                         302 2428972  3 Erloschene Gemeinde (extinct community/municipality)
+    Analainskaja              1895-1912  Geborene                            302 2429028 80
+    Analainskaja              1895-1912  Verstorbene                         302 2429028 80
+yes Andrejewka                1938       Geborene                            302 2429027 16
+yes Andrejewka                1938       Getaufte                            302 2429027 16
+yes Andrejewka                1897-1918  Getraute                            302 2428996  2
+yes Andrejewka                1919-1940  Getraute                            302 2428996  2
+yes Andrejewka                1913-1940  Verstorbene                         302 2429000  8
+yes Andrejewka                1938       Verstorbene                         302 2429027 16
+yes Andrejewka (1892)         1892-1912  Geborene                            302 2428959  2
+yes Andrejewka (1892)         1913-1940  Geborene                            302 2428959  2 vollstaendig
+yes Andrejewka (1892)         1892-1912  Verstorbene                         302 2428959  2
+    Annowka                   1939       Verstorbene                         302 2429000  9
+    Annowka (1908)            1906-1933  Geborene             Annowka        302 2428960  9
+yes Annowka (1908)            1934-1940  Geborene             Annowka        302 2428960  9
+    Annowka (1908)            1905-1934  Verstorbene          Annowka        302 2428960  9
+yes Annowka (1908)            1934-1940  Verstorbene          Annowka        302 2428960  9
+yes Arzis                     1835-1861  Getraute                            302 2428996  3
+yes Arzis                     1862-1891  Getraute                            302 2428996  3
+yes Arzis                     1892-1919  Getraute                            302 2428996  3
+yes Arzis                     1920-1936  Getraute                            302 2428996  3
+yes Arzis                     1937       Getraute                            302 2429036 36
+yes Arzis                     1937-1940  Getraute                            302 2428996  3
+    Arzis                     1813-1936  Kirchenchronik                      302 2428946  9
+yes Arzis                     1834       Personalbuch                        302 2429036 39
+    Arzis                                Personalbuch                        302 2429037  1
+yes Arzis                     1819-1854  Verstorbene                         302 2429000 10
+yes Arzis                     1855-1886  Verstorbene                         302 2429000 10
+yes Arzis                     1887-1891  Verstorbene                         302 2429000 10
+yes Arzis                     1892-1909  Verstorbene                         302 2429000 10
+yes Arzis                     1910-1940  Verstorbene                         302 2429000 10
+yes Arzis (1916)              1855-1879  Geborene                            302 2428960 10
+yes Arzis (1916)              1880-1891  Geborene                            302 2428960 10
+yes Arzis (1916)              1892-1930  Geborene                            302 2428960 10
+yes Arzis (1916)              1931-1940  Geborene                            302 2428960 10 fehlt 1816-1854
+yes Baimaklia                 1938-1939  Verstorbene                         302 2429000 11
+yes Baimaklia (1912)          1914-1937  Geborene                            302 2428960 11
+yes Baimaklia (1912)          1938-1940  Geborene                            302 2428960 11
+yes Baimaklia (1912)          1914-1937  Verstorbene                         302 2428960 11
+yes Baimaklia (1912)          1938-1940  Verstorbene                         302 2428960 11 vollstaendig
+yes Bajusch                   1912-1913  Geborene             Neu Sarata     302 2428968 100
+yes Bajusch                   1922-1937  Geborene             Neu Sarata     302 2428968 100
+    Bajusch                   from 1938  Geborene                            302 2429033 13
+    Bajusch                   from 1938  Getaufte                            302 2429033 13
+yes Bajusch                   1911-1921  Verstorbene          Neu Sarata     302 2429005 102
+yes Bajusch                   1911-1940  Verstorbene                         302 2429000 12
+yes Bajusch                   1921-1937  Verstorbene          Neu Sarata     302 2429005 102
+yes Bajusch                   1938       Verstorbene                         302 2429000 12
+yes Bajusch (1910)            1911-1940  Geborene                            302 2428960 12
+yes Bajusch (1910)            1938-1939  Geborene                            302 2428960 12
+yes Bajusch (1910)            1938-1939  Verstorbene                         302 2428960 12 vollstaendig
+yes Balaban                   1928-1940  Verstorbene                         302 2429000 13
+yes Balaban (1920)            1925-1940  Geborene                            302 2428960 13 vollstaendig
+yes Balaktschelly             1938-1939  Verstorbene                         302 2429000 14
+yes Balaktschelly (1899)      1900-1940  Geborene                            302 2428960 14
+yes Balaktschelly (1899)      1900-1939  Verstorbene                         302 2428960 14 vollstaendig
+    Balmas                               Verstorbene                         302 2429000 15 ? fehlt
+    Balmas (1886)                        Geborene                            302 2428960 15 ? fehlt.
+    Basyrjamka                           Familienbuch                        302 2429032  5 1 Bd
+yes Basyrjamka                1926-1939  Verstorbene                         302 2429000 16
+yes Basyrjamka (1891)         1891-1908  Geborene                            302 2428960 16
+yes Basyrjamka (1891)         1909-1934  Geborene                            302 2428960 16
+yes Basyrjamka (1891)         1935-1940  Geborene                            302 2428960 16 vollstaendig
+yes Basyrjamka (1891)         1892-1925  Verstorbene                         302 2428960 16
+    Belti                     1921-1927  Verstorbene          Kischineff     302 2429003 60
+    Bendery                   1916       Geborene             Kischineff     302 2428964 60
+    Bendery                   1932-1936  Geborene             Kischineff     302 2428964 60
+    Bendery                              Geborene                            302 2428961 17 Stadt
+    Bendery                   1921-1927  Verstorbene          Kischineff     302 2429003 60
+    Bendery                   1939       Verstorbene                         302 2429000 17
+    Benkendorf                           Familienbuch                        302 2429033  3
+yes Benkendorf                1880-1940  Geborene                            302 2429032 16
+yes Benkendorf                1865-1879  Verstorbene                         302 2429001 18
+    Benkendorf                1880-1940  Verstorbene                         302 2429032 16
+yes Benkendorf                1920-1923  Verstorbene                         302 2429001 18
+yes Benkendorf                1938-1939  Verstorbene                         302 2429001 18
+    Benkendorf                           Verstorbene                         302 2429032 15
+yes Benkendorf (1863)         1865-1878  Geborene                            302 2428961 18
+yes Benkendorf (1863)         1879-1892  Geborene                            302 2428961 18
+yes Benkendorf (1863)         1892-1908  Geborene                            302 2428961 18
+yes Benkendorf (1863)         1897-1909  Geborene                            302 2428961 18
+yes Benkendorf (1863)         1909-1923  Geborene                            302 2428961 18
+yes Benkendorf (1863)         1924-1940  Geborene                            302 2428961 18
+yes Benkendorf (1863)         1879-1901  Verstorbene                         302 2428961 18
+yes Benkendorf (1863)         1924-1940  Verstorbene                         302 2428961 18 vollstaendig
+    Beresina                             Familienbuch                        302 2428946  3
+yes Beresina                  1814-1830  Geborene             Kloestitz      302 2428964 62
+yes Beresina                  1830-1842  Geborene             Kloestitz      302 2428965 62
+yes Beresina                  1866-1875  Geborene             Kloestitz      302 2428965 62
+yes Beresina                  1814-1830  Getraute             Kloestitz      302 2428964 62
+yes Beresina                  1814-1830  Verstorbene          Kloestitz      302 2428964 62
+yes Beresina                  1815-1849  Verstorbene                         302 2429001 19
+yes Beresina                  1830-1842  Verstorbene          Kloestitz      302 2429003 62
+yes Beresina                  1860-1870  Verstorbene          Kloestitz      302 2429003 62
+yes Beresina                  1867-1887  Verstorbene                         302 2429001 19
+yes Beresina                  1888-1912  Verstorbene                         302 2429001 19
+yes Beresina                  1912-1930  Verstorbene                         302 2429001 19
+yes Beresina                  1931-1940  Verstorbene                         302 2429001 19
+yes Beresina (1817)           1817-1848  Geborene                            302 2428961 19
+yes Beresina (1817)           1849-1861  Geborene                            302 2428961 19
+yes Beresina (1817)           1861-1883  Geborene                            302 2428961 19
+yes Beresina (1817)           1884-1904  Geborene                            302 2428961 19
+yes Beresina (1817)           1916-1922  Geborene                            302 2428961 19
+yes Beresina (1817)           1923-1930  Geborene                            302 2428961 19
+yes Beresina (1817)           1931-1940  Geborene                            302 2428961 19 fehlt 1905-1915
+yes Beresina (1817)           1849-1866  Verstorbene                         302 2428961 19
+yes Bergdorf                  1922-1937  Geborene             Neu Sarata     302 2428968 100
+yes Bergdorf                  1938       Geborene                            302 2429033 30
+yes Bergdorf                  1921-1937  Verstorbene          Neu Sarata     302 2429005 102
+yes Bergdorf                  1938       Verstorbene                         302 2429001 20
+yes Bergdorf (1921)           1923-1940  Geborene                            302 2428961 20
+yes Bergdorf (1921)           1938-1939  Geborene                            302 2428961 20 vollstaendig
+yes Blumental                 1886-1940  Verstorbene                         302 2429001 21
+yes Blumental                 1921-1933  Verstorbene                         302 2429001 21
+yes Blumental (1881)          1886-1892  Geborene                            302 2428961 21
+yes Blumental (1881)          1900-1940  Geborene                            302 2428961 21
+yes Blumental (1881)          1921-1927  Geborene                            302 2428961 21
+yes Blumental (1881)          1921-1940  Geborene                            302 2428961 21
+yes Blumental (1881)          1921-1939  Verstorbene                         302 2428961 21 fehlt 1881-1885 und 1893-1899
+yes Borodino                  1831       Familienbuch                        302 2428946  2
+yes Borodino                  1814-1830  Geborene             Kloestitz      302 2428964 62
+yes Borodino                  1830-1842  Geborene             Kloestitz      302 2428965 62
+yes Borodino                  1866-1875  Geborene             Kloestitz      302 2428965 62
+yes Borodino                  1814-1830  Getraute             Kloestitz      302 2428964 62
+yes Borodino                  1860-1881  Personalbuch                        302 2429026  9
+    Borodino                             Personalbuch                        302 2429026  3 Band 3
+    Borodino                             Personalbuch                        302 2429026  4 Band 3 A
+    Borodino                             Personalbuch                        302 2429026  5 Band 1 und 2
+    Borodino                             Personalbuch                        302 2429026  6 Band 4
+yes Borodino                  1814-1830  Verstorbene          Kloestitz      302 2428964 62
+yes Borodino                  1817-1835  Verstorbene                         302 2429001 23
+yes Borodino                  1830-1842  Verstorbene          Kloestitz      302 2429003 62
+yes Borodino                  1847-1855  Verstorbene                         302 2429001 23
+yes Borodino                  1856-1872  Verstorbene                         302 2429001 23
+yes Borodino                  1860-1870  Verstorbene          Kloestitz      302 2429003 62
+yes Borodino                  1873-1898  Verstorbene                         302 2429001 23
+yes Borodino                  1916-1933  Verstorbene                         302 2429001 23
+yes Borodino                  1933-1940  Verstorbene                         302 2429001 23
+yes Borodino (1814)           1817-1835  Geborene                            302 2428961 22
+yes Borodino (1814)           1836-1839  Geborene                            302 2428961 22
+yes Borodino (1814)           1839-1857  Geborene                            302 2428961 22
+yes Borodino (1814)           1858-1871  Geborene                            302 2428961 22
+yes Borodino (1814)           1872-1880  Geborene                            302 2428961 22
+yes Borodino (1814)           1881-1893  Geborene                            302 2428961 22
+yes Borodino (1814)           1893-1914  Geborene                            302 2428961 22
+yes Borodino (1814)           1914-1925  Geborene                            302 2428961 22
+yes Borodino (1814)           1925-1931  Geborene                            302 2428961 22
+yes Borodino (1814)           1931-1940  Geborene                            302 2428961 22 vollstaendig
+yes Borodino (1814)           1836-1846  Verstorbene                         302 2428961 22
+    Bortschak                 1864-1881  Geborene                            302 2429028 74 Erloschene Gemeinde (extinct community/municipality)
+    Bortschak                 1864-1881  Verstorbene                         302 2429028 74 Erloschene Gemeinde (extinct community/municipality)
+    Bortscheag                1864-1881  Geborene                            302 2428972  4 Erloschene Gemeinde (extinct community/municipality)
+    Bortscheag                1910-1921  Verstorbene          Neu Sarata     302 2429005 102
+    Bratuleni                 1921-1927  Verstorbene          Kischineff     302 2429003 60
+yes Brienne                   1840       Geborene                            302 2429036 11
+yes Brienne                   1860       Geborene                            302 2429036 18
+yes Brienne                   1887       Geborene                            302 2429036 17
+yes Brienne                   1903-1913  Geborene                            302 2429036 16
+yes Brienne                   1914       Geborene                            302 2429036 15
+yes Brienne                   1938       Geborene                            302 2429036 14
+yes Brienne                   1834       Personalbuch                        302 2429036 39
+    Brienne                              Personalbuch                        302 2429037  1
+    Brienne                              Sterbe                              302 2429036 10
+yes Brienne                   1873-1899  Verstorbene                         302 2429036 13
+yes Brienne                   1873-1899  Verstorbene                         302 2429001 24
+?   Brienne                   18x4-18x4  Verstorbene                         302 2429001 24
+yes Brienne                   1900-1913  Verstorbene                         302 2429036 12
+yes Brienne                   1900-1913  Verstorbene                         302 2429001 24
+yes Brienne                   1914-1940  Verstorbene                         302 2429001 24
+yes Brienne (1816)            1819-1839  Geborene                            302 2428961 23
+yes Brienne (1816)            1840-1859  Geborene                            302 2428961 23
+yes Brienne (1816)            1860-1886  Geborene                            302 2428961 23
+yes Brienne (1816)            1887-1903  Geborene                            302 2428961 23
+yes Brienne (1816)            1903-1913  Geborene                            302 2428961 23
+yes Brienne (1816)            1914-1937  Geborene                            302 2428961 23
+yes Brienne (1816)            1938-1940  Geborene                            302 2428961 23 vollstaendig
+yes Brienne (1816)            1840-1872  Verstorbene                         302 2428961 23
+    Burlaki Taraklia          1881-1896  Geborene                            302 2429028 83 Erloschene Gemeinde (extinct community/municipality)
+    Burlaki Taraklia          1881-1896  Verstorbene                         302 2429028 83 Erloschene Gemeinde (extinct community/municipality)
+    Danielsfeld               1872       Geborene                            302 2429028 92 Erloschene Gemeinde (extinct community/municipality)
+    Danielsfeld               1872-1891  Geborene                            302 2428972  5 Erloschene Gemeinde (extinct community/municipality)
+    Danielsfeld               1872-1894  Geborene                            302 2428972  5 Erloschene Gemeinde (extinct community/municipality)
+    Danielsfeld               1872       Verstorbene                         302 2429028 92 Erloschene Gemeinde (extinct community/municipality)
+    Danielsfeld               1872-1891  Verstorbene                         302 2428972  5 Erloschene Gemeinde (extinct community/municipality)
+    Danielsfeld               1872-1895  Verstorbene                         302 2428972  5 Erloschene Gemeinde (extinct community/municipality)
+    Dankensfeld               1893-1900  Geborene                            302 2428973  8 Erloschene Gemeinde (extinct community/municipality)
+    Dankensfeld               1893-1901  Geborene                            302 2429028 84 Erloschene Gemeinde (extinct community/municipality)
+    Dankensfeld               1893-1901  Verstorbene                         302 2429028 84 Erloschene Gemeinde (extinct community/municipality)
+    Dankensfeld               1894-1901  Verstorbene                         302 2428973  8 Erloschene Gemeinde (extinct community/municipality)
+    Demir Chadschi                       Verstorbene                         302 2429001 25
+    Demir Chadschi (1860)     1938       Geborene                            302 2428961 24
+    Denisowka                 1895-1899  Geborene                            302 2428972  6 Erloschene Gemeinde (extinct community/municipality)
+    Denisowka                 1895-1901  Geborene                            302 2428972  6 Erloschene Gemeinde (extinct community/municipality)
+    Denisowka                 1895-1899  Verstorbene                         302 2428972  6 Erloschene Gemeinde (extinct community/municipality)
+    Denissowka                1895       Geborene                            302 2429028 91 Erloschene Gemeinde (extinct community/municipality)
+    Denissowka                1895       Verstorbene                         302 2429028 91 Erloschene Gemeinde (extinct community/municipality)
+yes Dennewitz                 1835-1840  Geborene             Alt Elft       302 2428959  6
+yes Dennewitz                 1837-1840  Geborene             Alt Elft       302 2428960  6
+yes Dennewitz                 1841-1842  Geborene             Alt Elft       302 2428959  6
+yes Dennewitz                 1843-1854  Geborene             Alt Elft       302 2428959  6
+yes Dennewitz                 1837-1901  Verstorbene                         302 2429001 26
+    Dennewitz                 1902-1940  Verstorbene                         302 2429001 26
+    Dennewitz (1834)          1835-1891  Geborene                            302 2428961 25
+    Dennewitz (1834)          1863-1891  Geborene                            302 2428961 25
+    Dennewitz (1834)          1892-1907  Geborene                            302 2428961 25
+    Dennewitz (1834)          1892-1924  Geborene                            302 2428961 25
+    Dennewitz (1834)          1902-1937  Geborene                            302 2428961 25
+    Dennewitz (1834)          1925-1938  Geborene                            302 2428961 25
+    Dennewitz (1834)          1938-1940  Geborene                            302 2428961 25 vollstaendig
+    Ebenfeld                  1922-1937  Geborene             Neu Sarata     302 2428968 100
+    Ebenfeld                  from 1938  Geborene                            302 2429033 13
+    Ebenfeld                  from 1938  Getaufte                            302 2429033 13
+    Ebenfeld                  1921-1937  Verstorbene          Neu Sarata     302 2429005 102
+    Ebenfeld                  1938       Verstorbene                         302 2429001 27
+    Ebenfeld (1914)           1938-1939  Geborene                            302 2428962 26 fehlt 1914-1937
+    Eichendorf                1908-1913  Verstorbene                         302 2429001 28
+    Eichendorf                1938-1939  Verstorbene                         302 2429001 28
+    Eichendorf (1908)         1908-1913  Geborene                            302 2428962 27
+    Eichendorf (1908)         1914-1933  Geborene                            302 2428962 27
+    Eichendorf (1908)         1933-1940  Geborene                            302 2428962 27 vollstaendig
+    Eichendorf (1908)         1934-1940  Geborene                            302 2428962 27
+    Eigenfeld                 1927-1940  Getraute                            302 2428996  5
+    Eigenfeld                 1914-1940  Verstorbene                         302 2429001 29
+    Eigenfeld                 1916-1940  Verstorbene                         302 2429001 29
+    Eigenfeld (1880)          1879-1903  Geborene                            302 2428962 28
+yes Eigenfeld (1880)          1903-1924  Geborene                            302 2428962 28
+yes Eigenfeld (1880)          1925-1940  Geborene                            302 2428962 28 vollstaendig
+    Eigenfeld (Neu Paris)     1871-1874  Geborene                            302 2428973  7 Erloschene Gemeinde (extinct community/municipality)
+    Eigenfeld (Neu Paris)     1872-1874  Verstorbene                         302 2428973  7 Erloschene Gemeinde (extinct community/municipality)
+    Eigengut                  1938       Verstorbene                         302 2429001 30
+    Eigengut (1895)           1909-1929  Geborene                            302 2428962 29
+    Eigengut (1895)           1938       Geborene                            302 2428962 29 fehlt 1895-1937
+    Eigengut (1895)           1910-1940  Verstorbene                         302 2428962 29
+    Eigenheim                 1861-1891  Verstorbene                         302 2429001 31
+    Eigenheim                 1917-1940  Verstorbene                         302 2429001 31
+    Eigenheim (1861)          1861-1891  Geborene                            302 2428962 30
+    Eigenheim (1861)          1892-1907  Geborene                            302 2428962 30
+    Eigenheim (1861)          1908-1925  Geborene                            302 2428962 30
+    Eigenheim (1861)          1925-1939  Geborene                            302 2428962 30
+    Eigenheim (1861)          1925-1940  Geborene                            302 2428962 30 vollstaendig
+    Eigenheim (1861)          1892-1916  Verstorbene                         302 2428962 30
+    Emmental                  1919-1940  Getraute                            302 2428996  6
+    Emmental                             Verstorbene                         302 2429001 32
+    Emmental (1886)                      Geborene                            302 2428962 31 ? fehlt.
+    Freudenfeld               1877-1889  Geborene                            302 2428973 10 Erloschene Gemeinde (extinct community/municipality)
+    Freudenfeld               1878-1893  Geborene                            302 2429028 88 Erloschene Gemeinde (extinct community/municipality)
+    Freudenfeld               1878-1906  Geborene                            302 2428973 10 Erloschene Gemeinde (extinct community/municipality)
+    Freudenfeld               1888-1891  Geborene                            302 2428973 10 Erloschene Gemeinde (extinct community/municipality)
+    Freudenfeld               1888-1891  Geborene                            302 2429028 89 Erloschene Gemeinde (extinct community/municipality)
+    Freudenfeld               1895-1918  Geborene                            302 2428973 10 Erloschene Gemeinde (extinct community/municipality)
+    Freudenfeld                          Geborene                            302 2429028 90  2 Pakete - Erloschene Gemeinde (extinct community/municipality)
+    Freudenfeld               1875-1899  Verstorbene                         302 2428973 10 Erloschene Gemeinde (extinct community/municipality)
+    Freudenfeld               1877-1893  Verstorbene                         302 2428973 10 Erloschene Gemeinde (extinct community/municipality)
+    Freudenfeld               1878-1893  Verstorbene                         302 2429028 88 Erloschene Gemeinde (extinct community/municipality)
+    Freudenfeld               1888-1891  Verstorbene                         302 2429028 89 Erloschene Gemeinde (extinct community/municipality)
+    Freudenfeld               1888-1891  Verstorbene                         302 2428973 10 Erloschene Gemeinde (extinct community/municipality)
+    Freudenfeld               1895-1912  Verstorbene                         302 2428973 10 Erloschene Gemeinde (extinct community/municipality)
+    Freudenfeld                          Verstorbene                         302 2429028 90 Erloschene Gemeinde (extinct community/municipality)
+    Friedensfeld                         Personalbuch                        302 2429032 24
+    Friedensfeld              1938-1940  Verstorbene                         302 2429001 33
+    Friedensfeld (1879)       1879-1891  Geborene                            302 2428962 32
+    Friedensfeld (1879)       1892-1900  Geborene                            302 2428962 32
+    Friedensfeld (1879)       1901-1915  Geborene                            302 2428962 32
+    Friedensfeld (1879)       1916-1939  Geborene                            302 2428962 32
+    Friedensfeld (1879)       1938-1939  Geborene                            302 2428962 32
+    Friedensfeld (1879)       1940       Geborene                            302 2428962 32
+    Friedensfeld (1879)       1879-1891  Verstorbene                         302 2428962 32
+    Friedensfeld (1879)       1892-1900  Verstorbene                         302 2428962 32
+    Friedensfeld (1879)       1901-1915  Verstorbene                         302 2428962 32
+    Friedensfeld (1879)       1916-1939  Verstorbene                         302 2428962 32
+    Friedenstal                          Familienbuch                        302 2429032  8
+    Friedenstal               1873-1931  Geborene                            302 2429033 22 4 Bde
+    Friedenstal               1834       Personalbuch                        302 2429036 39
+    Friedenstal                          Personalbuch                        302 2429033 20 5 Personalbucher
+    Friedenstal                          Personalbuch                        302 2429037  1
+yes Friedenstal               1848-1854  Verstorbene                         302 2429001 34
+yes Friedenstal               1890-1913  Verstorbene                         302 2429001 34
+    Friedenstal               1890-1931  Verstorbene                         302 2429033 21 3 Bde
+    Friedenstal               1914-1930  Verstorbene                         302 2429001 34
+    Friedenstal               1931-1940  Verstorbene                         302 2429001 34
+yes Friedenstal (1834)        1833-1850  Geborene                            302 2428962 33
+yes Friedenstal (1834)        1850-1854  Geborene                            302 2428962 33
+yes Friedenstal (1834)        1855-1872  Geborene                            302 2428962 33
+    Friedenstal (1834)        1873-1900  Geborene                            302 2428962 33
+    Friedenstal (1834)        1901-1913  Geborene                            302 2428962 33
+    Friedenstal (1834)        1914-1930  Geborene                            302 2428962 33
+    Friedenstal (1834)        1931-1940  Geborene                            302 2428962 33
+yes Friedenstal (1834)        1855-1872  Verstorbene                         302 2428962 33
+    Friedenstal (1834)        1873-1900  Verstorbene                         302 2428962 33
+    Friedrichsdorf            1938       Verstorbene                         302 2429001 35
+    Friedrichsdorf (1811)     1938       Geborene                            302 2428962 34 fehlt 1811-1937 und 1939-1940
+    Friedrichsfeld            1847-1886  Geborene             Friedrichsfeld 302 2428973  9 Erloschene Gemeinde (extinct community/municipality)
+    Friedrichsfeld            1857-1888  Geborene             Friedrichsfeld 302 2428973  9 Erloschene Gemeinde (extinct community/municipality)
+    Friedrichsfeld            1877-1894  Geborene             Friedrichsfeld 302 2428973  9 Erloschene Gemeinde (extinct community/municipality)
+    Friedrichsfeld            1887-1899  Geborene             Kloestitz      302 2428965 62
+    Friedrichsfeld            1913-1929  Geborene             Friedrichsfeld 302 2428973  9 Erloschene Gemeinde (extinct community/municipality)
+    Friedrichsfeld            1877-1888  Verstorbene                         302 2429007  1 Erloschene Gemeinde (extinct community/municipality)
+    Friedrichsfeld            1913-1928  Verstorbene          Friedrichsfeld 302 2428973  9 Erloschene Gemeinde (extinct community/municipality)
+    Fuerstenfeld              1913-1922  Geborene             Neu Sarata     302 2428968 100
+    Fuerstenfeld              1939       Geborene                            302 2429033  9
+    Fuerstenfeld              1939       Getaufte                            302 2429033  9
+    Fuerstenfeld              1896-1904  Sterbe                              302 2429022 63
+    Fuerstenfeld I            1896-1904  Geborene             Neu Sarata     302 2428968 100
+    Fuerstenfeld I            1909-1913  Geborene             Neu Sarata     302 2428968 100
+    Fuerstenfeld I            1908-1940  Verstorbene                         302 2429001 37
+    Fuerstenfeld I            1910-1921  Verstorbene          Neu Sarata     302 2429005 102
+    Fuerstenfeld I            1921-1937  Verstorbene          Neu Sarata     302 2429005 102
+    Fuerstenfeld I (1895)     1896-1907  Geborene                            302 2428962 36
+    Fuerstenfeld I (1895)     1908-1940  Geborene                            302 2428962 36
+    Fuerstenfeld I (1895)     1938-1940  Geborene                            302 2428962 36
+    Fuerstenfeld I (1895)     1896-1907  Verstorbene                         302 2428962 36
+    Fuerstenfeld I (1895)     1938-1940  Verstorbene                         302 2428962 36 vollstaendig
+    Fuerstenfeld II           1896-1904  Geborene             Neu Sarata     302 2428968 100
+    Fuerstenfeld II           1912-1913  Geborene             Neu Sarata     302 2428968 100
+    Fuerstenfeld II           1915-1922  Geborene             Neu Sarata     302 2428968 100
+    Fuerstenfeld II           1922-1937  Geborene             Neu Sarata     302 2428968 100
+    Fuerstenfeld II           1922-1937  Geborene             Neu Sarata     302 2428968 100
+    Fuerstenfeld II           1913-1921  Verstorbene          Neu Sarata     302 2429005 102
+    Fuerstenfeld II           1921-1937  Verstorbene          Neu Sarata     302 2429005 102
+    Fuerstenfeld II           1938       Verstorbene                         302 2429002 38
+    Fuerstenfeld II (1911)    1912-1934  Geborene                            302 2428962 37
+    Fuerstenfeld II (1911)    1935-1940  Geborene                            302 2428962 37
+    Fuerstenfeld II (1911)    1938-1940  Geborene                            302 2428962 37
+    Fuerstenfeld II (1911)    1912-1934  Verstorbene                         302 2428962 37
+    Fuerstenfeld II (1911)    1935-1940  Verstorbene                         302 2428962 37
+    Fuerstenfeld II (1911)    1938-1940  Verstorbene                         302 2428962 37 vollstaendig
+    Fundu Saratzika           1895       Geborene                            302 2429022 65
+    Fundu Saratzika           1892       Geburts                             302 2429023 66
+    Fundu Sarazika            1908-1913  Geborene             Neu Sarata     302 2428968 100
+    Fundu Sarazika            1913-1922  Geborene             Neu Sarata     302 2428968 100
+    Fundu Sarazika            1922-1937  Geborene             Neu Sarata     302 2428968 100
+    Fundu Sarazika            1910-1921  Verstorbene          Neu Sarata     302 2429005 102
+    Fundu Sarazika            1921-1937  Verstorbene          Neu Sarata     302 2429005 102
+    Fundu Sratzika            ca 1938    Geborene                            302 2429033 13
+    Fundu Sratzika            ca 1938    Getaufte                            302 2429033 13
+    Fundu-Sarazika            1938       Verstorbene                         302 2429001 36
+    Fundu-Sarazika (1892)     1892-1897  Geborene                            302 2428962 35
+    Fundu-Sarazika (1892)     1895-1897  Geborene                            302 2428962 35
+    Fundu-Sarazika (1892)     1938-1939  Geborene                            302 2428962 35 fehlt 1898-1937
+    Fundu-Sarazika (1892)     1893-1897  Verstorbene                         302 2428962 35
+    Fundu-Sarazika (1892)     1897-1905  Verstorbene                         302 2428962 35
+    Ginsburgsdorf             1881-1885  Verstorbene                         302 2429007  2 Erloschene Gemeinde (extinct community/municipality)
+    Glueckstal                1916       Geborene             Kischineff     302 2428964 60
+    Glueckstal                1932-1936  Geborene             Kischineff     302 2428964 60
+    Glueckstal                1938-1939  Verstorbene                         302 2429002 39
+    Glueckstal (1929)         1929-1940  Geborene                            302 2428963 38
+    Glueckstal (1929)         1929-1940  Verstorbene                         302 2428963 38
+    Gnadenfeld                1910-1940  Verstorbene                         302 2429002 40
+    Gnadenfeld (1881)         1880-1899  Geborene                            302 2428963 39
+    Gnadenfeld (1881)         1900-1918  Geborene                            302 2428963 39
+    Gnadenfeld (1881)         1918-1940  Geborene                            302 2428963 39 vollstaendig
+    Gnadenfeld (1881)         1880-1909  Verstorbene                         302 2428963 39
+    Gnadenheim                1938       Verstorbene                         302 2429002 41
+    Gnadenheim (1909)         1916-1940  Geborene                            302 2428963 40
+    Gnadenheim (1909)         1921-1938  Verstorbene                         302 2428963 40
+    Gnadental                 1932-1940  Getraute                            302 2428996  7
+yes Gnadental                 1857-1891  Verstorbene                         302 2429002 42
+    Gnadental                 1892-1934  Verstorbene                         302 2429002 42
+    Gnadental                 1923-1940  Verstorbene                         302 2429002 42
+yes Gnadental (1830)          1841-1856  Geborene                            302 2428963 41
+yes Gnadental (1830)          1857-1878  Geborene                            302 2428963 41
+    Gnadental (1830)          1879-1891  Geborene                            302 2428963 41
+    Gnadental (1830)          1892-1904  Geborene                            302 2428963 41
+    Gnadental (1830)          1905-1934  Geborene                            302 2428963 41
+    Gnadental (1830)          1923-1940  Geborene                            302 2428963 41 fehlt 1830-1840 ?
+    Halle                     1896-1939  Verstorbene                         302 2429002 43
+    Halle (1894)              1895-1925  Geborene                            302 2428963 42
+    Halle (1894)              1936-1940  Geborene                            302 2428963 42 vollstaendig
+    Hannowka                  1889-1939  Geburts                             302 2429022 39
+    Hannowka                  1897-1939  Sterbe                              302 2429022 40
+    Hannowka                  1889-1939  Tauf                                302 2429022 39
+    Hannowka                  1897-1939  Verstorbene                         302 2429002 44
+    Hannowka (1896)           1889-1939  Geborene                            302 2428963 43 vollstaendig
+    Hantscheschti             1916       Geborene             Kischineff     302 2428964 60
+    Hantscheschti             1932-1936  Geborene             Kischineff     302 2428964 60
+    Hantscheschti             1921-1927  Verstorbene          Kischineff     302 2429003 60
+    Hantscheschti             1938-1939  Verstorbene                         302 2429002 45
+    Hantscheschti (1898)      1926-1940  Geborene                            302 2428963 44 fehlt 1898-1925
+    Hantscheschti (1898)      1938-1939  Geborene                            302 2428963 44
+    Helenowka                 1895-1939  Geburts                             302 2429022 30
+    Helenowka                 1927-1939  Geburts                             302 2429022 36
+    Helenowka                 1895-1939  Tauf                                302 2429022 30
+    Helenowka                 1938       Verstorbene                         302 2429002 46
+    Helenowka (1895)          1895-1926  Geborene                            302 2428963 45
+    Helenowka (1895)          1927-1940  Geborene                            302 2428963 45 vollstaendig
+    Helenowka (1895)          1895-1940  Verstorbene                         302 2428963 45
+yes Hirtenheim                1939       Familienbuch                        302 2429022 47
+    Hirtenheim                1939       Geborene                            302 2429023 72
+    Hirtenheim                1939       Getaufte                            302 2429023 72
+    Hirtenheim                1898       Sterbe                              302 2429023 71
+    Hirtenheim                1898       Tauf                                302 2429023 71
+    Hirtenheim                1889-1908  Verstorbene                         302 2429002 47
+    Hirtenheim                1921-1927  Verstorbene          Kischineff     302 2429003 60
+    Hirtenheim                1938-1940  Verstorbene                         302 2429002 47
+    Hirtenheim                1940       Verstorbene                         302 2429033 31
+    Hirtenheim (1887)         1938-1940  Geborene                            302 2428963 46 fehlt 1887-1937
+    Hoffmannsfeld             1930-1940  Geborene             Friedrichsfeld 302 2428973  9 Erloschene Gemeinde (extinct community/municipality)
+    Hoffmannsfeld             1930-1940  Verstorbene          Friedrichsfeld 302 2428973  9 Erloschene Gemeinde (extinct community/municipality)
+    Hoffmannsfeld             1938       Verstorbene                         302 2429002 48
+    Hoffmansfeld                         Familienbuch                        302 2429036  3
+    Hoffmansfeld (1922)       1938       Geborene                            302 2428963 47 fehlt 1922-37 und 1939-1940
+    Hoffnungsfeld             1938       Verstorbene                         302 2429002 49
+    Hoffnungsfeld (1864)      1938       Geborene                            302 2428963 48 fehlt 1864-1937 und 1939-1940
+yes Hoffnungstal              1866-1875  Geborene             Kloestitz      302 2428965 62
+yes Hoffnungstal              1842-1882  Verstorbene                         302 2429002 50
+yes Hoffnungstal              1860-1870  Verstorbene          Kloestitz      302 2429003 62
+    Hoffnungstal              1883-1924  Verstorbene                         302 2429002 50
+    Hoffnungstal              1925-1937  Verstorbene                         302 2429002 50
+    Hoffnungstal              1938-1940  Verstorbene                         302 2429002 50
+yes Hoffnungstal (1842)       1842-1874  Geborene                            302 2428963 49
+yes Hoffnungstal (1842)       1875-1885  Geborene                            302 2428963 49
+    Hoffnungstal (1842)       1886-1905  Geborene                            302 2428963 49
+    Hoffnungstal (1842)       1906-1919  Geborene                            302 2428963 49
+    Hoffnungstal (1842)       1920-1924  Geborene                            302 2428963 49
+    Hoffnungstal (1842)       1925-1931  Geborene                            302 2428963 49
+    Hoffnungstal (1842)       1931-1940  Geborene                            302 2428963 49 vollstaendig
+    Jakobstal                 1911-1940  Verstorbene                         302 2429002 51
+    Jakobstal (1875)          1911-1940  Geborene                            302 2428963 50 fehlt 1873-1910
+    Jargara                   1893-1904  Geborene             Neu Sarata     302 2428968 100
+    Jargara                   1909-1913  Geborene             Neu Sarata     302 2428968 100
+    Jargara                   1914-1922  Geborene             Neu Sarata     302 2428968 100
+    Jargara                   ca 1938    Geborene                            302 2429033 13
+    Jargara                   ca 1938    Getaufte                            302 2429033 13
+    Jargara                   1883-1900  Verstorbene          Neu Sarata     302 2428968 100
+    Jargara                   1887-1904  Verstorbene          Neu Sarata     302 2428968 100
+    Jargara                   1907-1921  Verstorbene          Neu Sarata     302 2429005 102
+    Jargara                   1921-1937  Verstorbene          Neu Sarata     302 2429005 102
+    Jargara                   1938       Verstorbene                         302 2429002 52
+    Jargara (1882)            1886-1925  Geborene                            302 2428963 51
+    Jargara (1882)            1925-1940  Geborene                            302 2428963 51
+    Jargara (1882)            1938-1939  Geborene                            302 2428963 51
+    Jargara (1882)            1887-1931  Verstorbene                         302 2428963 51
+    Jargara (1882)            1932-1940  Verstorbene                         302 2428963 51
+    Jargara (1882)            1938-1939  Verstorbene                         302 2428963 51 fehlt 1932-1937
+    Jekaterinowka             1939       Protokollbuch                       302 2429022 55
+    Jekaterinowka             1908-1940  Verstorbene                         302 2429002 53
+    Jekaterinowka (1908)      1908-1940  Geborene                            302 2428963 52 vollstaendig -Jargara?
+    Josefsdorf                           Familienbuch                        302 2429036  6
+    Josefsdorf                1860-1884  Geburts                             302 2429022 33
+    Josefsdorf                1902-1936  Geburts                             302 2429022 34
+    Josefsdorf                1883-1901  Tauf                                302 2429022 32
+    Josefsdorf                1863-1901  Toten                               302 2429022 31
+    Josefsdorf                1863-1901  Verstorbene                         302 2429002 54
+    Josefsdorf                1938       Verstorbene                         302 2429002 54
+    Josefsdorf (1865)         1860-1884  Geborene                            302 2428963 53
+    Josefsdorf (1865)         1883-1901  Geborene                            302 2428963 53
+    Josefsdorf (1865)         1902-1939  Geborene                            302 2428963 53
+    Josefsdorf (1865)         1902-1939  Verstorbene                         302 2428963 53 vollstaendig
+    Kahul                     1909-1913  Geborene             Neu Sarata     302 2428968 100
+    Kalatschowka              1896-1900  Verstorbene                         302 2429003 63
+    Kalatschowka              1909-1940  Verstorbene                         302 2429003 63
+    Kamtschatka               1901-1940  Geborene                            302 2429034 31 2 Bde
+    Kamtschatka               1901-1940  Verstorbene                         302 2429034 31 2 Bde
+    Kamtschatka               1938-1939  Verstorbene                         302 2429002 55
+    Kamtschatka (1893)        1901-1925  Geborene                            302 2428964 55
+    Kamtschatka (1893)        1926-1940  Geborene                            302 2428964 55
+    Kamtschatka (1893)        1902-1924  Verstorbene                         302 2428964 55
+    Kamtschatka (1893)        1926-1940  Verstorbene                         302 2428964 55 vollstaendig
+    Kantemir b. Mannsburg                Familienbuch                        302 2429032  4 1 Packchen
+    Karlsfeld                 1872       Geborene                            302 2429028 81
+    Karlsfeld                 1872-1876  Geborene                            302 2428973 11 Erloschene Gemeinde (extinct community/municipality)
+    Karlsfeld                 1872       Verstorbene                         302 2429028 81
+    Karlsfeld                 1873-1876  Verstorbene                         302 2428973 11 Erloschene Gemeinde (extinct community/municipality)
+    Karpineni                 1921-1927  Verstorbene          Kischineff     302 2429003 60
+    Kaschpalat                1938       Verstorbene                         302 2429002 56
+    Kaschpalat (1911)         1924-1940  Geborene                            302 2428964 56
+    Kaschpalat (1911)         1924-1940  Verstorbene                         302 2428964 56 fehlt 1911-1923
+    Katlebug                             Geborene                            302 2429032 21 2 Bde
+    Katlebug                  1938-1939  Verstorbene                         302 2429002 57
+    Katlebug (1895)           1895-1924  Geborene                            302 2428964 57
+    Katlebug (1895)           1925-1939  Geborene                            302 2428964 57
+    Katlebug (1895)           1938-1939  Geborene                            302 2428964 54 fehlt 1895-1937
+    Katlebug (1895)           1939-1940  Geborene                            302 2428964 57 vollstaendig
+    Katlebug (1895)           1895-1923  Verstorbene                         302 2428964 57
+    Katlebug (1895)           1925-1940  Verstorbene                         302 2428964 57
+yes Katzbach                  1821-1840  Geborene             Alt Elft       302 2428959  6
+yes Katzbach                  1829-1836  Geborene             Alt Elft       302 2428959  6
+yes Katzbach                  1837-1840  Geborene             Alt Elft       302 2428960  6
+yes Katzbach                  1841-1842  Geborene             Alt Elft       302 2428959  6
+yes Katzbach                  1843-1854  Geborene             Alt Elft       302 2428959  6
+    Katzbach                  1829-1836  Getraute             Alt Elft       302 2428959  6
+yes Katzbach                  1821-1840  Verstorbene                         302 2429002 58
+yes Katzbach                  1829-1836  Verstorbene          Alt Elft       302 2428959  6
+yes Katzbach                  1855-1899  Verstorbene                         302 2429002 58
+    Katzbach                  1899-1937  Verstorbene                         302 2429002 58
+    Katzbach                  1938-1940  Verstorbene                         302 2429002 58
+yes Katzbach (1821)           1821-1840  Geborene                            302 2428964 58
+yes Katzbach (1821)           1841-1854  Geborene                            302 2428964 58
+yes Katzbach (1821)           1853-1888  Geborene                            302 2428964 58
+yes Katzbach (1821)           1862-1891  Geborene                            302 2428964 58
+    Katzbach (1821)           1889-1912  Geborene                            302 2428964 58
+    Katzbach (1821)           1892-1914  Geborene                            302 2428964 58
+    Katzbach (1821)           1913-1925  Geborene                            302 2428964 58
+    Katzbach (1821)           1914-1939  Geborene                            302 2428964 58
+    Katzbach (1821)           1926-1940  Geborene                            302 2428964 58 vollstaendig
+yes Katzbach (1821)           1842-1854  Verstorbene                         302 2428964 58
+    Ketrossi                  1916       Geborene             Kischineff     302 2428964 60
+    Ketrossi                  1932-1936  Geborene             Kischineff     302 2428964 60
+    Ketrossi                  1921-1927  Verstorbene          Kischineff     302 2429003 60
+    Ketrossy                  1920-1940  Verstorbene                         302 2429002 59
+    Ketrossy                  1938-1940  Verstorbene                         302 2429002 59
+    Ketrossy (1912)           1914-1937  Geborene                            302 2428964 59
+    Ketrossy (1912)           1914-1940  Geborene                            302 2428964 59 vollstaendig
+    Ketrossy (1912)           1938-1940  Geborene                            302 2428964 59
+    Ketrossy (1912)           1914-1937  Verstorbene                         302 2428964 59
+    Kischeneff                           Alte Tauf                           302 2429022 53
+    Kischeneff                1859       Befehle . . .                       302 2429022 49
+yes Kischeneff                1938-1939  Geborene                            302 2429027 11
+yes Kischeneff                1980?-1939 Geborene                            302 2429023 70 Russian born
+yes Kischeneff                1938-1939  Getaufte                            302 2429027 11
+yes Kischeneff                1980?-1939 Getaufte                            302 2429023 70 Russian baptized
+yes Kischeneff                           Kirchenchronik                      302 2429022 48 "Chischeneff"
+    Kischeneff                           Kirchenvremoegen                    302 2429022 52
+    Kischeneff                           Kirchlichen                         302 2429023 68
+    Kischeneff                           Uebertritte                         302 2429022 50
+    Kischeneff                1827-1837  Vermoegensverzeichis                302 2429022 51
+yes Kischineff                1835-1863  Geborene             Kischineff     302 2428964 60 Stadt
+yes Kischineff                1892-1940  Geborene             Kischineff     302 2428964 60 Stadt
+yes Kischineff                1909-1938  Geborene             Kischineff     302 2428964 60 Stadt
+yes Kischineff                1938       Getraute                            302 2428996  8
+yes Kischineff                1892-1940  Verstorbene          Kischineff     302 2429002 60
+yes Kischineff                1921-1927  Verstorbene          Kischineff     302 2429003 60
+yes Kischineff                1939-1940  Verstorbene          Kischineff     302 2429003 60
+    Kisil                     1909-1938  Verstorbene                         302 2429003 61
+    Kisil (1909)              1909-1940  Geborene                            302 2428964 61 vollstaendig
+yes Kloestitz                 1834-47    Familienbuch                        302 2428946  1
+yes Kloestitz                 1814       Geborene                            302 2429036 22
+yes Kloestitz                 1814-1861  Getraute                            302 2428996  9
+yes Kloestitz                 1815-1889  Getraute                            302 2428996  9
+yes Kloestitz                 1842-1853  Getraute                            302 2428996  9
+yes Kloestitz                 1854-1858  Getraute                            302 2428996  9
+yes Kloestitz                 1859-1880  Getraute                            302 2428996  9
+    Kloestitz                 1880-1890  Getraute                            302 2428996  9
+    Kloestitz                 1890-1898  Getraute                            302 2428996  9
+    Kloestitz                 1890-1930  Getraute                            302 2428996  9
+yes Kloestitz                 1898-1903  Getraute                            302 2428996  9
+yes Kloestitz                 1902-1917  Getraute                            302 2428996  9
+yes Kloestitz                 1903-1909  Getraute                            302 2428996  9
+yes Kloestitz                 1909-1914  Getraute                            302 2428996  9
+yes Kloestitz                 1914-1920  Getraute                            302 2428996  9
+yes Kloestitz                 1920-1925  Getraute                            302 2428996  9
+    Kloestitz                 1926-1931  Getraute                            302 2428996  9
+    Kloestitz                 1931-1940  Getraute                            302 2428996  9
+    Kloestitz                 1932-1940  Getraute                            302 2428996  9
+    Kloestitz                 1845-30    Kirchenchronik                      302 2428946  8
+yes Kloestitz                 1817-1836  Verstorbene          Kloestitz      302 2429003 62
+yes Kloestitz                 1830-1842  Verstorbene          Kloestitz      302 2429003 62
+yes Kloestitz                 1860-1870  Verstorbene          Kloestitz      302 2429003 62
+yes Kloestitz                 1866-1885  Verstorbene          Kloestitz      302 2429003 62
+    Kloestitz                 1871-1902  Verstorbene          Kloestitz      302 2429003 62
+    Kloestitz                 1886-1912  Verstorbene          Kloestitz      302 2429003 62
+    Kloestitz                 1899-1916  Verstorbene          Kloestitz      302 2429003 62
+    Kloestitz                 1913-1934  Verstorbene          Kloestitz      302 2429003 62
+    Kloestitz                 1935-1940  Verstorbene          Kloestitz      302 2429003 62
+yes Kloestitz (1815)          1814-1830  Geborene             Kloestitz      302 2428964 62
+yes Kloestitz (1815)          1814-1836  Geborene             Kloestitz      302 2428965 62
+yes Kloestitz (1815)          1830-1842  Geborene             Kloestitz      302 2428965 62
+yes Kloestitz (1815)          1836-1865  Geborene             Kloestitz      302 2428965 62
+yes Kloestitz (1815)          1866-1875  Geborene             Kloestitz      302 2428965 62
+    Kloestitz (1815)          1866-1886  Geborene             Kloestitz      302 2428965 62
+    Kloestitz (1815)          1876-1885  Geborene             Kloestitz      302 2428965 62
+    Kloestitz (1815)          1887-1899  Geborene             Kloestitz      302 2428965 62
+    Kloestitz (1815)          1900-1910  Geborene             Kloestitz      302 2428965 62
+    Kloestitz (1815)          1904-1915  Geborene             Kloestitz      302 2428965 62
+    Kloestitz (1815)          1913-1923  Geborene             Kloestitz      302 2428965 62
+    Kloestitz (1815)          1924-1929  Geborene             Kloestitz      302 2428965 62
+    Kloestitz (1815)          1930-1940  Geborene             Kloestitz      302 2428965 62 vollstaendig
+yes Kloestitz (1815)          1814-1830  Getraute             Kloestitz      302 2428964 62
+yes Kloestitz (1815)          1814-1830  Verstorbene          Kloestitz      302 2428964 62
+yes Kloestitz (1815)          1837-1865  Verstorbene          Kloestitz      302 2428965 62
+    Kodiasy                   1887-1905  Geborene                            302 2428973 12 Erloschene Gemeinde (extinct community/municipality)
+    Kodiasy                   1893-1902  Geborene                            302 2429028 79 Erloschene Gemeinde (extinct community/municipality)
+    Kodiasy                   1888-1905  Verstorbene                         302 2428973 12 Erloschene Gemeinde (extinct community/municipality)
+    Kodiasy                   1893-1902  Verstorbene                         302 2429028 79 Erloschene Gemeinde (extinct community/municipality)
+    Kolatschowka                         Familienbuch                        302 2429036  7
+    Kolatschowka              1909       Geborene                            302 2429036 24
+    Kolatschowka                         Geborene                            302 2429036 26
+    Kolatschowka              1909       Verstorbene                         302 2429036 25
+    Kolatschowka (1908)       1896-1902  Geborene                            302 2428965 63
+    Kolatschowka (1908)       1909-1940  Geborene                            302 2428965 63 vollstaendig
+    Korntal I                 1939-1940  Verstorbene                         302 2429003 64
+    Korntal I (1886)          1892-1910  Geborene                            302 2428965 64
+    Korntal I (1886)          1910-1936  Geborene                            302 2428965 64
+    Korntal I (1886)          1937-1940  Geborene                            302 2428965 64 vollstaendig
+    Korntal I (1886)          1892-1909  Verstorbene                         302 2428965 64
+    Korntal I (1886)          1910-1938  Verstorbene                         302 2428965 64
+    Korntal II                           Verstorbene                         302 2429003 65
+    Korntal II (1929)         1931-1940  Geborene                            302 2428965 65
+    Korntal II (1929)         1931-1940  Verstorbene                         302 2428965 65 vollstaendig
+    Krasna                    1814-1940  Getraute                            302 2428996 10
+    Krasna                    1814-1940  Verstorbene                         302 2429003 66
+    Krasna (1814)             1814-1940  Geborene                            302 2428965 66 vollstaendig
+    Kulm                                 Familienbuch                        302 2429032  6 3 Bde
+    Kulm                      1817-1849  Geborene                            302 2429030 22 1 Mappe
+    Kulm                      1848-1865  Geborene                            302 2429030 48
+yes Kulm                      1848-1880  Geborene                            302 2429030 35
+    Kulm                      1865-1906  Geborene                            302 2429030 34 3 Bde
+    Kulm                      1892-1897  Geborene                            302 2429030 49
+    Kulm                      1907-1918  Geborene                            302 2429033 11 1 Bd
+    Kulm                      1919       Geborene                            302 2429033 14
+    Kulm                      1939       Getraute                            302 2429033 16
+    Kulm                      1939-1940  Getraute                            302 2428997 11
+    Kulm                      1848       Personalbuch                        302 2429030 51
+yes Kulm                      1848-1867  Personelbuch                        302 2429030 37
+yes Kulm                      1861-1880  Personelbuch                        302 2429030 38
+yes Kulm                      1831-1847  Verstorbene          Tarutino       302 2429007 137
+    Kulm                      1848-1864  Verstorbene                         302 2429030 50
+    Kulm                      1848-1864  Verstorbene                         302 2429003 67
+    Kulm                      1848-1880  Verstorbene                         302 2429003 67
+    Kulm                      1848-1918  Verstorbene                         302 2429033 10 4 Bde
+    Kulm                      1861-1864  Verstorbene          Tarutino       302 2429007 137
+    Kulm                      1865-1877  Verstorbene                         302 2429003 67
+    Kulm                      1878-1891  Verstorbene                         302 2429003 67
+    Kulm                      1892-1918  Verstorbene                         302 2429030 50
+    Kulm                      1892-1918  Verstorbene                         302 2429003 67
+    Kulm                      1892-1918  Verstorbene                         302 2429003 67
+    Kulm                      1919       Verstorbene                         302 2429033 15
+    Kulm                      1919-1940  Verstorbene                         302 2429003 67
+    Kulm (1815)               1817-1849  Geborene                            302 2428965 67
+    Kulm (1815)               1848-1880  Geborene                            302 2428965 67
+    Kulm (1815)               1848-1880  Geborene                            302 2428965 67 maybe Verstorb.?
+    Kulm (1815)               1865-1877  Geborene                            302 2428965 67
+    Kulm (1815)               1878-1891  Geborene                            302 2428965 67
+    Kulm (1815)               1892-1897  Geborene                            302 2428965 67 maybe Verstorb.?
+    Kulm (1815)               1892-1906  Geborene                            302 2428965 67
+    Kulm (1815)               1907-1918  Geborene                            302 2428965 67
+    Kulm (1815)               1907-1918  Geborene                            302 2428965 67 maybe Verstorb.?
+    Kulm (1815)               1914-1940  Geborene                            302 2428965 67 vollstaendig
+    Kurudschika               1881-1887  Geborene                            302 2429036 44
+    Kurudschika               1888       Geborene                            302 2429036 32
+    Kurudschika               1892-1907  Geborene                            302 2429036 44
+    Kurudschika               1908       Geborene                            302 2429036 35
+    Kurudschika               1939       Geborene                            302 2429036 31
+    Kurudschika               1881-1887  Verstorbene                         302 2429036 34
+    Kurudschika               1881-1887  Verstorbene                         302 2429004 68
+    Kurudschika               1888       Verstorbene                         302 2429036 32
+    Kurudschika               1908-1919  Verstorbene                         302 2429036 33
+    Kurudschika               1908-1940  Verstorbene                         302 2429004 68
+    Kurudschika (1881)        1881-1887  Geborene                            302 2428965 68
+    Kurudschika (1881)        1888-1927  Geborene                            302 2428965 68
+    Kurudschika (1881)        1892-1907  Geborene                            302 2428965 68
+    Kurudschika (1881)        1909-1938  Geborene                            302 2428965 68
+    Kurudschika (1881)        1939-1940  Geborene                            302 2428965 68 vollstaendig
+    Kurudschika (1881)        1888-1907  Verstorbene                         302 2428965 68
+    Larga                                Verstorbene                         302 2429004 69
+    Larga (1891)                         Geborene                            302 2428965 69 ? fehlt
+yes Leipzig                   1817-1849  Geborene                            302 2429030 21 2 Mappen
+    Leipzig                   1938       Geborene                            302 2429027 67
+    Leipzig                   1926-1937  Getraute                            302 2428997 12
+    Leipzig                   1938-1940  Getraute                            302 2428997 12
+yes Leipzig                   1831-1847  Verstorbene          Tarutino       302 2429007 137
+yes Leipzig                   1845-1864  Verstorbene                         302 2429004 70
+yes Leipzig                   1861-1864  Verstorbene          Tarutino       302 2429007 137
+yes Leipzig                   1864-1874  Verstorbene                         302 2429004 70
+yes Leipzig                   1875-1885  Verstorbene                         302 2429004 70
+    Leipzig                   1876-1894  Verstorbene                         302 2429004 70
+    Leipzig                   1885-1889  Verstorbene                         302 2429004 70
+    Leipzig                   1892-1906  Verstorbene                         302 2429004 70
+    Leipzig                   1907-1908  Verstorbene                         302 2429004 70
+    Leipzig                   1909-1929  Verstorbene                         302 2429004 70
+    Leipzig                   1930-1940  Verstorbene                         302 2429004 70
+    Leipzig                   1938       Verstorbene                         302 2429027 67
+yes Leipzig (1815)            1817-1823  Geborene                            302 2428965 70
+yes Leipzig (1815)            1824-1849  Geborene                            302 2428965 70
+    Leipzig (1815)            1843-1927  Geborene                            302 2428965 70 Separatisten
+yes Leipzig (1815)            1845-1858  Geborene                            302 2428965 70
+    Leipzig (1815)            1859-1874  Geborene                            302 2428965 70
+    Leipzig (1815)            1868-1877  Geborene                            302 2428965 70
+    Leipzig (1815)            1875-1888  Geborene                            302 2428966 70
+    Leipzig (1815)            1878-1888  Geborene                            302 2428965 70
+    Leipzig (1815)            1888-1899  Geborene                            302 2428965 70
+    Leipzig (1815)            1892-1908  Geborene                            302 2428966 70
+    Leipzig (1815)            1900-1908  Geborene                            302 2428966 70
+    Leipzig (1815)            1909-1926  Geborene                            302 2428966 70
+    Leipzig (1815)            1927-1929  Geborene                            302 2428966 70
+    Leipzig (1815)            1930-1940  Geborene                            302 2428966 70 vollstaendig
+    Leipzig (1815)            1843-1940  Verstorbene                         302 2428965 70 Separatisten
+    Leowa                     1908       Geborene                            302 2429023 67
+    Leowa                     1908       Verstorbene                         302 2429023 67
+    Leowo                     1910-1913  Geborene             Neu Sarata     302 2428968 100
+    Leowo                     1922-1937  Geborene             Neu Sarata     302 2428968 100
+    Leowo                     1910-1921  Verstorbene          Neu Sarata     302 2429005 102
+    Leowo                     1921-1937  Verstorbene          Neu Sarata     302 2429005 102
+    Leowo (1902)              1908-1940  Geborene                            302 2428966 71 vollstaendig
+    Lichtental                1841-1860  Alphabethisches Reg                 302 2429024 27
+yes Lichtental                1841-60    Familienbuch                        302 2428946  4
+    Lichtental                           Familienbuch                        302 2429024  1 3 Band
+yes Lichtental                1841-1856  Geborene                            302 2429024 24
+    Lichtental                1898       Geborene                            302 2429024 21
+    Lichtental                1910       Geborene                            302 2429024 25
+    Lichtental                1937       Geborene                            302 2429024 20
+    Lichtental                1835       Inventarbuch                        302 2429024 16
+    Lichtental                           Paket von mehreren                  302 2429024  6 Band Ma.9
+    Lichtental                           Paket von mehreren                  302 2429024  7 Band Ma.9
+    Lichtental                           Paket von mehreren                  302 2429024  8 Band Ma.9
+    Lichtental                           Paket von mehreren                  302 2429024  9 Band Ma.9
+    Lichtental                           Paket von mehreren                  302 2429024 10 Band Ma.9
+    Lichtental                           Paket von mehreren                  302 2429024 11 Band Ma.9
+    Lichtental                           Paket von mehreren                  302 2429024 12 Band Ma.9
+yes Lichtental                1841-1860  Personalbuch                        302 2429024  3
+yes Lichtental                1861-1880  Personalbuch                        302 2429024  2
+yes Lichtental                1861-1880  Personalbuch                        302 2429024 29
+yes Lichtental                1881-1900  Personalbuch                        302 2429024  3
+yes Lichtental                1881-1900  Personalbuch                        302 2429024 28
+yes Lichtental                1884-1903  Personalbuch                        302 2429024 30
+    Lichtental                           Personalbuch                        302 2429024  4 Band III
+    Lichtental                           Personalbuch                        302 2429024  5 Band V
+    Lichtental                           Personalbuch                        302 2429024  5 Band v1
+    Lichtental                1859       Revisionsbuch                       302 2429024 18 Russian
+    Lichtental                1850       Revisionsliste                      302 2429024 14
+    Lichtental                1864-1873  Seedenliste                         302 2429024 13
+    Lichtental                1887       Sterbe                              302 2429024 22
+    Lichtental                1842       Strafbuch                           302 2429024 17
+yes Lichtental                1839-1858  Tauf                                302 2429024 23
+yes Lichtental                1858       Tauf                                302 2429024 26
+    Lichtental                1839-1887  Verstorbene                         302 2429004 71
+yes Lichtental                1922-1929  Verstorbene                         302 2429004 71
+    Lichtental                1922-1939  Verstorbene                         302 2429024 19
+    Lichtental                1940       Verstorbene                         302 2429004 71
+yes Lichtental (1834)         1839-1850  Geborene                            302 2428966 72
+yes Lichtental (1834)         1841-1856  Geborene                            302 2428966 72
+yes Lichtental (1834)         1859-1886  Geborene                            302 2428966 72
+yes Lichtental (1834)         1887-1897  Geborene                            302 2428966 72
+    Lichtental (1834)         1898-1909  Geborene                            302 2428966 72
+    Lichtental (1834)         1910-1920  Geborene                            302 2428966 72
+    Lichtental (1834)         1922-1936  Geborene                            302 2428966 72
+    Lichtental (1834)         1937-1940  Geborene                            302 2428966 72 vollstaendig
+yes Lichtental (1834)         1887-1897  Verstorbene                         302 2428966 72
+    Lichtental (1834)         1898-1909  Verstorbene                         302 2428966 72
+    Lichtental (1834)         1910-1921  Verstorbene                         302 2428966 72
+    Lunga                     1916       Geborene             Kischineff     302 2428964 60
+    Lunga                     1932-1936  Geborene             Kischineff     302 2428964 60
+    Lunga                     1910-1935  Geburts                             302 2429022 35
+    Lunga                     1921-1927  Verstorbene          Kischineff     302 2429003 60
+    Lunga                     1938       Verstorbene                         302 2429004 72
+    Lunga (1907)              1910-1935  Geborene                            302 2428966 73
+    Lunga (1907)              1936-1940  Geborene                            302 2428966 73 vollstaendig
+    Lunga (1907)              1910-1940  Verstorbene                         302 2428966 73
+    Luxemburg                 1936       Geborene                            302 2429034 25
+    Luxemburg                 1936       Verstorbene                         302 2429034 25
+    Luxemburg (1929)          1936-1940  Geborene                            302 2428966 74 vollstaendig
+    Luxenburg                 1938-1939  Verstorbene                         302 2429004 73
+    Mannsburg                            Familienbuch                        302 2429032  3 2 Bde
+    Mannsburg                 1864-1896  Geborene                            302 2429034  9
+    Mannsburg                 1923-1940  Geborene                            302 2429034 12
+    Mannsburg                 1864-1896  Getaufte                            302 2429034  9
+    Mannsburg                 1880-1914  Verstorbene                         302 2429034 10
+    Mannsburg                 1880-1940  Verstorbene                         302 2429004 74
+    Mannsburg                 1897-1921  Verstorbene                         302 2429034 11
+    Mannsburg                 1897-1922  Verstorbene                         302 2429004 74
+    Mannsburg                 1923-1940  Verstorbene                         302 2429034 12
+    Mannsburg                 1938-1939  Verstorbene                         302 2429004 74
+    Mannsburg (1862)          1864-1879  Geborene                            302 2428966 75
+    Mannsburg (1862)          1864-1896  Geborene                            302 2428966 75
+    Mannsburg (1862)          1879-1896  Geborene                            302 2428966 75
+    Mannsburg (1862)          1897-1940  Geborene                            302 2428966 75
+    Mannsburg (1862)          1910-1924  Geborene                            302 2428966 75 vollstaendig
+    Mannsburg (1862)          1923-1940  Geborene                            302 2428966 75
+    Mannsburg (1862)          1864-1880  Verstorbene                         302 2428966 75
+    Mannsburg (1862)          1923-1940  Verstorbene                         302 2428966 75
+    Mansyr                    1934-1940  Geborene                            302 2428966 76
+    Mansyr                    1934-1940  Geborene                            302 2429022 18
+    Mansyr                    1934-1939  Verstorbene                         302 2429004 75
+    Mansyr                    1934-1940  Verstorbene                         302 2429022 19
+    Manukbejewka              1895-1905  Geborene             Neu Sarata     302 2428968 100
+    Manukbejewka              1905-1913  Geborene             Neu Sarata     302 2428968 100
+    Manukbejewka              1922-1937  Geborene             Neu Sarata     302 2428968 100
+    Manukbejewka              ca 1938    Geborene                            302 2429033 13
+    Manukbejewka              ca 1938    Getaufte                            302 2429033 13
+    Manukbejewka              1904-1940  Verstorbene                         302 2429004 76
+    Manukbejewka              1910-1921  Verstorbene          Neu Sarata     302 2429005 102
+    Manukbejewka              1921-1937  Verstorbene          Neu Sarata     302 2429005 102
+    Manukbejewka (1893)       1896-1940  Geborene                            302 2428966 77
+    Manukbejewka (1893)       1938-1939  Geborene                            302 2428966 77 vollstaendig
+    Manukbejewks              1913-1922  Geborene             Neu Sarata     302 2428968 100
+    Maraslienfeld             1882-1890  Geborene                            302 2429022 12
+    Maraslienfeld             1891-1924  Geborene                            302 2429022 11
+    Maraslienfeld             1882-1890  Verstorbene                         302 2429022 12
+    Maraslienfeld             1891-1924  Verstorbene                         302 2429022 11
+    Maraslienfeld             1938-1939  Verstorbene                         302 2429004 77
+    Maraslienfeld (1880)      1882-1890  Geborene                            302 2428966 78
+    Maraslienfeld (1880)      1891-1924  Geborene                            302 2428966 78
+    Maraslienfeld (1880)      1882-1890  Verstorbene                         302 2428966 78
+    Maraslienfeld (1880)      1892-1924  Verstorbene                         302 2428966 78
+    Mariekwa                  1921-1927  Verstorbene          Kischineff     302 2429003 60
+    Marienfeld                1911-1940  Verstorbene                         302 2429004 78
+    Marienfeld (1911)         1911-1931  Geborene                            302 2428966 79
+    Marienfeld (1911)         1911-1940  Geborene                            302 2428966 79
+    Marienfeld (1911)         1932-1940  Geborene                            302 2428966 79 vollstaendig
+    Mariental                 1922-1937  Geborene             Neu Sarata     302 2428968 100
+    Mariental                 ca 1938    Geborene                            302 2429033 13
+    Mariental                 ca 1938    Getaufte                            302 2429033 13
+    Mariental                 1921-1937  Verstorbene          Neu Sarata     302 2429005 102
+    Mariental                 1938       Verstorbene                         302 2429004 79
+    Mariental (1925)          1938-1939  Geborene                            302 2428966 80
+    Mariental (1925)          1938-1939  Verstorbene                         302 2428966 80
+yes Mariewka                  1916       Geborene             Kischineff     302 2428964 60
+    Mariewka                  1932-1936  Geborene             Kischineff     302 2428964 60
+    Mariewka                  1894-1924  Geburts                             302 2429022 42
+    Mariewka                  1924-1939  Geburts                             302 2429022 41
+    Mariewka                  1894-1939  Sterbe                              302 2429022 43
+    Mariewka                  1894-1924  Tauf                                302 2429022 42
+    Mariewka                  1924-1939  Tauf                                302 2429022 41
+    Mariewka                  1894-1939  Verstorbene                         302 2429004 80
+    Mariewka (1892)           1894-1923  Geborene                            302 2428966 81
+    Mariewka (1892)           1924-1939  Geborene                            302 2428966 81 vollstaendig
+    Mathildendorf                        Familienbuch                        302 2429036  4
+    Mathildendorf             1846-1915  Geborene                            302 2429022 24
+    Mathildendorf             1918-1930  Geborene                            302 2429022 25
+    Mathildendorf             1931       Geborene                            302 2429022 28
+    Mathildendorf             1936-1940  Getraute                            302 2428997 13
+    Mathildendorf             1936-1940  Getraute                            302 2429022 22
+    Mathildendorf             ca 1858    Tauf                                302 2429022 23
+    Mathildendorf             1858       Toten                               302 2429022 26
+    Mathildendorf             1883       Toten                               302 2429022 27
+    Mathildendorf             1858-1902  Verstorbene                         302 2429004 81
+    Mathildendorf             1903-1934  Verstorbene                         302 2429004 81
+    Mathildendorf             1938       Verstorbene                         302 2429004 81
+    Mathildendorf (1858)      1858-1895  Geborene                            302 2428966 82
+    Mathildendorf (1858)      1896-1917  Geborene                            302 2428966 82
+    Mathildendorf (1858)      1918-1930  Geborene                            302 2428966 82
+    Mathildendorf (1858)      1931-1940  Geborene                            302 2428966 82 vollstaendig
+    Mescheni (1912)           1912-1940  Geborene                            302 2428967 84
+    Mintschuna                1909       Geborene                            302 2429036 27
+    Mintschuna                           Geborene                            302 2429036 26
+    Mintschuna                1875-1908  Verstorbene                         302 2429004 82
+    Mintschuna                1909       Verstorbene                         302 2429036 28
+    Mintschuna                1909-1940  Verstorbene                         302 2429004 82
+    Mintschuna (1868)         1878-1908  Geborene                            302 2428967 83
+    Mintschuna (1868)         1909-1940  Geborene                            302 2428967 83 ?
+    Mischeni                  1912-1913  Geborene             Neu Sarata     302 2428968 100
+    Mischeni                  1914-1922  Geborene             Neu Sarata     302 2428968 100
+    Mischeni                  1922-1937  Geborene             Neu Sarata     302 2428968 100
+    Mischeni                  1912-1921  Verstorbene          Neu Sarata     302 2429005 102
+    Mischeni                  1921-1937  Verstorbene          Neu Sarata     302 2429005 102
+    Mischeni                  1938-1939  Verstorbene                         302 2429004 83
+    Mischeny                  1939       Geborene                            302 2429033  9
+    Mischeny                  1939       Getaufte                            302 2429033  9
+    Misowka                   1916       Geborene             Kischineff     302 2428964 60
+    Misowka                   1932-1936  Geborene             Kischineff     302 2428964 60
+    Missowka                  1921-1927  Verstorbene          Kischineff     302 2429003 60
+    Missowka                             Verstorbene                         302 2429004 84
+    Moscheni (1912)           1913-1940  Verstorbene                         302 2428967 84 vollstaendig
+    Moscovei                  1887-1906  Geborene                            302 2428973 13 Erloschene Gemeinde (extinct community/municipality)
+    Moscovei                  1887-1906  Verstorbene                         302 2428973 13 Erloschene Gemeinde (extinct community/municipality)
+    Moskowei u. Pelenei       1887-1907  Geborene                            302 2429028 94 Erloschene Gemeinde (extinct community/municipality)
+    Moskowei u. Pelenei       1887-1907  Verstorbene                         302 2429028 94 Erloschene Gemeinde (extinct community/municipality)
+    Nasarowka                 1924       Geborene             Glueckstal     302 2428963 38
+    Nasarowka                 1928-29    Geborene             Glueckstal     302 2428963 38
+    Nasarowka                 1914-1929  Verstorbene          Glueckstal     302 2428963 38 vollstaendig
+    Naslawtscha               1818       Geborene                            302 2429028 78 Erloschene Gemeinde (extinct community/municipality)
+    Naslawtscha               1818       Verstorbene                         302 2429028 78 Erloschene Gemeinde (extinct community/municipality)
+    Naslawtscha               1921-1927  Verstorbene          Kischineff     302 2429003 60
+    Neu Alexandrowka                     Verstorbene                         302 2429004 85
+    Neu Alexandrowka (1911)   1911-1940  Geborene                            302 2428967 85
+    Neu Alexandrowka (1911)   1913-1940  Verstorbene                         302 2428967 85 vollstaendig
+    Neu Aneni                 1916       Geborene             Kischineff     302 2428964 60
+    Neu Aneni                 1932-1936  Geborene             Kischineff     302 2428964 60
+    Neu Annowka                          Familienbuch                        302 2429032 11 1 Bd
+    Neu Annowka               1939       Verstorbene                         302 2429004 86
+    Neu Annowka (1897)        1904-1940  Geborene                            302 2428967 86
+    Neu Annowka (1897)        1900-1940  Verstorbene                         302 2428967 86 ?
+    Neu Arzis                            Personalbuch                        302 2429037  1
+    Neu Arzis                 1861-1900  Verstorbene                         302 2429004 87
+    Neu Arzis                 1914-1940  Verstorbene                         302 2429004 87
+yes Neu Arzis (1824)          1830-1860  Geborene                            302 2428967 87
+    Neu Arzis (1824)          1861-1900  Geborene                            302 2428967 87
+    Neu Arzis (1824)          1900-1913  Geborene                            302 2428967 87
+    Neu Arzis (1824)          1914-1940  Geborene                            302 2428967 87 vollstaendig
+    Neu Arzis (1824)          1900-1913  Verstorbene                         302 2428967 87
+    Neu Borodino                         Familienbuch                        302 2429026  2 Band 1
+    Neu Borodino              1921-1940  Verstorbene                         302 2429004 88
+    Neu Borodino (1920)       1921-1940  Geborene                            302 2428967 88
+    Neu Borodino (1920)       1939-1940  Geborene                            302 2428967 88 vollstaendig
+    Neu Brienne               1939-1940  Verstorbene                         302 2429004 89
+    Neu Dennewitz             1938-1939  Verstorbene                         302 2429004 90
+    Neu Dennewitz (1913)      1914-1940  Geborene                            302 2428967 89
+    Neu Dennewitz (1913)      1914-1940  Verstorbene                         302 2428967 89 vollstaendig
+yes Neu Elft                  1829-1836  Geborene             Alt Elft       302 2428959  6
+yes Neu Elft                  1829-1840  Geborene             Alt Elft       302 2428959  6
+yes Neu Elft                  1837-1840  Geborene             Alt Elft       302 2428960  6
+yes Neu Elft                  1841-1842  Geborene             Alt Elft       302 2428959  6
+yes Neu Elft                  1843-1854  Geborene             Alt Elft       302 2428959  6
+yes Neu Elft                  1829-1836  Getraute             Alt Elft       302 2428959  6
+yes Neu Elft                  1829-1836  Verstorbene          Alt Elft       302 2428959  6
+yes Neu Elft                  1829-1840  Verstorbene                         302 2429004 91
+    Neu Elft                  1878-1899  Verstorbene                         302 2429004 91
+    Neu Elft                  1900-1925  Verstorbene                         302 2429004 91
+    Neu Elft                  1926-1940  Verstorbene                         302 2429004 91
+yes Neu Elft (1825)           1825-1840  Geborene                            302 2428967 90
+yes Neu Elft (1825)           1825-1846  Geborene                            302 2428967 90
+yes Neu Elft (1825)           1847-1877  Geborene                            302 2428967 90
+yes Neu Elft (1825)           1878-1899  Geborene                            302 2428967 90
+yes Neu Elft (1825)           1890-1891  Geborene                            302 2428967 90
+    Neu Elft (1825)           1892-1909  Geborene                            302 2428967 90
+    Neu Elft (1825)           1900-1925  Geborene                            302 2428967 90
+    Neu Elft (1825)           1910-1939  Geborene                            302 2428967 90
+    Neu Elft (1825)           1926-1940  Geborene                            302 2428967 90 vollstaendig
+    Neu Elft (1825)           1963-1889  Geborene                            302 2428967 90
+    Neu Elft (1825)           1847-1877  Verstorbene                         302 2428967 90
+    Neu Friedenstal           ca 1835    Geborene                            302 2429033 27
+    Neu Friedenstal           1938       Verstorbene                         302 2429005 93
+    Neu Friedenstal           ca 1835    Verstorbene                         302 2429033 27
+    Neu Friedenstal (1922)    1928-1940  Geborene                            302 2428967 92
+    Neu Friedenstal (1922)    1928-1940  Verstorbene                         302 2428967 92 vollstaendig
+    Neu Josefsdorf            1934-1940  Geborene                            302 2429022 15
+    Neu Josefsdorf            1935-1940  Verstorbene                         302 2429022 15
+    Neu Josefsdorf            1935-1940  Verstorbene                         302 2429005 94
+    Neu Josefsdorf (1923)     1934-1940  Geborene                            302 2428967 93 vollstaendig
+    Neu Kureni                1921-1927  Verstorbene          Kischineff     302 2429003 60
+    Neu Kureni                1939       Verstorbene                         302 2429005 95
+    Neu Kureni (1914)                    Geborene                            302 2428967 94 ? fehlt
+    Neu Marieawka (1925)      1934-1940  Geborene                            302 2428967 95
+    Neu Mariewka              1934-1940  Geborene                            302 2429022 20
+    Neu Mariewka              1934-1940  Verstorbene                         302 2429022 21
+    Neu Mariewka              1935-1940  Verstorbene                         302 2429005 96
+    Neu Marijewka             1916       Geborene             Kischineff     302 2428964 60
+    Neu Marijewka             1932-1936  Geborene             Kischineff     302 2428964 60
+    Neu Mathildendorf                    Familienbuch                        302 2429036  5
+    Neu Mathildendorf         1935       Geborene                            302 2429022 29
+    Neu Mathildendorf         1835-1940  Verstorbene                         302 2429005 97
+    Neu Mathildendorf (1907)  1938       Geborene                            302 2428967 96
+    Neu Nikolajewka           1916       Geborene             Kischineff     302 2428964 60
+    Neu Nikolajewka           1932-1936  Geborene             Kischineff     302 2428964 60
+    Neu Nikolajewka           1890-1940  Verstorbene                         302 2429005 98
+    Neu Nikolajewka           1921-1927  Verstorbene          Kischineff     302 2429003 60
+    Neu Nikolajewka           1939-1940  Verstorbene          Kischineff     302 2429003 60
+    Neu Nikolajewka (1889)    1890-1901  Geborene                            302 2428967 97
+    Neu Nikolajewka (1889)    1924-1940  Geborene                            302 2428967 97 fehlt 1902-1923
+    Neu Odessa                1895-1932  Geborene                            302 2428973 14 Erloschene Gemeinde (extinct community/municipality)
+    Neu Odessa                1913       Geborene                            302 2429028 86
+    Neu Odessa                1913-1918  Geborene                            302 2428973 14 Erloschene Gemeinde (extinct community/municipality)
+yes Neu Odessa                1930-1940  Geborene             Annowka        302 2428960  9
+    Neu Odessa                1910-1927  Verstorbene                         302 2428973 14 Erloschene Gemeinde (extinct community/municipality)
+    Neu Odessa                1913       Verstorbene                         302 2429028 86
+    Neu Odessa                1913-1918  Verstorbene                         302 2428973 14 Erloschene Gemeinde (extinct community/municipality)
+yes Neu Odessa                1930-1940  Verstorbene          Annowka        302 2428960  9 Annowka Vollstaendig
+    Neu Odessa                           Verstorbene                         302 2429005 99
+    Neu Oneschti              1916       Geborene             Kischineff     302 2428964 60
+    Neu Oneschti              1932-1936  Geborene             Kischineff     302 2428964 60
+    Neu Oneschti                         Geborene                            302 2429036 43
+    Neu Oneschti              1923       Sterbe                              302 2429036 42
+    Neu Oneschti              1921-1927  Verstorbene          Kischineff     302 2429003 60
+    Neu Oneschti              1938-1939  Verstorbene                         302 2429005 100
+    Neu Oneschti (1890)       1902-1922  Geborene                            302 2428967 98
+    Neu Oneschti (1890)       1923-1940  Geborene                            302 2428967 98
+    Neu Oneschti (1890)       1903-1922  Verstorbene                         302 2428967 98
+    Neu Oneschti (1890)       1922-1940  Verstorbene                         302 2428967 98 fehlt 1891-1901
+    Neu Paris                 1871-1875  Geborene                            302 2429028 82 jetzt Eigenfeld
+    Neu Paris                 1871-1879  Geborene                            302 2429028 85
+    Neu Paris                 1871-1875  Verstorbene                         302 2429028 82
+    Neu Paris                 1871-1879  Verstorbene                         302 2429028 85
+    Neu Paris                 1917-1937  Verstorbene                         302 2429005 101
+    Neu Paris                 1939       Verstorbene                         302 2429005 101
+    Neu Paris (1910)          1871-1877  Geborene                            302 2428968 99
+    Neu Paris (1910)          1918-1929  Geborene                            302 2428968 99
+    Neu Paris (1910)          1931-1940  Geborene                            302 2428968 99 fehlt
+    Neu Paris (1910)          1872-1879  Verstorbene                         302 2428968 99
+    Neu Paris (1910)          1917-1929  Verstorbene                         302 2428968 99
+    Neu Posttal                          Geborene                            302 2429034 34 7 Bde
+    Neu Posttal                          Verstorbene                         302 2429034 34 7 Bde
+    Neu Sarata                1875-1891  Geborene                            302 2428973 16 Erloschene Gemeinde (extinct community/municipality)
+    Neu Sarata                1875-1891  Geborene                            302 2429028 75
+    Neu Sarata                1885       Geborene                            302 2429028 87 Bei Tatar-bunar
+    Neu Sarata                1885-1890  Geborene                            302 2428973 16 Erloschene Gemeinde (extinct community/municipality)
+    Neu Sarata                1889-1902  Geborene                            302 2429022 60
+    Neu Sarata                1922-1937  Geborene                            302 2429022 46
+    Neu Sarata                1903       Geburts                             302 2429022 58
+    Neu Sarata                1922       Geburts                             302 2429022 57
+    Neu Sarata                1903-1921  Gestorbene                          302 2429022 54
+    Neu Sarata                1832-1940  Getraute                            302 2428997 14
+    Neu Sarata                1905-1923  Getraute                            302 2428997 14
+yes Neu Sarata                1905-1923  Getraute                            302 2429022 59
+yes Neu Sarata                1905-1925  Getraute                            302 2428997 14
+yes Neu Sarata                1905-1931  Getraute                            302 2428997 14
+    Neu Sarata                1924-1940  Getraute                            302 2428997 14
+    Neu Sarata                1911       Personalbuch                        302 2429022 56
+    Neu Sarata                1903       Tauf                                302 2429022 58
+    Neu Sarata                1922       Tauf                                302 2429022 57
+    Neu Sarata                1906       Trau                                302 2429022 61
+    Neu Sarata                1924-1940  Trau                                302 2429022 62
+    Neu Sarata                1875-1891  Verstorbene                         302 2429028 75
+    Neu Sarata                1879-1891  Verstorbene                         302 2428973 16 Erloschene Gemeinde (extinct community/municipality)
+    Neu Sarata                1885       Verstorbene                         302 2429028 87
+    Neu Sarata                1885-1890  Verstorbene                         302 2428973 16 Erloschene Gemeinde (extinct community/municipality)
+    Neu Sarata                1903-1921  Verstorbene          Neu Sarata     302 2429005 102
+    Neu Sarata                1921-1937  Verstorbene          Neu Sarata     302 2429005 102
+    Neu Sarata                1922-1937  Verstorbene                         302 2429022 45
+    Neu Sarata                1938       Verstorbene          Neu Sarata     302 2429005 102
+    Neu Sarata (1899)         1889-1902  Geborene             Neu Sarata     302 2428968 100
+    Neu Sarata (1899)         1902-1932  Geborene             Neu Sarata     302 2428968 100
+    Neu Sarata (1899)         1903-1913  Geborene             Neu Sarata     302 2428968 100
+    Neu Sarata (1899)         1913-1922  Geborene             Neu Sarata     302 2428968 100
+    Neu Sarata (1899)         1922-1937  Geborene             Neu Sarata     302 2428968 100
+    Neu Sarata (1899)         1932-1940  Geborene             Neu Sarata     302 2428968 100
+    Neu Sarata (1899)         1891-1906  Getraute             Neu Sarata     302 2428968 100
+    Neu Sarata (1899)         1880-1901  Verstorbene          Neu Sarata     302 2428968 100
+    Neu Sarata (1899)         1902-1940  Verstorbene          Neu Sarata     302 2428968 100
+    Neu Scholtei              1889-1911  Geborene                            302 2428973 17 Erloschene Gemeinde (extinct community/municipality)
+    Neu Scholtei              1912-1915  Geborene                            302 2428973 17 Erloschene Gemeinde (extinct community/municipality)
+    Neu Scholtei              1889-1910  Verstorbene                         302 2428973 17 Erloschene Gemeinde (extinct community/municipality)
+    Neu Scholtei              1912-1915  Verstorbene                         302 2428973 17 Erloschene Gemeinde (extinct community/municipality)
+    Neu Seimeni               1892-1935  Geborene                            302 2428973 18 Erloschene Gemeinde (extinct community/municipality)
+    Neu Seimeni               1892-1935  Verstorbene                         302 2428973 18 Erloschene Gemeinde (extinct community/municipality)
+    Neu Seimeni               1938       Verstorbene                         302 2429005 103
+    Neu Seimeni (1921)        1931-1940  Geborene                            302 2428968 101
+    Neu Seimeni (1921)        1931-1938  Verstorbene                         302 2428968 101
+    Neu Strymba               1916       Geborene             Kischineff     302 2428964 60
+    Neu Strymba               1932-1936  Geborene             Kischineff     302 2428964 60
+    Neu Strymba               1921-1927  Verstorbene          Kischineff     302 2429003 60
+    Neu Strymba               1932-1940  Verstorbene                         302 2429005 104
+    Neu Strymba (1860)        1899-1923  Geborene                            302 2428968 102
+    Neu Strymba (1860)        1924-1940  Geborene                            302 2428968 102
+    Neu Strymba (1860)        1899-1921  Verstorbene                         302 2428968 102
+    Neu Tarutino              1907-1939  Geburts                             302 2429022 37
+    Neu Tarutino              1907-1939  Sterbe                              302 2429022 38
+    Neu Tarutino              1907-1939  Tauf                                302 2429022 37
+    Neu Tarutino (1906)       1907-1939  Geborene                            302 2428968 103vollstaendig
+    Neu Tarutino (1906)       1938       Geborene                            302 2428968 103
+    Neu Teplitz               1863-1866  Geborene                            302 2428973 15 Erloschene Gemeinde (extinct community/municipality)
+    Neu Teplitz               1863-1866  Geborene                            302 2429028 76
+    Neu Teplitz               1863-1866  Verstorbene                         302 2429028 76
+    Neu Teplitz               1863-1866  Verstorbene                         302 2428973 15 Erloschene Gemeinde (extinct community/municipality)
+    Neufall                              Familienbuch                        302 2429032  2 1 Bd
+    Neufall                   1884-1903  Geborene                            302 2429034 22
+    Neufall                   1911       Geborene                            302 2429034 23
+    Neufall                              Geborene                            302 2429032 20 1 Bd
+    Neufall                   1869-1880  Verstorbene                         302 2429034 20
+    Neufall                   1869-1888  Verstorbene                         302 2429005 92
+    Neufall                   1884-1903  Verstorbene                         302 2429034 22
+    Neufall                   1914       Verstorbene                         302 2429034 21
+    Neufall                   1914-1940  Verstorbene                         302 2429005 92
+    Neufall (1867)            1869-1884  Geborene                            302 2428967 91
+    Neufall (1867)            1884-1903  Geborene                            302 2428967 91
+    Neufall (1867)            1911-1924  Geborene                            302 2428967 91
+    Neufall (1867)            1925-1940  Geborene                            302 2428967 91 fehlt 1904-1910
+yes Neufall (1867)            1888-1903  Verstorbene                         302 2428967 91
+    NeuTarutino               19x7-1939  Verstorbene                         302 2429005 105
+    Nigolajewka               1932-1936  Geborene             Kischineff     302 2428964 60
+    Nikolajewka               1916       Geborene             Kischineff     302 2428964 60
+    Olgental                  1866       Geborene                            302 2429028 77
+    Olgental                  1866       Verstorbene                         302 2429028 77
+    Olgenthal                 1866-1877  Geborene                            302 2428973 19 Erloschene Gemeinde (extinct community/municipality)
+    Olgenthal                 1866-1887  Geborene                            302 2428973 19 Erloschene Gemeinde (extinct community/municipality)
+    Olgenthal                 1893-1896  Geborene                            302 2428973 19 Erloschene Gemeinde (extinct community/municipality)
+    Olgenthal                 1866-1875  Verstorbene                         302 2428973 19 Erloschene Gemeinde (extinct community/municipality)
+    Olgenthal                 1866-1886  Verstorbene                         302 2428973 19 Erloschene Gemeinde (extinct community/municipality)
+    Olgenthal                 1894-1896  Verstorbene                         302 2429007  3 Erloschene Gemeinde (extinct community/municipality)
+    Olgenthal                 1895-1896  Verstorbene                         302 2428973 19
+    Oloneschti                           Verstorbene                         302 2429005 106
+    Oneschti (1883)           1915-1938  Geborene                            302 2428968 104
+    Oneschti (1883)           1913-1921  Verstorbene                         302 2428968 104
+    Parapara                  1914       Geborene                            302 2429036 37
+    Parapara                  1938       Verstorbene                         302 2429005 107
+    Parapara (1916)           1912-1939  Geborene                            302 2428968 105
+    Parapara (1916)           1938       Geborene                            302 2428968 105
+    Parapara (1916)           1914-1940  Verstorbene                         302 2428968 105
+    Paris                                Familienbuch                        302 2429032  1 2 Bde
+yes Paris                     1819-1840  Geborene             Alt Elft       302 2428959  6
+yes Paris                     1829-1836  Geborene             Alt Elft       302 2428959  6
+yes Paris                     1840       Geborene             Alt Elft       302 2428960  6
+yes Paris                     1842-1842  Geborene             Alt Elft       302 2428959  6
+yes Paris                     1843-1854  Geborene             Alt Elft       302 2428959  6
+    Paris                     1829-1836  Getraute             Alt Elft       302 2428959  6
+    Paris                                Personalbuch                        302 2429033  8
+    Paris                     1829-1836  Verstorbene          Alt Elft       302 2428959  6
+    Paris                     1925-1940  Verstorbene                         302 2429006 108
+    Paris (1816)              1862-1891  Geborene                            302 2428969 106
+    Paris (1816)              1872-1925  Geborene                            302 2428969 106
+    Paris (1816)              1892-1914  Geborene                            302 2428969 106
+    Paris (1816)              1915-1933  Geborene                            302 2428969 106
+    Paris (1816)              1933-1938  Geborene                            302 2428969 106
+    Paris (1816)              1937-1940  Geborene                            302 2428969 106Anfang siehe Alt Elft
+    Paris (1816)              1872-1924  Verstorbene                         302 2428969 106
+    Paruschowka                          Verstorbene                         302 2429006 109
+    Paruschowka (1921)        1922-1940  Geborene                            302 2428969 107
+    Paruschowka (1921)        1922-1939  Verstorbene                         302 2428969 107vollstaendig
+    Pawalowka (1888)          1889-1913  Geborene                            302 2428969 108
+    Pawalowka (1888)          1914-1940  Geborene                            302 2428969 108
+    Pawalowka (1888)          1940       Geborene                            302 2428969 108vollstaendig
+    Pawalowka (1888)          1889-1914  Verstorbene                         302 2428969 108
+    Pawalowka (1888)          1915-1940  Verstorbene                         302 2428969 108
+    Pawloke                   1938-1939  Verstorbene                         302 2429006 110
+    Pawlowka                             Familienbuch                        302 2429032  9 1 Bd
+    Pawlowka                  1889-1939  Geborene                            302 2429034 17
+    Pawlowka                  1940       Geborene                            302 2429034 19
+    Pawlowka                  1889-1939  Verstorbene                         302 2429034 17
+    Pawlowka                  1940       Verstorbene                         302 2429034 18
+    Peterstal                 1939       Geborene                            302 2429036 30
+    Peterstal                 1932       Verstorbene                         302 2429036 29
+    Peterstal                 1932-1940  Verstorbene                         302 2429006 111
+    Peterstal (1873)          1932-1940  Geborene                            302 2428969 109
+    Peterstal (1873)          1938-1939  Geborene                            302 2428969 109
+yes Plotzk                    1835-1841  Geborene             Alt Elft       302 2428959  6
+yes Plotzk                    1837-1840  Geborene             Alt Elft       302 2428960  6
+yes Plotzk                    1842       Geborene             Alt Elft       302 2428959  6
+yes Plotzk                    1843-1854  Geborene             Alt Elft       302 2428959  6
+yes Plotzk                    1839-1898  Verstorbene                         302 2429006 112
+    Plotzk                    1893-1940  Verstorbene                         302 2429006 112
+yes Plotzk (1839)             1839-1892  Geborene                            302 2428969 110
+    Plotzk (1839)             1863-1891  Geborene                            302 2428969 110
+    Plotzk (1839)             1892-1923  Geborene                            302 2428969 110
+    Plotzk (1839)             1893-1940  Geborene                            302 2428969 110
+yes Plotzk (1839)             1923-1938  Geborene                            302 2428969 110vollstaendig
+    Pomasan                   1938       Verstorbene                         302 2429006 113
+    Pomasan (1911)            1938       Geborene                            302 2428969 111
+    Popasdru                  1938-1939  Verstorbene                         302 2429006 114
+    Popasdru (1922)           1931-1940  Geborene                            302 2428969 112
+    Popasdru (1922)           1932-1940  Verstorbene                         302 2428969 112
+    Popastru                  1931       Geborene                            302 2429034 24
+    Popastru                  1931       Verstorbene                         302 2429034 24
+    Posttal                              Familienbuch                        302 2429032  7 1 Bd
+yes Posttal                   1938       Geborene                            302 2429027 66 Alt or Neu Posttal?
+    Posttal                   1868       Getraute                            302 2429032 13 Alt or Neu Posttal?
+    Posttal                   1868-1918  Getraute                            302 2428997 15 Alt or Neu Posttal?
+    Posttal                   1918       Getraute                            302 2429032 13 Alt or Neu Posttal?
+    Posttal                   1919-1940  Getraute                            302 2428997 15 Alt or Neu Posttal?
+    Posttal                   1940       Getraute                            302 2429032 13 Alt or Neu Posttal?
+yes Posttal                   1890-1905  Verstorbene                         302 2429006 115Alt or Neu Posttal?
+yes Posttal                   1907-1940  Verstorbene                         302 2429006 115Alt or Neu Posttal?
+    Posttal                   1938       Verstorbene                         302 2429027 66 Alt or Neu Posttal?
+yes Posttal (1864)            1864-1877  Geborene                            302 2428969 113Alt or Neu Posttal?
+yes Posttal (1864)            1878-1894  Geborene                            302 2428969 113Alt or Neu Posttal?
+yes Posttal (1864)            1894-1905  Geborene                            302 2428969 113Alt or Neu Posttal?
+yes Posttal (1864)            1906-1918  Geborene                            302 2428969 113Alt or Neu Posttal?
+yes Posttal (1864)            1919-1940  Geborene                            302 2428969 113vollstaendig - Alt or Neu Posttal?
+yes Posttal (1864)            1864-1877  Verstorbene                         302 2428969 113Alt or Neu Posttal?
+yes Posttal (1864)            1878-1894  Verstorbene                         302 2428969 113Alt or Neu Posttal?
+    Prinsipesa Elena          1921-1927  Verstorbene          Kischineff     302 2429003 60
+    Raskajetz                 1938       Verstorbene                         302 2429006 117
+    Raskajetz (1886)          1897-1915  Geborene                            302 2428969 114
+    Raskajetz (1886)          1897-1938  Geborene                            302 2428969 114
+    Raskajetz (1886)          1887-1917  Verstorbene                         302 2428969 114vollstaendig
+    Raskajetz (1886)          1897-1932  Verstorbene                         302 2428969 114
+    Reulingen                 1934-1940  Geborene                            302 2429022 17
+    Reulingen                 1932-1940  Verstorbene                         302 2429022 16
+    Reulingen                 1932-1940  Verstorbene                         302 2429006 116
+    Reulingen (1890)                     Geborene                            302 2428969 115? fehlt
+    Rigenfeld                 1938-1939  Geborene                            302 2429027 13
+    Rigenfeld                 1938-1939  Getaufte                            302 2429027 13
+    Rischkanowka              1916       Geborene             Kischineff     302 2428964 60
+    Rischkanowka              1932-1936  Geborene             Kischineff     302 2428964 60
+    Rohrbach                  1922-1937  Geborene             Neu Sarata     302 2428968 100
+    Romanowka                 1889-1908  Geborene                            302 2429028 100
+    Romanowka                 1900-1932  Geborene                            302 2429028 102
+    Romanowka                 1909-1921  Geborene                            302 2429028 98
+    Romanowka                 1922-1937  Geborene             Neu Sarata     302 2428968 100
+    Romanowka                 1896-1908  Verstorbene                         302 2429028 99
+    Romanowka                 1909-1921  Verstorbene                         302 2429028 97
+    Romanowka                 1922-1936  Verstorbene                         302 2429028 96
+    Romanowka, Andrej.        1911-1940  Verstorbene                         302 2429006 122
+    Romanowka, Andrej. (1895) 1895-1910  Geborene                            302 2428970 118
+    Romanowka, Andrej. (1895) 1911-1940  Geborene                            302 2428970 118vollstaendig
+    Romanowka, Andrej. (1895) 1895-1910  Verstorbene                         302 2428970 118
+    Romanowka, Leipz.         1896-1908  Verstorbene                         302 2429006 121
+    Romanowka, Leipz.         1909-1921  Verstorbene                         302 2429006 121
+    Romanowka, Leipz.         1922-1940  Verstorbene                         302 2429006 121
+    Romanowka, Leipz. (1882)  1889-1908  Geborene                            302 2428970 119
+    Romanowka, Leipz. (1882)  1909-1921  Geborene                            302 2428970 119
+    Romanowka, Leipz. (1882)  1922-1940  Geborene                            302 2428970 119vollstaendig
+    Romanowo                  1887-1905  Geborene             Neu Sarata     302 2428968 100
+    Romanowo                  1888-1904  Geborene             Neu Sarata     302 2428968 100
+    Romanowo                  1909-1913  Geborene             Neu Sarata     302 2428968 100
+    Romanowo                  1913-1922  Geborene             Neu Sarata     302 2428968 100
+    Romanowo                  1939       Geborene                            302 2429033  9
+    Romanowo                  1939       Getaufte                            302 2429033  9
+    Romanowo                  1887-1889  Verstorbene          Neu Sarata     302 2428968 100
+    Romanowo                  1887-1905  Verstorbene          Neu Sarata     302 2428968 100
+    Romanowo                  1910-1921  Verstorbene          Neu Sarata     302 2429005 102
+    Romanowo                  1921-1937  Verstorbene          Neu Sarata     302 2429005 102
+    Romanowo                             Verstorbene                         302 2429006 120
+    Romanowo (1887)           1887-1900  Geborene                            302 2428969 117
+    Romanowo (1887)           1901-1922  Geborene                            302 2428969 117
+    Romanowo (1887)           1922-1940  Geborene                            302 2428969 117
+    Romanowo (1887)           1938-1939  Geborene                            302 2428969 117
+    Romanowo (1887)           1887-1900  Verstorbene                         302 2428969 117
+    Romanowo (1887)           1901-1922  Verstorbene                         302 2428969 117
+    Romanowo (1887)           1922-1937  Verstorbene                         302 2428969 117
+    Romanowo (1887)           1938-1939  Verstorbene                         302 2428969 117
+    Rosenfeld                 1938-1939  Verstorbene                         302 2429006 123
+    Rosenfeld (1890)          1872-1886  Geborene                            302 2428970 120
+    Rosenfeld (1890)          1887-1900  Geborene                            302 2428970 120
+    Rosenfeld (1890)          1900-1940  Geborene                            302 2428970 120
+    Rosenfeld (1890)          1887-1900  Verstorbene                         302 2428970 120
+    Rosenfeld (1890)          1900-1940  Verstorbene                         302 2428970 120vollstaendig
+    Rosental                  1922-1937  Geborene             Neu Sarata     302 2428968 100
+    Rosental                  ca 1938    Geborene                            302 2429033 13
+    Rosental                  ca 1938    Getaufte                            302 2429033 13
+    Rosental                  1938       Verstorbene                         302 2429006 124
+    Rosental (1923)           1938-1939  Geborene                            302 2428970 121
+    Rosental (1923)           1938-1939  Verstorbene                         302 2428970 121
+    Ryschkanowka              1921-1927  Verstorbene          Kischineff     302 2429003 60
+    Ryschkanowka              1921-1931  Verstorbene                         302 2429006 118
+    Ryschkanowka              1938-1939  Verstorbene                         302 2429006 118
+    Ryschkanowka (1865)       1872-1899  Geborene                            302 2428969 116
+    Ryschkanowka (1865)       1900-1920  Geborene                            302 2428969 116
+    Ryschkanowka (1865)       1921-1927  Geborene                            302 2428969 116
+    Ryschkanowka (1865)       1927-1932  Geborene                            302 2428969 116
+    Ryschkanowka (1865)       1932-1940  Geborene                            302 2428969 116
+    Ryschkanowka (1865)       1872-1899  Verstorbene                         302 2428969 116
+    Ryschkanowka (1865)       1900-1920  Verstorbene                         302 2428969 116
+    Ryschkanowka (1865)       1939-1940  Verstorbene                         302 2428969 116
+    Sabaneewka                1917       Geborene                            302 2428973 20 Erloschene Gemeinde (extinct community/municipality)
+    Sangerowka                           Familienbuch                        302 2429033  1
+    Sangerowka                           Geborene                            302 2429034 33 3 Bde
+    Sangerowka                1899-1939  Verstorbene                         302 2429006 125
+    Sangerowka                           Verstorbene                         302 2429034 33 3 Bde
+    Sangerowka (1898)         1898-1940  Geborene                            302 2428970 122
+    Sangerowka (1898)         1938-1940  Geborene                            302 2428970 122
+    Sangerowka (1898)         1940       Verstorbene                         302 2428970 122vollstaendig
+    Sarata                               Familienbuch                        302 2429022  2 4 Band
+    Sarata                    1811-1917  Geborene                            302 2429022  8
+yes Sarata                    1822-1937  Geborene                            302 2429027 14
+yes Sarata                    1856-1891  Geborene                            302 2429022  8
+yes Sarata                    1892-1893  Geborene                            302 2429022  8
+yes Sarata                    1900-1910  Geborene                            302 2429022  8
+yes Sarata                    1918-1937  Geborene                            302 2429022  8
+yes Sarata                    1938       Geborene                            302 2429027 65
+    Sarata                    1822-1937  Getaufte                            302 2429027 14
+    Sarata                    1822-1833  Getraute                            302 2428997 16
+yes Sarata                    1834-1855  Getraute                            302 2428997 16
+yes Sarata                    1856-1880  Getraute                            302 2428997 16
+yes Sarata                    1881-1889  Getraute                            302 2428997 16
+    Sarata                    1890-1891  Getraute                            302 2428997 16
+    Sarata                    1892-1902  Getraute                            302 2428997 16
+    Sarata                    1903-1919  Getraute                            302 2428997 16
+    Sarata                    1920-1936  Getraute                            302 2428997 16
+    Sarata                    1937-1940  Getraute                            302 2428997 16
+yes Sarata                    1861-1880  Personalbuch                        302 2429022  1
+    Sarata                    1857-1889  Sterbe                              302 2429022  9
+    Sarata                    1890-1913  Sterbe                              302 2429022  9
+    Sarata                    1914-1937  Sterbe                              302 2429022  9
+    Sarata                    1822-1833  Trau                                302 2429022 10
+    Sarata                    1832-1833  Trau                                302 2429022 10
+yes Sarata                    1856-1880  Trau                                302 2429022 10
+yes Sarata                    1881-1889  Trau                                302 2429022 10
+    Sarata                    1890-1891  Trau                                302 2429022 10
+    Sarata                    1892-1902  Trau                                302 2429022 10
+    Sarata                    1903-1919  Trau                                302 2429022 10
+yes Sarata                    1920-1930  Trau                                302 2429022 10
+yes Sarata                    1822-1856  Verstorbene                         302 2429006 126
+yes Sarata                    1857-1889  Verstorbene                         302 2429006 126
+yes Sarata                    1890-1913  Verstorbene                         302 2429006 126
+    Sarata                    1914-1937  Verstorbene                         302 2429006 126
+    Sarata                    1938       Verstorbene                         302 2429027 65
+    Sarata                    1938-1940  Verstorbene                         302 2429006 126
+yes Sarata (1822)             1822-1833  Geborene                            302 2428970 123
+yes Sarata (1822)             1834-1855  Geborene                            302 2428970 123
+yes Sarata (1822)             1856-1891  Geborene                            302 2428970 123
+yes Sarata (1822)             1892-1899  Geborene                            302 2428970 123
+yes Sarata (1822)             1900-1910  Geborene                            302 2428970 123
+yes Sarata (1822)             1911-1917  Geborene                            302 2428970 123
+yes Sarata (1822)             1918-1937  Geborene                            302 2428970 123
+yes Sarata (1822)             1938-1940  Geborene                            302 2428970 123vollstaendig
+    Sarjary                              Geborene                            302 2429032 22 1 Bd
+    Sarjary (1860)            1938-1939  Geborene                            302 2428970 124
+    Schabo Kolonie (1822)                Geborene                            302 2428970 125? fehlt
+    Schabo Possad                        Familienbuch                        302 2429032 10 1 Bd
+    Schabo Possad             1879-1890  Geborene                            302 2429034 26
+    Schabo Possad             1900       Geborene                            302 2429034 30
+    Schabo Possad             1940       Geborene                            302 2429034 29
+    Schabo Possad             1879-1890  Verstorbene                         302 2429034 26
+    Schabo Possad             1879-1890  Verstorbene                         302 2429006 127
+    Schabo Possad             1880-1889  Verstorbene                         302 2429034 27
+    Schabo Possad             1880-1899  Verstorbene                         302 2429006 127
+    Schabo Possad             1900       Verstorbene                         302 2429034 30
+    Schabo Possad             1940       Verstorbene                         302 2429034 28
+    Schabo Possad             1940       Verstorbene                         302 2429006 127
+    Schabo Possad (1894)      1900-1939  Geborene                            302 2428970 126
+    Schabo Possad (1894)      1938-1940  Geborene                            302 2428970 126
+    Schabo Possad (1894)      1900-1940  Verstorbene                         302 2428970 126
+    Schabolat                            Geborene                            302 2429032 19
+    Schabolat                            Verstorbene                         302 2429032 15
+    Schabolat                            Verstorbene                         302 2429032 19
+    Schabolatt                1864-1924  Verstorbene                         302 2429006 128
+    Schabolatt                1938-1939  Verstorbene                         302 2429006 128
+    Schabolatt (1840)         1862-1907  Geborene                            302 2428970 127
+    Schabolatt (1840)         1908-1924  Geborene                            302 2428970 127
+    Schabolatt (1840)         1925-1938  Geborene                            302 2428970 127
+    Schabolatt (1840)         1939-1940  Geborene                            302 2428970 127
+    Schabolatt (1840)         1925-1938  Verstorbene                         302 2428970 127
+    Schabolatt (1840)         1939-1940  Verstorbene                         302 2428970 127
+    Scholtoi                  1916       Geborene             Kischineff     302 2428964 60
+    Scholtoi                  1932-1936  Geborene             Kischineff     302 2428964 60
+    Scholtoi                  1938-1939  Verstorbene                         302 2429006 129
+    Scholtoi (1865)           1882-1908  Geborene                            302 2428970 128
+    Scholtoi (1865)           1909-1929  Geborene                            302 2428970 128
+    Scholtoi (1865)           1929-1940  Geborene                            302 2428970 128
+    Scholtoi (1865)           1893-1908  Verstorbene                         302 2428970 128
+    Scholtoi (1865)           1909-1928  Verstorbene                         302 2428970 128
+    Scholtoi (1865)           1929-1940  Verstorbene                         302 2428970 128
+    Seimeni                   1905-1940  Verstorbene                         302 2429006 130
+    Seimeni (1867)            1867-1888  Geborene                            302 2428970 129
+    Seimeni (1867)            1887-1891  Geborene                            302 2428970 129
+    Seimeni (1867)            1892-1900  Geborene                            302 2428970 129
+    Seimeni (1867)            1901-1904  Geborene                            302 2428970 129
+    Seimeni (1867)            1905-1934  Geborene                            302 2428970 129
+    Seimeni (1867)            1935-1940  Geborene                            302 2428970 129
+    Seimeni (1867)            1867-1891  Verstorbene                         302 2428970 129
+    Seimeni (1867)            1892-1904  Verstorbene                         302 2428970 129
+    Sngert Gut                1939-1940  Verstorbene          Kischineff     302 2429003 60 Singer Gut ?
+    Sofiental                            Familienbuch                        302 2429033  2
+    Sofiental                            Geborene                            302 2429034 32 8 Bde
+    Sofiental                 1867-1940  Verstorbene                         302 2429006 131
+    Sofiental                 1908-1922  Verstorbene                         302 2429006 131
+    Sofiental                            Verstorbene                         302 2429034 32 8 Bde
+    Sofiental (1863)          1867-1883  Geborene                            302 2428971 130
+    Sofiental (1863)          1867-1940  Geborene                            302 2428971 130
+    Sofiental (1863)          1884-1899  Geborene                            302 2428971 130
+    Sofiental (1863)          1900-1907  Geborene                            302 2428971 130
+    Sofiental (1863)          1908-1922  Geborene                            302 2428971 130
+    Sofiental (1863)          1923-1940  Geborene                            302 2428971 130
+    Sofiental (1863)          1867-1883  Verstorbene                         302 2428971 130
+    Sofiental (1863)          1884-1900  Verstorbene                         302 2428971 130
+    Sofiental (1863)          1900-1907  Verstorbene                         302 2428971 130
+    Sofiental (1863)          1923-1940  Verstorbene                         302 2428971 130vollstaendig
+    Sofiewka (1892)           1892-1912  Geborene                            302 2428971 131
+    Sofiewka (1892)           1913-1931  Geborene                            302 2428971 131
+    Sofiewka (1892)           1931-1937  Geborene                            302 2428971 131
+    Sofiewka (1892)           1937-1940  Geborene                            302 2428971 131vollstaendig
+    Sofijewka                 1892-1912  Verstorbene                         302 2429007 132
+    Sofijewka                 1913-1931  Verstorbene                         302 2429007 132
+    Sofijewka                 1931-1940  Verstorbene                         302 2429007 132
+    Sofijewka                 1936-1940  Verstorbene                         302 2429007 132
+    Stanhopka                            Verstorbene                         302 2429007 133
+    Stanhopka (1899)                     Geborene                            302 2428971 132? fehlt
+    Startop? (Strussedburg?)  1933-1940  Geborene                            302 2428972 145
+    Stermbeni                 1939-1940  Verstorbene          Kischineff     302 2429003 60
+    Strasburg I               1927       Geborene                            302 2429034 15
+    Strasburg I               1927       Verstorbene                         302 2429034 16
+    Strasburg II              1911       Geborene                            302 2429034 14
+    Strasburg II              1938       Geborene                            302 2429034 13
+    Strasburg II              1911       Verstorbene                         302 2429034 14
+    Strasburg II                         Verstorbene                         302 2429032 15
+    Strassburg I              1927-1940  Verstorbene                         302 2429007 134
+    Strassburg I (1920)       1927-1940  Geborene                            302 2428971 133
+    Strassburg II             1896-1910  Verstorbene                         302 2429007 135
+    Strassburg II (1878)      1896-1910  Geborene                            302 2428971 134
+    Strassburg II (1878)      1911-1937  Geborene                            302 2428971 134
+    Strassburg II (1878)      1938-1940  Geborene                            302 2428971 134
+    Strassburg II (1878)      1911-1938  Verstorbene                         302 2428971 134
+    Strassburg II (1878)      1938-1940  Verstorbene                         302 2428971 134
+    Strembeni                 1916       Geborene             Kischineff     302 2428964 60
+    Strembeni                 1932-1936  Geborene             Kischineff     302 2428964 60
+    Strembeni                 1921-1927  Verstorbene          Kischineff     302 2429003 60
+    Strembeni                 1938-1939  Verstorbene                         302 2429007 136
+    Strembeni (1881)          1886-1899  Geborene                            302 2428971 135
+    Strembeni (1881)          1897-1936  Geborene                            302 2428971 135
+    Strembeni (1881)          1938-1939  Geborene                            302 2428971 135vollstaendig
+    Strembeni (1881)          1886-1899  Verstorbene                         302 2428971 135
+    Tamurka (1895)            1929-1940  Geborene                            302 2428971 136
+    Tamurka (1895)            1929-1940  Verstorbene                         302 2428971 136
+    Tamurke                              Familienbuch                        302 2429036  2
+    Taraklia                  1881-1896  Geborene                            302 2428973 21 Erloschene Gemeinde (extinct community/municipality)
+    Taraklia                  1882-1894  Getraute                            302 2428973 21 Erloschene Gemeinde (extinct community/municipality)
+    Taraklia                  1881-1895  Verstorbene                         302 2428973 21 Erloschene Gemeinde (extinct community/municipality)
+    Tarutino                             Besitzurkunden       Tarutino       302 2429030 36
+    Tarutino                             Familienbuch                        302 2429026  1 Band 6
+    Tarutino                  1817-1849  Geborene             Tarutino       302 2429030 23 1 Mappe
+    Tarutino                  1841-1940  Geborene             Tarutino       302 2429030 29 9 Bde
+    Tarutino                  1843-1874  Geborene             Tarutino       302 2429030 28
+    Tarutino                  1830-1939  Getaufte             Tarutino       302 2429030 18 10 Mappen
+    Tarutino                  1814-1829  Getraute                            302 2428997 17
+yes Tarutino                  1830-1847  Getraute                            302 2428997 17
+yes Tarutino                  1848-1855  Getraute                            302 2428997 17
+yes Tarutino                  1856-1864  Getraute                            302 2428997 17
+    Tarutino                  1865-1884  Getraute                            302 2428997 17
+    Tarutino                  1880-1915  Getraute                            302 2428997 17 Separatisten
+yes Tarutino                  1884-1891  Getraute                            302 2428997 17
+yes Tarutino                  1892-1901  Getraute                            302 2428997 17
+    Tarutino                  1901-1908  Getraute                            302 2428997 17
+yes Tarutino                  1909-1918  Getraute                            302 2428997 17
+yes Tarutino                  1919-1927  Getraute                            302 2428997 17
+yes Tarutino                  1928-1940  Getraute                            302 2428997 17
+    Tarutino                  1813-1907  Kirchenchronik       Tarutino       302 2429030 27
+    Tarutino                  1815-1907  Kirchenchronik                      302 2428946  6
+    Tarutino                             Personalbuch         Tarutino       302 2429030 31
+    Tarutino                             Personalbuch         Tarutino       302 2429030 32 Bd 3
+    Tarutino                             Personalbuch         Tarutino       302 2429030 33 Bd 1 und 2
+    Tarutino                  1819-1829  Verstorbene          Tarutino       302 2429007 137
+yes Tarutino                  1819-1851  Verstorbene          Tarutino       302 2429030 19 2 Bde
+yes Tarutino                  1831-1847  Verstorbene          Tarutino       302 2429030 20 2 Bde
+    Tarutino                  1831-1851  Verstorbene          Tarutino       302 2429007 137
+yes Tarutino                  1843-1874  Verstorbene          Tarutino       302 2429030 28
+    Tarutino                  1851-1872  Verstorbene          Tarutino       302 2429007 137
+    Tarutino                  1851-1940  Verstorbene          Tarutino       302 2429030 30 5 Bde
+yes Tarutino                  1861-1864  Verstorbene          Tarutino       302 2429030 20 2 Bde
+    Tarutino                  1861-1864  Verstorbene          Tarutino       302 2429007 137
+    Tarutino                  1873-1891  Verstorbene          Tarutino       302 2429007 137
+    Tarutino                  1880-1917  Verstorbene          Tarutino       302 2429007 137Separatisten
+    Tarutino                  1892-1898  Verstorbene          Tarutino       302 2429007 137
+    Tarutino                  1899-1922  Verstorbene          Tarutino       302 2429007 137
+    Tarutino                  1923-1940  Verstorbene          Tarutino       302 2429007 137
+    Tarutino                  1938       Verstorbene                         302 2429027 64
+yes Tarutino (1814)           1814-1849  Geborene                            302 2428971 137
+yes Tarutino (1814)           1841-1851  Geborene                            302 2428971 137
+    Tarutino (1814)           1843-1873  Geborene                            302 2428971 137Separatisten
+    Tarutino (1814)           1843-1885  Geborene                            302 2428971 137Separatisten
+yes Tarutino (1814)           1851-1867  Geborene                            302 2428971 137
+    Tarutino (1814)           1868-1873  Geborene                            302 2428971 137
+    Tarutino (1814)           1874-1886  Geborene                            302 2428971 137
+    Tarutino (1814)           1880-1910  Geborene                            302 2428971 137Baptisten
+    Tarutino (1814)           1887-1900  Geborene                            302 2428971 137
+    Tarutino (1814)           1901-1907  Geborene                            302 2428971 137
+    Tarutino (1814)           1907-1912  Geborene                            302 2428971 137
+    Tarutino (1814)           1909-1917  Geborene                            302 2428971 137Baptisten
+    Tarutino (1814)           1912-1940  Geborene                            302 2428971 137Baptisten
+    Tarutino (1814)           1913-1924  Geborene                            302 2428971 137
+    Tarutino (1814)           1924-1940  Geborene                            302 2428971 137
+    Tarutino (1814)           1915-1940  Getraute                            302 2428971 137Baptisten
+yes Tarutino (1814)           1846-1851  Verstorbene                         302 2428971 137
+yes Tarutino (1814)           1847-1874  Verstorbene                         302 2428971 137Separatisten
+    Tarutino (1814)           1908-1940  Verstorbene                         302 2428971 137Baptisten
+    Tatar Bunar                          Verstorbene                         302 2429007 138
+    Tatar-bunar (1845)        1939       Geborene                            302 2428971 138
+    Teplitz                              Geborene                            302 2429022 44
+yes Teplitz                   1834       Personalbuch                        302 2429036 39
+    Teplitz                   1901-1935  Personalbuch                        302 2429022 64
+    Teplitz                              Personalbuch                        302 2429037  1
+yes Teplitz                   1817-1877  Verstorbene                         302 2429007 139
+    Teplitz                   1907-1913  Verstorbene                         302 2429007 139
+    Teplitz                   1914-1940  Verstorbene                         302 2429007 139
+yes Teplitz (1817)            1817-1877  Geborene                            302 2428972 139
+    Teplitz (1817)            1878-1900  Geborene                            302 2428972 139
+    Teplitz (1817)            1901-1913  Geborene                            302 2428972 139
+    Teplitz (1817)            1914-1933  Geborene                            302 2428972 139
+    Teplitz (1817)            1934-1940  Geborene                            302 2428972 139vollstaendig
+    Teplitz (1817)            1878-1906  Verstorbene                         302 2428972 139
+    Tschemtschelly            1904-1940  Verstorbene                         302 2429007 140
+    Tschemtschelly (1862)     1863-1887  Geborene                            302 2428972 140
+    Tschemtschelly (1862)     1892-1900  Geborene                            302 2428972 140
+    Tschemtschelly (1862)     1901-1935  Geborene                            302 2428972 140
+    Tschemtschelly (1862)     1863-1888  Verstorbene                         302 2428972 140
+    Tschemtschelly (1862)     1892-1903  Verstorbene                         302 2428972 140
+    Tschiligider                         Familienbuch                        302 2429036  1
+    Tschiligider              1930-1940  Verstorbene                         302 2429007 141
+    Tschiligider (1884)       1930-1940  Geborene                            302 2428972 141
+    Unter Albota              1882-1940  Verstorbene                         302 2429007 142
+    Unter Albota (1882)       1882-1937  Geborene                            302 2428972 142
+    Unter Albota (1882)       1938-1940  Geborene                            302 2428972 142vollstaendig
+    Wischniewka (1906)        1906-1923  Geborene                            302 2428972 143
+    Wischniewka (1906)        1923-1940  Geborene                            302 2428972 143
+    Wischniewka (1906)        1938-1940  Geborene                            302 2428972 143
+    Wischniewka (1906)        1938-1940  Verstorbene                         302 2428972 143vollstaendig
+    Wischnijowka              1910-1913  Geborene             Neu Sarata     302 2428968 100
+    Wischnijowka              1913-1922  Geborene             Neu Sarata     302 2428968 100
+    Wischnijowka              1922-1937  Geborene             Neu Sarata     302 2428968 100
+    Wischniowka               ca 1938    Geborene                            302 2429033 13
+    Wischniowka               ca 1938    Getaufte                            302 2429033 13
+    Wischniowka               1929-1940  Verstorbene                         302 2429007 143
+    Wischnjowka               1910-1921  Verstorbene          Neu Sarata     302 2429005 102
+    Wischnjowka               1921-1937  Verstorbene          Neu Sarata     302 2429005 102
+yes Wittenberg                1848       Familienbuch         Tarutino       302 2429030 15
+    Wittenberg                1815-1920  Geborene             Tarutino       302 2429030 13 8 Bde
+yes Wittenberg                1831-1847  Verstorbene          Tarutino       302 2429007 137
+    Wittenberg                1861-1864  Verstorbene          Tarutino       302 2429007 137
+    Wittenberg                1862-1884  Verstorbene          Tarutino       302 2429030 17 1 Bde
+    Wittenberg                1862-1884  Verstorbene                         302 2429007 144
+    Wittenberg                1865-1885  Verstorbene                         302 2429007 144
+    Wittenberg                1865-1918  Verstorbene          Tarutino       302 2429030 14 3 Bde
+    Wittenberg                1884-1892  Verstorbene                         302 2429007 144
+    Wittenberg                1885-1891  Verstorbene                         302 2429007 144
+    Wittenberg                1892-1912  Verstorbene                         302 2429007 144
+    Wittenberg                1892-1918  Verstorbene                         302 2429007 144
+    Wittenberg                1913-1919  Verstorbene                         302 2429007 144
+    Wittenberg                1920-1939  Verstorbene          Tarutino       302 2429030 16 1 Bde
+    Wittenberg                1920-1940  Verstorbene                         302 2429007 144
+yes Wittenberg (1815)         1816-1861  Geborene                            302 2428972 144
+yes Wittenberg (1815)         1821-1861  Geborene                            302 2428972 144Verstorbene
+    Wittenberg (1815)         1862-1866  Geborene                            302 2428972 144
+    Wittenberg (1815)         1866-1876  Geborene                            302 2428972 144
+    Wittenberg (1815)         1876-1885  Geborene                            302 2428972 144
+    Wittenberg (1815)         1877-1886  Geborene                            302 2428972 144
+    Wittenberg (1815)         1886-1892  Geborene                            302 2428972 144
+    Wittenberg (1815)         1887-1899  Geborene                            302 2428972 144
+    Wittenberg (1815)         1892-1893  Geborene                            302 2428972 144
+    Wittenberg (1815)         1892-1903  Geborene                            302 2428972 144
+    Wittenberg (1815)         1903-1919  Geborene                            302 2428972 144
+    Wittenberg (1815)         1920-1931  Geborene                            302 2428972 144
+    Wittenberg (1815)         1920-1940  Geborene                            302 2428972 144
+    Wittenberg (1815)         1931-1940  Geborene                            302 2428972 144vollstaendig

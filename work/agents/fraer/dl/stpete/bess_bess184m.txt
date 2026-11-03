@@ -1,0 +1,1360 @@
+Bessarabian Village Marriage Records, 184x (R. Drefs)
+
+        Published by the Odessa Digital Library - 20 Sep 1997
+             http://www.odessa3.org
+
+        This document may be freely used for personal, nonprofit
+        purposes or linked by other WWW sites.  It may also be
+        shared with others, provided the header with copyright
+        notice is included.  However, it may not be republished
+        in any form without permission of the copyright owner.
+
+        Copyright 1997, Reuben R. Drefs
+
+        This file contains marriage records from the Bessarabian
+        villages of South Russia for the decade 1840-1849.  This
+        information was compiled by R. Reuben Drefs, coordinator,
+        and volunteers Ed Schulz and Tom and Jan Stangl January
+        17, 1997 from the St. Petersburg Lutheran Evangelical
+        archives published by the LDS.  Editing was done by Marty
+        McMahon.  This work may be freely copied for nonprofit
+        purposes.  -re (10-20-1997)
+
+The Bessarabian marriage extraction files are organized by decade and have
+been posted in the same manner. The data provided has only been sorted by
+Groom Surname.  The film/item, page and Register numbers are provided to
+assist researchers, if they wish to view the actual record found on the
+microfilm of the Church of Latter Day Saints [LDS], Family History Library,
+Salt Lake City, Utah.  These films can be rented though local LDS Family
+History Centers, where they exist.  Some records have Remarks attached to them
+which often [especially the 183x decade] provide detailed family information.
+There are approximately 11,000 marriage records in this database.  Some
+duplicate records exist, since a marriage may have been reported in two
+parishes or in two different reporting years.
+
+Most of the St. Petersburg Lutheran Consistory Archive records were organized
+and reported by Parish rather than by individual colony.  This is especially
+true for the Marriage Records.  Therefore, your ancestors' marriage, while it
+probably occurred in their home colony, will usually be reported as if it
+occurred elsewhere.  The usual Bessarabian parishes found in the records were
+[in order of appearance]:  Sarata, Arcis, Fere Champenoise [Alt-Elft],
+Tarutino, and Kloestitz. The smaller parishes of Kischinew [Kischineff] [1844+]
+and Benkendorf [1869+] also appear later in the records.
+
+There are gaps in the St. Petersburg records--entire years and some individual
+parishes in other years.  The missing data can often be found on local colony
+and parish records on other films taken by the LDS Church.  It is planned to
+fill in the gaps by researching these other films, but that effort is in its
+early stages.  When it is completed, these other records will be added to the
+Bessarabian Marriage database and a Volume II hardcopy will be produced.  The
+gaps identified are as follows [by Parish]:
+
+   Sarata Parish - all records before 1833; 1844 [23 Nov 1843-22 Jan 1845];
+   1849 [2 Dec 1848-27 Dec 1849]; 1865-1866 [13 Dec 1864-5 Jan 1867]; 1872-1874
+   [2 Dec 1871-23 Jan 1875];1880 [30 Nov 1879-11 Dec 1880]; all after Dec 1885.
+      
+   Arcis Parish - all records before 1833; 1844 [25 Nov 1843-4 Jan 1845]; 1849
+   [16 Dec 1848-29 Dec 1849]; 1865-1866 [31 Dec 1864-5 Jan 1867]; 1872-1873
+   [30 Dec 1871-3 Jan 1874]; 1880 [27 Dec 1879-2 Jan 1881]; all after Dec 1885.
+
+   Fere Champenoise Parish - all records before 1833; 1844 [25 Nov 1843-4 Jan 1845];
+   1849 [2 Dec 1848-1 Dec 1849]; 1865-1866 [4 Dec 1864-30 Dec 1866]; 1869 [27 Dec 1868
+   -1 Jan 1870]; 1872-1873 [3 Dec 1871-7 Feb 1874]; 1880 [12 Nov 1879-2 Jan 1881];
+   all after Dec 1885.
+
+   Tarutino Parish - all records before 1833; 1842 [4 Dec 1841-27 Dec 1842];
+   1844 [16 Dec 1843-28 Dec 1844]; 1849 [25 Nov 1848-27 Nov 1849]; 1865-1866
+   [18 Dec 1864-22 Jan 1867]; 1872-1873 [late Dec 1871-28 Dec 1873]; 1880
+   [29 Dec 1879-29 Dec 1880]; all after Dec 1885.
+  
+   Kloestitz Parish - all records before 1833; 1842 [29 Dec 1841-5 Jan 1843];
+   1844 [9 Dec 1843-28 Dec 1844]; 1849 [2 Dec 1848-22 Dec 1849]; 1864-1866
+   [28 Nov 1863-1 Dec 1866]; 1872-1873 [19 Dec 1871-3 Jan 1874]; 1880
+   [29 Dec 1879-1 Jan 1881]; all after Dec 1885.
+
+   Kischinew Parish - all records before 1844; most years until 1863; 1872-1873
+   [26 Dec 1871-14 Jan 1874]; 1880 [11 Dec 1879-10 Feb 1881]; all after Dec 1885.
+
+   Benkendorf Parish - all records before 1869; 1872-1873 [26 Dec 1871-31 Dec 1873];
+   1877-1878 [28 Dec 1876-4 Jan 1879]; 1880 [30 Dec 1879-26 Sep 1880]; all after
+   Dec 1885.
+
+Family name spellings often "evolved" through time; therefore, surname
+spellings have NOT been standardized, but appear as translated from the German
+script by the extractors.  The accuracy of the translations is affected by the
+penmanship of the scribes who wrote the records, as well as the fact that
+these records were transcribed from local church records, thereby adding to the
+possibility of spelling errors.
+____________________________________________
+Thomas A. Stangl, Sterling VA, January, 1997.
+
+Groom                         Marr.  Year Bride                             Place                Film/It   Pge Reg Remarks
+
+Abraham, Johann               29 Nov 1845 Quade, Luise                      Arcis                1882636/1 413  42
+Adam, Andreas                  4 Jun 1840 Bauer, Carolina                   Tarutino             1883190/4  34  28
+Adam, Andreas                 12 Nov 1846 Gutknecht, Carolina               Arcis                1882637/3 426  37
+Adam, Daniel                  26 Oct 1841 Lang, Philippina                  Kloestitz            1883193/2 231  16
+Adam, Daniel                  26 Oct 1841 Lang, Philippine                  Tarutino             1883192/2 155  44
+Adam, Johann                  22 Jun 1843 Faechner, Maria                   Kloestitz            1882594/3  45  21
+Adolff, Carl                  25 Jun 1845 Koch, Eva Dorothea                Arcis                1882636/1 413   8
+Aichele, Christian            30 May 1846 Schaeck, Catharina                Arcis                1882637/3 426  17
+Albrecht, Andreas             11 Nov 1848 Heiden, Anna Maria                Arcis                1882641/2 164  30
+Albrecht, Heinrich            27 May 1848 Schwarzmann, Maria                Sarata               1882641/2 138   8
+Aldinger, Johann Friedrich     9 Feb 1843 Baumann, Louisa Carolina          Sarata               1882594/2 350   3
+Allmer, Johann                29 Apr 1848 Glaesmann, Charlotte              Fere Champenoise     1882641/2 201  21
+Anhorn, Gottlieb               4 Dec 1847 Friedrich, Dorothea               Tarutino             1882639/1 200  21
+Anhorn, Gottlieb               4 Dec 1847 Friedrich, Dorothea               Tarutino             1882641/2 239  21
+Anhorn, Johannes              10 Feb 1846 Mueller, Christina                Tarutino             1882638/1  32   6
+Anhorn, Joseph                17 Oct 1846 Schaible, Anna Elisabetha         Tarutino             1882638/1  33  31
+Anhorn, Joseph                30 Dec 1840 Woelfle, Christina                Tarutino             1883190/4  88  71
+Anhorn, Joseph                30 Dec 1840 Woelfle, Christina                Tarutino             1883192/2 155   2
+Arndt, Johann                 11 Nov 1843 Patzer, Louise                    Tarutino             1882594/3  18  20
+Arndt, Ludwig                 17 Apr 1847 Neumann, Friedrika                Arcis                1882639/1 147   8
+Babitzke, Johann               8 Feb 1840 Knop, Carolina                    Tarutino             1883190/4  88  26
+Babitzki, Christian           17 Jun 1843 Sept, Christina                   Fere Champenoise     1882594/2 406  15
+Bader, Johann                 21 Nov 1846 Radiess, Anna Justina             Fere Champenoise     1882638/1   3  22
+Bader, Michael                22 Feb 1845 Konrad, Susanna                   Fere Champenoise     1882636/2  26  13
+Baelder, Daniel               20 Aug 1840 Mantey, Maria Friederika          Kloestitz            1883193/2 219  16
+Bahnmueller, Daniel           29 Dec 1849 Harter, Anna Maria                Arcis                1882651/3 166  41
+Bahnmueller, Johannes         25 Oct 1845 Harter, Maria Agnes               Arcis                1882636/1 413  35
+Baier, Gottlieb               25 Nov 1843 Ruff, Johanna gb Engel            Fere Champenoise     1882594/2 406  27
+Baierbach, Friedrich          10 Jan 1846 Sandau, Carolina                  Fere Champenoise     1882638/1   2   3
+Baierle, Gottlieb             21 Oct 1843 Blech, Louise                     Fere Champenoise     1882594/2 406  20
+Baisch, Christoph              7 Jun 1845 Mueller, Veronika                 Sarata               1882636/1 392  10
+Ballmer, Daniel               31 Nov 1847 Schaeufele, Rosina                Arcis                1882639/1 147  21
+Ballmer, Jacob Friedrich       4 Mar 1847 Zacher, Maria                     Arcis                1882639/1 147   3
+Ballmer, Johannes             25 Mar 1847 Zacher, Johanna Maria             Arcis                1882639/1 147   4
+Banek, Christian              28 Feb 1846 Roloff, Dorothea                  Tarutino             1882638/1  32  10
+Banek, Samuel                 25 Apr 1846 Priebe, Carolina                  Tarutino             1882638/1  33  17
+Banko, Gottlieb               29 Dec 1849 Mauer, Carolina                   Tarutino             1882651/3 237  65
+Bantel, Michael               14 May 1846 Hornung, Dorothea                 Sarata               1882637/3 400   4
+Bareiter, Gottfried            7 Jan 1842 Woellhaf, Dorothea Barbara        Sarata               1883193/2  42   1
+Bareither, Karl August        14 Jun 1848 Langjahr, Wilhelmina              Sarata               1882641/2 138  12
+Bartholomaei, Jakob Friedrich 27 Feb 1845 Simpfendorfer, Anna Christiana    Sarata               1882636/1 392   7
+Bast, Gottlob                 28 Aug 1841 Kaemmle, Barbara                  Sarata               1883192/2  57  12
+Bast, Matthias                 8 Nov 1845 Kolb, Margarethe                  Arcis                1882636/1 413  38
+Bauch, Samuel                 29 Nov 1845 Banek, Wilhelmina                 Tarutino             1882636/2  52  59
+Bauer, Benjamin               24 Jan 1846 Gubler, Maria                     Fere Champenoise     1882638/1   2   5
+Bauer, Friedrich              30 Oct 1847 Haeger, Maria                     Kloestitz            1882639/1 222  34
+Bauer, Ludwig                  6 Feb 1840 Dobler, Christina                 Tarutino             1883190/4  87   9
+Bauer, Ludwig                  6 Feb 1840 Dobler, Christina                 Kloestitz            1883193/2 219   3
+Baumann, Christoph Friedrich   3 May 1845 Baret, Christina                  Sarata               1882636/1 392   9
+Baumann, Johann Georg         16 Oct 1841 Weber, Chatharina                 Sarata               1883192/2  57  16
+Baumann, Michael               6 Feb 1840 Sept, Christina                   Tarutino             1883190/4  87   1
+Bausch, Conrad                21 Oct 1846 Heller, Eva                       Tarutino             1882638/1  33  36
+Bechdolf, Dietrich             2 Aug 1843 Haas, Katharina                   Arcis                1882594/2 372  14
+Bechtle, Jakob                13 Aug 1840 Schmidt, Elisabetha               Sarata               1883190/3 417   4
+Beck, Johannes                27 Jun 1846 Lauer, Magdalena                  Kloestitz            1882638/1  61  30
+Becker, Johann                18 Sep 1847 Benzinger, Dorothea               Kloestitz            1882639/1 222  26
+Begelau, Johannes              7 Sep 1848 Kuhn, Susanna                     Tarutino             1882641/2 240  32
+Beierbach, Philipp            27 Nov 1842 Bauer, Magdalena                  Alt Fere Champenoise 1883193/2  86  19
+Beierle, Johann                5 Feb 1842 Rabe, Carolina                    Alt Fere Champenoise 1883193/2  86   6
+Beihl, Christian              31 Oct 1846 Forstner, Dorothea                Sarata               1882637/3 400   9
+Beihl, Johann Christ.  wdw    18 Nov 1847 Dobler, Christina Barbara         Sarata               1882639/1 119   9
+Beihl, Johannes                5 Feb 1841 Sauter, Anna Katharina            Sarata               1883192/2  57   4
+Beiss, Wilhelm                 9 Jan 1847 Wittchen, Wilhelmina              Tarutino             1882639/1 200   2
+Belder, Daniel                22 Aug 1840 Mantey, Maria Friedr.             Tarutino             1883190/4  88  44
+Benninger, Christoph           4 May 1842 Rebmann, Louisa Friederika        Sarata               1883193/2  42   7
+Berger, Friedrich              3 Jun 1840 Freimark, Johanna                 Friedensthal         1883190/4  34  25
+Bergholz, Carl                 8 Jul 1843 Roeder, Carolina                  Tarutino             1882594/3  18  14
+Bergstruesser, Peter          11 Feb 1843 Schaeufele, Catharina Margaretha  Sarata               1882594/2 350   5
+Berkholtz, Carl                6 Feb 1841 Boettcher, Catharina              Tarutino             1883192/2 155   7
+Berkholz, Ludwig               6 Feb 1840 Zahn, Eva                         Tarutino             1883190/4  87  15
+Berreth, Anton                18 Aug 1848 Weishaar, Eva Margaretha          Kloestitz            1882641/2 278  19
+Berreth, Friedrich             6 May 1845 Ehret, Christina                  Kloestitz            1882636/2  73  23
+Bertsch, Samuel               31 Oct 1846 Vogt, Elisabetha                  Arcis                1882637/3 426  32
+Betsch, Johann                 2 Dec 1848 Mueller, Rosina                   Kloestitz            1882641/2 279  40
+Betsch, Michael               18 May 1843 Godas, Christina                  Kloestitz            1882594/3  45  16
+Beyhl, Johann Gottlieb        11 Aug 1848 Oppenlaender, Maria               Sarata               1882641/2 138  13
+Biech, Gottfried              22 Nov 1845 Wudel, Wilhelmina                 Tarutino             1882636/2  52  58
+Bietz, Jacob                  15 Nov 1845 Bodamer, Justina                  Kloestitz            1882636/2  73  37
+Bietz, Johann                 25 Nov 1843 Mammel, Christina                 Kloestitz            1882594/3  45  30
+Bietz, Johannes  wdw           2 Dec 1848 Frei, Katharina                   Kloestitz            1882641/2 279  41
+Bihlmaier, Johann Georg        2 Nov 1848 Daiss, Maria Magdalena            Sarata               1882641/2 138  18
+Bihlmaier, Johannes           19 Jan 1843 Heubach, Christina Catharina      Sarata               1882594/2 350   1
+Bindewald, Gottfried          10 Nov 1848 Schoenberger, Magdalena           Kloestitz            1882641/2 279  30
+Bindewald, Michael            30 Oct 1847 Mann, Katharina                   Kloestitz            1882639/1 222  33
+Bippus, Philipp               20 Oct 1848 Zeh, Christina                    Kloestitz            1882641/2 279  25
+Birkholz, Johann              18 Oct 1845 Haertner, Ottilia                 Kloestitz            1882636/2  73  30
+Birkholz, Michael             10 Jun 1840 Worach, Juliana                   Tarutino             1883190/4  88  35
+Birkholz, Michael (widower)   24 Jan 1846 Dallmann, Maria Justina           Tarutino             1882638/1  32   4
+Bittau, Gottlieb              25 Oct 1846 Schwanz, Wilhelmina               Arcis                1882637/3 426  25
+Bittner, Wilhelm              17 Nov 1840 Heier, Rosina gb Richter          Alt Arcis            1883190/4  36  44
+Blatt, Jacob                  27 Nov 1847 Hehn, Elisabetha                  Alt Fere Champenoise 1882639/1 175  42
+Blind, Gottfried              29 May 1847 Riethmueller, Anna Maria          Alt Fere Champenoise 1882639/1 175  25
+Blischke, Johann              26 Feb 1848 Jerke, Louise                     Fere Champenoise     1882641/2 200  14
+Bobermin, Christian           30 Sep 1843 Flato?, Katharina                 Tarutino             1882594/3  18  17
+Bodamer, Johannes             14 Nov 1840 Engel, Dorothea                   Tarutino             1883190/4  88  59
+Bodamer, Johannes             14 Nov 1840 Engel, Dorothea                   Kloestitz            1883193/2 219  23
+Boepple, Friedrich            18 May 1840 Lutz, Johanna Maria               Alt Arcis            1883190/4  34  20
+Boepple, Joh. Georg           10 Oct 1846 Faass, Magdalena                  Arcis                1882637/3 426  24
+Boepple, Johannes             25 Mar 1847 Theurer, Catharina                Alt Fere Champenoise 1882639/1 174  16
+Boerner, Johann Georg         28 Jan 1841 Gleich, Magdalena                 Sarata               1883192/2  57   2
+Boeschatzke, Johann Jacob     22 Apr 1848 Schoenberger, Margaretha          Kloestitz            1882641/2 278  13
+Boettcher, August              3 Jun 1843 Faechner, Susanna                 Tarutino             1882594/3  18  11
+Boettcher, Gottfried           4 Nov 1845 Hoffmann, Wilhelmina              Tarutino             1882636/2  52  49
+Bogner, Johann                21 Apr 1843 Rath, Carolina                    Tarutino             1882594/3  18  10
+Bohnet, Christian             16 Apr 1843 Markus, Katharina                 Fere Champenoise     1882594/2 405  10
+Bohnet, Elias                 26 Feb 1842 Babitzki, Rosina                  Alt Fere Champenoise 1883193/2  86   9
+Bohnet, Ferdinant              4 Nov 1841 Keller, Christina                 Tarutino             1883192/2 155  48
+Bollinger, Carl                8 Feb 1845 Engel, Christina                  Kloestitz            1882636/2  73  12
+Bollinger, Jacob               5 May 1848 Herzog, Katharina                 Kloestitz            1882641/2 278  14
+Bonnet, Bernhard               3 Apr 1845 Mogk, Catharina                   Tarutino             1882636/2  52  20
+Bonnet, Jacob                 13 May 1845 Eberle, Rosina                    Tarutino             1882636/2  52  25
+Bork, Michael                 25 Nov 1843 Fano, Karolina                    Fere Champenoise     1882594/2 406  29
+Bork, Michael                 10 May 1845 Kuehn, Elisabeth                  Fere Champenoise     1882636/2  27  19
+Borngraeber, Friedrich         7 Dec 1847 Rath, Wilhelmina                  Tarutino             1882639/1 200  22
+Borngraeber, Johann Friedrich  7 Dec 1847 Rath, Wilhelmina                  Tarutino             1882641/2 239  22
+Bort, Johann                  17 Mar 1843 Isaak, Karolina                   Kloestitz            1882594/3  45  10
+Borth, Jakob                  15 Apr 1848 Schielke, Ana Christina           Tarutino             1882641/2 240  21
+Boschatzke, Johann             7 Feb 1846 Haeger, Friederika                Kloestitz            1882638/1  61  12
+Bossert, Friedrich            18 Jan 1845 Gesse, Justine                    Arcis                1882636/1 413   6
+Bossert, Philipp              14 Mar 1843 Friedrich, Louisa                 Kloestitz            1882594/3  45   9
+Brauer, Carl                   7 Feb 1846 Hermann, Christina                Arcis                1882637/3 426   5
+Braun, Friedrich              18 Dec 1847 Schuett, Karolina                 Kloestitz            1882641/2 278   1
+Brenner, Jacob                11 Jan 1845 Klein, Catharina                  Arcis                1882636/1 413   3
+Brenner, Matthaeus            27 Mar 1847 Christmann, Maria Elisabetha      Alt Fere Champenoise 1882639/1 174  18
+Brickmann, August             19 Feb 1848 Gutsche, Carolina                 Fere Champenoise     1882641/2 200  13
+Briske, Christian              2 May 1840 Ratke, Wilhelmina                 Alt Arcis            1883190/4  32   1
+Brodehl, Gottfried             6 Feb 1847 Allmer, Margaretha                Alt Fere Champenoise 1882639/1 174  12
+Broneske, Gottlieb            21 Oct 1843 Conradt, Louise                   Fere Champenoise     1882594/2 406  19
+Brosst, Georg                 28 Nov 1846 Weber, Elisabetha                 Fere Champenoise     1882638/1   3  28
+Brost, Martin                  8 Oct 1847 Hanschke, Christina               Alt Fere Champenoise 1882639/1 175  31
+Brunsch, Samuel               15 Jun 1841 Ullrich, Carolina                 Tarutino             1883192/2 155  32
+Bublitz, Johann               22 Aug 1846 Lindemann, Wilhelmina             Kloestitz            1882638/1  61  32
+Buchfink, Jakob               25 Oct 1846 Ehemann, Dorothea                 Arcis                1882637/3 426  27
+Buchfink, Johannes            18 Nov 1848 Ulrich, Margaretha                Kloestitz            1882641/2 279  36
+Buchholz, August              25 Sep 1847 Uchner, Barbara                   Kloestitz            1882639/1 222  27
+Buchholz, Peter               10 Aug 1841 Blaskowski, Katharina             Paris                1883192/2 114   5
+Buech, Andreas                15 Apr 1848 Koenig, Magdalena                 Fere Champenoise     1882641/2 200  19
+Buech, Gottfried              22 Dec 1849 Muenz, Elisabeth                  Fere Champenoise     1882651/3 197  33
+Buergle, Adam                 26 Sep 1846 Kraemer, Catharina                Arcis                1882637/3 426  23
+Buerkle, Jacob                21 Oct 1845 Guenther, Dorothea                Tarutino             1882636/2  52  41
+Buerkle, Jacob                20 May 1845 Bunk, Carolina                    Tarutino             1882636/2  52  27
+Buerst, Andreas               29 Dec 1841 Seidler, Friederika               Kloestitz            1883193/2 231  19
+Bunk, Johann                  15 Sep 1846 Hund, Carolina  wdw               Tarutino             1882638/1  33  28
+Busse, Karl                   10 Dec 1841 Kreil, Sophia                     Fere Champenoise II  1883192/2 114   7
+Butterfass, Peter              6 Feb 1844 Deeg, Dorothea                    Kischinew            1882634/3  64   1
+Carlin, August                 5 Feb 1848 Kelm, Rosina                      Fere Champenoise     1882641/2 200   8
+Carlin, Johann Friedrich       7 May 1840 Heiden, Maria                     Alt Arcis            1883190/4  33  12
+Christmann, Jacob             22 Feb 1845 Wolf, Christina                   Arcis                1882636/1 413  17
+Christmann, Philipp           25 Nov 1848 Quiram, Margaretha                Arcis                1882641/2 164  38
+Conrad, Christoph             27 Aug 1841 Klaus, Philippine                 Tarutino             1883192/2 155  36
+Conrad, Gottlieb              22 Jan 1848 Franz, Dorothea                   Fere Champenoise     1882641/2 200   3
+Conradt, Christoph             5 Jan 1843 Damaske, Elionora                 Kloestitz            1882594/3  45   3
+Dalke, Christian               5 Feb 1840 Wiessner, Katharina               Kloestitz            1883193/2 219   6
+Dalke, Christian               5 Feb 1840 Woessner, Catharina               Tarutino             1883190/4  87  14
+Dappert, August                4 Feb 1840 Schuetz, Christina Ros.           Tarutino             1883190/4  87  11
+Dappert, Friedrich             7 Feb 1846 Flato, Wilhelmina                 Kloestitz            1882638/1  61  13
+Dappert, Valentin             28 Dec 1845 Roessler, Louisa                  Kloestitz            1882638/1  61   4
+Decker, Johann                18 Nov 1848 Fregien, Augustina                Kloestitz            1882641/2 279  35
+Deeg, Imanuel                 25 Feb 1843 Schwandt, Karolina                Fere Champenoise     1882594/2 405   6
+Deeg, Ludwig                  17 May 1845 Frank, Barbara                    Fere Champenoise     1882636/2  27  20
+Degen, Martin                 21 Oct 1848 Schneider, Christina              Kloestitz            1882641/2 279  27
+Deisinger, Johann Jacob       30 Dec 1847 Becker, Christina                 Kloestitz            1882641/2 278   2
+Deiss, Jakob                   8 Oct 1841 Herrmann, Margaretha              Sarata               1883192/2  57  15
+Deiss, Michael                22 Jan 1845 Keller, Margaretha                Sarata               1882636/1 392   1
+Demke, Gottlieb               19 Nov 1841 Warneke, Rosina                   Tarutino             1883192/2 156  53
+Demke, Heinrich               18 May 1843 Rothfuss, Catharina               Kloestitz            1882594/3  45  17
+Denning, Karl                 25 Nov 1843 Ritz, Chatharina                  Arcis                1882594/2 372  27
+Deuschle, Adam                25 Jan 1845 Fischer, Christina                Sarata               1882636/1 392   2
+Deuschle, Lukas               23 Jun 1840 Baumann, Christiana Friedrika     Sarata               1883190/3 417   3
+Deuschle, Michael             12 Jun 1847 Buck, Jacobina                    Arcis                1882639/1 147  11
+Dieno, Andreas                 8 Feb 1845 Henke, Eva                        Kloestitz            1882636/2  73  11
+Dieno, Friedrich              30 May 1840 Borth, Wilhelmina                 Alt Arcis            1883190/4  34  24
+Dietterle, Martin             16 Jan 1847 Ruff, Karolina                    Kloestitz            1882639/1 221   5
+Dietterle, Valentin            2 Jan 1847 Engel, Christina                  Kloestitz            1882639/1 221   3
+Dittus, Adam                  22 Nov 1845 Scherer, Christina                Tarutino             1882636/2  52  57
+Dobler, Leopold               28 Jun 1845 Fesenbeck, Wilhelmine             Arcis                1882636/1 413  24
+Doeffinger, Jakob             15 Apr 1848 Zacher, Johanna                   Arcis                1882641/2 164  11
+Doeffinger, Johann Georg      18 Nov 1845 Ersert, Johanna                   Arcis                1882636/1 413  40
+Doeffinger, Johannes          14 May 1846 Hermann, Maria                    Arcis                1882637/3 426  14
+Doelker, Jacob                12 May 1841 Schultz, Eva                      Tarutino             1883192/2 155  18
+Dorsch, Georg Friedrich        8 Jun 1848 Klopfer?, Friedricke              Sarata               1882641/2 138  10
+Dorsch, Georg Michael          7 Sep 1848 Haecker, Juliana Henriette        Sarata               1882641/2 138  15
+Dorsch, Gottlieb              20 Nov 1840 Geistdoerfer, Katharina           Sarata               1883190/3 417   8
+Doster, Joh. Martin            4 May 1848 Riethmueller, Christiana Frieder. Sarata               1882641/2 138   6
+Draht, Gottlieb               23 Jan 1847 Martin, Louise                    Alt Fere Champenoise 1882639/1 174   6
+Drath, Jacob                  14 Mar 1846 Roenn, Wilhelmina                 Tarutino             1882638/1  33  14
+Drath, Johann                 22 Apr 1848 Klein, Louise                     Fere Champenoise     1882641/2 201  24
+Drechsler, Friedrich           5 Nov 1840 Knodel, Justina                   Sarata               1883190/4  35  33
+Eberhard, Wilhelm             14 Oct 1845 Hintz, Anna Maria                 Tarutino             1882636/2  52  37
+Eberhardt, Friedrich          11 Nov 1843 Woltmann, Louise                  Fere Champenoise     1882594/2 406  23
+Eberhardt, Jacob               4 Jan 1845 Hegel, Christina                  Tarutino             1882636/2  52   7
+Ebert, Ferdinand              10 Oct 1846 Reppnak, Justina                  Fere Champenoise     1882638/1   3  18
+Ebner, Christian Friedrich    18 Jul 1844 Burrer, Sabina                    Kischinew            1882634/3  64   3
+Eckert, Christ. Friedrich     21 Nov 1846 Scherzinger, Margaretha           Sarata               1882637/3 400  11
+Eheman, Johann                30 Dec 1847 Stumpp, Justina                   Tarutino             1882641/2 239  27
+Ehne, Christian               26 Aug 1841 Schlenker, Catharina              Tarutino             1883192/2 155  35
+Ehni, Christian               26 Aug 1841 Schlenker, Katharina              Kloestitz            1883193/2 231  14
+Eichelberg, Friedrich         30 Nov 1841 Tornaske, Elisabeth               Tarutino             1883192/2 156  55
+Eisenbeiss, Johann            30 Nov 1846 Oster, Magdalena                  Kloestitz            1882638/1  62  41
+Elhard, Christian              5 Feb 1848 Stuber, Dorothea                  Tarutino             1882641/2 239   6
+Engel, Friedrich              10 Jun 1843 Jetter?, Christina                Fere Champenoise     1882594/2 406  13
+Engel, Jacob                  12 Apr 1843 Herzogen, Rosina                  Kloestitz            1882594/3  45  12
+Engel, Jacob  wdw             25 Nov 1848 Boedamer, Elisabetha              Kloestitz            1882641/2 279  37
+Engel, Johannes               11 Jan 1845 Steinhuelb, Louise                Kloestitz            1882636/2  73   6
+Engel, Valentin                1 Nov 1845 Wegner, Elisabetha                Kloestitz            1882636/2  73  32
+Engel, Wilhelm                 5 Feb 1848 Schimming, Wilhelmina             Fere Champenoise     1882641/2 200   9
+Engelhard, Wilhelm            25 May 1847 Peschel, Rosina                   Kloestitz            1882639/1 221  21
+Eni, Jackob                   15 Apr 1848 Metzel, Margaretha                Arcis                1882641/2 164   9
+Eppler, Johannes              30 May 1846 Sinkbeil, Christina               Arcis                1882637/3 426  18
+Erdman, August                12 Feb 1848 Ingber, Karolina                  Tarutino             1882641/2 240  11
+Erdmann, Christoph            11 Jan 1845 Fischer, Dorothea                 Tarutino             1882636/2  52  12
+Ergetzinger, Johannes  wdw    17 Oct 1848 Hach, Sophia  wdw                 Kloestitz            1882641/2 279  23
+Ernst, Friedrich               4 Feb 1841 Motzenberger, Christiane          Arcis                1883192/2  82   3
+Ernst, Georg Michael          14 Feb 1846 Hildebrand, Rosina                Arcis                1882637/3 426   8
+Ernst, Jakob Friedrich         9 Jul 1842 Roth, Katharina                   Sarata               1883193/2  42   8
+Ernst, Johann Georg           15 Feb 1845 Lang, Catharina                   Arcis                1882636/1 413  14
+Esslinger, Andreas            28 Dec 1844 Irion, Catharina                  Tarutino             1882636/2  52   6
+Esslinger, Christian          20 Nov 1847 Hildebrandt, Friederika           Kloestitz            1882639/1 222  42
+Esslinger, Jakob              15 Dec 1849 Kalmbach, Christina               Tarutino             1882651/3 237  60
+Esslinger, Johann             30 Jul 1840 Neumann, Julianna                 Grossliebenthal      1883190/4  34  30
+Esslinger, Karl               10 Nov 1841 Bauer, Christina                  Katzbach             1883192/2 114   6
+Esslinger, Matthaeus          23 Oct 1847 Mueller, Christina Barbara        Kloestitz            1882639/1 222  31
+Faechner, Michael             28 Oct 1845 Biech, Rosina                     Tarutino             1882636/2  52  44
+Faechner, Michael              8 Oct 1840 Roechert, Louisa                  Tarutino             1883190/4  88  46
+Faelscher, Jacob              29 Dec 1849 Ziebarth, Louisa                  Tarutino             1882651/3 237  63
+Fai, Johann                   29 Dec 1849 Friedrich, Susanna                Kloestitz            1882651/3 281   6
+Falk, Jacob                    7 Jun 1845 Richter, Charlotte                Arcis                1882636/1 413  22
+Falk, Jakob                   15 Nov 1840 Rosenfeld, Anna Rosina            Alt Arcis            1883190/4  36  42
+Falkenberg, Friedrich         19 Mar 1842 Lange, Wilhelmina                 Alt Fere Champenoise 1883193/2  86  11
+Fanderich, Martin              1 Nov 1845 Hammel, Caroline                  Tarutino             1882636/2  52  47
+Fandrich, Michael             27 Mar 1847 Kohler, Christina                 Alt Fere Champenoise 1882639/1 174  17
+Fandrich, Michael              3 Jun 1841 Schill, Margaretha                Katzbach             1883192/2 114   4
+Fehling, Johann               30 Jan 1847 Zeh, Magdalena                    Kloestitz            1882639/1 221  10
+Fennrich, Christoph            6 Sep 1846 Babitzke, Rosina                  Fere Champenoise     1882638/1   2  14
+Fercho, Michael               15 Nov 1845 Lang, Margaretha                  Fere Champenoise     1882636/2  27  34
+Fink, Christian               30 Jan 1847 Carl, Magdalena                   Kloestitz            1882639/1 221   6
+Fink, Joseph                  14 Oct 1845 Wuest, Catharina                  Tarutino             1882636/2  52  36
+Finkbeiner, Friedrich          2 Jun 1842 Riedel, Anna Maria                Alt Fere Champenoise 1883193/2  86  13
+Fischer, Friedrich            22 Oct 1840 Holisch, Susanna                  Tarutino             1883190/4  88  48
+Fischer, Gottlieb             15 Nov 1845 Babitzke, Anna Maria              Fere Champenoise     1882636/2  27  35
+Fischer, Johann               18 Oct 1845 Bruege, Maria Elisabetha          Tarutino             1882636/2  52  38
+Fischer, Johannes             21 Jan 1841 Eichele, Margaretha               Sarata               1883192/2  57   3
+Fitzer, Christian              6 May 1841 Wegast, Christina                 Tarutino             1883192/2 155  15
+Flegel, Johann                 4 Nov 1848 Hartmann, Karolina                Tarutino             1882641/2 240  47
+Fleig, Ehrhard                22 Oct 1847 Ensslin, Christina                Tarutino             1882639/1 200  17
+Floether, Christoph            3 Jan 1846 Franz, Elisabetha                 Fere Champenoise     1882638/1   2   1
+Fode, Matthaeus               29 Jul 1848 Maier, Catharina                  Fere Champenoise     1882641/2 201  28
+Fohde, Christian              14 Oct 1846 Herrmann, Friederika              Tarutino             1882638/1  33  35
+Frank, Gottlieb               17 May 1842 Schwarz, Henriette                Arcis                1883193/2  63  13
+Frantz, Johann                15 Nov 1845 Bader, Louise                     Fere Champenoise     1882636/2  27  33
+Fredrich, Carl                13 Feb 1840 Neuman, Christine                 Tarutino             1883190/4  87  19
+Fredrich, Jacob               22 Aug 1846 Hiller, Wilhelmina                Tarutino             1882638/1  33  26
+Fredrich, Jakob               18 Nov 1848 Hiller, Louisa                    Tarutino             1882641/2 241  54
+Fredrich, Johann              26 Feb 1848 Priess, Wilhelmina                Tarutino             1882641/2 240  16
+Fredrich, Ludwig              22 Mar 1841 Dallmann, Louisa                  Tarutino             1883192/2 155  10
+Fredrich, Wilhelm             28 Oct 1848 Drath, Dorothea                   Tarutino             1882641/2 240  43
+Fredrich, Wilhelm             20 Nov 1841 Tiede, Wilhelmine                 Tarutino             1883192/2 156  51
+Fregien, Christian            30 Oct 1847 Nill, Margaretha                  Kloestitz            1882639/1 222  35
+Fregien, Michael              22 Feb 1845 Biederstaedt, Friederika          Kloestitz            1882636/2  73  16
+Freier, Gottfried              4 Jul 1846 Tschaschke, Dorothea              Arcis                1882637/3 426  20
+Freimark, Wilhelm             30 Dec 1847 Kuck, Dorothea                    Fere Champenoise     1882641/2 200  46
+Freimuth, Christian           21 Feb 1846 Hueger, Maria                     Tarutino             1882638/1  32   9
+Freitag, Michael              11 Apr 1846 Gaiser, Maria                     Arcis                1882637/3 426  10
+Freymark, Ernst               12 Aug 1848 Baneck, Salome                    Arcis                1882641/2 164  21
+Fribus, David                 30 Jan 1847 Rothacker, Elisabetha             Kloestitz            1882639/1 221   8
+Fried, Heinrich               11 Nov 1848 Schulz, Wilhelmina                Tarutino             1882641/2 240  48
+Friedrich, Christian           1 Jul 1843 Geissler, Katharina               Fere Champenoise     1882594/2 406  16
+Friedrich, Michael            19 Sep 1846 Allmer, Magdalena                 Fere Champenoise     1882638/1   2  15
+Frik, Christian                4 Feb 1841 Bandel, Katharina Maria           Sarata               1883192/2  57   5
+Frisch, Johannes              11 Nov 1848 Seidler, Friedrika                Kloestitz            1882641/2 279  31
+Friske, Johann                11 Nov 1848 Richter, Anna Dorothea            Fere Champenoise     1882641/2 201  40
+Fritz, David                  18 Nov 1848 Oberlin, Sophia                   Arcis                1882641/2 164  35
+Froemrich, Franz              10 Jun 1848 Aichele, Katharina                Arcis                1882641/2 164  16
+Fruck, Christian               4 Nov 1848 Sommerfeld, Anna                  Tarutino             1882641/2 240  44
+Fruck, Ludwig                 26 Aug 1848 Wonnenberg, Eva Rosina            Tarutino             1882641/2 240  31
+Fruck, Wilhelm                26 Dec 1847 Arndt, Eleonora                   Tarutino             1882641/2 239  23
+Gaeckel, Jacob                21 Oct 1846 Kraemer, Elisabetha               Tarutino             1882638/1  33  37
+Gaeckle, Jakob                1 Dec  1849 Schlenger, Catharina              Tarutino             1882651/3 237  54
+Gaeckle, Johann                8 Nov 1845 Heier, Christina                  Tarutino             1882636/2  52  50
+Gaessler, Johann Georg        25 Nov 1841 Oberlaender, Friederika           Sarata               1883192/2  58  20
+Gaessler, Leopold             19 Sep 1848 Eggenberger, Anna                 Sarata               1882641/2 138  16
+Gahl, David                   28 Nov 1846 Brenner, Anna Maria               Fere Champenoise     1882638/1   3  27
+Gall, Christoph               12 May 1840 Nickel, Luise                     Paris                1883190/4  33  17
+Gans, Ludwig                  13 May 1847 Fink, Friederika                  Sarata               1882639/1 119   4
+Gantz, Gottlieb               22 Jun 1841 Riebhagel, Heinriette             Tarutino             1883192/2 155  26
+Gebhart, Sebastian            28 Aug 1841 Fink, Eva Magdalena               Sarata               1883192/2  57  11
+Gehring, Ludwig               27 Nov 1847 Bauer, Carolina                   Alt Fere Champenoise 1882639/1 175  40
+Gehring, Philipp              10 Jan 1846 Koenig, Christina                 Fere Champenoise     1882638/1   2   2
+Geisler, Stephan              22 Jan 1842 Nikkel, Rosina                    Alt Fere Champenoise 1883193/2  86   2
+Gentner, Christian             2 Dec 1848 Schnaidtmann, Friedrika           Sarata               1882641/2 138  20
+Gerstenberger, Gottlieb        1 Feb 1845 Ruff, Catharina                   Kloestitz            1882636/2  73  10
+Gerstenberger, Gottlieb       22 Dec 1849 Wegenast, Friederika              Kloestitz            1882651/3 281   2 widower
+Giek, Christoph               26 Nov 1846 Dobler, Catharina                 Arcis                1882637/3 426  43
+Giek, Daniel                  26 Nov 1846 Ernst, Rosina                     Arcis                1882637/3 426  44
+Giessler, Christian            1 Mar 1845 Weber, Magdalena                  Kloestitz            1882636/2  73  17
+Giessler, Christian (widower) 22 Dec 1849 Hein, Christina                   Kloestitz            1882651/3 281   1
+Giessler, Heinrich            15 Jan 1848 Dalke, Eva                        Kloestitz            1882641/2 278   6
+Gill, Christoph                2 Feb 1840 Schert, Catharina                 Tarutino             1883190/4  87   4
+Gill, Christoph                2 Feb 1840 Schert, Katharina                 Kloestitz            1883193/2 219   1
+Goehner, Jacob                 9 Oct 1847 Hehr, Anna Maria                  Kloestitz            1882639/1 222  28
+Goehner, Johannes              7 Mar 1846 Widmer, Christina                 Tarutino             1882638/1  32  12
+Goehring, Gottlieb            23 May 1846 Nill, Friederika                  Kloestitz            1882638/1  61  26
+Goetz, Daniel                 21 Feb 1846 Ginsburg, Eva                     Kloestitz            1882638/1  61  17
+Goetz, Johann                  5 Feb 1840 Mueller, Louisa                   Tarutino             1883190/4  87   7
+Goll, Wilhelm                  5 Mar 1845 Bossert, Barbara                  Kloestitz            1882636/2  73  18
+Golz, Johann                  11 Nov 1840 Rabe, Anna                        Alt Arcis            1883190/4  35  40
+Golz, Karl                     3 Jun 1848 Schilke, Anna                     Arcis                1882641/2 164  14
+Grams, Andreas                28 Dec 1845 Rattey, Christina                 Kloestitz            1882638/1  61   3
+Graumann, August              16 Nov 1847 Schulz, Christina                 Tarutino             1882639/1 200  19
+Graumann, Gottlieb            28 Oct 1845 Flegel, Wilhelmina                Tarutino             1882636/2  52  43
+Graumann, Samuel              15 Apr 1848 Mutschall, Maria                  Tarutino             1882641/2 240  22
+Gross, Carl                    9 Mar 1843 Doberstein, Carolina              Tarutino             1882594/3  18   9
+Gross, Christian              25 Nov 1848 Schulz, Karolina                  Tarutino             1882641/2 241  61
+Gross, Christian              20 Nov 1847 Stark, Wilhelmina                 Arcis                1882639/1 147  22
+Gross, Christoph              29 Jun 1841 Siebert, Louisa                   Tarutino             1883192/2 155  29
+Gross, Gottlieb                9 Jul 1846 Dorsch, Friederika                Sarata               1882637/3 400   6
+Gross, Johann                  6 Nov 1841 Schultz, Friederika               Tarutino             1883192/2 155  47
+Gross, Johann Jacob           16 Sep 1843 Mutzenberger, Catharina           Sarata               1882594/2 350  14
+Grosshans, Carl               12 Nov 1842 Kern, Elisabetha                  Alt Fere Champenoise 1883193/2  86  18
+Grossmann, Johann             25Jan? 1843 Kraemer, Katharina                Arcis                1882594/2 372   1
+Gruen, Johann Heinrich        21 Oct 1847 Weissenberger, Rosine gb Bichel?  Arcis                1882639/1 147  16
+Gruen, Michael                14 Jan 1841 Reiter, Elisabeth gb Jochim       Arcis                1883192/2  82   1
+Grueneich, Stanislaus         10 Nov 1840 Makus, Christina gb Fecho         Alt Arcis            1883190/4  35  39
+Gueldner, Johann               4 Jan 1845 Neitz, Christina                  Kloestitz            1882636/2  73   5
+Guenter, Johann               16 Oct 1847 Kramer, Rosina                    Alt Fere Champenoise 1882639/1 175  33
+Guenter, Johannes             29 Dec 1840 Heer, Anna Maria                  Tarutino             1883192/2 155   1
+Guenther, Gottlieb             4 Jan 1845 Jesse, Friederika                 Kloestitz            1882636/2  73   4
+Guenther, Jakob               29 Dec 1849 Liebelt, Charlotte                Tarutino             1882651/3 237  66
+Guenther, Johannes            29 Dec 1840 Hehr, Anna Maria                  Tarutino             1883190/4  88  70
+Gust, Christoph                6 Feb 1841 Eberhardt, Dorothea               Katzbach             1883192/2 114   2
+Gutknecht, Michael             7 Feb 1841 Kappel, Catharine                 Arcis                1883192/2  82   5
+Gutknecht, Michael             2 Dec 1848 Riethmuller, Rosina               Fere Champenoise     1882641/2 201  45
+Gutknecht, Samuel             13 Sep 1845 Rehmann, Luise                    Arcis                1882636/1 413  30
+Gutknecht, Wilhelm            16 Dec 1848 Horning, Agnes                    Arcis                1882641/2 164  44
+Gutsche, Friedrich            25 Jan 1845 Stach, Beata                      Fere Champenoise     1882636/2  26  12
+Gutsche, Gottlob              10 Oct 1846 Heinrich, Carolina                Fere Champenoise     1882638/1   3  17
+Gwinner, Friedrich             6 May 1845 Irion, Anna                       Tarutino             1882636/2  52  23
+Haas, Jakob                    2 Dec 1848 Schaderu?, Dorothea               Arcis                1882641/2 164  42
+Haas, Johann                  12 Apr 1843 Krueger, Elisabetha               Kloestitz            1882594/3  45  14
+Haase, Gottlieb               14 May 1845 Koenig, Dorothea                  Fere Champenoise     1882636/2  27  25
+Haase, Samuel                  4 Nov 1848 Busse, Justina                    Fere Champenoise     1882641/2 201  35
+Habelmann, Frantz             15 Mar 1845 Hach, Katharina                   Fere Champenoise     1882636/2  27  16
+Habelmann, Martin             27 Nov 1847 Rast, Elisabetha                  Alt Fere Champenoise 1882639/1 175  41
+Haberer, Johann Georg         11 Nov 1843 Nikel, Barbara                    Kloestitz            1882594/3  45  28
+Hach, Friedrich               25 Jan 1845 Hetterle, Sophie                  Kloestitz            1882636/2  73   8
+Hach, Johannes                10 Jan 1846 Stauber, Katharina                Kloestitz            1882638/1  61   8
+Hach, Johannes   wdw          22 Jan 1848 Russhardt, Karolina               Kloestitz            1882641/2 278   7
+Hadel, Georg                  13 Jun 1846 Breitenbuecher, Barbara           Arcis                1882637/3 426  19
+Haeger, Bernhard               1 Feb 1845 Kuhn, Dorothea                    Tarutino             1882636/2  52  13
+Haeger, Wilhelm                7 Mar 1846 Wahl, Gottliebina                 Kloestitz            1882638/1  61  19
+Haerter, Heinrich (widower)   20 Jul 1847 Haerter, Katharina (widow)        Kloestitz            1882639/1 222  24
+Hahn, Jakob                   24 Apr 1847 Bandel, Elisabetha                Sarata               1882639/1 119   2
+Hahn, Samuel                  18 Nov 1841 Sommer., Rosina Katharina         Sarata               1883192/2  57  19
+Haier, Georg                  21 Oct 1846 Matern, Christina                 Tarutino             1882638/1  33  38
+Haisch, Ludwig                13 Sep 1845 Schlenker, Catharina              Arcis                1882636/1 413  31
+Halisch, Gottlieb              5 Nov 1840 Goering, Maria                    Tarutino             1883190/4  88  55
+Haller, Ludwig                30 Sep 1848 Heck, Dorothea                    Arcis                1882641/2 164  24
+Hammer, Adam                   2 May 1846 Dreher, Eva                       Arcis                1882637/3 426  11
+Hammer, Bernhardt             13 May 1843 Deeg, Barbara                     Fere Champenoise     1882594/2 406  11
+Handel, Daniel                 3 Jun 1843 Vogel, Elisabeth                  Arcis                1882594/2 372  10
+Hanneberg, Christian           9 Sep 1848 Schweitz, Christina               Tarutino             1882641/2 240  30
+Hanneberg, Ludwig             15 Apr 1848 Schweitz, Justina                 Tarutino             1882641/2 240  20
+Hannemann, Carl                2 May 1846 Holldorf, Christina  wdw          Tarutino             1882638/1  33  19
+Hartel, Johann                13 Feb 1840 Schwarz, Catharina                Tarutino             1883190/4  87  22
+Hartmann, Christian Friedrich 31 Jan 1846 Schaeff, Karolina Christiana      Kloestitz            1882638/1  61  11
+Hartmann, Gottfried           13 Sep 1845 Reichert, Margaretha              Arcis                1882636/1 413  29
+Hartmann, Johann              15 Feb 1845 Luettke, Anna                     Kloestitz            1882636/2  73  14
+Hartmann, Johannes            15 Apr 1841 Kitzler, Karolina gb Bruner       Sarata               1883192/2  57   7
+Hartmann, Wilhelm             25 NOv 1848 Winter, Louisa                    Tarutino             1882641/2 241  63
+Hauf, Martin                  28 Oct 1846 Schottle, Barbara                 Tarutino             1882638/1  33  33
+Haupt, Ludwig                 15 May 1847 Hildebrandt, Wilhelmina           Kloestitz            1882639/1 221  19
+Hausch, Christian             30 Dec 1841 Martin, Karolina                  Katzbach             1883192/2 114  10
+Hauser, Joseph                28 Dec 1845 Meder, Margaretha                 Kloestitz            1882638/1  61   2
+Hausser, Mathaeus             11 Mar 1843 Helbert, Magdalena                Fere Champenoise     1882594/2 405   7
+Hech, Friedrich                5 Jan 1843 Mackle, Magdalena                 Kloestitz            1882594/3  45   2
+Heck, August                  30 May 1846 Wagner, Christina                 Arcis                1882637/3 426  16
+Hedrich, Phillipp             19 Oct 1843 Gast, Christiana                  Arcis                1882594/2 372  18
+Hehr, Friedrich               25 Nov 1843 Schlenker, Anna Maria             Tarutino             1882594/3  19  23
+Hehr, Johannes  wdw           13 Jun 1846 Reich, Dorothea                   Tarutino             1882638/1  33  23
+Heid, Johann                   8 Mar 1845 Kern, Maria Carolina              Kloestitz            1882636/2  73  22
+Heiden, Johann                30 Sep 1848 Schmidt?, Magdalena               Arcis                1882641/2 164  23
+Heidinger, Jakob              19 Dec 1846 Reinke, Magdalena                 Tarutino             1882639/1 200  45
+Heidt, Joseph                  3 Aug 1841 Haeger, Katharina                 Kloestitz            1883193/2 231  13
+Heidt, Joseph                  3 Aug 1841 Heier, Catharina                  Tarutino             1883192/2 155  34
+Heier, Friedrich              15 Jul 1841 Hein, Anna                        Tarutino             1883192/2 155  30
+Hein, Georg                   27 Dec 1840 Ziel, Elisabetha                  Kloestitz            1883193/2 219  26
+Hein, Georg                   27 Dec 1840 Ziell, Elisabetha                 Tarutino             1883190/4  88  66
+Heine, Christoph               4 Jan 1845 Faelscher, Beata                  Arcis                1882636/1 413   1
+Heinle, Andreas               10 Jun 1840 Otterstaetter, Elisabetha         Tarutino             1883190/4  88  34
+Heinle, Andreas               10 Jun 1840 Otterstaetter, Elisabetha         Kloestitz            1883193/2 219  13
+Heinrich, Carl                10 Apr 1841 Fink, Maria Karolina              Sarata               1883192/2  57   9
+Heinrich, Gottfried            2 Oct 1847 Spielhaag, Carolina               Alt Fere Champenoise 1882639/1 175  30
+Heinrich, Gottlieb            22 Feb 1845 Kletke, Louise                    Fere Champenoise     1882636/2  27  14
+Heinzelmann, Johann           28 Nov 1846 Fiedel, Wilhelmina                Fere Champenoise     1882638/1   3  26
+Helber, Michael               23 Aug 1845 Beker, Louise                     Fere Champenoise     1882636/2  27  29
+Heller, Conrad                22 Oct 1845 Theurer, Maria                    Tarutino             1882636/2  52  40
+Heller, Friedrich              1 May 1847 Finkbeiner, Dorothea              Alt Fere Champenoise 1882639/1 175  22
+Hemmerling, Friederich        11 Nov 1843 Jans, Louise                      Fere Champenoise     1882594/2 406  24
+Hemmerling, Gottlieb          10 Oct 1846 Duerr, Anna Maria                 Fere Champenoise     1882638/1   3  19
+Hengstler, Johannes           25 Nov 1848 Schuetz, Katharina                Arcis                1882641/2 164  36
+Henne, Georg Peter             2 NOv 1843 Mardel, Christina                 Kloestitz            1882594/3  45  26
+Henne, Gottlieb               13 Feb 1840 Seidler, Margaretha               Tarutino             1883190/4  87  23
+Henne, Gottlieb               13 Feb 1840 Seidler, Margaretha               Kloestitz            1883193/2 219  10
+Henneberg, Wilhelm            27 Dec 1842 Radke, Justina                    Tarutino             1882594/3  18   1
+Hennig, Friedrich             27 Nov 1849 Patter, Eleonora                  Tarutino             1882651/3 237  53
+Hensel, Martin                12 Dec 1849 Nickel, Anna Dorothea Elisabeth   Fere Champenoise     1882651/3 197  31
+Hermann, Friedrich             6 May 1848 Kuest, Maria                      Kloestitz            1882641/2 278  17
+Hermann, Johann                7 Feb 1846 Lang, Anna Maria                  Arcis                1882637/3 426   6
+Hermann, Johann               21 Sep 1846 Schaefer, Carolina                Arcis                1882637/3 426  22
+Hermann, Johann Wilhelm        2 Nov 1843 Wahler, Eva Margaretha            Sarata               1882594/2 350  17
+Herrman, Georg                 9 Sep 1843 Richter, Dorothea                 Arcis                1882594/2 372  15
+Herrmann, Friedrich           19 May 1843 Mueller, Magdalena                Arcis                1882594/2 372   9
+Herrmann, Karl                 3 May 1845 Knodel, Katharina                 Fere Champenoise     1882636/2  27  18
+Herrmann, Philipp             20 Jul 1842 Deisinger, Ursala                 Sarata               1883193/2  42   9
+Herrmann, Philipp             30 Jan 1847 Stach, Friederike                 Alt Fere Champenoise 1882639/1 174   9
+Hess, Carl                    21 Oct 1848 Kessel, Eva                       Kloestitz            1882641/2 279  26
+Hetzer, Ludwig                 6 Feb 1840 Fanrich, Dorothea                 Tarutino             1883190/4  87  10
+Hildebrand, Andreas           29 Dec 1849 Reinhardt, Christina              Kloestitz            1882651/3 281   3
+Hildebrand, Johann            20 Feb 1848 Jans, Eva                         Arcis                1882641/2 164   6
+Hildebrand, Wilhelm            5 Feb 1842 Brucks, Rosina                    Arcis                1883193/2  63   6
+Hildebrand, Wilhelm            9 May 1845 Kuhjat, Wilhelmine                Arcis                1882636/1 413  21
+Hille, Gottlieb                4 Nov 1845 Leischner, Wilhelmina             Tarutino             1882636/2  52  48
+Hille, Wilhelm                22 Apr 1848 Haass, Karolina                   Tarutino             1882641/2 240  24
+Hiller, Johann                29 Dec 1849 Brenner, Rosina                   Fere Champenoise     1882651/3 197  37
+Hiller, Martin                20 Dec 1845 Thumlert, Karolina                Kloestitz            1882638/1  61   1
+Hinss, Christian              18 Jan 1845 Kujat, Justina                    Fere Champenoise     1882636/2  26   4
+Hintz, Carl                   22 Feb 1845 Sikorsky, Maria                   Arcis                1882636/1 413  15
+Hintz, Johann                  1 Aug 1846 Fribus, Rosina                    Kloestitz            1882638/1  61  31
+Hinz, Christian (widower)     28 Dec 1845 Mueller, Wilhelmina               Tarutino             1882638/1  32  61
+Hinz, Jakob                   25 Nov 1848 Graeflich, Justina                Tarutino             1882641/2 241  57
+Hinz, Wilhelm                  8 Jan 1848 Marks, Wilhelmina                 Tarutino             1882641/2 239   2
+Hinz, Wilhelm                 24 Feb 1842 Richter, Karolina                 Arcis                1883193/2  63   9
+Hirsch, Georg                  8 Nov 1845 Giessler, Friederika              Kloestitz            1882636/2  73  34
+Hirschkorn, Andreas            8 Feb 1840 Germann, Johanna                  Tarutino             1883190/4  87   6
+Hirschkorn, Christoph         22 Feb 1845 Hannemann, Louise                 Tarutino             1882636/2  52  15
+Hirschkorn, Michael           22 Jun 1843 Huff, Justina                     Kloestitz            1882594/3  45  19
+Hock, Johannes                24 Oct 1840 Jasmann, Luisa                    Sarata               1883190/4  35  31
+Hock, Peter                   22 Feb 1845 Riethmueller, Carolina            Sarata               1882636/1 392   5
+Hoellwarth, Johann Georg       5 Nov 1840 Dobler, Margaretha                Sarata               1883190/3 417   6
+Hoess, Johannes               27 Nov 1847 Bergstraesser, Barbara            Kloestitz            1882639/1 222  45
+Hoff, Gottlieb                 1 Feb 1845 Raschke, Luise                    Arcis                1882636/1 413   9
+Hoffmann, Carl                 4 Feb 1847 Radke, Anna Christina             Tarutino             1882639/1 200   6
+Hoffmann, Gottlieb             6 Mar 1845 Kronwald, Elisabetha              Kloestitz            1882636/2  73  19
+Hoffmann, Gottlob             21 Jan 1843 Quast, Friedrika                  Fere Champenoise     1882594/2 405   2
+Hoffmann, Jakob                5 Jan 1843 Dieterle, Barbara                 Kloestitz            1882594/3  45   4
+Holldorf, Carl                26 Jun 1841 Drath, Christina                  Tarutino             1883192/2 155  28
+Horning, Johann               31 Oct 1846 Hermann, Justina                  Arcis                1882637/3 426  33
+Hornung, Georg Adam            4 May 1848 Geiger?, Elisabetha               Sarata               1882641/2 138   5
+Huber, Christian              23 Jul 1840 Sauter, Margarethe                Tarutino             1883190/4  88  42
+Huber, Johann                 21 Oct 1846 Hauf, Dorothea                    Tarutino             1882638/1  33  32
+Huelscher, Carl Friedrich     27 Dec 1840 Laechelt, Anna Carolina           Tarutino             1883190/4  88  67
+Human, Heinrich               19 Nov 1846 Back, Christiana                  Arcis                1882637/3 426  38
+Humann, Adam                  10 Jun 1848 Faul, Karolina                    Arcis                1882641/2 164  17
+Hummel, Andreas               30 Sep 1848 Wolf, Eleonora                    Tarutino             1882641/2 240  34
+Hund, Michael                  5 Jun 1847 Dallmann, Susanna                 Tarutino             1882639/1 200  12
+Hundt, Gottlieb               28 May 1841 Schuetz, Wilhelmine               Tarutino             1883192/2 155  21
+Idler, Gottlob                17 Feb 1842 Fink, Barbara                     Sarata               1883193/2  42   4
+Idler, Johann Georg           26 Apr 1841 Heid, Rosina                      Sarata               1883192/2  57  10
+Ingber, Gottlieb              25 Nov 1848 Rohloff, Wilhelmina               Tarutino             1882641/2 241  56
+Irion, Friedrich              20 Jan 1843 Heidinger, Louise                 Tarutino             1882594/3  18   2
+Irion, Johann Martin          21 Apr 1842 Riethmueller, Catharina           Alt Fere Champenoise 1883193/2  86  12
+Irion, Samuel                  7 May 1840 Mueller, Magdalena                Alt Arcis            1883190/4  33  11
+Isaak, Carl                   22 May 1847 Schmiedt, Catharina               Alt Fere Champenoise 1882639/1 175  24
+Isaak, Christian              29 May 1845 Selcho, Wilhelmine                Tarutino             1882636/2  52  28
+Isaak, Ernst                  12 Aug 1848 Busch, Christina                  Fere Champenoise     1882641/2 201  27
+Isaak, Johann                  7 Oct 1848 Hehr, Dorothea                    Fere Champenoise     1882641/2 201  31
+Issler, Johann Georg          13 May 1847 Messerle, Barbara                 Sarata               1882639/1 119   3
+Issler, Michael               22 Feb 1843 Zimmermann, Christina             Arcis                1882594/2 372   5
+Jahns, Gottlieb               25 Jan 1845 Stompp, Karolina                  Fere Champenoise     1882636/2  26   6
+Janke, Christian              24 Oct 1846 Neumann, Wilhelmina               Arcis                1882637/3 426  28
+Janke, Friedrich              21 May 1848 Machau, Wilhelmina                Arcis                1882641/2 164  12
+Janke, Gottlieb               25 Nov 1848 Kallis, Karolina                  Arcis                1882641/2 164  40
+Janke, Gottlieb               17 Jun 1845 Wenschleg, Euphrosyne             Arcis                1882636/1 413  23
+Janke, Johann                 15 Nov 1840 Schock, Christina gb Schmidt      Alt Arcis            1883190/4  36  43
+Janke, Martin                 30 Jun 1843 Deuschle, Beade                   Arcis                1882594/2 372  13
+Jans, August                   3 Jan 1846 Schmidt, Christina                Kloestitz            1882638/1  61   5
+Jans, Carl                    29 Jan 1848 Kuehn, Anna Justina               Fere Champenoise     1882641/2 200   6
+Jans, Christian                8 Nov 1845 Neumann, Luise                    Arcis                1882636/1 413  36
+Jans, Christian               28 Oct 1848 Schroeder, Louise                 Fere Champenoise     1882641/2 201  39
+Jaquart, Heinrich             30 Apr 1842 Kohls, Rosine                     Arcis                1883193/2  63  12
+Jasmann, Gottlieb             14 Nov 1846 Joerk, Christina                  Fere Champenoise     1882638/1   3  21
+Jasmann, Johann               22 Jan 1848 Martin, Carolina                  Fere Champenoise     1882641/2 200   5
+Jaton, Francois                6 Feb 1841 Buxel, Karolina                   Sarata               1883192/2  57   6
+Jaton, Johann                 11 Oct 1845 Niederreiter, Jakobina            Sarata               1882636/1 392  14
+Jauch, Christian              8 Dec  1849 Sept, Rosina                      Tarutino             1882651/3 237  58
+Jauch, Christoph              8 Dec  1849 Scherbinski, Anna Maria           Tarutino             1882651/3 237  57
+Jerke, Johann                  5 Feb 1848 Gutsche, Rosina                   Fere Champenoise     1882641/2 200  10
+Jerke, Samuel                 21 Dec 1847 Lobe, Christina                   Tarutino             1882641/2 239  26
+Jeske, Johann                 18 Nov 1843 Hund, Justine                     Tarutino             1882594/3  19  22
+Jeski, Johann                  5 Nov 1841 Janns, Louisa                     Arcis                1883192/2  82  16
+Jesse, Christoph               5 Feb 1848 Beier, Wilhelmina                 Arcis                1882641/2 164   4
+Jesse, Johann                 26 Dec 1840 Gill, Catharina                   Tarutino             1883190/4  88  62
+Jesske, Christian             14 Jan 1843 Kuck, Louisa                      Kloestitz            1882594/3  45   5
+Joachim, Georg Adam            4 Nov 1841 Schaefer, Katharina               Sarata               1883192/2  57  17
+Joachim, Johann                8 Nov 1845 Bonnet, Johanna                   Arcis                1882636/1 413  37
+Joachim, Johann               15 May 1847 Stadel, Christina                 Arcis                1882639/1 147  10
+Juengling, Andreas (widower)  25 Oct 1843 Frei, Wilhelmine                  Fere Champenoise     1882594/2 406  21
+Juengling, Conrad             28 Oct 1846 Hiller, Eva                       Tarutino             1882638/1  33  40
+Jung, Heinrich                 4 Feb 1841 Thonn, Sophia                     Arcis                1883192/2  82   4
+Just, Friedrich               21 Apr 1847 Kleis, Martha                     Alt Fere Champenoise 1882639/1 175  21
+Justawitz, Johann             29 Dec 1849 Brisske, Wilhelmina               Tarutino             1882651/3 237  64
+Kaess, Jacob Friedrich        26 May 1843 Reuther, Christina Rosina         Sarata               1882594/2 350  10
+Kahlmaier, Franz               5 Feb 1842 Beierbach, Christina              Alt Fere Champenoise 1883193/2  86   5
+Kalisch, Friedrich             5 Nov 1840 Goehring, Anna Maria              Kloestitz            1883193/2 219  20
+Kallis, Jakob                  6 Jan 1848 Maier, Karolina                   Arcis                1882641/2 164   2
+Kalmbach, Adam                12 Jun 1847 Sackmann, Katharina               Tarutino             1882639/1 200  13
+Kalmbach, Friedrich           15 Nov 1845 Sackmann, Christina               Tarutino             1882636/2  52  54
+Kalmbach, Friedrich           30 Oct 1841 Stok, Maria                       Katzbach             1883192/2 114   5
+Kalmbach, Johannes             5 Dec 1846 Mantz, Anna Maria                 Tarutino             1882638/1  33  42
+Kannenwischer, Christoph      29 Jun 1843 Birkholz, Wilhelmina              Tarutino             1882594/3  18  13
+Kanner?, Johann Abraham (wid) 14 Sep 1843 Bareither, Christina              Sarata               1882594/2 350  13
+Kanner?, Willhelm Friedrich   29 Apr 1841 Schafer, Christina                Sarata               1883192/2  57   8
+Kannewischer, Wilhelm         11 Jan 1845 Klaist, Anna Maria                Tarutino             1882636/2  52  11
+Kappler, Christoph Friedrich  18 Nov 1847 Kaess, Katharina                  Sarata               1882639/1 119   8
+Kaupke, Johann                 6 Feb 1840 Poepke, Louisa                    Tarutino             1883190/4  88  25
+Kautz, Carl                    4 Jan 1845 Sprecher, Carolina                Tarutino             1882636/2  52   9
+Kautz, Michael                23 Feb 1848 Triebwasser, Christina            Fere Champenoise     1882641/2 200  16
+Kauz, Christoph               21 Feb 1843 Boettcher, Carolina               Tarutino             1882594/3  18   8
+Kauz, Michael                 25 Oct 1845 Neumann, Juliana                  Tarutino             1882636/2  52  39
+Keck, Christian               28 Dec 1844 Lang, Christina                   Kloestitz            1882636/2  73   2
+Kegel, Christian              26 Oct 1841 Dobler, Carolina                  Tarutino             1883192/2 155  45
+Keim, Christoph               10 Oct 1846 Martin, Anna Maria                Fere Champenoise     1882638/1   2  16
+Keller, Bernhard               8 Jun 1841 Hoffmann, Louisa                  Kloestitz            1883193/2 231  10
+Keller, Bernhardt              8 Jun 1841 Hoffmann, Louisa                  Tarutino             1883192/2 155  25
+Keller, Christoph             19 Feb 1845 Krampp, Eva                       Kloestitz            1882636/2  73  15
+Keller, Christoph             25 Nov 1848 Sackmann, Friedrika               Tarutino             1882641/2 241  59
+Keller, Georg                 19 Oct 1848 Bachmann, Maria                   Sarata               1882641/2 138  17
+Keller, Kaspar                23 Feb 1843 Bantel, Barbara                   Sarata               1882594/2 350   8
+Kelm, Christoph               18 Nov 1845 Hirschkorn, Luise                 Arcis                1882636/1 413  39
+Keppele, Philip               12 Apr 1843 Wenzel, Karolina                  Kloestitz            1882594/3  45  13
+Kern, Adam                     7 Feb 1846 Hehn, Dorothea                    Kloestitz            1882638/1  61  14
+Kern, Gottlieb                25 Jun 1845 Schlenz, Wilhelmina               Kloestitz            1882636/2  73  27
+Kern, Michael                 29 Mar 1845 Appel, Eva                        Fere Champenoise     1882636/2  27  17
+Kessel, Johann                21 Nov 1846 Otterstaetter, Magdalena          Kloestitz            1882638/1  62  40
+Kientzle, Ludwig              10 Nov 1841 Winkler, Phillippine              Sarata               1883192/2  57  18
+Kienzle, Ludwig    wdw        24 Jan 1846 Waelz, Friederika                 Sarata               1882637/3 400   1
+Kiner, Louis                  22 Sep 1845 Alwins, Catharina gb Maier        Sarata               1882636/1 392  15
+Kison, Christian              26 Nov 1848 Radke, Louisa                     Tarutino             1882641/2 241  62
+Kison, Martin                  9 Jan 1841 Dalk, Juliana                     Kloestitz            1883193/2 231   1
+Kison, Martin                  9 Jan 1841 Dalk, Julianna                    Tarutino             1883192/2 155   3
+Kison, Wilhelm                 3 Apr 1845 Gusse, Dorothea                   Tarutino             1882636/2  52  19
+Kisson, Friedrich             18 Jan 1845 Noerenberg, Christina             Fere Champenoise     1882636/2  26   5
+Kittler, Friedrich            18 Nov 1843 Lawrintz, Wilhelmine              Arcis                1882594/2 372  26
+Kittler, Johann               28 Dec 1844 Merschin, Maria                   Tarutino             1882636/2  52   1
+Kittler, Johann David         10 Feb 1843 Roth, Maria Ages (widow)          Sarata               1882594/2 350   4
+Klatt, Christian              20 Jun 1845 Bork, Karolina                    Fere Champenoise     1882636/2  27  21
+Klaw, Johann                   7 Oct 1848 Tillmann, Karolina                Arcis                1882641/2 164  25
+Klebe, Gottfried              22 Apr 1841 Krause, Justina                   Arcis                1883192/2  82   6
+Kleiber, Johann Georg         22 May 1847 Gewinner, Katharina               Tarutino             1882639/1 200  10
+Klein, Christoph              25 Jan 1847 Kujath, Elisabetha                Alt Fere Champenoise 1882639/1 174   8
+Klein, Gottlieb                6 May 1848 Doering, Karolina                 Tarutino             1882641/2 240  26
+Klein, Karl                    1 Feb 1845 Radiss, Louise                    Fere Champenoise     1882636/2  26   8
+Kleinknecht, Johann           19 Feb 1842 Seefried, Magdalena               Alt Fere Champenoise 1883193/2  86   7
+Kletke, Carl                   9 Jan 1847 Schroeter, Elisabetha             Alt Fere Champenoise 1882639/1 174   1
+Klotzbuecher, Gottlieb        30 Apr 1840 Esslinger, Eva                    Tarutino             1883190/4  88  28
+Klotzbuecher, Gottlieb        30 Apr 1840 Esslinger, Eva                    Kloestitz            1883193/2 219  12
+Kluckmann, Friedrich           2 Jan 1847 Arndt, Luisa                      Arcis                1882639/1 147   2
+Kluiss, Conrad                14 Mar 1846 Ruff, Anna Maria                  Tarutino             1882638/1  33  16
+Knecht, Christoph              4 Nov 1848 Jasmann, Eva                      Fere Champenoise     1882641/2 201  37
+Knecht, Gottfried              8 Mar 1845 Jahns, Rosina                     Fere Champenoise     1882636/2  26   9
+Knodel, Andreas               14 Dec 1841 Reule, Margaretha                 Kloestitz            1883193/2 231  18
+Knodel, Christian             27 Nov 1847 Graditzke, Katharina              Alt Fere Champenoise 1882639/1 175  39
+Knodel, Friedrich              1 Feb 1845 Stauber, Christina                Kloestitz            1882636/2  73   9
+Knodel, Gottlieb               3 Apr 1847 Akkermann, Barbara                Arcis                1882639/1 147   7
+Knodel, Gottlieb              27 Nov 1847 Sept, Anna Maria                  Alt Fere Champenoise 1882639/1 175  38
+Knodel, Heinrich               4 Jan 1841 Just, Louise                      Katzbach             1883192/2 114   3
+Knoeller, Michael             28 Mar 1846 Schroeter, Barbara                Kloestitz            1882638/1  61  20
+Knoll, Wilhelm                22 Aug 1846 Hiller, Wilhelmina                Tarutino             1882638/1  33  27
+Knopp, Ludwig                 10 Jun 1843 Krahn, Christina gb Frischke      Fere Champenoise     1882594/2 406  14
+Koch, Christoph               25 Jun 1845 Geier, Christine                  Arcis                1882636/1 413   7
+Koch, Jakob                   10 Oct 1846 Hoeschele, Barbara                Sarata               1882637/3 400   8
+Koegel, Christian             26 Oct 1841 Dobler, Karolina                  Kloestitz            1883193/2 231  17
+Koenig, Christoph             10 Feb 1841 Mueller, Wilhelmina               Tarutino             1883192/2 155   8
+Koenig, Gottfried             30 Sep 1848 Weiss, Rosina                     Tarutino             1882641/2 240  36
+Koenig, Gottlieb              16 Dec 1843 Schaible, Rosina                  Tarutino             1882594/3  19  25
+Kohler, Christoph             29 Nov 1845 Riedel, Elisabeth                 Fere Champenoise     1882636/2  27  36
+Kottke, Matthaeus             17 Jul 1841 Rietz, Elisabeth                  Tarutino             1883192/2 155  33
+Kowalewski, Christian         29 Dec 1849 Ziebarth, Christina               Arcis                1882651/3 166  42
+Kraemer, Gottlieb             22 Oct 1842 Haemmerling, Louisa               Alt Fere Champenoise 1883193/2  86  17
+Kraemer, Johannes             21 Nov 1846 Bohnet, Justina                   Fere Champenoise     1882638/1   3  24
+Kraemer, Johannes             26 Nov 1846 Dobler, Magdalena                 Arcis                1882637/3 426  45
+Kraemer, Johannes  wdw        19 Feb 1848 Knoell, Friederika                Kloestitz            1882641/2 278  10
+Kraft, Johann                 27 May 1848 Hartmann, Anna                    Tarutino             1882641/2 240  28
+Kraft, Johann                 22 Jan 1848 Herrmann, Catharina Barbara       Fere Champenoise     1882641/2 200   2
+Kraft, Johann                  6 Feb 1840 Sprecher, Louisa                  Tarutino             1883190/4  87   2
+Kraft, Samuel                 23 Jul 1840 Kranig, Carolina                  Tarutino             1883190/4  88  37
+Krahn, Christoph               7 Nov 1840 Friske, Christina                 Sarata               1883190/4  35  36
+Kramer, Christian             16 May 1840 Staebner, Elisabeth               Alt Arcis            1883190/4  33  19
+Kranich, Christian            30 Oct 1841 Schultz, Wilhelmina               Tarutino             1883192/2 155  46
+Kranich, Martin               28 Sep 1841 Hintz, Maria                      Tarutino             1883192/2 155  39
+Kranich, Wenzel               19 Jul 1842 Rosenfeld, Juliana                Alt Fere Champenoise 1883193/2  86  15
+Kranz, Heinrich                2 Jul 1840 Kuhn, Anna Maria                  Tarutino             1883190/4  88  39
+Krause, Johann Samuel         30 Feb 1840 Jesse, Carolina                   Tarutino             1883190/4  87  21 date is s/b 30 Feb
+Kroll, Jakob                  29 Jan 1848 Scherbinski, Elisabeth            Tarutino             1882641/2 239   7
+Kroll, Michael                22 Dec 1849 Flaig, Rosina                     Tarutino             1882651/3 237  61
+Kron, Johann                   2 May 1840 Schlenker, Christina              Tarutino             1883190/4  88  32
+Krueger, Friedrich            24 Apr 1847 Drefs, Luisa                      Arcis                1882639/1 147   9
+Krueger, Gottfried            13 Nov 1847 Roechert, Anna Elisabetha         Alt Fere Champenoise 1882639/1 175  36
+Krueger, Johann               29 Dec 1849 Kraft, Christina                  Fere Champenoise     1882651/3 197  39
+Krueger, Michael               4 Nov 1848 Woerner, Christina                Fere Champenoise     1882641/2 201  34
+Kruger, Martin                 7 Feb 1840 Lieske, Heinriette                Tarutino             1883190/4  87   5
+Krukenberg, Martin             8 Oct 1841 Zikkert, Christina                Arcis                1883192/2  82  14
+Krukkenberg, Friedrich        26 Nov 1846 Tezlaw, Catharina                 Arcis                1882637/3 426  40
+Krunich, Martin  wdw          14 Mar 1846 Amendt, Louise   wdw              Tarutino             1882638/1  33  15
+Kruz, Joseph                  30 Jan 1845 Schaefer, Margaretha              Sarata               1882636/1 392   4
+Kuch, Christoph               23 Sep 1848 Pietz, Karolina                   Arcis                1882641/2 164  22
+Kuchnosch, Christian           6 Nov 1840 Jeske, Justina                    Sarata               1883190/4  35  34
+Kuebler, Georg                13 Nov 1847 Dietterle, Margaretha             Kloestitz            1882639/1 222  41
+Kuebler, Georg (widower)      15 May 1847 Bibbus, Elisabetha (widow)        Kloestitz            1882639/1 221  18
+Kuebler, Gottfried             9 Dec 1843 Daede, Wilhelmine                 Kloestitz            1882594/3  45  32
+Kuehn, Andreas                30 Jan 1847 Floeter, Justina                  Alt Fere Champenoise 1882639/1 174   7
+Kuehn, Gottlieb               20 Jun 1845 Kelm, Christina                   Fere Champenoise     1882636/2  27  22
+Kuest, Matthaeus              28 Jan 1841 Ziegler, Christina                Tarutino             1883192/2 155   4
+Kugele, Adam                  17 Jun 1840 Scharpf, Barbara                  Tarutino             1883190/4  88  36
+Kugele, Adam                  19 Dec 1846 Schmied, Justina                  Tarutino             1882639/1 200  44
+Kuhn, Johann Georg            22 Dec 1849 Scheffelmaier, Margaretha         Tarutino             1882651/3 237  68
+Kuhr, Stephan                 13 Apr 1841 Kletke, Margaretha                Fere Champenoise     1883192/2 114   4
+Kujadt, Johann                 8 Apr 1846 Mundt, Christina                  Kloestitz            1882638/1  61  22
+Kuntz, Martin                 26 Jan 1843 Stock, Christina                  Arcis                1882594/2 372   2
+Kupke, Johann                  9 Feb 1843 Doering, Carolina                 Tarutino             1882594/3  18   6
+Kurz, Johannes                17 Jan 1848 Gebhardt, Luisa                   Sarata               1882641/2 138   2
+Kurz, Johannes                28 Sep 1843 Oppelaender, Magdalena            Sarata               1882594/2 350  15
+Kurz, Ludwig August           10 Jun 1848 Niederrieter, Christina           Sarata               1882641/2 138  11
+Kurz, Peter                   17 Jun 1848 Raschke, Friedrika                Arcis                1882641/2 164  18
+Kussmaul, Johann              14 Feb 1846 Bodamer, Katharina                Kloestitz            1882638/1  61  15
+Kutz, Friedrich                2 May 1846 Teschner, Anna Christina          Tarutino             1882638/1  33  20
+Laechelt, Christian           27 Dec 1840 Teige, Anna Rosina                Tarutino             1883190/4  88  68
+Laechelt, Christoph            9 Nov 1841 Leischner, Wilhelmine             Tarutino             1883192/2 156  50
+Laib, Conrad                   4 Oct 1845 Werroth, Catharina                Arcis                1882636/1 413  33
+Laib, Jacob                   28 Oct 1843 Weissenburger, Barbara            Arcis                1882594/2 372  21
+Laib, Ludwig                   5 Feb 1848 Naass, Magdalena                  Kloestitz            1882641/2 278   9
+Laier, Ludwig                  2 Mar 1842 Ernst, Sabina Elisabetha          Sarata               1883193/2  42   6
+Lang, Andreas                  4 Feb 1841 Marcus, Louisa                    Tarutino             1883192/2 155   6
+Lang, Andreas                  4 Feb 1841 Markus, Louisa                    Kloestitz            1883193/2 231   4
+Lang, Carl                    17 Dec 1841 Kutz, Beata                       Arcis                1883192/2  82  20
+Lang, Carl                     7 Feb 1846 Wagner, Apolonia                  Arcis                1882637/3 426   4
+Lang, Jacob                   27 Mar 1847 Krueger, Wilhelmina               Arcis                1882639/1 147   6
+Lang, Jakob                   26 Apr 1845 Kuehn, Karoline                   Fere Champenoise     1882636/2  26  11
+Lang, Johann                  27 Dec 1846 Buerkle, Anna Maria               Tarutino             1882639/1 200  47
+Lang, Johann                  16 Aug 1842 Heidt, Elisabetha                 Arcis                1883193/2  63  15
+Lang, Johann                  16 Sep 1843 Kratz, Magdalena                  Fere Champenoise     1882594/2 406  18
+Lang, Peter                   19 Nov 1842 Jess, Luisa                       Arcis                1883193/2  63  18
+Laubenstein, Nikolaus         29 Jan 1842 Schnepf, Katharina                Arcis                1883193/2  63   4
+Lehmann, August               20 May 1841 Funk, Dorothea                    Fere Champenoise     1883192/2 114   5
+Leier, Michael                25 Sep 1847 Brenner, Henriette gb Ruge        Alt Fere Champenoise 1882639/1 175  29
+Lentz, Daniel                 19 Feb 1848 Friske, Christina                 Fere Champenoise     1882641/2 200  11
+Lenz, Friedrich               13 Sep 1845 Hartmann, Wilhelmine              Arcis                1882636/1 413  28
+Lenz, Friedrich               29 Dec 1849 Huff, Anna Christina              Arcis                1882651/3 166  40
+Lenz, Gottlob                 24 Feb 1842 Haas, Karolina                    Arcis                1883193/2  63  10
+Leppkuchen, Peter              6 May 1843 Messke, Eva                       Arcis                1882594/2 372   7
+Liebelt, Carl                 29 Dec 1849 Jeske, Carolina                   Fere Champenoise     1882651/3 197  36
+Liebelt, Joseph               13 Feb 1840 Wendtlandt, nn                    Tarutino             1883190/4  87  18
+Link, David                   20 May 1845 Ziffle, Christina                 Kloestitz            1882636/2  73  25
+Littau, Gottlieb               4 Dec 1847 Conrad, Dorothea                  Alt Fere Champenoise 1882639/1 175  43
+Littau, Johann                22 Feb 1842 Sperling, Luisa                   Arcis                1883193/2  63   7
+Littau, Ludwig                 9 Oct 1841 Eichelberg, Catharina             Arcis                1883192/2  82  15
+Littau, Martin                25 Oct 1845 Fredrich, Susanna                 Tarutino             1882636/2  52  42
+Litz, Jakob                    1 Apr 1843 Nikkel, Elisabetha                Fere Champenoise     1882594/2 405   9
+Lobe, Christian  wdw          14 Oct 1846 Tiede, Carolina                   Tarutino             1882638/1  33  34
+Lohrer, Andreas               22 Oct 1840 Kuth, Elisabetha                  Tarutino             1883190/4  88  53
+Loobe?, Christian             11 Nov 1843 Bobermin, Dorothea                Tarutino             1882594/3  18  18
+Lucks, Friedrich               9 Jun 1841 Hiller, Justina                   Tarutino             1883192/2 155  24
+Luettke, Georg                17 Oct 1848 Steinke, Louisa  wdw              Kloestitz            1882641/2 279  21
+Lukas, Johann Adam             6 Jul 1843 Schwartz, Rosina                  Kloestitz            1882594/3  45  23
+Lust, Gottlieb                13 Nov 1847 Baisch, Gottliebina Rosina        Sarata               1882639/1 119   7
+Lust, Gottlob   wdw           26 Jun 1847 Laiher, Katharina                 Sarata               1882639/1 119   5
+Lust, Jakob Christoph          8 Sep 1845 Sommer, Eva Dorothea              Sarata               1882636/1 392  12
+Maas, Georg                    1 Feb 1845 Sprenger, Friederike              Arcis                1882636/1 413  10
+Maas, Johann                  29 Jan 1842 Brenner, Sophia                   Alt Fere Champenoise 1883193/2  86   3
+Maas, Johann                  17 May 1840 Semler, Christina                 Alt Arcis            1883190/4  34  21
+Maas, Martin                   2 May 1846 Duerr, Louise                     Fere Champenoise     1882638/1   2  11
+Maas, Wilhelm                 29 Oct 1842 Ziebart, Eva Rosina               Arcis                1883193/2  63  17
+Machau, David                  2 Dec 1848 Jans, Elisabetha                  Fere Champenoise     1882641/2 201  44
+Maertz, Thomas                10 Feb 1843 Renner, Elisabetha                Kloestitz            1882594/3  45   6
+Maier, Carl                   12 Jul 1845 Maier, Elisabeth                  Arcis                1882636/1 413  25
+Maier, Christian              29 Dec 1849 Rattey, Karolina                  Kloestitz            1882651/3 281   5
+Maier, Friedrich              18 Jan 1845 Haupt, Luise                      Arcis                1882636/1 413   5
+Maier, Friedrich              24 Oct 1846 Silzer, Christina                 Kloestitz            1882638/1  61  36
+Maier, Martin                 30 Jan 1847 Bender, Marianna                  Sarata               1882639/1 119   1
+Malke, Jacob                  21 Nov 1843 Graf, Christina                   Kloestitz            1882594/3  45  29
+Manske, Johann Ludwig         27 Apr 1848 Konzmann, Elisabetha Margaretha   Sarata               1882641/2 138   3
+Mantei, Daniel                19 Nov 1840 Reinke, Anna Magdalena            Alt Arcis            1883190/4  36  45
+Mantei, Daniel                 3 May 1843 Schuett, Magdalena                Kloestitz            1882594/3  45  15
+Mantei, Johann                10 Feb 1841 Rietz, Rosina Christine           Paris                1883192/2 114   3
+Marcks, Gottfried             20 Nov 1841 Radke, Carolina                   Tarutino             1883192/2 156  52
+Marquart, Johann              29 Dec 1849 Mutschler, Katharina              Kloestitz            1882651/3 281   4
+Martel, Johann                13 Feb 1840 Schwarz, Katharina                Kloestitz            1883193/2 219   9
+Martin, Christoph             10 Feb 1841 Renke, Anna                       Paris                1883192/2 114   2
+Marz, Marcus                  17 Aug 1848 Scherzinger, Elisabetha           Sarata               1882641/2 138  14
+Matix, Erdmann                 4 Oct 1847 Muster, Justina                   Arcis                1882639/1 147  14
+Mattiaus, Johann              22 Apr 1843 Haeuser, Christina                Arcis                1882594/2 372   6
+Mauch, Christian              29 Nov 1845 Rahn, Anna                        Arcis                1882636/1 413  44
+Mauch, Friedrich              14 Oct 1843 Rabe, Justina                     Arcis                1882594/2 372  17
+Mauch, Georg                  28 Aug 1847 Gabert, Carolina                  Alt Fere Champenoise 1882639/1 175  26
+Mayer, Ernst                  31 Dec 1840 Grabow, Maria                     Kloestitz            1883193/2 219  28
+Mehle, Jacob                  29 Jan 1848 Boessert, Karolina                Kloestitz            1882641/2 278   8
+Meier, Christian              15 Oct 1841 Meier, Beata                      Tarutino             1883192/2 155  41
+Meier, Johann Conradt         23 Mar 1843 Lambrecht, Rosina                 Kloestitz            1882594/3  45  11
+Melchert, Michael             25 Jul 1840 Preffs, Wilhelmine                Kloestitz            1883193/2 219  15
+Melchert, Michael             25 Jul 1840 Trefz, Wilhelmine                 Tarutino             1883190/4  88  40
+Melchert, Michael  wdw        17 Oct 1848 Zellmer, Karolina                 Kloestitz            1882641/2 279  22
+Mellentin, Johann Friedrich   12 Nov 1846 Gross, Louisa                     Arcis                1882637/3 426  36
+Melletin, Daniel              28 Oct 1848 Lawrenz, Henriette                Arcis                1882641/2 164  26
+Merkel, Philipp Jacob         27 Nov 1841 Bekkuchen, Catharina gb Gaberin   Arcis                1883192/2  82  18
+Merkle, Jacob Friedrich       14 Sep 1843 Schnaidmann, Elisabetha Catharina Sarata               1882594/2 350  12
+Merz, Gottfried               13 Jan 1848 Bihlmaier, Katharina              Sarata               1882641/2 138   1
+Messerle, Jackob              24 Feb 1848 Braunberger, Christiana Barbara   Arcis                1882641/2 164   7
+Messke, Gottlieb              26 Feb 1842 Beierle, Regina                   Alt Fere Champenoise 1883193/2  86  10
+Meyer, Daniel                  6 Feb 1840 Irion, Elisabeth                  Tarutino             1883190/4  87  16
+Minderlen, Christian          22 Jun 1841 Jundt, Eva                        Fere Champenoise     1883192/2 114   6
+Minderlin, Christian          30 May 1840 Gutsche, Rosina Gottliebe         Alt Arcis            1883190/4  34  23
+Moewes, Martin                10 Oct 1846 Vogel, Wilhelmine                 Tarutino             1882638/1  33  30
+Mogk, Jakob                   22 Oct 1847 Koenig, Karolina                  Tarutino             1882639/1 200  16
+Mogk, Johann Georg             3 Jun 1845 Brosst, Anna Maria                Tarutino             1882636/2  52  30
+Mok, Ehrhard                  16 Feb 1843 Ernst, Catharina Dorothea         Sarata               1882594/2 350   6
+Morgenstern, Samuel           20 Nov 1847 Janke, Justina                    Alt Fere Champenoise 1882639/1 175  37
+Moritz, Christoph             18 Nov 1843 Sukut, Elisabeth                  Fere Champenoise     1882594/2 406  25
+Moritz, Gottlieb              16 Jan 1847 Klein, Anna Justina               Alt Fere Champenoise 1882639/1 174   4
+Moritz, Martin                30 Dec 1841 Sasse, Maria                      Fere Champenoise     1883192/2 114   8
+Moritz, Wilhelm               23 Sep 1848 Schoettle, Dorothea               Fere Champenoise     1882641/2 201  30
+Mueck, Johann                  6 Jul 1841 Scheurer, Karolina                Kloestitz            1883193/2 231  12
+Muek, Johann                   6 Jun 1841 Scheurer, Carolina                Tarutino             1883192/2 155  31
+Mueller, Adam                 19 Jun 1847 Nitschke, Wilhelmine              Arcis                1882639/1 147  12
+Mueller, Christian            21 Feb 1841 Goetz, Johanna                    Tarutino             1883192/2 155   9
+Mueller, Christian            21 Feb 1841 Goetz, Johanna                    Kloestitz            1883193/2 231   5
+Mueller, Conrad                8 Mar 1845 Scheurer, Catharina               Kloestitz            1882636/2  73  21
+Mueller, Ehrenreich           26 Feb 1845 Fossler, Rosina                   Arcis                1882636/1 413  18
+Mueller, Erhard               11 Nov 1848 Faas, Barbara                     Arcis                1882641/2 164  29
+Mueller, Erhardt              26 Nov 1846 Boepple, Barbara                  Arcis                1882637/3 426  41
+Mueller, Georg Friedrich       2 Jun 1842 Mueller, Katharina                Arcis                1883193/2  63  14
+Mueller, Gottfried (widower)  24 Jun 1847 Schaefer, Eva                     Kloestitz            1882639/1 221  23
+Mueller, Gottlieb             26 Oct 1847 Kraft, Christina                  Tarutino             1882639/1 200  18
+Mueller, Jakob                 5 Feb 1841 Saalo, Justina                    Paris                1883192/2 114   1
+Mueller, Johann               21 Oct 1848 Schmied, Barbara                  Fere Champenoise     1882641/2 201  33
+Mueller, Karl                 24 Sep 1845 Habelmann, Rosina                 Fere Champenoise     1882636/2  27  30
+Muentz, Karl                   6 Mar 1841 Ebert, Elisabetha                 Paris                1883192/2 114   4
+Mutschall, August  wdw        21 Jun 1846 Wolfing, Christina                Tarutino             1882638/1  33  24
+Mutter, Gottfried              9 Feb 1843 Flegel, Anna Dorothea             Arcis                1882594/2 372   4
+Mutzenberger, Matthaeus       28 Oct 1843 Seibt, Christina                  Arcis                1882594/2 372  20
+Naass, Jacob                  10 Jan 1846 Schulz, Wilhelmina                Kloestitz            1882638/1  61   7
+Naffin, Johann                16 Jan 1847 Vesper, Justina                   Alt Fere Champenoise 1882639/1 174   3
+Nannt, Karl                    2 May 1846 Stickel, Eva                      Kloestitz            1882638/1  61  25
+Nass, Georg                   12 Dec 1846 Mueller, Margaretha               Kloestitz            1882638/1  62  45
+Neumann, Gottfried            14 Nov 1846 Weiss, Rosina                     Fere Champenoise     1882638/1   3  25
+Neumann, Gottlieb              2 Aug 1845 Reinke, Louise                    Fere Champenoise     1882636/2  27  27
+Neumann, Heinrich             28 Oct 1843 Schick, Rosina                    Arcis                1882594/2 372  19
+Neumann, Jakob                17 Jan 1846 Wehr, Wilhelmine                  Arcis                1882637/3 426   2
+Neumann, Johann               15 Apr 1848 Welk, Wilhelmina                  Arcis                1882641/2 164  10
+Neumann, Johann                4 Mar 1848 Ziel, Sophia                      Kloestitz            1882641/2 278  11
+Neumann, Johannes             27 Jun 1846 Redelbach, Rosina                 Fere Champenoise     1882638/1   2  13
+Neumann, Martin                2 Dec 1848 Drefs, Wilhelmina                 Arcis                1882641/2 164  41
+Neumann, Peter                17 Oct 1840 Lang, Rosina                      Tarutino             1883190/4  88  47
+Neumann, Samuel               23 Feb 1848 Bierwagen, Karolina               Tarutino             1882641/2 240  14
+Nikkel, Martin                23 Feb 1846 Berger, Catharina                 Fere Champenoise     1882638/1   2   9
+Nill, Jacob                   24 Oct 1840 Schert, Friedrika                 Kloestitz            1883193/2 219  18
+Nill, Jacob                   24 Oct 1840 Schert, Friedrike                 Tarutino             1883190/4  88  49
+Nill, Jacob                   16 Oct 1847 Schlauch, Eva                     Kloestitz            1882639/1 222  29
+Nitschke, Ernst                7 Oct 1843 Kampf, Christina                  Kloestitz            1882594/3  45  25
+Nitschke, Johann Friedrich    27 Aug 1846 Schweigert, Magdalena             Kloestitz            1882638/1  61  33
+Nitschki, Wilhelm             14 Feb 1846 Herzberg, Carolina                Arcis                1882637/3 426   7
+Nitschkke, Christoph          30 Apr 1840 Kuenzler, Catharina               Tarutino             1883190/4  88  33
+Nitschky, Carl                16 May 1840 Neumann, Beata                    Alt Arcis            1883190/4  33  18
+Nuffert, Wilhelm               2 Aug 1845 Justawitz, Maria Elisabeth        Tarutino             1882636/2  52  32
+Oberlander, Michael (widower) 23 Nov 1843 Kunzmann, Friederika              Sarata               1882594/2 350  18
+Opp, Heinrich                  1 Feb 1845 Erfle, Margarethe                 Arcis                1882636/1 413  12
+Opp, Heinrich                  4 Oct 1845 Matthais, Maria                   Arcis                1882636/1 413  34
+Oppenlaender, Georg Friedrich  3 May 1845 Binder, Carolina                  Sarata               1882636/1 392   8
+Ost, Friedich                 30 Jan 1847 Becker, Friederika                Kloestitz            1882639/1 221   7
+Ost, Heinrich                 30 Dec 1848 Lang, Dorothea                    Kloestitz            1882641/2 278   3
+Ost, Johann                    8 Nov 1845 Vetter, Margaretha                Tarutino             1882636/2  52  51
+Oster, Christian              30 Nov 1846 Paulin, Katharina                 Kloestitz            1882638/1  62  43
+Ott, Johann                    5 Jul 1845 Boettger, Eva                     Fere Champenoise     1882636/2  27  26
+Otto, Friedrich               11 Dec 1847 Reitz, Anna Christina             Alt Fere Champenoise 1882639/1 175  45
+Paetzler, Daniel               4 Jun 1840 Fandrei, Henriette                Alt Arcis            1883190/4  34  27
+Pahl, Gottlieb                29 Jan 1848 Verworren, Justina                Tarutino             1882641/2 239   8
+Pahl, Johann                   9 Jan 1842 Richter, Luise                    Arcis                1883193/2  63   1
+Palmer, Johannes              18 Nov 1848 Mueller, Christina                Arcis                1882641/2 164  31
+Patzer, Michael               16 Oct 1847 Morgenstern, Dorothea             Alt Fere Champenoise 1882639/1 175  34
+Pelz, Daniel                   4 May 1847 Hinz, Justina                     Tarutino             1882639/1 200   8
+Pflieger, Heinrich            12 Jan 1849 Buss, Justina                     Tarutino             1882651/3 238  70
+Pflugard, Andreas              9 Feb 1843 Sauer, Anna Christina             Tarutino             1882594/3  18   3
+Pietz, Christian               4 Sep 1847 Kuck, Maria                       Arcis                1882639/1 147  13
+Poed, Gottfried               15 Jan 1848 Fana, Dorothea                    Fere Champenoise     1882641/2 200   1
+Poeppke, Christian            18 Nov 1848 Sucko, Elisabetha                 Tarutino             1882641/2 240  51
+Pohl, Christian               25 Nov 1843 Tschatschke?, Dorothea            Tarutino             1882594/3  19  24
+Pohl, Christoph               28 Dec 1845 Bierwagen, Anna                   Tarutino             1882638/1  32  64
+Pohl, Gottfried                7 Oct 1848 Sprenger, Louisa                  Tarutino             1882641/2 240  38
+Pommerenke, Gottlieb          25 Jul 1845 Friske, Christina                 Fere Champenoise     1882636/2  27  28
+Porowsky, Matheus             15 Feb 1845 Rauhut, Carolina                  Tarutino             1882636/2  52  14
+Pressler, Michael             23 Oct 1847 Decker, Elisabetha                Kloestitz            1882639/1 222  32
+Priebe, Wilhelm               18 Mar 1848 Reinke, Susanna                   Tarutino             1882641/2 240  17
+Priesske, Ferdinand           18 Mar 1848 Kleist, Louisa                    Tarutino             1882641/2 240  19
+Primas, Johann                 6 May 1840 Franz, Charlotte                  Alt Arcis            1883190/4  32   6
+Putza, Johann                 27 Nov 1849 Treichel, Louisa                  Tarutino             1882651/3 237  55
+Quaschnick, Gottlieb          29 Dec 1849 Stelter, Justina                  Tarutino             1882651/3 237  62
+Quast, Gottfried               6 May 1848 Lehmann, Dorothea                 Fere Champenoise     1882641/2 201  25
+Quast, Gottfried               9 May 1846 Matiks, Rosina                    Fere Champenoise     1882638/1   2  12
+Quast, Gottlieb                4 Feb 1843 Baierle, Christina                Fere Champenoise     1882594/2 405   3
+Quast, Martin                 15 May 1847 Oelke, Wilhelmina                 Alt Fere Champenoise 1882639/1 175  23
+Quast, Wilhelm                14 Jun 1845 Bohnet, Katharina                 Fere Champenoise     1882636/2  27  24
+Quellmann, Karl               30 Sep 1843 Wagner, Maria                     Arcis                1882594/2 372  16
+Quinner, Andreas              22 Oct 1840 Kalmbach, Louisa                  Tarutino             1883190/4  88  52
+Quiram, Andreas               25 Nov 1848 Christmann, Karolina              Arcis                1882641/2 164  37
+Quiram, Martin                11 Nov 1843 Briske?, Chatharina               Arcis                1882594/2 372  25
+Radach, Christian              2 Jan 1847 Lamprecht, Anna Karolina          Tarutino             1882639/1 200   1
+Radke, Christoph              11 Nov 1848 Mueller, Rosina                   Fere Champenoise     1882641/2 201  41
+Radke, Michael                 9 Feb 1843 Raugust, Carolina                 Tarutino             1882594/3  18   5
+Rahn, Friedrich                9 Dec 1848 Rasch, Christina                  Arcis                1882641/2 164  43
+Rambach, Jacob                 6 Nov 1847 Hoess, Friederika (widow)         Kloestitz            1882639/1 222  36
+Rasch, Martin                 26 Nov 1846 Trawert, Wilhelmina               Arcis                1882637/3 426  39
+Rast, Friedrich                5 Jan 1843 Hildwein, Regina                  Kloestitz            1882594/3  45   1
+Rast, Georg                   29 Dec 1849 Herrmann, Friedrika               Fere Champenoise     1882651/3 197  38
+Rath, Jacob                   17 Jun 1845 Gwinner, Christina                Tarutino             1882636/2  52  31
+Rath, Johannes                 4 Dec 1841 Schultz, Eva                      Tarutino             1883192/2 156  57
+Rath, Wilhelm                 10 Sep 1841 Schimke, Wilhelmina               Tarutino             1883192/2 155  37
+Raugust, Carl                 17 May 1845 Kubatzke, Dorothea                Tarutino             1882636/2  52  26
+Raugust, Johann               14 Feb 1843 Loebe, Rosina                     Tarutino             1882594/3  18   7
+Raugust, Ludwig               25 Nov 1848 Flaig, Anna Maria                 Kloestitz            1882641/2 279  39
+Raugust, Martin                3 Mar 1846 Raugust, Christina    wdw         Tarutino             1882638/1  32  11
+Rauhut, Gottfried             23 Mar 1841 Amend, Carolina                   Tarutino             1883192/2 155  13
+Rauschenberger, Jakob         30 Dec 1841 Gubler, Barbara                   Katzbach             1883192/2 114   9
+Rauser, Michael               25 Nov 1848 Finkbeiner, Rosina                Fere Champenoise     1882641/2 201  43
+Rausser, Michael              28 Dec 1844 Kruger, Louise                    Tarutino             1882636/2  52   2
+Rebmann, Friedrich             6 May 1848 Rueb, Barbara  wdw                Kloestitz            1882641/2 278  16
+Rebmann, Johann Melchior      nn Aug 1845 Wagner, Dorothea                  Sarata               1882636/1 392  11
+Regner, Konrad                24 Oct 1846 Demke, Magdalena                  Kloestitz            1882638/1  61  35
+Reich, Gottlieb                3 May 1840 Nickel, Elisabeth                 Alt Arcis            1883190/4  32   3
+Reich, Johann                 18 Mar 1848 Brickmann, Wilhelmina             Fere Champenoise     1882641/2 200  18
+Reich, Samuel                  4 Nov 1843 Jaess, Christina                  Arcis                1882594/2 372  23
+Reich, Wilhelm                21 Nov 1840 Habelmann, Elisabeth              Alt Arcis            1883190/4  36  46
+Reichenberg, Carl             24 Sep 1841 Fanselo, Louisa                   Arcis                1883192/2  82  12
+Reichenberg, Johann           16 Oct 1847 Kurz, Anna Maria                  Kloestitz            1882639/1 222  30
+Reiner, Christian             28 May 1846 Gross, Christina                  Sarata               1882637/3 400   5
+Reinfaels, Gottlieb           11 Nov 1843 Bachmann, Maria                   Kloestitz            1882594/3  45  27
+Reinhard, Jacob                5 Aug 1845 Peschel, Johanna                  Kloestitz            1882636/2  73  29
+Reinhardt, Christina           8 Jan 1848 Mayer, Maria Magdalena            Kloestitz            1882641/2 278   4
+Reinhardt, Friedrich          22 Oct 1846 Schaefer, Margaretha              Kloestitz            1882638/1  61  34
+Reinke, Christoph             14 Nov 1846 Sprenger, Elisabetha              Fere Champenoise     1882638/1   3  20
+Reinke, Gottfried              4 Nov 1848 Rust, Justina                     Fere Champenoise     1882641/2 201  36
+Reinke, Gottlieb              18 Mar 1848 Klatt, Juliana                    Fere Champenoise     1882641/2 200  17
+Reinke, Johann                30 Oct 1840 Sprenger, Luisa                   Sarata               1883190/4  35  32
+Reinke, Wilhelm               30 Dec 1841 Stach, Maria                      Fere Champenoise     1883192/2 114   7
+Reinschmidt, Jacob            14 Nov 1846 Schmolke, Anna Maria              Kloestitz            1882638/1  62  38
+Reinschmidt, Wilhelm           6 May 1845 Wolf, Eva Elisabetha              Kloestitz            1882636/2  73  24
+Rempfer, Friedrich            26 Dec 1840 Steer, Elisabetha                 Tarutino             1883190/4  88  63
+Rempfer, Matthaeus             3 Jan 1846 Klotzbuecher, Rosina              Kloestitz            1882638/1  61   6
+Rempffer, Georg               26 Dec 1840 Steer, Elisabetha                 Kloestitz            1883193/2 219  25
+Resner, August                18 Nov 1848 Klath, Johanna                    Arcis                1882641/2 164  32
+Resner, Christoph             25 Sep 1847 Leyer, Christina                  Alt Fere Champenoise 1882639/1 175  28
+Rettmann, Christoph           15 Dec 1849 Kleist, Susanna                   Tarutino             1882651/3 237  59
+Reule, Jacob                  24 Apr 1847 Ehni, Katharina (widow)           Kloestitz            1882639/1 221  15
+Reuter, Johannes              13 Nov 1847 Schweigert, Karolina              Kloestitz            1882639/1 222  39
+Reutter, Johann Jacob         23 Feb 1843 Frick, Christina Catharina        Sarata               1882594/2 350   7
+Richter, Ferdinant            18 Sep 1841 Janke, Christina                  Arcis                1883192/2  82  10
+Richter, Johann               25 Jan 1845 Drath, Maria                      Fere Champenoise     1882636/2  26   7
+Richter, Johannes              4 Nov 1848 Maier, Rosina                     Tarutino             1882641/2 240  46
+Richter, Julius               22 Feb 1842 Maier, Luisa                      Arcis                1883193/2  63   8
+Riebhagen, Johann             25 Nov 1843 Fraenter, Louise                  Fere Champenoise     1882594/2 406  26
+Riedel, Heinrich              14 Feb 1846 Finkbeiner, Catharina             Tarutino             1882638/1  32   7
+Rieger, Ludwig                10 Nov 1848 Weishaar, Karolina                Kloestitz            1882641/2 279  29
+Rieger, Martin                 5 May 1848 Wahl, Gottliebe                   Kloestitz            1882641/2 278  15
+Riegert, Immanuel             21 Sep 1846 Fink, Christina                   Arcis                1882637/3 426  21
+Riethmueller, Andreas         10 May 1845 Scharf, Christina                 Tarutino             1882636/2  52  24
+Riethmueller, Georg            1 Oct 1842 Siewert, Friederika               Alt Fere Champenoise 1883193/2  86  16
+Rinke, Johann                  6 May 1841 Hoffmann, Maria                   Tarutino             1883192/2 155  16
+Riske, Wilhelm                 4 Jan 1845 Hanemann, Louisa                  Fere Champenoise     1882636/2  26   1
+Ritz, Friedrich               12 Feb 1848 Pohl, Anna                        Tarutino             1882641/2 240  12
+Roedel, Gottlieb              29 Oct 1840 Schrade, Amalie                   Tarutino             1883190/4  88  50
+Roedel, Gottlieb              29 Oct 1840 Schrade, Anna Amalia              Kloestitz            1883193/2 219  19
+Roeder, Johann                 9 Feb 1843 Schulz, Carolina                  Tarutino             1882594/3  18   4
+Roessler, Benjamin            22 Jun 1843 Scheurer, Catharina               Kloestitz            1882594/3  45  20
+Roloff, Karl Ludwig           12 Feb 1848 Hinz, Wilhelmina                  Tarutino             1882641/2 239  10
+Rompel, Andreas                9 May 1840 Kraft, Rosina                     Alt Arcis            1883190/4  33  15
+Rondthaler, Ferdinand         23 Feb 1848 Guenther, Justina                 Tarutino             1882641/2 240  15
+Ronthaler, Wilhelm            21 Nov 1840 Dode, Louisa                      Tarutino             1883190/4  88  61
+Rosenau, Gottlieb             23 Jul 1840 Braun, Anna                       Tarutino             1883190/4  88  38
+Rosenfeld, Christian          16 Sep 1848 Siewert, Carolina                 Fere Champenoise     1882641/2 201  29
+Rosenthal, Ludwig             11 Jan 1845 Schlewing, Eva                    Arcis                1882636/1 413   4
+Rosin, Friedrich              31 Dec 1840 Koppenstein, Elisabetha           Kloestitz            1883193/2 219  27
+Roth, Jakob Friedrich         21 Jul 1842 Wenger, Elisabetha Magdalena      Sarata               1883193/2  42  10
+Rothacker, Jacob              15 Nov 1848 Jesse, Susanna                    Kloestitz            1882641/2 279  33
+Rothacker, Johann             24 Mar 1846 Fried, Margaretha                 Kloestitz            1882638/1  61  21
+Rueb, Joh. Georg              21 Nov 1846 Wiedmann, Friederika              Sarata               1882637/3 400  10
+Ruest, Johann                 27 Dec 1847 Mutschler, Christina              Kloestitz            1882639/1 221   1
+Ruf, Jakob                     8 Jan 1848 Mueller, Anna Maria               Tarutino             1882641/2 239   3
+Ruff, Jacob (widower)         27 Mar 1847 Otterstaetter, Katharina (widow)  Kloestitz            1882639/1 221  13
+Ruff, Johann                  23 May 1846 Grabo, Magdalena                  Kloestitz            1882638/1  61  27
+Ruff, Johann                   9 Dec 1843 Kuebler, Catharina                Kloestitz            1882594/3  45  31
+Ruff, Ludwig                  20 Apr 1845 Mallach, Eva                      Tarutino             1882636/2  52  21
+Ruff, Ludwig                  19 Nov 1840 Schlenker, Anna                   Tarutino             1883190/4  88  60
+Ruff, Ludwig                  19 Nov 1840 Schlenker, Anna                   Kloestitz            1883193/2 219  24
+Ruge, Michael                 27 Dec 1846 Siewert, Carolina                 Alt Fere Champenoise 1882639/1 174  29
+Ruk, Ludwig                   25 May 1843 Pfeffle, Barbara                  Sarata               1882594/2 350   9
+Rutschke, Gottlieb            22 Dec 1846 Nikolaus, Katharina               Tarutino             1882639/1 200  46
+Sackmann, Johann Martin       11 Nov 1848 Heidinger, Christina              Tarutino             1882641/2 240  49
+Sackmann, Johann Martin       22 Nov 1845 Scharf, Christina                 Tarutino             1882636/2  52  56
+Sass, Michael                 22 Apr 1848 Kuehn, Louise                     Fere Champenoise     1882641/2 201  23
+Sauter, Gottlieb               8 Feb 1845 Frohmueller, Maria                Fere Champenoise     1882636/2  26  10
+Sauter, Karl                   5 Dec 1846 Friedrich, Justina                Kloestitz            1882638/1  62  44
+Sauter, Leonhard               2 Jan 1847 Walther, Christina                Kloestitz            1882639/1 221   4
+Sauter, Martin                28 Dec 1844 Sauter, Barbara                   Tarutino             1882636/2  52   4
+Scaley, Johann                25 Jan 1845 Stadel, Dorothea                  Kloestitz            1882636/2  73   7
+Schaal, Jacob                  8 May 1841 Knapp, Anna Maria                 Arcis                1883192/2  82   7
+Schaal, Jacob                 30 Jan 1847 Vetter, Anna Maria                Alt Fere Champenoise 1882639/1 174  10
+Schaal, Jakob                 13 Nov 1847 Deiss, Margaretha                 Arcis                1882639/1 147  20
+Schaal, Johannes              31 Jul 1841 Klein, Friederika gb Woernle      Arcis                1883192/2  82   8
+Schaal, Johannes              24 Oct 1846 Riegert, Catharina                Arcis                1882637/3 426  29
+Schaber, Friedrich             4 Dec 1847 Schock, Margaretha                Kloestitz            1882639/1 222  48
+Schaber, Georg Adam           23 Feb 1843 Hildebrand, Magdalena             Kloestitz            1882594/3  45   8
+Schaber, Jacob Friedrich      25 Apr 1846 Haberer, Katharina                Kloestitz            1882638/1  61  23
+Schaber, Michael              11 Mar 1841 Kuernberg, Karolina               Fere Champenoise     1883192/2 114   2
+Schaeck, Michael              25 Nov 1848 Haeusler, Margaretha              Arcis                1882641/2 164  39
+Schaefer, Christoph Martin     7 Mar 1846 Gothas, Catharina                 Tarutino             1882638/1  33  13
+Schaefer, Friedrich            2 Jan 1847 Neitz, Margaretha                 Kloestitz            1882639/1 221   2
+Schaefer, Gottlieb            18 Feb 1840 Maier, Katharine                  Sarata               1883190/3 417   2
+Schaefer, Michael              8 Jun 1843 Kappes, Elisabetha Magd.          Sarata               1882594/2 350  11
+Schaefer, Valentin            25 Nov 1848 Mayer, Katharina                  Kloestitz            1882641/2 279  38
+Schaeffer, Christoph          12 Feb 1848 Janke, Luisa                      Arcis                1882641/2 164   5
+Schaeufele, Johannes           7 Jun 1845 Klettmann, Rosina                 Fere Champenoise     1882636/2  27  23
+Schaeufele, Michael           27 Dec 1849 Dalke, Barbara                    Sarata               1882651/3 141  18
+Schaible, Johann              21 Oct 1848 Schwarz, Friedrika                Tarutino             1882641/2 240  39
+Schalo, Johann                22 Jan 1842 Kurz, Rosina                      Arcis                1883193/2  63   5
+Schalo, Johann Friedrich      27 Nov 1847 Jess, Anna Susanna                Arcis                1882639/1 147  24
+Schalo, Karl Ludwig            5 Feb 1848 Krauss, Eva                       Arcis                1882641/2 164   3
+Scharpf, Joh. Georg           13 Nov 1840 Schlenker, Anna Maria             Tarutino             1883190/4  88  58
+Scharpf, Philipp              31 Oct 1840 Brenner, Christina                Tarutino             1883190/4  88  54
+Schatt, Gottlieb              12 May 1841 Matz, Louisa                      Kloestitz            1883193/2 231   7
+Schatt, Gottlieb              12 May 1841 Matz, Wilhelmina                  Tarutino             1883192/2 155  17
+Schaufelberger, Johann Michae 13 Feb 1840 Waldenmaier, Barbara              Sarata               1883190/3 417   1
+Schaupp, Johann                4 Nov 1848 Kraft, Juliana                    Fere Champenoise     1882641/2 201  38
+Scheffelmaier, Johann         28 Dec 1844 Haeger, Susanna                   Tarutino             1882636/2  52   5
+Scheffelmeier, Gottfried      24 Jan 1846 Wallewein, Margar.                Kloestitz            1882638/1  61   9
+Schenkel, Gottfried            3 Jun 1840 Ziemer, Anna Elisabeth            Friedensthal         1883190/4  34  26
+Scherbinski, Peter            13 Jan 1842 Riethmueller, Margaretha          Alt Fere Champenoise 1883193/2  86   1
+Scherbinsky, Elias             7 Mar 1846 Goll, Johanna                     Kloestitz            1882638/1  61  18
+Scheurer, Friedrich            8 Mar 1845 Pflugrath, Caroline               Kloestitz            1882636/2  73  20
+Scheurer, Jacob               12 Nov 1840 Haerter, Sophia                   Tarutino             1883190/4  88  57
+Scheurer, Jacob               12 Nov 1840 Haerter, Sophia                   Kloestitz            1883193/2 219  22
+Scheurer, Jacob                8 Feb 1845 Kurz, Justina                     Kloestitz            1882636/2  73  13
+Scheurer, Jakob               15 Apr 1848 Dumdei, Karolina                  Tarutino             1882641/2 240  23
+Schielke, Christoph            2 May 1846 Kling, Christina                  Tarutino             1882638/1  33  18
+Schiewe, Ludwig                8 Nov 1845 Bok, Anna Christina               Tarutino             1882636/2  52  53
+Schill, Christian             22 Feb 1845 Finkbeiner, Margaretha            Fere Champenoise     1882636/2  27  15
+Schill, Martin                30 Dec 1841 Fingbeiner, Christina             Katzbach             1883192/2 114  11
+Schill, Martin                 6 Feb 1847 Heier, Karolina                   Tarutino             1882639/1 200   7
+Schill, Martin                26 Feb 1842 Reinke, Rosina                    Alt Fere Champenoise 1883193/2  86   8
+Schilling, Adam               12 Feb 1840 Schenkel, Christina               Tarutino             1883190/4  88  27
+Schilling, Adam               12 Feb 1840 Schenkel, Christina               Kloestitz            1883193/2 219   8
+Schilling, Jacob               5 Dec 1846 Kalmbach, Christina               Tarutino             1882638/1  33  41
+Schimpke, Christoph           18 Nov 1848 Vogel, Charlotte                  Tarutino             1882641/2 240  53
+Schlacht, Johann Friedrich    28 Oct 1848 Trikowski, Karolina               Arcis                1882641/2 164  27
+Schlaffmaier, Johannes        10 Feb 1843 Laib, Charlotta                   Kloestitz            1882594/3  45   7
+Schlechter, Jacob             21 Oct 1848 Johs, Carolina                    Fere Champenoise     1882641/2 201  32
+Schlenker, Caspar              3 Jan 1846 Kraemer, Anna Maria               Tarutino             1882638/1  32   2
+Schlenker, Christian           3 Dec 1842 Mueller, Christina                Alt Fere Champenoise 1883193/2  86  20
+Schlenker, Friedrich          25 Nov 1841 Widmer, Christina                 Tarutino             1883192/2 156  54
+Schlenker, Johann              2 Jan 1847 Trikowski, Eva                    Arcis                1882639/1 147   1
+Schlenker, Johann Martin      14 Jul 1840 Kohler, Catharina                 Brienne              1883190/4  34  29
+Schlenker, Paul               22 May 1847 Buechele, Christina               Kloestitz            1882639/1 221  20
+Schmauder, Johannes            8 May 1843 Balmer, Anna Maria                Arcis                1882594/2 372   8
+Schmid, Johann  wdw            6 Jun 1846 Zarbock, Wilhelmina               Tarutino             1882638/1  33  22
+Schmidke, Gottfried            9 Jan 1841 Jassmann, Maria                   Fere Champenoise     1883192/2 114   1
+Schmidt, Andreas              31 May 1841 Wendlandt, Anna Elisabeth         Tarutino             1883192/2 155  22
+Schmidt, Christian             2 May 1846 Balmer, Anna Maria                Arcis                1882637/3 426  12
+Schmidt, Christian            26 Nov 1846 Bast, Johanna                     Arcis                1882637/3 426  42
+Schmidt, Christian             7 Nov 1840 Mantei, Elisabeth                 Sarata               1883190/4  35  38
+Schmidt, Jacob                 5 Jun 1847 Reule, Johanna                    Kloestitz            1882639/1 221  22
+Schmidt, Johann Georg          6 Nov 1847 Wagner, Christina                 Arcis                1882639/1 147  19
+Schmidt, Ludwig                8 Feb 1840 Ruff, Christina Catharina         Tarutino             1883190/4  32   8
+Schmidt, Matthaeus            22 Sep 1842 Scherin, Dorothea Catharina       Arcis                1883193/2  63  16
+Schmied, Carl                 22 Aug 1843 Schulz, Katharina                 Tarutino             1882594/3  18  16
+Schmied, Wilhelm              19 Feb 1848 Krueger, Christina                Tarutino             1882641/2 240  13
+Schmiedt, Carl                14 Feb 1846 Neumann, Christiana               Arcis                1882637/3 426   9
+Schmiedt, Georg               12 Jun 1843 Grueneich, Susanne                Arcis                1882594/2 372  12
+Schmiedt, Johann               1 Nov 1845 Liebell, Susanna                  Tarutino             1882636/2  52  46
+Schmitke, Peter               22 Apr 1848 Dalkin, Elisabetha                Fere Champenoise     1882641/2 201  22
+Schmolke, Johann              14 Nov 1846 Kalisch, Christina                Kloestitz            1882638/1  62  39
+Schnaidt, Carl                 7 Nov 1846 Vogel, Catharina                  Arcis                1882637/3 426  34
+Schnaidt, Johann               1 Feb 1845 Hausser, Eva                      Arcis                1882636/1 413  11
+Schnaidt, Johannes            29 Jun 1848 Hermann, Dorothea                 Arcis                1882641/2 164  20
+Schnaidt, Karl                31 May 1848 Vogel, Christina                  Arcis                1882641/2 164  13
+Schnaidtmann, Georg Adam       1 Jun 1848 Spengler, Rosina Friederika       Sarata               1882641/2 138   9
+Schneider, Gottfried           9 Jan 1847 Schulz, Wilhelmina                Tarutino             1882639/1 200   4
+Schneider, Gottlieb           18 Nov 1848 Rattai, Justina                   Kloestitz            1882641/2 279  34
+Schneider, Jakob              31 Oct 1848 Scharf, Christina                 Tarutino             1882641/2 240  45
+Schneider, Konrad              6 Nov 1841 Maehrle, Charlotte                Fere Champenoise     1883192/2 114   1
+Schnepf, Franz                29 Nov 1845 Kessler, Wilhelmine               Arcis                1882636/1 413  43
+Schnepf, Franz                22 Feb 1845 Schaalo, Elisabeth                Arcis                1882636/1 413  16
+Schnuerle, Martin              6 Dec 1845 Schulz, Elisabeth                 Fere Champenoise     1882636/2  28  38
+Schock, Christoph              4 Feb 1840 Schaber, Anna                     Tarutino             1883190/4  87  13
+Schock, Christoph              4 Feb 1840 Schaber, Anna                     Kloestitz            1883193/2 219   4
+Schock, Gottfried             13 May 1848 Fink, Katharina                   Sarata               1882641/2 138   7
+Schock, Gottlieb               8 May 1847 Schaber, Katharina                Kloestitz            1882639/1 221  17
+Schoettle, Jakob              1 Dec  1849 Pfeifer, Anna Maria               Fere Champenoise     1882651/3 197  32
+Schoettle, Joseph             22 Oct 1845 Hildwein, Catharina               Kloestitz            1882636/2  73  31
+Schoettle, Michael             8 Feb 1840 Keller, Elisabetha                Tarutino             1883190/4  87  17
+Schok, Michael                28 Jan 1843 Boes, Katharina                   Arcis                1882594/2 372   3
+Scholp, Heinrich               4 Jan 1845 Klein, Louise                     Fere Champenoise     1882636/2  26   3
+Schoon, Johannes              22 Nov 1845 Radumsky, Ernestine               Arcis                1882636/1 413  41
+Schorr, Eberhard Friedrich    18 Nov 1848 Reiner, Katharina Maria           Sarata               1882641/2 138  19
+Schramm, Johann                9 Jun 1846 Grams, Rosina                     Kloestitz            1882638/1  61  29
+Schritter, Friedrich          20 Jan 1843 Bareither, Maria Magd.            Sarata               1882594/2 350   2
+Schroeter, Gottlieb            9 Jan 1847 Kletke, Eva Rosina                Alt Fere Champenoise 1882639/1 174   2
+Schroeter, Johann             13 Mar 1847 Schweigert, Dorothea              Kloestitz            1882639/1 221  12
+Schueler, Johann              29 Apr 1840 Hach, Karolina                    Kloestitz            1883193/2 219  11
+Schueler, Johann              29 Apr 1840 Hoch, Carolina                    Tarutino             1883190/4  88  30
+Schuh, Gottfried               8 Nov 1845 Bauer, Johanna                    Kloestitz            1882636/2  73  35
+Schuh, Gottlob                22 Jan 1842 Schuetz, Elisabeth Barbara        Arcis                1883193/2  63   3
+Schuh, Jakob Friedrich        16 Nov 1840 Geistdoerfer, Karoline            Sarata               1883190/3 417   9
+Schuhmaier, Joseph            12 Feb 1842 Math, Cresentia                   Sarata               1883193/2  42   2
+Schuk, Kasper                 10 Jun 1848 Engel, Wilhelmina                 Tarutino             1882641/2 240  29
+Schuler, Christian David      22 Jun 1840 Rauschenberger, Anna Maria        Tarutino             1883190/4  88  43
+Schultz, Carl Gottlieb        15 Nov 1844 Stahmer, Sophia Helena            Kischinew            1882634/3  64   4
+Schultz, Johann                9 Nov 1841 Gross, Carolina                   Tarutino             1883192/2 155  49
+Schulz, August                11 Nov 1843 Marke, Rosina                     Tarutino             1882594/3  18  19
+Schulz, Christian             22 Apr 1848 Bottcher, Justina                 Tarutino             1882641/2 240  25
+Schulz, Christian              6 Feb 1840 Sprecher, Louisa                  Tarutino             1883190/4  87   3
+Schulz, Christoph             22 Feb 1845 Koenig, Elisabetha                Tarutino             1882636/2  52  16
+Schulz, Daniel                 5 Feb 1848 Schulz, Anna Dorothea             Fere Champenoise     1882641/2 200   7
+Schulz, Gottlieb               3 Jan 1846 Banoer, Justina                   Tarutino             1882638/1  32   1
+Schulz, Gottlieb              25 Nov 1848 Gross, Wilhelmina                 Tarutino             1882641/2 241  60
+Schulz, Joh. August           19 Feb 1846 Schuhmacher, Justina              Fere Champenoise     1882638/1   2   7
+Schulz, Johann                16 Sep 1848 Gross, Louisa                     Tarutino             1882641/2 240  33
+Schulz, Karl                  10 Jun 1843 Heth, Karolina                    Arcis                1882594/2 372  11
+Schulz, Mathaus               12 Nov 1841 Land, Karolina                    Paris                1883192/2 114   7
+Schutzius, Carl               15 Oct 1841 Schmidt, Maria                    Tarutino             1883192/2 155  42
+Schwab, Gottlieb               4 Jan 1845 Kron, Catharina                   Tarutino             1882636/2  52  10
+Schwabe, August                6 Feb 1840 Witibschlaeger, Luise             Tarutino             1883190/4  32   7
+Schwaderer, Ludwig Jakob      17 Feb 1842 Kern, Johanna Maria               Sarata               1883193/2  42   3
+Schwandt, Andreas             25 Sep 1841 Walter, Sophia Friederika         Arcis                1883192/2  82  11
+Schweickert, Jacob            19 May 1841 Maier, Christiana                 Kloestitz            1883193/2 231   8
+Schweigert, Adam               5 Sep 1843 Walter, Christina                 Kloestitz            1882594/3  45  24
+Schweigert, Jacob     wdw     10 Jul 1847 Schaefer, Katharina Elisabethe    Sarata               1882639/1 119   6
+Schweigert, Sebastian          8 Nov 1845 Schlegel, Catharina               Kloestitz            1882636/2  73  33
+Schweikert, Jacob             19 May 1841 Maier, Christianna                Tarutino             1883192/2 155  19
+Seefried, Andreas             11 Mar 1843 Richter, Karolina                 Fere Champenoise     1882594/2 405   8
+Seeger, Johannes              19 Oct 1847 Littau, Elisabeth gb Eichelberg   Arcis                1882639/1 147  15
+Seitz, Lorenz                 20 Jun 1843 Mutschal, Wilhelmina              Tarutino             1882594/3  18  12
+Semmler, Christoph            23 May 1846 Timm, Elisabetha                  Arcis                1882637/3 426  15
+Semmler, David     wdw        23 Apr 1846 Fritz, Margaretha                 Sarata               1882637/3 400   2
+Sept, Georg                    7 Jan 1843 Unrath, Rosina                    Fere Champenoise     1882594/2 405   1
+Sept, Jacob                   20 Dec 1845 Reich, Magdalena gb Anhorn        Tarutino             1882638/1  32  60
+Sietz, Paul                   29 Jul 1843 Traeuchel, Christina              Fere Champenoise     1882594/2 406  17
+Siewert, August                8 Jun 1843 Mantei, Elisabetha                Fere Champenoise     1882594/2 406  12
+Siewert, Daniel               21 Oct 1846 Hersch, Juliana                   Arcis                1882637/3 426  35
+Siewert, Friedrich            21 Feb 1846 Taschendorff, Karolina            Kloestitz            1882638/1  61  16
+Silzer, Christian              6 May 1841 Wegenast, Christina               Kloestitz            1883193/2 231   6
+Simpfendoerfer, Jacob         18 Sep 1847 Schweigert, Karolina (widow)      Kloestitz            1882639/1 222  25
+Singer, Christoph              4 Dec 1847 Bollinger, Christina              Kloestitz            1882639/1 222  47
+Singer, Johann Georg  wdw     19 Aug 1848 Oster, Magdalena  wdw             Kloestitz            1882641/2 279  20
+Sommerfeld, Johann            18 Nov 1848 Ziel, Susanna                     Tarutino             1882641/2 241  55
+Speidel, Jacob                 4 Feb 1841 Lucas, Magdalena                  Tarutino             1883192/2 155   5
+Speidel, Jacob                 4 Feb 1841 Lukas, Magdalena                  Kloestitz            1883193/2 231   3
+Speidel, Michael               9 Oct 1841 Kaempff, Christina                Kloestitz            1883193/2 231  15
+Speitel, Michael               7 Oct 1841 Kaempf, Christine                 Tarutino             1883192/2 155  40
+Spek, Bartholomaeus           22 Apr 1841 Sept, Catharina                   Tarutino             1883192/2 155  14
+Sperling, Gottlieb            28 Dec 1844 Damaschke, Louise                 Kloestitz            1882636/2  73   3
+Spingler, Jakob Friedrich     30 Jan 1845 Kruz, Margaretha                  Sarata               1882636/1 392   3
+Sprecher, Christian Albrecht  27 Dec 1840 Fischer, Carolina                 Tarutino             1883190/4  88  64
+Sprecher, Friedrich            6 Feb 1840 Gruehning?, Elisabetha            Tarutino             1883190/4  87  12
+Sprenger, Johann              25 Nov 1848 Leischner, Louisa                 Tarutino             1882641/2 241  64
+Stabler, Georg                31 Jan 1846 Sperle, Eva                       Kloestitz            1882638/1  61  10
+Stach, Carl                   13 Mar 1847 Schwiegert, Christina             Kloestitz            1882639/1 221  11
+Stach, Wilhelm                 5 Feb 1842 Duerr, Anna                       Alt Fere Champenoise 1883193/2  86   4
+Stadel, Carl                  22 Jul 1845 Knoeller, Catharina               Kloestitz            1882636/2  73  28
+Stadel, Gottlieb               3 Jun 1845 Woelfle, Christina                Tarutino             1882636/2  52  29
+Stahl, Jakob                  27 Apr 1847 Stickel, Elisabeth                Tarutino             1882639/1 200   9
+Stark, Jacob                   8 Feb 1845 Herrmann, Heinriette              Arcis                1882636/1 413  13
+Stauber, Adam                 15 Nov 1845 Proppenauer, Justina              Kloestitz            1882636/2  73  38
+Stauber, Johann               19 Jan 1841 Sauter, Karolina                  Kloestitz            1883193/2 231   2
+Stauber, Johannes             19 Jan 1841 Sauter, Carolina                  Tarutino             1883192/2 155  12
+Staudle, Gottlieb Friedrich   24 Nov 1842 Bechtle, Karolina Katharina       Sarata               1883193/2  42  13
+Steer, Nicolie                 2 May 1846 Mantey, Friederika                Kloestitz            1882638/1  61  24
+Steinke, Johann               13 Mar 1847 Bauer, Friederike                 Alt Fere Champenoise 1882639/1 174  15
+Steinke, Martin               28 May 1841 Dietterle, Louisa                 Tarutino             1883192/2 155  20
+Steinke, Martin               28 May 1841 Dietterle, Louisa                 Kloestitz            1883193/2 231   9
+Steinwand, Heinrich            4 Nov 1848 Esslinger, Katharina wdw          Kloestitz            1882641/2 279  28
+Stelter, Andreas              15 Dec 1849 Dallmann, Louisa                  Fere Champenoise     1882651/3 197  35
+Stephan, Johann                6 Jan 1848 Richter, Wilhelmina               Arcis                1882641/2 164   1
+Stephan, Ludwig               14 Feb 1841 Lentz, Rosina                     Arcis                1883192/2  82   2
+Stepper, Jacob                 4 Dec 1847 Knoeller, Anna Maria              Kloestitz            1882639/1 222  49
+Steuck, Ludwig                10 May 1848 Zutter, Sophia                    Tarutino             1882641/2 240  27
+Stickel, Andreas  wdw         24 Jun 1846 Herrmann, Christina               Tarutino             1882638/1  33  25
+Stickel, Christian            27 Sep 1845 Widmer, Catharina                 Tarutino             1882636/2  52  35
+Stickel, Christian  wdw        3 Oct 1846 Widmer, Barbara                   Tarutino             1882638/1  33  29
+Stickel, Christoph             6 Nov 1847 Schaber, Anna Maria               Kloestitz            1882639/1 222  37
+Stickel, Daniel               22 Jun 1841 Schmidt, Friederika               Kloestitz            1883193/2 231  11
+Stickel, Johannes             20 Jul 1847 Wiedmer, Anna Dorothea gb Bohnet  Tarutino             1882639/1 200  14
+Stickel, Michael              25 Sep 1845 Ladner, Rosina                    Arcis                1882636/1 413  32 Bride frm Glk/Od
+Stikel, Daniel                22 Jun 1841 Schmidt, Friederika               Tarutino             1883192/2 155  27
+Stikel, Jacob                 28 Oct 1841 Kalmbach, Catharina               Tarutino             1883192/2 155  43
+Stoeckle, Abraham             24 Apr 1846 Laier, Helena                     Sarata               1882637/3 400   3
+Stok, Joseph                  16 Jan 1841 Kramer, Anna Maria                Katzbach             1883192/2 114   1
+Stolz, Georg                   9 May 1840 Hinz, Carolina                    Alt Arcis            1883190/4  33  16
+Storz, Carl Johann            13 Feb 1840 Ruge, Luise                       Tarutino             1883190/4  32   9
+Straub, Johann Christian      30 Apr 1840 Bross, Dorothea                   Tarutino             1883190/4  88  29
+Strechker, Daniel              8 Jan 1841 Bechtle, Elisabetha Dorothea      Sarata               1883192/2  57   1
+Strehle, Jacob (widower)      28 Sep 1843 Bareither, Christiana             Sarata               1882594/2 350  16
+Stuber, Christian             23 Jul 1840 Sauter, Margaretha                Kloestitz            1883193/2 219  14
+Stuck, Christian               4 Jan 1845 Krausse, Anna Maria               Tarutino             1882636/2  52   8
+Stumm, Johannes               18 Feb 1843 Beker, Louise                     Fere Champenoise     1882594/2 405   5
+Stump, Jakob                  21 Oct 1848 Treichel, Anna                    Tarutino             1882641/2 240  40
+Sturm, Peter                  13 Jan 1842 Jesse, Charlotte                  Arcis                1883193/2  63   2
+Suelzle, Heinrich              6 May 1845 Fink, Catharina                   Tarutino             1882636/2  52  22
+Suelzle, Johann Georg          4 Feb 1847 Bohnet, Christina                 Tarutino             1882639/1 200   5
+Sukert, Friedrich              1 Jun 1841 Loffelbein, Anna                  Tarutino             1883192/2 155  23
+Suknik, Christian             19 Feb 1846 Kunosch, Justina                  Fere Champenoise     1882638/1   2   6
+Suknik, Christian             21 Sep 1841 Reppnak, Anna Maria               Paris                1883192/2 114   6
+Sukut, Peter                  29 Nov 1845 Sprenger, Rosina                  Fere Champenoise     1882636/2  27  37
+Sukutt, Michael               21 Nov 1846 Triebwasser, Louise               Fere Champenoise     1882638/1   3  23
+Sulz, Georg                   23 Mar 1841 Sommerfeld, Rosina                Tarutino             1883192/2 155  11
+Teske, Philipp                20 Mar 1841 Habelmann, Karolina               Fere Champenoise     1883192/2 114   3
+Tetz, Friedrich               29 Apr 1847 Haerter, Christina                Kloestitz            1882639/1 221  16
+Theurer, Jacob                14 Feb 1846 Kugele, Anna Maria                Tarutino             1882638/1  32   8
+Thielemann, Carl              10 Apr 1847 Wurster, Barbara                  Alt Fere Champenoise 1882639/1 175  19
+Thielmann, Gottfried          31 Oct 1846 Weissenburger, Dorothea           Arcis                1882637/3 426  30
+Thielmann, Johann             13 Jul 1845 Schaalo, Wilhelmine               Arcis                1882636/1 413  26
+Thonn, Johann                 10 Apr 1847 Lang, Carolina                    Alt Fere Champenoise 1882639/1 175  20
+Thumlert, Friedrich           11 Nov 1848 Weber, Louisa                     Kloestitz            1882641/2 279  32
+Thumm, Johann                  5 Jan 1848 Krause, Louisa                    Tarutino             1882641/2 239   1
+Tiede, Carl                   18 Nov 1843 Schulz, Carolina                  Tarutino             1882594/3  19  21
+Tiede, Wilhelm                 9 Jan 1847 Lobe, Wilhelmina                  Tarutino             1882639/1 200   3
+Tietz, Johann                 28 Feb 1846 Grosshans, Regina                 Fere Champenoise     1882638/1   2   8
+Timm, August                  26 Feb 1845 Ulrich, Luise                     Arcis                1882636/1 413  20
+Titus, Andreas                25 Nov 1848 Reichert, Catharina               Fere Champenoise     1882641/2 201  42
+Traichel, Christian           21 Mar 1848 Jesse, Luisa                      Arcis                1882641/2 164   8
+Traufelder, Freidrich Wilhelm  4 Feb 1840 Hoffmann, Anna Rosina             Kloestitz            1883193/2 219   5
+Traufelder, Friedrich Wilhelm  4 Feb 1840 Hoffmann, Anna Rosina             Tarutino             1883190/4  87  20
+Trautwein, Christoph          22 Oct 1847 Kutzbach, Justina                 Tarutino             1882639/1 200  15
+Treichel, Friedrich           28 Dec 1845 Fruck, Louise                     Tarutino             1882638/1  32  63
+Treichel, Johann              25 Nov 1848 Fruck, Louisa                     Tarutino             1882641/2 241  58
+Treuchel, Andreas              7 May 1840 Balzer, Elisabeth                 Alt Arcis            1883190/4  32  10
+Treuchel, Johann  wdw         23 May 1846 Haarbuch, Justina   wdw           Tarutino             1882638/1  33  21
+Tschritter, August             6 Feb 1847 Habelmann, Louise Rosina          Alt Fere Champenoise 1882639/1 174  13
+Tschritter, Friedrich         23 May 1846 Beglau, Anna Maria                Kloestitz            1882638/1  61  28
+Tschritter, Friedrich          8 Oct 1840 Schmidtke, Carolina               Malojaroslawetz II   1883190/4  35  35
+Ulrich, Christian              6 May 1840 Loeffelbein, Carolina             Alt Arcis            1883190/4  32   5
+Ulrich, Christina              6 Jul 1843 Krueger, Catharina                Kloestitz            1882594/3  45  22
+Ulrich, Simon                 28 Dec 1844 Haerdter, Carolina                Tarutino             1882636/2  52   3
+Unrath, Friedrich             19 Feb 1848 Gubler, Carolina                  Fere Champenoise     1882641/2 200  12
+Utke, Friedrich               19 Sep 1841 Hutscher, Anna                    Tarutino             1883192/2 155  38
+Veigel, Christian             11 Oct 1845 Veigel, Catharina gb Ilg          Sarata               1882636/1 392  13
+Verwied, Michael (widower)    10 Jan 1846 Hund, Rosina                      Tarutino             1882638/1  32   3
+Vetter, Andreas               23 Apr 1846 Unrath, Christina                 Fere Champenoise     1882638/1   2  10
+Vetter, Daniel                30 Dec 1841 Kleinknecht, Christina            Fere Champenoise     1883192/2 114   2
+Vetter, Daniel                30 Oct 1847 Schelske, Christina               Alt Fere Champenoise 1882639/1 175  35
+Vetter, Friedrich              7 Nov 1846 Seidler, Karolina                 Kloestitz            1882638/1  62  37
+Vogel, Andreas                16 Aug 1845 Albrecht, Rosina                  Arcis                1882636/1 413  27
+Vogel, August                 27 Dec 1840 Flegel, Elisabetha                Tarutino             1883190/4  88  65
+Vogel, Johann                 23 Oct 1847 Wagner, Christiana                Arcis                1882639/1 147  18
+Vossler, Friedrich            19 Aug 1845 Schneider, Christina              Tarutino             1882636/2  52  34
+Vossler, Jakob                11 Mar 1848 Goehner, Elisabeth                Tarutino             1882641/2 240  18
+Wacker, Johann Michael         9 Oct 1847 Weber, Regina                     Alt Fere Champenoise 1882639/1 175  32
+Waelz, Gottlieb                5 Feb 1848 Sprecher, Justina                 Tarutino             1882641/2 239   9
+Waelz, Wilhelm                17 Jan 1846 Broneske, Louise                  Fere Champenoise     1882638/1   2   4
+Wagner, Christoph             23 Sep 1841 Reuter, Anna Maria                Sarata               1883192/2  57  13
+Wagner, Christoph             24 Feb 1842 Seifried, Maria Katharina         Sarata               1883193/2  42   5
+Wagner, Franz                  3 Jun 1848 Wiege, Elisabetha                 Arcis                1882641/2 164  15
+Wagner, Johann Jakob          30 Sep 1841 Schaufelberg, Louisa              Sarata               1883192/2  57  14
+Wagner, Philipp Jacob         23 May 1844 Mueller, Maria Margaretha         Kischinew            1882634/3  64   2
+Wahl, Michael  wdw            27 Jun 1848 Muehlbaier, Elisabetha  wdw       Kloestitz            1882641/2 278  18
+Wahler, Christian             29 Apr 1848 Gentner, Katharina                Sarata               1882641/2 138   4
+Waidelich, Joh. Georg          9 May 1846 Buchdolf, Regina                  Arcis                1882637/3 426  13
+Wajok, Stephan                25 Nov 1843 Schrade, Augustina                Fere Champenoise     1882594/2 406  28
+Waldenmaier, Georg            12 Nov 1840 Schnekenburger, Ursula            Sarata               1883190/3 417   7
+Waldenmeier, Georg            12 Nov 1840 Schneckenburger, Ursula           Kloestitz            1883193/2 219  21
+Waldenmeyer, Georg            12 Nov 1840 Schnekenburger, Ursula            Tarutino             1883190/4  88  56
+Walker, Jacob                 23 Jan 1847 Gross, Maria                      Alt Fere Champenoise 1882639/1 174   5
+Wallewein, Christoph (widower 13 Nov 1847 Reule, Friederika                 Kloestitz            1882639/1 222  40
+Wallewein, Ludwig              4 Jan 1846 Rube, Elisabetha                  Arcis                1882637/3 426   1
+Walter, Jakob                 8 Dec  1849 Hiller, Carolina                  Fere Champenoise     1882651/3 197  34
+Walter, Jakob                 8 Dec  1849 Hiller, Carolina                  Tarutino             1882651/3 237  56
+Walter, Johann                 8 Aug 1843 Stumpp, Dorothea                  Tarutino             1882594/3  18  15
+Walther, Johann               30 Jan 1847 Adam, Justina                     Kloestitz            1882639/1 221   9
+Walz, Friedrich                6 Oct 1842 Fickel, Christina                 Sarata               1883193/2  42  12
+Wanke, Martin                  1 Jun 1843 Schuett, Friederika               Kloestitz            1882594/3  45  18
+Weber, Daniel                 14 Feb 1847 Witt, Catharina                   Alt Fere Champenoise 1882639/1 174  14
+Wegenast, Gottlieb             6 Feb 1840 Kuhlo, Christina                  Tarutino             1883190/4  87  24
+Wegenast, Gottlieb             6 Feb 1840 Kuloh, Christina                  Kloestitz            1883193/2 219   7
+Wegenast, Mattheus            24 Jun 1845 Maier, Elisabetha                 Kloestitz            1882636/2  73  26
+Wegerle?, Ludwig              29 Jun 1848 Schmidt, Christina                Arcis                1882641/2 164  19
+Wegner, Adam                  20 Nov 1847 Buechele, Margaretha              Kloestitz            1882639/1 222  44
+Wegner, Andreas               30 Apr 1840 Lobe, Rosina                      Tarutino             1883190/4  88  31
+Wegner, Andreas               30 Sep 1848 Wolf, Christina                   Tarutino             1882641/2 240  35
+Wegner, Andreas  wdw          17 Oct 1848 Meder, Katharina  wdw             Kloestitz            1882641/2 279  24
+Wegner, Ferdinand             15 Nov 1845 Schlafmann, Margaretha            Kloestitz            1882636/2  73  36
+Weich, Jakob                  24 Jan 1846 Thiemann, Juliana                 Arcis                1882637/3 426   3
+Weidner, Georg                17 Feb 1843 Fercho, Louise                    Fere Champenoise     1882594/2 405   4
+Weinert, Michael              10 May 1840 Richter, Henriette                Alt Arcis            1883190/4  34  22
+Weippert, Peter                8 Nov 1845 Scheid, Margaretha                Sarata               1882636/1 392  16
+Weiss, Christian              22 Jan 1848 Riethmueller, Maria               Fere Champenoise     1882641/2 200   4
+Weiss, Friedrich              21 Dec 1847 Gross, Justina                    Tarutino             1882641/2 239  25
+Weiss, Georg                  21 Dec 1841 Schwabe, Anna Rosina              Katzbach             1883192/2 114   8
+Weiss, Gottfried              30 Sep 1848 Dittus, Anna Maria                Tarutino             1882641/2 240  37
+Weiss, Gottfried              15 Jan 1848 Milbradt, Louisa                  Tarutino             1882641/2 239   4
+Weiss, Gottfried              23 Aug 1845 Radumsky, Christina               Tarutino             1882636/2  52  33
+Weiss, Gottlieb               30 Nov 1846 Baelder, Louisa                   Kloestitz            1882638/1  62  42
+Weiss, Johann                  6 Feb 1840 Baelder, Euphrosina               Kloestitz            1883193/2 219   2
+Weiss, Johann                  6 Feb 1840 Belder, Euphrosina                Tarutino             1883190/4  87   8
+Weiss, Johann                 27 May 1848 Riedel, Maria                     Fere Champenoise     1882641/2 201  26
+Weiss, Karl                   28 Oct 1843 Stark, Chatharina                 Arcis                1882594/2 372  22
+Weissenburger, Valentin       27 Nov 1847 Gall, Anna                        Arcis                1882639/1 147  23
+Weissert, Jacob                6 Oct 1840 Koch, Christina                   Tarutino             1883190/4  88  45
+Weissert, Jacob                6 Oct 1840 Koch, Christina                   Kloestitz            1883193/2 219  17
+Weisspfening, August          11 Oct 1845 Hehr, Katharina                   Fere Champenoise     1882636/2  27  31
+Weisspfening, Johann          11 Oct 1845 Werner, Elisabeth                 Fere Champenoise     1882636/2  27  32
+Weitzel, Johann               24 Feb 1842 Karlin, Wilhelmina                Arcis                1883193/2  63  11
+Welk, Johann                  18 Nov 1848 Abermann, Wilhelmina              Arcis                1882641/2 164  33
+Welk, Johann                   4 Nov 1848 Martsch, Luisa                    Arcis                1882641/2 164  28
+Weller, Christian             24 Nov 1842 Traub, Rosina Karolina            Sarata               1883193/2  42  14
+Wendland, Jakob               25 May 1847 Doehring, Karolina                Tarutino             1882639/1 200  11
+Wendland, Michael              2 May 1840 Radies, Christina                 Alt Arcis            1883190/4  32   2
+Wendtland, Gottfried           4 Jan 1845 Haase, Wilhelmine                 Fere Champenoise     1882636/2  26   2
+Wenger, Abraham               24 Sep 1846 Mueller, Katharina                Sarata               1882637/3 400   7
+Wernik, Ludwig                26 Feb 1845 Ziebart, Christina                Arcis                1882636/1 413  19
+Wessner, Andreas (widower)     3 Apr 1847 Stepper, Magdalena                Kloestitz            1882639/1 221  14
+Widmer, Andreas               24 Oct 1840 Mutschal, Juliana                 Tarutino             1883190/4  88  51
+Widmer, Andreas                2 Mar 1845 Mutschall, Dorothea               Tarutino             1882636/2  52  18
+Widmer, Georg                 22 Jul 1840 Flaig, Rosina                     Tarutino             1883190/4  88  41
+Wiedmer, Jakob                28 Oct 1848 Irion, Friedrika                  Tarutino             1882641/2 240  41
+Wiedmer, Johannes             25 Jan 1848 Stuber, Rosina                    Tarutino             1882641/2 239   5
+Wiege, Friedrich              18 Nov 1848 Schulz, Louisa                    Tarutino             1882641/2 240  52
+Wiesse, Johannes               4 Jan 1845 Wiegner, Caroline                 Arcis                1882636/1 413   2
+Wilging, Johannes             18 Nov 1848 Boepple, Barbara                  Arcis                1882641/2 164  34
+Will, Friedrich                4 May 1840 Welk, Christina                   Alt Arcis            1883190/4  32   4
+Will, Jacob                   26 Sep 1841 Sulz, Ephrosina                   Arcis                1883192/2  82  13
+Will, Michael                  4 Nov 1843 Duerr, Justina                    Arcis                1882594/2 372  24
+Wilske, Friedrich              7 Feb 1846 Hartmann, Louise                  Tarutino             1882638/1  32   5
+Winter, Martin                11 Nov 1848 Tiede, Karolina                   Tarutino             1882641/2 240  50
+Wirch, Johann                 27 Feb 1845 Hermann, Elisabetha               Sarata               1882636/1 392   6
+Witt, Wilhelm                 31 Oct 1846 Wenslaw, Christina                Arcis                1882637/3 426  31
+Woellhaf, Gottfried            9 May 1840 Schack, Christina                 Alt Arcis            1883190/4  33  14
+Woerner, Johann                6 Feb 1847 Schneider, Elisabetha             Alt Fere Champenoise 1882639/1 174  11
+Wolf, Christian               17 Jun 1842 Kuck, Rosina                      Alt Fere Champenoise 1883193/2  86  14
+Wolf, Ernst                   26 Dec 1847 Wolf, Eleonora                    Tarutino             1882641/2 239  24
+Wonneberg, Samuel              1 Nov 1845 Goetz, Eva Rosina                 Tarutino             1882636/2  52  45
+Wudel, Johann                 15 Nov 1845 Hoenke, Karolina                  Tarutino             1882636/2  52  55
+Wuerfel, Gottlieb             15 Apr 1848 Herrmann, Maria Ceclia?           Fere Champenoise     1882641/2 201  20
+Wuertemberger, Christian       8 Nov 1845 Hagedorn, Friederika              Tarutino             1882636/2  52  52
+Wuerth, Johann Christoph       8 May 1840 Rebbmann, Anna Catharina          Alt Arcis            1883190/4  33  13
+Wutzke, Carl                  30 Oct 1846 Zahl, Eva Rosina                  Tarutino             1882638/1  33  39
+Wutzke, Gottlieb              27 Dec 1840 Bobermin, Caroline                Tarutino             1883190/4  88  69
+Wutzke, Johann                 5 Jun 1847 Breitkreuz, Anna Louise           Alt Fere Champenoise 1882639/1 175  27
+Wutzke, Martin                11 Mar 1848 Breitkreuz, Louise                Fere Champenoise     1882641/2 200  15
+Wutzke, Wilhelm               30 Nov 1841 Richter, Carolina                 Tarutino             1883192/2 156  56
+Zacher, Andreas               25 Mar 1847 Schaal, Margaretha                Arcis                1882639/1 147   5
+Zacher, Christian              2 Sep 1841 Herrmann, Regina                  Arcis                1883192/2  82   9
+Zahl, Christoph               26 Feb 1845 Hinz, Louise                      Tarutino             1882636/2  52  17
+Zaiser, Christian             20 Nov 1847 Grosshans, Karolina               Kloestitz            1882639/1 222  43
+Zaiser, Johann                10 Nov 1840 Mantei, Rosina                    Tarutino             1883190/4  35  41
+Zaiser, Johann                 4 Dec 1847 Unrath, Margaretha                Alt Fere Champenoise 1882639/1 175  44
+Zarbock, August               20 Nov 1847 Erdman, Regina                    Tarutino             1882639/1 200  20
+Zeh, Andreas                   6 Nov 1847 Schock, Dorothea                  Kloestitz            1882639/1 222  38
+Zeh, Conrad                   28 Dec 1844 Rothfuss, Eva Catharina           Kloestitz            1882636/2  73   1
+Zeh, Ernst                     4 Dec 1847 Graff, Elisabetha                 Kloestitz            1882639/1 222  46
+Zeissler, Adam                23 Oct 1847 Knuss, Anna                       Arcis                1882639/1 147  17
+Zeitner, Johann               28 Dec 1845 Beemann, Susanna                  Tarutino             1882638/1  32  62
+Zibbart, Michael              25 Oct 1846 Kappel, Henriette                 Arcis                1882637/3 426  26
+Zick, Johann Georg  wdw       11 Mar 1848 Bruxt, Susanna                    Kloestitz            1882641/2 278  12
+Ziehmann, Christian (widower) 28 Oct 1843 Hermann, Karolina                 Fere Champenoise     1882594/2 406  22
+Zillmer, Friedrich            28 Oct 1848 Fredrich, Wilhelmina              Tarutino             1882641/2 240  42
+Zimmer, Israel                15 Sep 1842 Wahler, Catharina Louisa          Sarata               1883193/2  42  11
+Zink, Carl                    27 Nov 1841 Grabatin, Justina                 Arcis                1883192/2  82  19
+Zink, Friedrich               27 Nov 1841 Riger, Barbara                    Arcis                1883192/2  82  17
+Zink, Johann                   7 Nov 1840 Traichel, Carolina                Sarata               1883190/4  35  37
+Zumbaum, Ludwig               30 Sep 1840 Hengstler, Barbara                Sarata               1883190/3 417   5
+Zwicker, Georg     wdw        15 Jan 1848 Beck, Barbara                     Kloestitz            1882641/2 278   5
+.

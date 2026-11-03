@@ -1,0 +1,1692 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta http-equiv='Content-Type' content='text/html; charset=UTF-8'/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=8"/> <![endif]-->
+<link href="/static/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link href="/static/keyboard/keyboard.css" rel="stylesheet">
+<link rel="stylesheet" href="/static/styles/jquery-ui.css" />
+<link rel="stylesheet" href="/static/select2/css/select2.css" />
+<link rel="stylesheet" href="/static/select2/css/select2-bootstrap.css" />
+<link rel="stylesheet" href="/static/datepicker/css/bootstrap-datepicker.min.css" />
+<link rel="stylesheet" href="/static/fullpage/fullpage.css" >
+<link rel="stylesheet" href="/static/lightgallery/css/lightgallery.min.css" />
+<link rel="stylesheet" href="/static/lightslider/css/lightslider.min.css" />
+<link rel="stylesheet" href="/static/lightgallery/css/topage.css" />
+<link rel="stylesheet" href="/static/slider/css/bootstrap-slider.min.css" />
+<link href="/static/styles/design.css" rel="stylesheet">
+<link rel="stylesheet" href="/static/styles/listtree.css" />
+<link href="/static/summernote/summernote.css" rel="stylesheet">
+<link href="/static/styles/poorvision.css" rel="stylesheet">
+<script type="application/javascript">
+window.baseURL = "https://catalog.gaorel.ru:443";
+window.language = "ru";
+window.URL = "https://catalog.gaorel.ru/search";
+window.URI = "/search";
+window.fullURL = "https://catalog.gaorel.ru/search?type=simple&p0.v=%d0%a1%d0%be%d0%ba%d0%be%d0%bb%d0%be%d0%b2+%d0%94%d0%bc%d0%b8%d1%82%d1%80%d0%b8%d0%b9+%d0%98%d0%b2%d0%b0%d0%bd%d0%be%d0%b2%d0%b8%d1%87&p0.c=12&p0.a=19280";
+window.contextPath = "";
+window.oType =null;
+window.objId =null;
+window.parentObjectId =null;
+window.parentObjectName =null;
+window.searchType =null;
+window.RecaptchaOptions = {lang:'ru', theme : 'white'};
+</script>
+<style>
+body { font-family: 'Roboto', sans-serif ; } .header { } .footer { } .row-wrapper-1 { } .row-1 { min-width:1200px;max-width:1380px; } .position-1-1 { } .component-8513277 { min-height: 85px;height: 85px;text-align: center ; } .component-8513433 { min-height: 100px;height: 100px; } .component-8513433 a, .component-8513433 a:hover { color: #333 ; } .component-8486597 { } .component-8486597 a, .component-8486597 a:hover { color: #333 ; } .position-1-2 { } .row-wrapper-2 { } .row-2 { min-width:1200px;max-width:1380px; } .position-2-1 { } .row-wrapper-3 { background: #172534 ; } .row-3 { min-width:1200px;max-width:1380px; } .position-3-1 { } .component-8486555 { background: #172534 ; } .component-8486555 a, .component-8486555 a:hover { color: white ; } .component-8486555 .parent-menu-item { background: #172534 } .component-8486555 .dropdown-menu { background: #172534 } .component-8486555 .parent-menu-item:hover, .component-8486555 .parent-menu-item.menu-active, .component-8486555 .parent-menu-item.menu-selected { background: white } .component-8486555 .parent-menu-item:hover a, .component-8486555 .parent-menu-item.menu-active a, .component-8486555 .parent-menu-item.menu-selected a { color: #172534 } .component-8486555 .children-menu-item { background: white } .component-8486555 .children-menu-item:hover, .component-8486555 .children-menu-item.menu-active { background: white } .component-8486555 .children-menu-item a { color: #172534 } .component-8486555 .children-menu-item:hover a, .component-8486555 .children-menu-item a:hover, .component-8486555 .children-menu-item.menu-active > .menu-item-content a { color: #2e4b69 !important; } .row-wrapper-6 { } .row-6 { min-width:1200px;max-width:1380px; } .position-6-1 { } .component-8513355 { } .component-8513355 a, .component-8513355 a:hover { color: #333 ; } .row-wrapper-20 { background: #ebedec ; } .row-20 { min-width:1200px;max-width:1380px; } .position-20-1 { } .component-8486683 { } .component-8486683 a, .component-8486683 a:hover { color: black ; } .component-9648425 { } .position-20-2 { } .component-8486699 { text-align: right ; }
+</style>
+<style>
+html, body {
+width: 100%; min-width: 1200px; } .header { position: relative; background: linear-gradient(to bottom, white 0px, white 57px, #e4e4e4 57px, #e4e4e4 100%); } .position-1-1 .component, .position-20-1 .component { float: left; } .position-1-1 .component-search { float: none; z-index: 10; } .keyboard img { height: 20px; } .position-1-1 img { width: 40px; } .logo-mini { height: 50px; min-height: 50px; }
+.logo-mini img {
+height: 45px;
+min-height: 45px;
+}
+.top_text_small {
+text-transform: uppercase;
+font-weight: bold;
+font-size: 12px;
+}
+.top_text_big {
+font-size: 16px;
+font-weight: bold;
+text-transform: uppercase;
+margin-top: 1px;
+}
+.component-search {
+position: relative;
+clear: both;
+display: table;
+min-width: 850px;
+}
+.component-search .block {
+display: table-cell;
+vertical-align: middle;
+}
+.component-search .padding {
+padding-left: 10px;
+max-width: 100px;
+}
+.simple-search-form .input-group {
+height: 40px;
+border-radius: 50px;
+background: white;
+border: 1px solid #ccc;
+}
+.simple-search-form .form-control {
+height: 40px;
+border-radius: 50px;
+border-style: none;
+}
+.simple-search-form button {
+border: none;
+}
+.simple-search-form .btn-search {
+/*margin-right: 20px;*/
+background: #172534;
+color: white;
+border-radius: 20px !important;
+padding: 10px 20px;
+}
+.simple-search-form .btn-search:hover {
+background: #45719e;
+}
+.keyboard img {
+height: 20px;
+}
+.btn-alphabet {
+float: none;
+}
+.position-1-2 {
+z-index: 1;
+}
+.position-1-2 .well {
+background: none;
+border: none;
+text-align: right;
+padding-top: 10px;
+position: relative;
+box-shadow: none !important;
+border-radius: 0;
+margin-bottom: 0;
+padding-bottom: 10px;
+}
+.position-1-2 legend {
+/*color: #b2aa9f;*/
+color: #aaaaaa;
+border-bottom: none;
+margin-bottom: 30px;
+padding-right: 120px;
+font-style: italic;
+min-height: 20px;
+}
+.position-1-2 legend .compact-subscription-text {
+color: #aaaaaa;
+}
+.position-1-2 a {
+/*color: #c1c0bf;*/
+color: #616161;
+text-decoration: underline;
+font-weight: bold;
+}
+.position-1-2 .login-separator {
+background: #616161;
+margin-left: 30px;
+}
+.position-1-2 .dropdown {
+display: inline-block;
+padding: 5px 20px;
+}
+.position-1-2 .dropdown.open {
+background: white;
+}
+.position-1-2 .dropdown > a {
+text-decoration-style: dashed;
+}
+.position-1-2 .dropdown.open > a {
+color: #333;
+}
+.position-1-2 .dropdown-menu {
+z-index: 1050;
+/* width: 100%;*/
+min-width:235px;
+margin: 0;
+border: none;
+border-radius: 0;
+box-shadow: none;
+padding-bottom: 15px;
+}
+.position-1-2 .dropdown-menu a {
+background: none;
+text-decoration: none;
+}
+.position-1-2 .dropdown-menu a:hover {
+background: none;
+color: #45719e;
+}
+.position-1-2 .dropdown-menu .divider {
+margin-left: 20px;
+margin-right: 20px;
+}
+.position-1-2 a:hover {
+color: white;
+}
+.position-1-2 a:hover {
+color: #2b2b2b;
+}
+.position-1-2 .btn-help {
+float: none;
+position: absolute;
+top: -50px;
+right: 35px;
+}
+.position-1-2 .btn-basket::before {
+content: ' ';
+width: 20px;
+height: 18px;
+background: url("../static/images/basket-dark.png");
+display: inline-block;
+margin-right: 5px;
+margin-bottom: -3px;
+}
+.position-1-2 .btn-help::before {
+content: ' ';
+width: 18px;
+height: 18px;
+background: url("../static/images/help-min-new-dark.png");
+display: inline-block;
+margin-right: 5px;
+margin-bottom: -3px;
+}
+.position-1-2 .btn-help img {
+display: none;
+}
+.row-1 .component {
+padding-top: 5px;
+padding-bottom: 5px;
+}
+.position-3-1 .component {
+margin: 0;
+padding: 0;
+}
+.position-3-1 .component .navbar {
+margin-bottom: 0;
+}
+.position-3-1 .parent-menu-item a {
+font-weight: bold;
+font-size: 13px;
+}
+.position-3-1 .navbar-nav {
+float: none;
+display: table;
+width: 100%;
+}
+.position-3-1 .navbar-nav > li {
+float: none;
+display: table-cell;
+}
+.position-3-1 .menu-selected, .parent-menu-item.menu-active, .parent-menu-item:hover {
+box-shadow: 0 0 6px rgba(0,0,0,.175);
+}
+.position-3-1 .menu-selected::before, .parent-menu-item.menu-active::before, .parent-menu-item:hover::before {
+content: ' ';
+position: absolute;
+height: 5px;
+background: white;
+top: -5px;
+left: 0;
+right: 0;
+border-top-left-radius: 10px !important;
+border-top-right-radius: 10px !important;
+z-index: 10;
+}
+.position-3-1 .menu-selected::after,.position-3-1 .parent-menu-item.menu-active::after,.position-3-1 .parent-menu-item:hover::after {
+content: ' ';
+position: absolute;
+height: 2px;
+background: #172534;
+bottom: 0;
+left: 10px;
+right: 10px;
+}
+.position-3-1 .menu-item-childrens {
+border: none !important;
+border-bottom-left-radius: 10px !important;
+border-bottom-right-radius: 10px !important;
+}
+.position-3-1 .menu-item-childrens hr {
+background: #ebedec;
+}
+.position-3-1 .parent-menu-item > .menu-item-content > a {
+text-align: center;
+}
+.listtree-left-container .filter-title{
+margin-bottom: 28px;
+}
+.listtree-left-container h5 {
+font-weight: bold;
+text-decoration: underline;
+margin-bottom: 20px;
+}
+.listtree-left-container .input-group {
+border: 1px solid #ccc;
+border-radius: 50px;
+}
+.listtree-left-container .btn-filer-search {
+border-radius: 50px !important;
+width: 50px;
+background: #172534;
+color: white;
+border: none;
+height: 34px;
+}
+.listtree-left-container .btn-filer-search:hover {
+background: #45719e;
+}
+.listtree-left-container .filter-search {
+border-top-left-radius: 50px;
+border-bottom-left-radius: 50px;
+border: none;
+}
+.listtree-left-container a span {
+text-decoration: underline;
+}
+.listtree-left-container .search-back-link-container {
+padding-top: 12px;
+padding-bottom: 24px;
+}
+.listtree-left-container .search-back-link-container a {
+text-decoration: underline;
+}
+.listtree-right-container .attribute-container a,
+.hierarchical-name a {
+text-decoration: underline;
+}
+.listtree-right-container .attribute-container a:hover,
+.listtree-left-container a:hover {
+color: #45719e;
+}
+/* width */
+.filters-container-more::-webkit-scrollbar {
+width: 17px;
+}
+.filters-container-more::-webkit-scrollbar-button {
+height: 11px;
+background: url("/getImage?objectId=190960969&size=4&ext=png&cache=true") no-repeat scroll center;
+}
+/* Track */
+.filters-container-more::-webkit-scrollbar-track {
+background: #b1b3b2;
+border-left: 8px solid white;
+border-right: 8px solid white;
+}
+/* Handle */
+.filters-container-more::-webkit-scrollbar-thumb {
+background: #45719e;
+border-radius: 50px;
+}
+/* Handle on hover */
+.filters-container-more::-webkit-scrollbar-thumb:hover {
+background: #172534;
+}
+.component-listtree .filter-block {
+border-radius: 50px;
+}
+.treelist-search-results-container .search-result-tabs {
+display: table;
+}
+.treelist-search-results-container .search-result-tabs,
+.treelist-object-tabs-container .object-tabs,
+.well .nav-tabs,
+.component-kaisa .nav-tabs,
+#customSearchTabs
+{
+border: none;
+background: #ebedec;
+width: 100%;
+}
+.treelist-search-results-container .search-result-tab,
+.treelist-object-tabs-container .object-tab,
+#customSearchTabs li {
+border: none;
+display: table-cell;
+float: none;
+position: relative;
+}
+.treelist-object-tabs-container .object-tab,
+#customSearchTabs li {
+display: inline-block;
+}
+.treelist-search-results-container .search-result-tab:not(.active):after,
+.treelist-object-tabs-container .object-tab:not(.active):after,
+#customSearchTabs li:not(.active):after {
+content: ' ';
+display: inline-block;
+position: absolute;
+top: 10px;
+bottom: 10px;
+right: 0;
+width: 1px;
+background: #d4d4d4;
+}
+.treelist-search-results-container .search-result-tab:last-child:after,
+.treelist-object-tabs-container .object-tab:last-child:after,
+#customSearchTabs li:last-child:after {
+width: 0;
+}
+.treelist-search-results-container .search-result-tab a,
+.treelist-object-tabs-container .object-tab a,
+.well .nav-tabs a,
+.component-kaisa .nav-tabs a,
+#customSearchTabs.nav-tabs a {
+color: #333;
+font-weight: bold;
+border: none !important;
+text-align: center;
+text-decoration: none !important;
+}
+.treelist-search-results-container .nav-tabs > li.active > a,
+.treelist-search-results-container .nav-tabs > li.active > a:focus,
+.treelist-search-results-container .nav-tabs > li.active > a:hover,
+.treelist-object-tabs-container .nav-tabs > li.active > a,
+.treelist-object-tabs-container .nav-tabs > li.active > a:focus,
+.treelist-object-tabs-container .nav-tabs > li.active > a:hover,
+.well .nav-tabs > li.active > a,
+.well .nav-tabs > li.active > a:focus,
+.well .nav-tabs > li.active > a:hover,
+.component-kaisa .nav-tabs > li.active > a,
+.component-kaisa .nav-tabs > li.active > a:focus,
+.component-kaisa .nav-tabs > li.active > a:hover,
+#customSearchTabs.nav-tabs > li.active > a,
+#customSearchTabs.nav-tabs > li.active > a:focus,
+#customSearchTabs.nav-tabs > li.active > a:hover {
+background-color: #45719e;
+color: white;
+border-radius: 0;
+}
+.listtree-right-container .panel {
+background: #d9e6ee;
+border-color: #a4c3d6;
+border-radius: 0;
+}
+.listtree-right-container .panel-heading, .listtree-right-container .panel-body {
+background: none;
+border: none !important;
+}
+.listtree-right-container .panel-heading a {
+text-decoration: underline;
+text-decoration-style: dashed;
+font-size: 14px;
+}
+.listtree-right-container .panel-heading a:hover {
+text-decoration-style: solid;
+}
+.listtree-right-container .panel-level-even:not(.panel-level-1) {
+background: white;
+border: none;
+}
+.listtree-right-container .panel-level-odd:not(.panel-level-1) {
+background: #ebedec;
+border: none;
+}
+.listtree-right-container .panel-heading .relation-link {
+text-decoration-style: solid;
+}
+.listtree-right-container .btn-action[href*="/office/order"]::before {
+background: url("../static/images/order.svg") center no-repeat;
+}
+.listtree-right-container .btn-action[href*="/office/ask"]::before {
+background: url("../static/images/ask.svg") center no-repeat;
+}
+.pagination > li > a, .pagination > li > span {
+text-decoration: underline;
+border: none;
+color: #333;
+border-radius: 50px !important;
+background: none;
+}
+.pagination > .disabled > a,
+.pagination > .disabled > a:focus,
+.pagination > .disabled > a:hover,
+.pagination > .disabled > span,
+.pagination > .disabled > span:focus,
+.pagination > .disabled > span:hover {
+background: none;
+}
+.pagination>li>a:focus,.pagination>li>a:hover,.pagination>li>span:focus,.pagination>li>span:hover {
+color: #333;
+background-color: #d9e6ee;
+}
+.pagination > .active > a, .pagination > .active > a:focus,
+.pagination > .active > a:hover, .pagination > .active > span,
+.pagination > .active > span:focus, .pagination > .active > span:hover {
+background-color: #45719e;
+border-color: #45719e;
+}
+.listtree-right-container .object-title {
+font-size: 16px;
+}
+.treelist-object-title-container h3 {
+font-weight: bold;
+}
+.treelist-object-tabs-container .object-tabs {
+margin-top: 25px;
+margin-bottom: 25px;
+}
+.treelist-object-buttons-container .btn-group-vertical {
+width: 100%;
+}
+.treelist-object-buttons-container .btn-default{
+margin-bottom: 15px;
+background: #172534;
+color: white;
+border-radius: 20px !important;
+}
+.treelist-object-buttons-container .btn-default:hover {
+background: #45719e;
+color: white;
+}
+.listtree-right-container .attribute-container {
+margin-bottom: 10px;
+}
+.listtree-right-container .treelist-object-description-container .attribute-container.attribute-type-4 {
+margin-top: 25px;
+margin-bottom: 35px;
+}
+.listtree-right-container .treelist-object-description-container .attribute-container.attribute-type-4 .attribute-title {
+display: inline-block;
+margin-bottom: 35px;
+}
+.hierarchical-name-title {
+margin-bottom: 30px;
+}
+.hierarchical-name:first-child {
+font-weight: bold;
+}
+.well {
+background: none;
+box-shadow: none;
+-webkit-box-shadow: none;
+border: none;
+border-radius: 0;
+}
+.row-6 .component-kaisa table a,
+.row-6 .component-kaisa .breadcrumb a,
+.row-6 .well a {
+color: #333;
+text-decoration: underline;
+}
+.row-6 .component-kaisa table a:hover,
+.row-6 .component-kaisa .breadcrumb a:hover,
+.row-6 .well a:hover {
+color: #45719e;
+}
+.well .nav-tabs a,
+.well .nav-tabs a:hover,
+.component-kaisa .nav-tabs a,
+.component-kaisa .nav-tabs a:hover{
+color: #333;
+}
+.po-tab-content {
+background: none;
+border: none;
+padding: 10px 0;
+}
+.row-6 .btn:not(.remove):not(.btn-number):not(.delete-search-param) {
+border-radius: 50px !important;
+background: #172534;
+color: white;
+border: none;
+text-decoration: none;
+}
+.row-6 .btn:not(.remove):not(.btn-number):not(.delete-search-param):hover {
+background: #45719e;
+}
+.row-20 img {
+max-height: 40px;
+}
+.copyright {
+margin-top: 15px;
+}
+.altsoft-banner {
+margin-top: 18px;
+}
+.login-basket-cost {
+display: inline-block;
+color: white;
+background-color: #45719e;
+border-color: #45719e;
+border-radius: 50px !important;
+padding: 3px 9px;
+font-weight: normal;
+margin-left: 5px;
+margin-right: 5px;
+}
+.modal-dialog .modal-content {
+border-radius: 0;
+}
+.modal-header {
+border-bottom: none;
+padding-bottom: 0;
+}
+.modal-header .modal-title {
+text-align: center;
+color: #172534;
+}
+.modal-dialog .btn:not(.keyboard) {
+margin-left: 5px;
+background: #172534;
+color: white;
+border-radius: 20px !important;
+padding: 10px 20px;
+border: none;
+}
+.modal-dialog .btn:not(.keyboard):hover {
+background: #45719e;
+}
+#customSearchTabs {
+margin-bottom: 20px;
+}
+.modal-dialog img {
+width: auto;
+height: 16px;
+}
+.modal-footer {
+padding-top: 0;
+border-top: none;
+}
+.listtree-right-container .panel-collapse .attribute-container{
+display:none;
+}
+.listtree-right-container .panel{
+margin-left: 15px;
+}
+.panel-title a[aria-expanded="true"]{
+background: url("/getImage?objectId=9668638&size=4&ext=png") no-repeat scroll left;
+cursor: pointer;
+}
+.panel-title a[aria-expanded="false"]{
+background: url("/getImage?objectId=9668664&size=4&ext=png") no-repeat scroll left;
+cursor: pointer;
+}
+.listtree-right-container .panel-heading a {
+padding-left: 20px;
+}
+.listtree-left.listtree-right-container .btn-description::before, .listtree-right.listtree-left-container .btn-description::before, .treelist-object-tabs-container .btn-description::before {
+content: ' ';
+background: url("/svg/9669869.svg") center no-repeat;
+width: 20px;
+height: 20px;
+display: inline-block;
+margin-right: 5px;
+margin-bottom: -3px;
+}
+.listtree-left.listtree-right-container .attribute-container{
+display:none;
+}
+.listtree-left.listtree-right-container .object-data-button-container, .treelist-object-tabs-container .object-data-button-container{
+position: absolute;
+top: -5px;
+left: 15px;
+font-size: 0px;
+}
+.listtree-left.listtree-right-container .object-title, .treelist-object-tabs-container .object-title {
+margin-left: 25px;
+}
+.listtree-left.listtree-right-container .object-data, .treelist-object-tabs-container .object-data{
+padding-bottom: 0px;
+margin-bottom: 0px;
+}
+.work {
+font-size: 18px;
+color: rgb(166, 172, 176);
+font-weight: bold;
+line-height: 1.571;
+text-align: center;
+}
+.work img {
+width: 900px;
+padding-bottom: 40px;
+}
+.work::after {
+content: 'Мы работаем над содержанием этого раздела';
+display: inline;
+}
+a.btn-action {
+padding-left: 850px;
+}
+.object-title a {
+padding-right: 25px;
+}
+</style>
+<link href='https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i' rel='stylesheet'>
+<title>Государственный архив Орловской области</title>
+<title>КАИСА</title>
+</head>
+<body >
+<div class="top_frame" id="top_frame" style="display: none">
+<div class="frame_table">
+<div class="frame_cell">
+<div class="frame_halign" id="video_width">
+<div id="close_video"></div>
+<div class="controls" id="controls"></div>
+<video controls="controls" id="video">
+<source id="play_video" src="" type="video/mp4">
+</video>
+</div>
+</div>
+</div>
+</div>
+<div class="top_frame" id="top_frame_audio" style="display: none">
+<div class="frame_table">
+<div class="frame_cell">
+<div class="frame_halign" id="audio_width">
+<div id="close_audio"></div>
+<div class="audio-icon"></div>
+<audio controls="controls" id="audio">
+<source id="play_audio" src="" type="audio/mp3">
+</audio>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade add-basket-dialog-modal" tabindex="-1" role="dialog" aria-labelledby="addBasketItemModalLabel">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="addBasketItemModalLabel">Заказать копию</h4>
+</div>
+<div class="modal-body">
+<div class="form-group">
+<label for="listInput">Укажите номера листов</label>
+<textarea class="form-control" id="listInput" placeholder="Листы"></textarea>
+</div>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-primary btn-add-basket-item">Заказать</button>
+<button type="button" class="btn btn-default" data-dismiss="modal">Отмена</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade message-basket-dialog-modal" tabindex="-1" role="dialog" aria-labelledby="messageBasketItemModalLabel">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="messageBasketItemModalLabel"></h4>
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-primary" data-dismiss="modal">ОК</button>
+</div>
+</div>
+</div>
+</div>
+<div class="page-wrapper">
+<div class="header">
+<div id="row-wrapper-1" class="row-wrapper row-wrapper-1 ">
+<div id="row-1" class="row row-main row-1">
+<div class="col-xs-7 position-1-1">
+<div class="component component-8513277 logo-mini " style="">
+<div class="image-block" style="display: inline-block; ">
+<a href="/" target="_blank" >
+<img src="/getImage?objectId=8548039&size=4&ext=png" title="Государственный архив Орловской области"
+/>
+</a>
+</div>
+</div>
+<div class="component component-8513433 logo-mini ">
+<a href="/" >
+<div><div class="top_text_big">государственный архив орловской области</div><div class="top_text_small">электронный каталог</div></div>
+</a>
+</div>
+<div class="component component-8486597 component-search ">
+<div class="block">
+<form action="/search" class="search-form simple-search-form">
+<div class="input-group">
+<input name="p0.v" type="text" class="form-control keyboardInput" aria-label="..."
+placeholder="Поиск документов в архиве..."
+value="">
+<input name="type" type="hidden" value="simple" />
+<input type="hidden" value="" name="p0.t">
+<input type="hidden" value="" name="p0.d">
+<input type="hidden" value="12" name="p0.c">
+<input type="hidden" value="19280" name="p0.a">
+<div class="input-group-btn">
+<button type="button" class="btn btn-default keyboard" title="Виртуальная клавиатура"><img src="/svg/8512926.svg" height="16"/></button>
+<button type="submit" class="btn btn-default btn-search" aria-label="Left Align">Поиск</button>
+</div>
+</div>
+</form>
+</div>
+<div class="block padding" >
+<a type="button" class="" data-toggle="modal" data-target=".custom-search-dialog">Расширенный поиск</a>
+<a href="#" type="button" class="btn-alphabet alphabetOpen">а-я</a>
+<div class="alphabet" style="display: none">
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=а">а</a>
+</div>
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=б">б</a>
+</div>
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=в">в</a>
+</div>
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=г">г</a>
+</div>
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=д">д</a>
+</div>
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=е">е</a>
+</div>
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=ж">ж</a>
+</div>
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=з">з</a>
+</div>
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=и">и</a>
+</div>
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=к">к</a>
+</div>
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=л">л</a>
+</div>
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=м">м</a>
+</div>
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=н">н</a>
+</div>
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=о">о</a>
+</div>
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=п">п</a>
+</div>
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=р">р</a>
+</div>
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=с">с</a>
+</div>
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=т">т</a>
+</div>
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=у">у</a>
+</div>
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=ф">ф</a>
+</div>
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=х">х</a>
+</div>
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=ц">ц</a>
+</div>
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=ч">ч</a>
+</div>
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=ш">ш</a>
+</div>
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=щ">щ</a>
+</div>
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=э">э</a>
+</div>
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=ю">ю</a>
+</div>
+<div class="letter">
+<a class="letter_link" href="/search?type=alphabet&amp;searchObjectType=PERSONS&amp;text=я">я</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade custom-search-dialog"
+role="dialog" aria-labelledby="myLargeModalLabel">
+<div class="modal-dialog ">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title">Расширенный поиск</h4>
+</div>
+<div class="modal-body">
+<div style="margin-bottom: 10px;">
+<ul id="customSearchTabs" class="nav nav-tabs" role="tablist">
+<li role="presentation" class="active">
+<a href="#STOCKS"
+aria-controls="STOCKS" role="tab"
+data-toggle="tab">Фонды</a>
+</li>
+<li role="presentation" class="">
+<a href="#INVENTORIES"
+aria-controls="INVENTORIES" role="tab"
+data-toggle="tab">Описи</a>
+</li>
+<li role="presentation" class="">
+<a href="#DOCUMENTS"
+aria-controls="DOCUMENTS" role="tab"
+data-toggle="tab">Дела</a>
+</li>
+<li role="presentation" class="">
+<a href="#PERSONS"
+aria-controls="PERSONS" role="tab"
+data-toggle="tab">Именной указатель</a>
+</li>
+<li role="presentation" class="">
+<a href="#ADDRESSINDEX"
+aria-controls="ADDRESSINDEX" role="tab"
+data-toggle="tab">Географический указатель</a>
+</li>
+<li role="presentation" class="">
+<a href="#VEDOMOSTI"
+aria-controls="VEDOMOSTI" role="tab"
+data-toggle="tab">Окладные ведомости помещиков уездов Орловской области</a>
+</li>
+</ul>
+</div>
+<div class="tab-content">
+<div role="tabpanel" class="tab-pane active"
+id="STOCKS">
+<form class="form-horizontal search-form" method="get"
+action="/search">
+<input name="type" type="hidden" value="custom"/>
+<input name="searchObjectType" type="hidden" value="STOCKS"/>
+<input name="customSearchUniqueId" type="hidden"
+value=""/>
+<div class="row">
+<div class="col-xs-12 search-params">
+<div class="form-group form-group-mid search-param" data-index="0"
+>
+<label for="p0.v"
+class="control-label col-sm-3">Номер фонда</label>
+<div class="col-sm-9">
+<div class="input-group ">
+<input type="text" data-ot=""
+value="" name="p0.v"
+class="form-control input-mid keyboardInput" >
+<div class="input-group-btn">
+<button type="button" class="btn btn-default btn-mid keyboard" title="Виртуальная клавиатура">
+<img src="/static/images/keyboard.png" height="16"/>
+</button>
+</div>
+</div>
+<input type="hidden" value="" name="p0.t">
+<input type="hidden" value="" name="p0.d">
+<input type="hidden" value="23" name="p0.c">
+<input type="hidden" value="13628" name="p0.a">
+</div>
+</div>
+<div class="form-group form-group-mid search-param" data-index="1"
+>
+<label for="p1.v"
+class="control-label col-sm-3">Наименование</label>
+<div class="col-sm-9">
+<div class="input-group ">
+<input type="text" data-ot=""
+value="" name="p1.v"
+class="form-control input-mid keyboardInput" >
+<div class="input-group-btn">
+<button type="button" class="btn btn-default btn-mid keyboard" title="Виртуальная клавиатура">
+<img src="/static/images/keyboard.png" height="16"/>
+</button>
+</div>
+</div>
+<input type="hidden" value="" name="p1.t">
+<input type="hidden" value="" name="p1.d">
+<input type="hidden" value="12" name="p1.c">
+<input type="hidden" value="13692" name="p1.a">
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 text-right">
+<button class="btn btn-danger" type="button" onclick="clearForm(this.form);">Очистить</button>
+<button data-dismiss="modal" class="btn btn-default" type="button">Отмена</button>
+<button class="btn btn-primary" type="submit">Поиск</button>
+</div>
+</div>
+</form>
+</div>
+<div role="tabpanel" class="tab-pane "
+id="INVENTORIES">
+<form class="form-horizontal search-form" method="get"
+action="/search">
+<input name="type" type="hidden" value="custom"/>
+<input name="searchObjectType" type="hidden" value="INVENTORIES"/>
+<input name="customSearchUniqueId" type="hidden"
+value=""/>
+<div class="row">
+<div class="col-xs-12 search-params">
+<div class="form-group form-group-mid search-param" data-index="0"
+>
+<label for="p0.v"
+class="control-label col-sm-3">Номер фонда</label>
+<div class="col-sm-9">
+<div class="input-group ">
+<input type="text" data-ot=""
+value="" name="p0.v"
+class="form-control input-mid keyboardInput" >
+<div class="input-group-btn">
+<button type="button" class="btn btn-default btn-mid keyboard" title="Виртуальная клавиатура">
+<img src="/static/images/keyboard.png" height="16"/>
+</button>
+</div>
+</div>
+<input type="hidden" value="" name="p0.t">
+<input type="hidden" value="" name="p0.d">
+<input type="hidden" value="23" name="p0.c">
+<input type="hidden" value="13292" name="p0.a">
+</div>
+</div>
+<div class="form-group form-group-mid search-param" data-index="1"
+>
+<label for="p1.v"
+class="control-label col-sm-3">Номер описи</label>
+<div class="col-sm-9">
+<div class="input-group ">
+<input type="text" data-ot=""
+value="" name="p1.v"
+class="form-control input-mid keyboardInput" >
+<div class="input-group-btn">
+<button type="button" class="btn btn-default btn-mid keyboard" title="Виртуальная клавиатура">
+<img src="/static/images/keyboard.png" height="16"/>
+</button>
+</div>
+</div>
+<input type="hidden" value="" name="p1.t">
+<input type="hidden" value="" name="p1.d">
+<input type="hidden" value="23" name="p1.c">
+<input type="hidden" value="13294" name="p1.a">
+</div>
+</div>
+<div class="form-group form-group-mid search-param" data-index="2"
+>
+<label for="p2.v"
+class="control-label col-sm-3">Аннотация</label>
+<div class="col-sm-9">
+<div class="input-group ">
+<input type="text" data-ot=""
+value="" name="p2.v"
+class="form-control input-mid keyboardInput" >
+<div class="input-group-btn">
+<button type="button" class="btn btn-default btn-mid keyboard" title="Виртуальная клавиатура">
+<img src="/static/images/keyboard.png" height="16"/>
+</button>
+</div>
+</div>
+<input type="hidden" value="" name="p2.t">
+<input type="hidden" value="" name="p2.d">
+<input type="hidden" value="12" name="p2.c">
+<input type="hidden" value="13298" name="p2.a">
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 text-right">
+<button class="btn btn-danger" type="button" onclick="clearForm(this.form);">Очистить</button>
+<button data-dismiss="modal" class="btn btn-default" type="button">Отмена</button>
+<button class="btn btn-primary" type="submit">Поиск</button>
+</div>
+</div>
+</form>
+</div>
+<div role="tabpanel" class="tab-pane "
+id="DOCUMENTS">
+<form class="form-horizontal search-form" method="get"
+action="/search">
+<input name="type" type="hidden" value="custom"/>
+<input name="searchObjectType" type="hidden" value="DOCUMENTS"/>
+<input name="customSearchUniqueId" type="hidden"
+value=""/>
+<div class="row">
+<div class="col-xs-12 search-params">
+<div class="form-group form-group-mid search-param" data-index="0"
+>
+<label for="p0.v"
+class="control-label col-sm-3">Номер фонда</label>
+<div class="col-sm-9">
+<div class="input-group ">
+<input type="text" data-ot=""
+value="" name="p0.v"
+class="form-control input-mid keyboardInput" >
+<div class="input-group-btn">
+<button type="button" class="btn btn-default btn-mid keyboard" title="Виртуальная клавиатура">
+<img src="/static/images/keyboard.png" height="16"/>
+</button>
+</div>
+</div>
+<input type="hidden" value="" name="p0.t">
+<input type="hidden" value="" name="p0.d">
+<input type="hidden" value="23" name="p0.c">
+<input type="hidden" value="13348" name="p0.a">
+</div>
+</div>
+<div class="form-group form-group-mid search-param" data-index="1"
+>
+<label for="p1.v"
+class="control-label col-sm-3">Номер описи</label>
+<div class="col-sm-9">
+<div class="input-group ">
+<input type="text" data-ot=""
+value="" name="p1.v"
+class="form-control input-mid keyboardInput" >
+<div class="input-group-btn">
+<button type="button" class="btn btn-default btn-mid keyboard" title="Виртуальная клавиатура">
+<img src="/static/images/keyboard.png" height="16"/>
+</button>
+</div>
+</div>
+<input type="hidden" value="" name="p1.t">
+<input type="hidden" value="" name="p1.d">
+<input type="hidden" value="23" name="p1.c">
+<input type="hidden" value="2416811" name="p1.a">
+</div>
+</div>
+<div class="form-group form-group-mid search-param" data-index="2"
+>
+<label for="p2.v"
+class="control-label col-sm-3">Номер дела</label>
+<div class="col-sm-9">
+<div class="input-group ">
+<input type="text" data-ot=""
+value="" name="p2.v"
+class="form-control input-mid keyboardInput" >
+<div class="input-group-btn">
+<button type="button" class="btn btn-default btn-mid keyboard" title="Виртуальная клавиатура">
+<img src="/static/images/keyboard.png" height="16"/>
+</button>
+</div>
+</div>
+<input type="hidden" value="" name="p2.t">
+<input type="hidden" value="" name="p2.d">
+<input type="hidden" value="23" name="p2.c">
+<input type="hidden" value="13352" name="p2.a">
+</div>
+</div>
+<div class="form-group form-group-mid search-param" data-index="3"
+>
+<label for="p3.v"
+class="control-label col-sm-3">Заголовок</label>
+<div class="col-sm-9">
+<div class="input-group ">
+<input type="text" data-ot=""
+value="" name="p3.v"
+class="form-control input-mid keyboardInput" >
+<div class="input-group-btn">
+<button type="button" class="btn btn-default btn-mid keyboard" title="Виртуальная клавиатура">
+<img src="/static/images/keyboard.png" height="16"/>
+</button>
+</div>
+</div>
+<input type="hidden" value="" name="p3.t">
+<input type="hidden" value="" name="p3.d">
+<input type="hidden" value="12" name="p3.c">
+<input type="hidden" value="13354" name="p3.a">
+</div>
+</div>
+<div class="form-group form-group-mid search-param" data-index="4"
+>
+<label for="p4.v"
+class="control-label col-sm-3">Точный год начала</label>
+<div class="col-sm-9">
+<div class="input-group ">
+<input type="text" data-ot=""
+value="" name="p4.v"
+class="form-control input-mid keyboardInput" >
+<div class="input-group-btn">
+<button type="button" class="btn btn-default btn-mid keyboard" title="Виртуальная клавиатура">
+<img src="/static/images/keyboard.png" height="16"/>
+</button>
+</div>
+</div>
+<input type="hidden" value="" name="p4.t">
+<input type="hidden" value="" name="p4.d">
+<input type="hidden" value="10" name="p4.c">
+<input type="hidden" value="13706" name="p4.a">
+</div>
+</div>
+<div class="form-group form-group-mid search-param" data-index="5"
+>
+<label for="p5.v"
+class="control-label col-sm-3">Точный год окончания</label>
+<div class="col-sm-9">
+<div class="input-group ">
+<input type="text" data-ot=""
+value="" name="p5.v"
+class="form-control input-mid keyboardInput" >
+<div class="input-group-btn">
+<button type="button" class="btn btn-default btn-mid keyboard" title="Виртуальная клавиатура">
+<img src="/static/images/keyboard.png" height="16"/>
+</button>
+</div>
+</div>
+<input type="hidden" value="" name="p5.t">
+<input type="hidden" value="" name="p5.d">
+<input type="hidden" value="10" name="p5.c">
+<input type="hidden" value="13708" name="p5.a">
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 text-right">
+<button class="btn btn-danger" type="button" onclick="clearForm(this.form);">Очистить</button>
+<button data-dismiss="modal" class="btn btn-default" type="button">Отмена</button>
+<button class="btn btn-primary" type="submit">Поиск</button>
+</div>
+</div>
+</form>
+</div>
+<div role="tabpanel" class="tab-pane "
+id="PERSONS">
+<form class="form-horizontal search-form" method="get"
+action="/search">
+<input name="type" type="hidden" value="custom"/>
+<input name="searchObjectType" type="hidden" value="PERSONS"/>
+<input name="customSearchUniqueId" type="hidden"
+value=""/>
+<div class="row">
+<div class="col-xs-12 search-params">
+<div class="form-group form-group-mid search-param" data-index="0"
+>
+<label for="p0.v"
+class="control-label col-sm-3">ФИО</label>
+<div class="col-sm-9">
+<div class="input-group ">
+<input type="text" data-ot=""
+value="" name="p0.v"
+class="form-control input-mid keyboardInput" >
+<div class="input-group-btn">
+<button type="button" class="btn btn-default btn-mid keyboard" title="Виртуальная клавиатура">
+<img src="/static/images/keyboard.png" height="16"/>
+</button>
+</div>
+</div>
+<input type="hidden" value="" name="p0.t">
+<input type="hidden" value="" name="p0.d">
+<input type="hidden" value="2781" name="p0.c">
+<input type="hidden" value="13492" name="p0.a">
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 text-right">
+<button class="btn btn-danger" type="button" onclick="clearForm(this.form);">Очистить</button>
+<button data-dismiss="modal" class="btn btn-default" type="button">Отмена</button>
+<button class="btn btn-primary" type="submit">Поиск</button>
+</div>
+</div>
+</form>
+</div>
+<div role="tabpanel" class="tab-pane "
+id="ADDRESSINDEX">
+<form class="form-horizontal search-form" method="get"
+action="/search">
+<input name="type" type="hidden" value="custom"/>
+<input name="searchObjectType" type="hidden" value="ADDRESSINDEX"/>
+<input name="customSearchUniqueId" type="hidden"
+value=""/>
+<div class="row">
+<div class="col-xs-12 search-params">
+<div class="form-group form-group-mid search-param" data-index="0"
+>
+<label for="p0.v"
+class="control-label col-sm-3">Наименование</label>
+<div class="col-sm-9">
+<div class="input-group ">
+<input type="text" data-ot=""
+value="" name="p0.v"
+class="form-control input-mid keyboardInput" >
+<div class="input-group-btn">
+<button type="button" class="btn btn-default btn-mid keyboard" title="Виртуальная клавиатура">
+<img src="/static/images/keyboard.png" height="16"/>
+</button>
+</div>
+</div>
+<input type="hidden" value="" name="p0.t">
+<input type="hidden" value="" name="p0.d">
+<input type="hidden" value="12" name="p0.c">
+<input type="hidden" value="13392" name="p0.a">
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 text-right">
+<button class="btn btn-danger" type="button" onclick="clearForm(this.form);">Очистить</button>
+<button data-dismiss="modal" class="btn btn-default" type="button">Отмена</button>
+<button class="btn btn-primary" type="submit">Поиск</button>
+</div>
+</div>
+</form>
+</div>
+<div role="tabpanel" class="tab-pane "
+id="VEDOMOSTI">
+<form class="form-horizontal search-form" method="get"
+action="/search">
+<input name="type" type="hidden" value="custom"/>
+<input name="searchObjectType" type="hidden" value="VEDOMOSTI"/>
+<input name="customSearchUniqueId" type="hidden"
+value=""/>
+<div class="row">
+<div class="col-xs-12 search-params">
+<div class="form-group form-group-mid search-param" data-index="0"
+>
+<label for="p0.v"
+class="control-label col-sm-3">Наименование селений</label>
+<div class="col-sm-9">
+<div class="input-group ">
+<input type="text" data-ot=""
+value="" name="p0.v"
+class="form-control input-mid keyboardInput" >
+<div class="input-group-btn">
+<button type="button" class="btn btn-default btn-mid keyboard" title="Виртуальная клавиатура">
+<img src="/static/images/keyboard.png" height="16"/>
+</button>
+</div>
+</div>
+<input type="hidden" value="" name="p0.t">
+<input type="hidden" value="" name="p0.d">
+<input type="hidden" value="12" name="p0.c">
+<input type="hidden" value="11246282" name="p0.a">
+</div>
+</div>
+<div class="form-group form-group-mid search-param" data-index="1"
+>
+<label for="p1.v"
+class="control-label col-sm-3">Владельцы</label>
+<div class="col-sm-9">
+<div class="input-group ">
+<input type="text" data-ot=""
+value="" name="p1.v"
+class="form-control input-mid keyboardInput" >
+<div class="input-group-btn">
+<button type="button" class="btn btn-default btn-mid keyboard" title="Виртуальная клавиатура">
+<img src="/static/images/keyboard.png" height="16"/>
+</button>
+</div>
+</div>
+<input type="hidden" value="" name="p1.t">
+<input type="hidden" value="" name="p1.d">
+<input type="hidden" value="12" name="p1.c">
+<input type="hidden" value="128510003" name="p1.a">
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 text-right">
+<button class="btn btn-danger" type="button" onclick="clearForm(this.form);">Очистить</button>
+<button data-dismiss="modal" class="btn btn-default" type="button">Отмена</button>
+<button class="btn btn-primary" type="submit">Поиск</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-5 position-1-2">
+</div>
+</div>
+</div>
+<div id="row-wrapper-2" class="row-wrapper row-wrapper-2 ">
+<div id="row-2" class="row row-main row-2">
+<div class="col-xs-12 position-2-1">
+</div>
+</div>
+</div>
+</div>
+<div class="content">
+<div id="row-wrapper-3" class="row-wrapper row-wrapper-3 ">
+<div id="row-3" class="row row-main row-3">
+<div class="col-xs-12 position-3-1">
+<div
+class="component component-menu component-8486555 horizontal-menu ">
+<div class="navbar navbar-inverse">
+<div class="container-fluid">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="expanded"
+data-target="#navbar-8486555">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div class="expanded navbar-expanded" id="navbar-8486555">
+<ul class="nav navbar-nav menu">
+<li class="
+menu-item parent-menu-item
+"
+>
+<div class="menu-item-content">
+<a
+href="/type/rubrfunds"
+style="padding-left: 0px;"
+>
+ПУТЕВОДИТЕЛЬ
+</a>
+</div>
+</li>
+<li class="
+menu-item parent-menu-item
+"
+>
+<div class="menu-item-content">
+<a
+href="/type/stocks"
+style="padding-left: 0px;"
+>
+ФОНДЫ
+</a>
+</div>
+</li>
+<li class="
+menu-item parent-menu-item
+"
+>
+<div class="menu-item-content">
+<a
+href="/type/persons"
+style="padding-left: 0px;"
+>
+ИМЕННОЙ УКАЗАТЕЛЬ
+</a>
+</div>
+</li>
+<li class="
+menu-item parent-menu-item
+"
+>
+<div class="menu-item-content">
+<a
+href="/type/addressindex"
+style="padding-left: 0px;"
+>
+ГЕОГРАФИЧЕСКИЙ УКАЗАТЕЛЬ
+</a>
+</div>
+</li>
+<li class="
+menu-item parent-menu-item
+"
+>
+<div class="menu-item-content">
+<a
+href="/exhibitions"
+style="padding-left: 0px;"
+>
+ВИРТУАЛЬНЫЕ ВЫСТАВКИ
+</a>
+</div>
+</li>
+<li class="
+menu-item parent-menu-item
+"
+>
+<div class="menu-item-content">
+<a
+href="/contacts"
+style="padding-left: 0px;"
+>
+КОНТАКТЫ
+</a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="row-wrapper-6" class="row-wrapper row-wrapper-6 ">
+<div id="row-6" class="row row-main row-6">
+<div class="col-xs-12 position-6-1">
+<div class="component component-listtree component-8513355 ">
+<div class="row">
+<div class="col-xs-3 listtree-left listtree-left-container">
+<h4 class="filter-title">Фильтры</h4>
+</div>
+<div class="col-xs-9 listtree-left listtree-right-container">
+<div class="row">
+<div class="col-xs-12">
+<div class="row">
+<div class="col-xs-4 listtree-result-count">
+Результаты поиска: 1-1
+из 1
+</div>
+<div class="col-xs-8 text-right listtree-menu">
+<span class="dropdown listtree-pagesize-dropdown">
+<a class="btn-listtree-pagesize dropdown-toggle" type="button" id="btn-listtree-pagesize"
+data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+Выводить <b>по 20 записей</b>
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu" aria-labelledby="btn-listtree-pagesize">
+<li>
+<a href="#">по 20 записей</a>
+</li>
+<li>
+<a href="/search?type=simple&p0.v=%d0%a1%d0%be%d0%ba%d0%be%d0%bb%d0%be%d0%b2+%d0%94%d0%bc%d0%b8%d1%82%d1%80%d0%b8%d0%b9+%d0%98%d0%b2%d0%b0%d0%bd%d0%be%d0%b2%d0%b8%d1%87&p0.c=12&p0.a=19280&pageSize=50">по 50 записей</a>
+</li>
+<li>
+<a href="/search?type=simple&p0.v=%d0%a1%d0%be%d0%ba%d0%be%d0%bb%d0%be%d0%b2+%d0%94%d0%bc%d0%b8%d1%82%d1%80%d0%b8%d0%b9+%d0%98%d0%b2%d0%b0%d0%bd%d0%be%d0%b2%d0%b8%d1%87&p0.c=12&p0.a=19280&pageSize=100">по 100 записей</a>
+</li>
+</ul>
+</span>
+<span class="dropdown listtree-sort-dropdown">
+<a class="btn-listtree-sort dropdown-toggle" type="button" id="btn-listtree-sort"
+data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+Сортировать <b>по умолчанию</b>
+<span class="caret"></span>
+</a>
+<ul class="dropdown-menu" aria-labelledby="btn-listtree-sort">
+<li><a href="#">по умолчанию</a></li>
+<li><a href="https://catalog.gaorel.ru/search?type=simple&p0.v=%d0%a1%d0%be%d0%ba%d0%be%d0%bb%d0%be%d0%b2+%d0%94%d0%bc%d0%b8%d1%82%d1%80%d0%b8%d0%b9+%d0%98%d0%b2%d0%b0%d0%bd%d0%be%d0%b2%d0%b8%d1%87&p0.c=12&p0.a=19280&sort=13492">по "ФИО"</a></li>
+<li><a href="https://catalog.gaorel.ru/search?type=simple&p0.v=%d0%a1%d0%be%d0%ba%d0%be%d0%bb%d0%be%d0%b2+%d0%94%d0%bc%d0%b8%d1%82%d1%80%d0%b8%d0%b9+%d0%98%d0%b2%d0%b0%d0%bd%d0%be%d0%b2%d0%b8%d1%87&p0.c=12&p0.a=19280&sort=13496">по "Биографические сведения"</a></li>
+<li><a href="https://catalog.gaorel.ru/search?type=simple&p0.v=%d0%a1%d0%be%d0%ba%d0%be%d0%bb%d0%be%d0%b2+%d0%94%d0%bc%d0%b8%d1%82%d1%80%d0%b8%d0%b9+%d0%98%d0%b2%d0%b0%d0%bd%d0%be%d0%b2%d0%b8%d1%87&p0.c=12&p0.a=19280&sort=13500">по "Примечание"</a></li>
+</ul>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<div class="row treelist-title-container">
+<div class="col-xs-12">
+<h4>Найдено по запросу: SIMPLE - Соколов Дмитрий Иванович</h4>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<div class="row treelist-search-results-container">
+<div class="col-xs-12">
+<ul class="nav nav-tabs search-result-tabs" role="tablist">
+<li role="presentation"
+class="search-result-tab active">
+<a class="simpleSearchTab"
+href="#">
+Именной указатель (1)
+</a>
+</li>
+<li role="presentation"
+class="search-result-tab ">
+<a class="simpleSearchTab"
+href="https://catalog.gaorel.ru/search?type=simple&p0.v=%d0%a1%d0%be%d0%ba%d0%be%d0%bb%d0%be%d0%b2+%d0%94%d0%bc%d0%b8%d1%82%d1%80%d0%b8%d0%b9+%d0%98%d0%b2%d0%b0%d0%bd%d0%be%d0%b2%d0%b8%d1%87&p0.c=12&p0.a=19280&searchObjectType=DOCUMENTS">
+Дело (6)
+</a>
+</li>
+<li role="presentation"
+class="search-result-tab ">
+<a class="simpleSearchTab"
+href="https://catalog.gaorel.ru/search?type=simple&p0.v=%d0%a1%d0%be%d0%ba%d0%be%d0%bb%d0%be%d0%b2+%d0%94%d0%bc%d0%b8%d1%82%d1%80%d0%b8%d0%b9+%d0%98%d0%b2%d0%b0%d0%bd%d0%be%d0%b2%d0%b8%d1%87&p0.c=12&p0.a=19280&searchObjectType=VEDOMOSTI">
+Окладные ведомости помещиков уездов Орловской области (1)
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<div class="object-list-container">
+<div class="row objectList-row ">
+<div class="col-xs-12">
+<div class="object-data">
+<div class="row">
+<div class="col-xs-12 object-title">
+<a href=" /object/11451487?params=id:1;aid:19280;scid:12;lid:1;did:null;v:Соколов Дмитрий Иванович;dsotid:null;dsid:null;,
+" style=""
+>
+Соколов Дмитрий Иванович
+</a>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 ">
+<div class="" data-textCount="0">
+<div class="imageView-container " >
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<div class="panel-group" role="tablist" aria-multiselectable="true">
+<div class="panel panel-level-1 panel-level-odd panel-default">
+<div class="panel-heading" role="tab" id="heading-11451487-11948182">
+<h4 class="panel-title">
+<a role="button" data-toggle="collapse"
+href="#collapse-11451487-11948182"
+aria-expanded="false"
+aria-controls="collapse-11451487-11948182">
+Окладные ведомости помещиков уездов Орловской области (1)
+</a>
+<a class="relation-link" rel="noopener noreferrer" target="_blank"
+href="/search?search?type=custom&amp;searchObjectType=11198737&amp;p0.t=Соколов Дмитрий Иванович&amp;p0.d=11451487&amp;p0.v=11451487&amp;p0.a=11199007&amp;p0.c=10">Открыть список в новом окне</a>
+</h4>
+</div>
+<div id="collapse-11451487-11948182" class="panel-collapse collapse children-element-collapse"
+role="tabpanel"
+data-id="11451487"
+data-relation-id="11948182"
+data-search-index="1789808"
+data-level="2"
+aria-labelledby="heading-11451487-11948182">
+<div class="panel-body">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer">
+<div class="footer">
+<div id="row-wrapper-20" class="row-wrapper row-wrapper-20 ">
+<div id="row-20" class="row row-main row-20">
+<div class="col-xs-10 position-20-1">
+<div class="component component-8486683 ">
+<div><a href="https://gaorel.ru/"target="_blank">© ГОСУДАРСТВЕННЫЙ АРХИВ ОРЛОВСКОЙ ОБЛАСТИ</a></div>
+</div>
+<!-- Global site tag (gtag.js) - Google Analytics --><script async src='https://www.googletagmanager.com/gtag/js?id=UA-43963301-17'></script> <script> window.dataLayer = window.dataLayer ||[]; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-43963301-17');</script><!-- Yandex.Metrika counter --><script type='text/javascript' >(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, 'script', 'https://mc.yandex.ru/metrika/tag.js', 'ym'); ym(56309989, 'init',{ clickmap:true, trackLinks:true, accurateTrackBounce:true});</script><noscript><div><img src='https://mc.yandex.ru/watch/56309989' style='position:absolute; left:-9999px;' alt='' /></div></noscript><!-- /Yandex.Metrika counter -->
+</div>
+<div class="col-xs-2 position-20-2">
+<div class="component component-8486699 altsoft-banner " style="">
+<div class="image-block" style="display: inline-block; ">
+<a href="http://altsoft.spb.ru" target="_blank" >
+<img src="/getImage?objectId=8513110&size=4&ext=png" title="Альт-Софт"
+/>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--[if lt IE 9]>
+<script src="/static/scripts/js/html5shiv.js" type="text/javascript"></script>
+<script src="/static/scripts/respond.min.js" type="text/javascript"></script>
+<![endif]-->
+<script src="/static/scripts/polyfill.js" type="text/javascript"></script>
+<script src="/static/scripts/jquery.min.js" type="text/javascript"></script>
+<script src="/static/scripts/jquery-ui.min.js" type="text/javascript"></script>
+<script src="/static/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="/static/slider/js/bootstrap-slider.min.js" type="text/javascript"></script>
+<script src="/static/jquery/js/jquery.mousewheel.min.js" type="text/javascript"></script>
+<script src="/static/jquery/js/jquery.cookie.js" type="text/javascript"></script>
+<script src="/static/keyboard/jquery.keyboard.js" type="text/javascript"></script>
+<script src="/static/keyboard/russian.js" type="text/javascript"></script>
+<script src="/static/select2/js/select2.min.js" type="text/javascript"></script>
+<script src="/static/select2/js/i18n/ru.js" type="text/javascript"></script>
+<script src="/static/scripts/validator.min.js" type="text/javascript"></script>
+<script src="/static/datepicker/js/bootstrap-datepicker.min.js"> type="text/javascript"</script>
+<script src="/static/datepicker/locales/bootstrap-datepicker.ru.min.js" type="text/javascript"></script>
+<script src="/static/lightgallery/js/lightgallery-all.min.js" type="text/javascript"></script>
+<script src="/static/lightslider/js/lightslider.min.js" type="text/javascript"></script>
+<script src="/static/scripts/readmore.min.js" type="text/javascript"></script>
+<script src="/nonstatic/scripts/video.js" type="text/javascript"></script>
+<script src="/nonstatic/scripts/row.js" type="text/javascript"></script>
+<script src="/nonstatic/scripts/common.js" type="text/javascript"></script>
+<script src="/static/fullpage/fullpage.js" type="text/javascript"></script>
+<script src="/nonstatic/scripts/listtree.js" type="text/javascript"></script>
+<script src="/nonstatic/scripts/kaisa.js" type="text/javascript"></script>
+<script src="/nonstatic/scripts/basket.js" type="text/javascript"></script>
+<script src="/static/summernote/summernote.min.js"></script>
+<script src="/static/lightgallery/js/topage.js" type="text/javascript"></script>
+<script>
+$('.object-data-button-container .btn-description').each(function (){
+$(this).attr('title','Открыть в новом окне'); });
+$("a[href*='#collapse-']").on('mouseup',function(){
+setTimeout(function () {
+$('.object-data-button-container .btn-description').each(function (){
+$(this).attr('title','Открыть в новом окне'); });
+}, 1000);
+});
+</script>
+</body>
+</html>

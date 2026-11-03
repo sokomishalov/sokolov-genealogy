@@ -1,0 +1,394 @@
+<title>Бедаревы и Елескины</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap&subset=cyrillic">
+<style>
+/* Layout: full-height archive table — zoomable tree canvas on the left, person dossier on the right (bottom sheet on phones). */
+:root {
+  --bg: #eef0ee;
+  --canvas: #e6e9e6;
+  --grid: #d6dbd7;
+  --surface: #fbfcfa;
+  --ink: #1d2422;
+  --muted: #5d6763;
+  --line: #9aa5a0;
+  --accent: #1f5c6b;
+  --accent-soft: #d5e6e9;
+  --doc: #2f6b3f;
+  --fam: #8a5a12;
+  --hyp: #8b3b56;
+  --chip-doc: #dcebdf;
+  --chip-fam: #f2e5cf;
+  --chip-hyp: #f1dbe3;
+  --shadow: 0 1px 2px rgba(20,30,28,.08), 0 6px 18px rgba(20,30,28,.07);
+  --f-display: "PT Serif", Georgia, "Times New Roman", serif;
+  --f-body: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #131817; --canvas: #171d1c; --grid: #222a28; --surface: #1d2422; --ink: #e5ebe8; --muted: #9aa6a1;
+    --line: #56625d; --accent: #7cc0cf; --accent-soft: #1f3a40; --doc: #8fd19e; --fam: #e2b668; --hyp: #e597b1;
+    --chip-doc: #203a27; --chip-fam: #3d3020; --chip-hyp: #3e2430; --shadow: 0 1px 2px rgba(0,0,0,.4), 0 8px 22px rgba(0,0,0,.35);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #131817; --canvas: #171d1c; --grid: #222a28; --surface: #1d2422; --ink: #e5ebe8; --muted: #9aa6a1;
+  --line: #56625d; --accent: #7cc0cf; --accent-soft: #1f3a40; --doc: #8fd19e; --fam: #e2b668; --hyp: #e597b1;
+  --chip-doc: #203a27; --chip-fam: #3d3020; --chip-hyp: #3e2430; --shadow: 0 1px 2px rgba(0,0,0,.4), 0 8px 22px rgba(0,0,0,.35);
+  color-scheme: dark;
+}
+:root[data-theme="light"] { color-scheme: light; }
+
+html, body { height: 100%; }
+body { background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 14px; line-height: 1.5; overflow: hidden; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--surface); }
+.app { height: 100%; display: grid; grid-template-rows: auto 1fr; }
+header {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5;
+  display: flex; flex-wrap: wrap; align-items: center; gap: 10px 18px;
+  padding-block: 10px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  background: var(--surface); border-bottom: 1px solid var(--grid);
+}
+h1 { margin: 0; font-family: var(--f-display); font-weight: 700; font-size: 1.25rem; letter-spacing: .01em; text-wrap: balance; }
+.sub { color: var(--muted); font-size: .8rem; }
+.legend { display: flex; gap: 12px; flex-wrap: wrap; margin-left: auto; font-size: .78rem; color: var(--muted); }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+.lg { width: 22px; height: 12px; border-radius: 3px; border: 2px solid var(--line); background: var(--surface); }
+.lg.doc { border-color: var(--doc); }
+.lg.fam { border-color: var(--fam); border-style: dashed; }
+.lg.hyp { border-color: var(--hyp); border-style: dotted; }
+.seg { display: inline-flex; border: 1px solid var(--grid); border-radius: 8px; overflow: hidden; }
+.seg button { font: inherit; font-size: .8rem; padding: 5px 10px; border: 0; background: transparent; color: var(--muted); cursor: pointer; }
+.seg button + button { border-left: 1px solid var(--grid); }
+.seg button[aria-pressed="true"] { background: var(--accent-soft); color: var(--ink); font-weight: 600; }
+button:focus-visible, a:focus-visible, [tabindex]:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+.main { display: grid; grid-template-columns: 1fr minmax(320px, 400px); min-height: 0; }
+.stage { position: relative; min-width: 0; min-height: 0; background-color: var(--canvas);
+  background-image: radial-gradient(var(--grid) 1px, transparent 1px); background-size: 22px 22px; overflow: hidden; touch-action: none; cursor: grab; }
+.stage.dragging { cursor: grabbing; }
+svg { width: 100%; height: 100%; display: block; user-select: none; }
+.edge { fill: none; stroke: var(--line); stroke-width: 1.6; }
+.edge.hyp { stroke: var(--hyp); stroke-dasharray: 2 5; stroke-linecap: round; }
+.couple { stroke: var(--line); stroke-width: 1.6; }
+.couple.hyp { stroke: var(--hyp); stroke-dasharray: 2 5; }
+.node { cursor: pointer; }
+.node rect.card { fill: var(--surface); stroke: var(--line); stroke-width: 1.6; filter: drop-shadow(0 1px 1.5px rgba(0,0,0,.12)); }
+.node.doc rect.card { stroke: var(--doc); }
+.node.fam rect.card { stroke: var(--fam); stroke-dasharray: 6 4; }
+.node.hyp rect.card { stroke: var(--hyp); stroke-dasharray: 2 4; stroke-linecap: round; }
+.node.living rect.card { stroke: var(--line); stroke-dasharray: 1 3; fill: var(--canvas); }
+.node.sel rect.card { stroke: var(--accent); stroke-width: 3; stroke-dasharray: none; }
+.node:hover rect.card { stroke-width: 2.6; }
+.node text { fill: var(--ink); }
+.node .nm { font-family: var(--f-display); font-weight: 700; font-size: 14px; }
+.node .yr { font-family: var(--f-mono); font-size: 11px; fill: var(--muted); }
+.node .tg { font-family: var(--f-body); font-size: 10.5px; fill: var(--muted); }
+.node .docs { font-family: var(--f-mono); font-size: 10px; fill: var(--accent); }
+.zoom { position: absolute; right: max(12px, env(safe-area-inset-right, 0px)); bottom: 12px; display: flex; flex-direction: column; gap: 6px; }
+.zoom button { width: 38px; height: 38px; border-radius: 8px; border: 1px solid var(--grid); background: var(--surface); color: var(--ink); font: 600 18px/1 var(--f-body); cursor: pointer; box-shadow: var(--shadow); }
+.zoom button.fit { font-size: 11px; }
+.hint { position: absolute; left: max(12px, env(safe-area-inset-left, 0px)); bottom: 12px; font-size: .75rem; color: var(--muted); background: var(--surface); border: 1px solid var(--grid); border-radius: 6px; padding: 4px 8px; }
+
+aside { min-width: 0; min-height: 0; overflow-y: auto; background: var(--surface); border-left: 1px solid var(--grid);
+  padding-block: 18px 28px; padding-left: 20px; padding-right: max(20px, env(safe-area-inset-right, 0px)); }
+.eyebrow { font-size: .7rem; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); font-weight: 600; }
+aside h2 { font-family: var(--f-display); font-size: 1.45rem; line-height: 1.2; margin: 4px 0 2px; text-wrap: balance; }
+.years { font-family: var(--f-mono); color: var(--muted); font-size: .85rem; }
+.status { display: inline-flex; align-items: center; gap: 6px; font-size: .75rem; font-weight: 600; padding: 2px 8px; border-radius: 999px; margin-top: 8px; }
+.st-doc { background: var(--chip-doc); color: var(--doc); }
+.st-fam { background: var(--chip-fam); color: var(--fam); }
+.st-hyp { background: var(--chip-hyp); color: var(--hyp); }
+.st-living { background: var(--canvas); color: var(--muted); }
+.sec { margin-top: 20px; }
+.sec h3 { font-size: .72rem; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin: 0 0 8px; font-weight: 600; }
+.facts { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+.facts li { display: grid; grid-template-columns: auto 1fr; gap: 4px 10px; align-items: start; }
+.facts .k { grid-column: 1 / -1; display: flex; gap: 8px; align-items: center; }
+.chip { font-size: .68rem; font-weight: 600; padding: 1px 7px; border-radius: 999px; white-space: nowrap; }
+.facts .v { grid-column: 1 / -1; }
+.facts .refs { grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: 6px; }
+.ref { font-family: var(--f-mono); font-size: .72rem; color: var(--accent); background: var(--accent-soft); border: 0; border-radius: 5px; padding: 1px 7px; cursor: pointer; }
+.rel { display: flex; flex-wrap: wrap; gap: 6px; }
+.rel button { font: inherit; font-size: .82rem; border: 1px solid var(--grid); background: transparent; color: var(--ink); border-radius: 6px; padding: 3px 9px; cursor: pointer; }
+.rel button small { color: var(--muted); }
+.gallery { display: grid; grid-template-columns: 1fr; gap: 10px; }
+.doccard { display: grid; grid-template-columns: 1fr; border: 1px solid var(--grid); border-radius: 8px; overflow: hidden; background: var(--bg); cursor: pointer; text-align: left; font: inherit; color: inherit; padding: 0; }
+.doccard img { width: 100%; height: 92px; object-fit: cover; object-position: left center; display: block; filter: grayscale(.15); }
+.doccard .noimg { height: 44px; display: flex; align-items: center; padding: 0 12px; color: var(--muted); font-size: .78rem; background: var(--canvas); }
+.doccard .meta { padding: 8px 10px; display: grid; gap: 2px; }
+.doccard .t { font-weight: 600; font-size: .85rem; }
+.doccard .r { font-family: var(--f-mono); font-size: .72rem; color: var(--muted); }
+.note { color: var(--muted); font-size: .82rem; }
+.empty { color: var(--muted); }
+
+.lightbox { position: fixed; inset: 0; z-index: 20; background: rgba(8,12,11,.82); display: grid; grid-template-rows: auto 1fr auto;
+  padding-block: max(14px, env(safe-area-inset-top, 0px)) max(14px, env(safe-area-inset-bottom, 0px));
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); gap: 10px; }
+.lightbox .bar { display: flex; gap: 12px; align-items: center; color: #eef2f0; }
+.lightbox .bar .t { font-weight: 600; flex: 1; min-width: 0; }
+.lightbox .bar button { font: inherit; border: 1px solid #5d6a65; background: #1d2422; color: #eef2f0; border-radius: 6px; padding: 4px 12px; cursor: pointer; }
+.lightbox .pic { min-height: 0; overflow: auto; display: grid; place-items: center; background: #0e1312; border-radius: 8px; }
+.lightbox .pic img { max-width: none; width: min(1400px, 100%); height: auto; }
+.lightbox .foot { color: #c9d2ce; font-size: .82rem; display: flex; flex-wrap: wrap; gap: 6px 16px; }
+.lightbox .foot code { font-family: var(--f-mono); }
+.lightbox a { color: #9fd6e2; }
+
+@media (max-width: 760px) {
+  .main { grid-template-columns: 1fr; grid-template-rows: 1fr 46%; }
+  aside { border-left: 0; border-top: 1px solid var(--grid); padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+  .legend { margin-left: 0; }
+  .hint { display: none; }
+}
+@media (prefers-reduced-motion: no-preference) { .node rect.card { transition: stroke-width .12s; } }
+</style>
+
+<div class="app">
+  <header>
+    <div>
+      <h1>Бедаревы и Елескины</h1>
+      <div class="sub">Прототип: ветка бабушки Лидии Серафимовны · Кузнецкий уезд, 1851–1980</div>
+    </div>
+    <div class="legend" aria-label="Обозначения">
+      <span><i class="lg doc"></i>по документам</span>
+      <span><i class="lg fam"></i>со слов семьи</span>
+      <span><i class="lg hyp"></i>гипотеза</span>
+    </div>
+    <div class="seg" role="group" aria-label="Тема">
+      <button type="button" id="th-light" data-t="light">Светлая</button>
+      <button type="button" id="th-dark" data-t="dark">Тёмная</button>
+      <button type="button" id="th-system" data-t="system">Как в системе</button>
+    </div>
+  </header>
+  <div class="main">
+    <div class="stage" id="stage">
+      <svg id="svg" aria-label="Родословное древо"><g id="world"></g></svg>
+      <div class="hint">Колесо или щипок — масштаб · перетаскивание — сдвиг · клик — карточка</div>
+      <div class="zoom">
+        <button type="button" id="zin" aria-label="Приблизить">+</button>
+        <button type="button" id="zout" aria-label="Отдалить">−</button>
+        <button type="button" id="zfit" class="fit" aria-label="Показать всё дерево">всё</button>
+      </div>
+    </div>
+    <aside id="panel" aria-live="polite"></aside>
+  </div>
+</div>
+<div class="lightbox" id="lb" hidden>
+  <div class="bar"><div class="t" id="lb-t"></div><button type="button" id="lb-x">Закрыть</button></div>
+  <div class="pic" id="lb-pic"></div>
+  <div class="foot" id="lb-f"></div>
+</div>
+
+<script>
+const YA = "https://ya.ru/archive/catalog/";
+const DOCS = {
+  d1: { t: "Брак Никиты Ананьева Бедарева и Параскевы Петровой", d: "22.01.1873", ref: "ГА Кузбасса ф.60 оп.1 д.108 ск.270", url: YA + "e42a102d-489c-4576-895f-ff655205ec3f/270", img: "scans/nikita-bedarev-brak-1874-d108-s270.png" },
+  d2: { t: "Рождение Иоанна Бедарева", d: "19.05.1874", ref: "ГА Кузбасса ф.60 оп.1 д.73 ск.42", url: YA + "b6b92d4b-4047-4a45-8078-275c6a317d78/42", img: "scans/ivan-bedarev-rozhd-1875-d73-s42.png" },
+  d3: { t: "Брак Иосифа Ильина Пестерева и Екатерины Ивановой", d: "16.01.1876", ref: "ГА Кузбасса ф.60 оп.1 д.559 ск.43", url: YA + "6faad918-5019-4fd0-bbb0-fadc430fa8ea/43", img: "scans/iosif-pesterev-brak-1876-d559-s43.png" },
+  d4: { t: "Рождение Анны Пестеревой", d: "11.12.1876", ref: "ГА Кузбасса ф.60 оп.1 д.559 ск.41", url: YA + "6faad918-5019-4fd0-bbb0-fadc430fa8ea/41", img: "scans/anna-pestereva-rozhd-1876-d559-s41.png" },
+  d5: { t: "Брак Ивана Никитина Бедарева и Анны Иосифовой Пестеревой", d: "4.11.1896", ref: "ГА Кузбасса ф.60 оп.1 д.657 ск.85", url: YA + "85ebaabe-6fd7-41ce-ad20-7843617e0702/85", img: "scans/ivan-bedarev-brak-1896-d657-s85.png" },
+  d6: { t: "Рождение Серафима Бедарева", d: "25.12.1905", ref: "ГА Кузбасса ф.60 оп.4 д.104 ск.224", url: YA + "a48bd695-c9a3-404a-bf45-ed30d19c7844/224", img: "scans/serafim-1905-d104-s224-parents.png" },
+  d7: { t: "Бессмертный полк: Бедарев Серафим Иванович", d: "1941–1945", ref: "moypolk.ru", url: "https://www.moypolk.ru/soldier/bedarev-serafim-ivanovich" },
+  d8: { t: "Рождение Ольги Бедаревой (2-й экз.)", d: "1.09.1897", ref: "ГА Кузбасса ф.60, кн. ccd3ca76 ск.50", url: YA + "ccd3ca76-193d-421d-92e7-e93ea0690ce8/50" },
+  d9: { t: "Рождение Василия Бедарева", d: "16.03.1908", ref: "ГА Кузбасса ф.60 оп.4 д.386 ск.60", url: YA + "8e1f71c4-0f8b-4aa2-b139-e84917563795/60" },
+  d10: { t: "Рождение Николая Бедарева", d: "6.12.1912", ref: "ГА Кузбасса ф.60 оп.6 д.44 ск.110", url: YA + "b105f887-6b7f-41bc-8688-eb5d1d206c5a/110" },
+  d11: { t: "Брак Василия Димитриева Елескина и Александры Егоровой Пушкаревой", d: "1890/91", ref: "ГА Кузбасса ф.60 оп.1 д.550 ск.87", url: YA + "8de75cae-32c6-4666-8981-91dc3c4eb195/87" },
+  d12: { t: "Смерть Василия Димитриева Елескина, 48 л.", d: "4.04.1917", ref: "ГА Кузбасса ф.60 оп.6 д.63 ск.142", url: YA + "bb2430b0-0121-44ef-a042-c1771c0d4b39/142" },
+  d13: { t: "Брак Мавры Васильевой Елескиной и Дионисия Нарышева", d: "13.10.1917", ref: "ГА Кузбасса ф.60 оп.6 д.63 ск.126", url: YA + "bb2430b0-0121-44ef-a042-c1771c0d4b39/126" },
+  d14: { t: "Смерть Александры Елескиной, вдовы, 53 г.", d: "22.09.1925", ref: "ГА Кузбасса ф.Р-1239 оп.1 д.827 ск.55", url: YA + "eaebeb6c-4174-43f0-820a-cb883286cfa5/55" },
+  d15: { t: "Записи бабушки Лидии Серафимовны", d: "29.10.2026", ref: "семейный архив, фото листов", url: null },
+  d16: { t: "Рассказы мамы", d: "02–03.11.2026", ref: "переписка, хранится в деле", url: null },
+};
+const ST = { doc: "по документам", fam: "со слов семьи", hyp: "гипотеза", living: "жива, данные не публикуются" };
+const W = 196, H = 78, w = 150, h = 64;
+const P = [
+  { id: "nikita", x: 0, y: 0, n: ["Никита Ананьевич", "Бедарев"], yr: "≈1851 – ?", tg: "крестьянин, с. Урско-Бедаревское", st: "doc",
+    facts: [["Брак", "22.01.1873, 21 год; невеста — Параскева Петрова Максонова, 20 лет", "doc", ["d1"]], ["Отец", "Ананий Бедарев (по отчеству); брат Алексей Ананьев", "doc", ["d1", "d2"]]] },
+  { id: "paraskeva", x: 216, y: 0, n: ["Параскева Петровна", "Бедарева (Максонова)"], yr: "≈1852 – ?", tg: "крестьянская дочь", st: "doc",
+    facts: [["Брак", "22.01.1873, 20 лет; фамилия прочитана как «Ма[к]сонова»", "doc", ["d1"]]] },
+  { id: "iosif", x: 470, y: 0, n: ["Иосиф Ильич", "Пестерев"], yr: "≈1857 – ?", tg: "крестьянин, д. Пестерева", st: "doc",
+    facts: [["Брак", "16.01.1876, 18 лет, первым браком", "doc", ["d3"]], ["Место", "д. Пестерева Касьминской вол. Кузнецкого окр.", "doc", ["d3", "d4"]]] },
+  { id: "ekaterina", x: 686, y: 0, n: ["Екатерина Ивановна", "Пестерева (Шапошникова)"], yr: "≈1853 – ?", tg: "из д. Сапоговой", st: "doc",
+    facts: [["Отец", "Иван Максимов Шапошников, крестьянин д. Сапоговой", "doc", ["d3"]], ["Брак", "16.01.1876, 22 года", "doc", ["d3"]]] },
+  { id: "ivan", x: 108, y: 180, n: ["Иван Никитич", "Бедарев"], yr: "19.05.1874 – ?", tg: "крестьянин; позже Камень-на-Оби?", st: "doc", parents: ["nikita", "paraskeva"],
+    facts: [["Рождение", "19 мая, год по заголовку страницы — 1874; восприемники Алексей Ананьев и Анна Ананьева Бедаревы", "doc", ["d2"]],
+            ["Брак", "4.11.1896 с Анной Иосифовой Пестеревой, ему 21 год", "doc", ["d5"]],
+            ["Поздние годы", "жил под фамилией Бородин в Камне-на-Оби", "fam", ["d15"]]] },
+  { id: "anna", x: 324, y: 180, n: ["Анна Иосифовна", "Бедарева (Пестерева)"], yr: "11.12.1876 – ?", tg: "из д. Пестерева", st: "doc", parents: ["iosif", "ekaterina"],
+    facts: [["Рождение", "11 декабря, крещена 21 декабря 1876; восприемник Захар Иванов Шапошников", "doc", ["d4"]],
+            ["Брак", "4.11.1896 в Ур-Бедаревской церкви", "doc", ["d5"]],
+            ["Дети", "10 детей 1897–1912, выжили Ольга, Серафим, Василий, Николай", "doc", ["d6", "d8", "d9", "d10"]]] },
+  { id: "vasdm", x: 790, y: 180, n: ["Василий Димитриевич", "Елескин"], yr: "≈1869 – 4.04.1917", tg: "кузнец? улус Больше-Бачатский", st: "hyp",
+    facts: [["Брак", "1890/91 с Александрой Егоровой Пушкаревой из д. Артыштинской", "doc", ["d11"]],
+            ["Смерть", "4.04.1917, 48 лет, чахотка; «гражданин улуса Больше-Бачатского»", "doc", ["d12"]],
+            ["Ремесло", "кузнец, «добрый бессеребреник», спился, умер молодым", "fam", ["d16"]],
+            ["Отец Ольги?", "гипотеза: сроки смерти родителей совпадают с рассказом мамы", "hyp", ["d12", "d14", "d16"]]] },
+  { id: "alexandra", x: 1006, y: 180, n: ["Александра Егоровна", "Елескина (Пушкарева)"], yr: "≈1872 – 22.09.1925", tg: "из д. Артыштинской", st: "hyp",
+    facts: [["Брак", "1890/91 с Василием Димитриевым Елескиным", "doc", ["d11"]],
+            ["Смерть", "22.09.1925, вдова, 53 года; заявил сын Дмитрий. Отчество в акте не указано", "doc", ["d14"]],
+            ["Мать Ольги?", "гипотеза: «мать умерла, когда Ольге было около 12»", "hyp", ["d14", "d16"]]] },
+  { id: "olgaI", x: -150, y: 372, s: 1, n: ["Ольга Ивановна", "Бедарева"], yr: "1.09.1897", st: "doc", parents: ["ivan", "anna"], facts: [["Рождение", "1 сентября 1897, восприемница Фива Никитина Бедарева", "doc", ["d8"]]] },
+  { id: "vasB", x: 10, y: 372, s: 1, n: ["Василий Иванович", "Бедарев"], yr: "16.03.1908", st: "doc", parents: ["ivan", "anna"], facts: [["Рождение", "16, крещён 22 марта 1908", "doc", ["d9"]]] },
+  { id: "nikB", x: 170, y: 372, s: 1, n: ["Николай Иванович", "Бедарев"], yr: "6.12.1912", st: "doc", parents: ["ivan", "anna"], facts: [["Рождение", "6 декабря 1912", "doc", ["d10"]]] },
+  { id: "serafim", x: 360, y: 364, n: ["Серафим Иванович", "Бедарев"], yr: "25.12.1905 – 27.08.1980", tg: "мл. сержант, штабист 1941–45", st: "doc", parents: ["ivan", "anna"],
+    facts: [["Рождение", "25 декабря 1905, с. Урско-Бедаревское Бачатской вол.", "doc", ["d6"]],
+            ["Война", "мл. сержант, штабист, 1941–1945", "fam", ["d7"]],
+            ["Смерть", "27.08.1980, похоронен в Белове", "fam", ["d7", "d16"]]] },
+  { id: "olgaV", x: 576, y: 364, n: ["Ольга Васильевна", "Бедарева (Елескина)"], yr: "≈1913–14? – ?", tg: "род. «Улус», Бачатская вол.", st: "fam", parents: ["vasdm", "alexandra"], hypParents: true,
+    facts: [["Девичья фамилия", "Елескина — по записи бабушки, читается неуверенно", "fam", ["d15"]],
+            ["Рождение", "бабушка записала 1909; по срокам смерти родителей скорее 1913–14. Запись не найдена: книг Челухоевской ц. за 1913 г. онлайн нет", "hyp", ["d15", "d16"]],
+            ["Братья и сёстры", "по маме: Августа, Мавра, Антонина, Михаил, Дмитрий, Иван", "fam", ["d16"]],
+            ["Происхождение", "семья записана «инородцами» Телеутской волости, но дома говорили по-русски; этничность не доказана", "hyp", ["d12", "d16"]]] },
+  { id: "mavra", x: 840, y: 372, s: 1, n: ["Мавра Васильевна", "Елескина"], yr: "≈1893", st: "doc", parents: ["vasdm", "alexandra"], facts: [["Брак", "13.10.1917 с Дионисием Евгеньевым Нарышевым", "doc", ["d13"]]] },
+  { id: "ioann", x: 1000, y: 372, s: 1, n: ["Иоанн Васильевич", "Елескин"], yr: "1895", st: "doc", parents: ["vasdm", "alexandra"], facts: [["Рождение", "1895, по метрикам Бачатской ц. (распознанный текст)", "doc", []]] },
+  { id: "dmitry", x: 1160, y: 372, s: 1, n: ["Дмитрий Васильевич", "Елескин"], yr: "? – ?", st: "fam", parents: ["vasdm", "alexandra"], facts: [["Упоминание", "заявил о смерти матери Александры в 1925", "doc", ["d14"]], ["Брат Ольги", "назван мамой", "fam", ["d16"]]] },
+  { id: "lidiya", x: 468, y: 548, n: ["Лидия Серафимовна"], yr: "", tg: "", st: "living", parents: ["serafim", "olgaV"], facts: [] },
+];
+const byId = Object.fromEntries(P.map(p => [p.id, p]));
+const dims = p => p.s ? [w, h] : [W, H];
+const NS = "http://www.w3.org/2000/svg";
+const world = document.getElementById("world");
+const el = (tag, attrs, parent) => { const e = document.createElementNS(NS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); if (parent) parent.appendChild(e); return e; };
+
+function draw() {
+  const eg = el("g", {}, world), ng = el("g", {}, world);
+  const couples = new Map();
+  P.forEach(p => { if (p.parents) { const k = p.parents.join("|"); if (!couples.has(k)) couples.set(k, []); couples.get(k).push(p); } });
+  couples.forEach((kids, k) => {
+    const [a, b] = k.split("|").map(i => byId[i]);
+    const [aw, ah] = dims(a);
+    const cy = a.y + ah / 2, x1 = a.x + aw, x2 = b.x, mx = (x1 + x2) / 2;
+    const hyp = kids.some(c => c.hypParents) || (a.st === "hyp" && b.st === "hyp");
+    el("line", { x1, y1: cy, x2, y2: cy, class: "couple" + (a.st === "hyp" ? " hyp" : "") }, eg);
+    const busY = Math.min(...kids.map(c => c.y)) - 24;
+    kids.forEach(c => {
+      const [cw] = dims(c), cx = c.x + cw / 2;
+      el("path", { d: `M${mx},${cy} V${busY} H${cx} V${c.y}`, class: "edge" + (hyp ? " hyp" : "") }, eg);
+    });
+  });
+  P.forEach(p => {
+    const [pw, ph] = dims(p);
+    const g = el("g", { class: `node ${p.st}`, transform: `translate(${p.x},${p.y})`, tabindex: 0, role: "button", "aria-label": p.n.join(" ") + " " + p.yr, "data-id": p.id }, ng);
+    el("rect", { class: "card", width: pw, height: ph, rx: 7 }, g);
+    const t1 = el("text", { class: "nm", x: 12, y: 21 }, g); t1.textContent = p.n[0];
+    if (p.n[1]) { const t2 = el("text", { class: "nm", x: 12, y: 38, style: p.s ? "font-size:12.5px" : "" }, g); t2.textContent = p.n[1]; }
+    if (p.st === "living") { const t = el("text", { class: "tg", x: 12, y: 44 }, g); t.textContent = "жива — данные скрыты"; }
+    else {
+      const ty = el("text", { class: "yr", x: 12, y: p.s ? 55 : 56 }, g); ty.textContent = p.yr;
+      if (!p.s && p.tg) { const tt = el("text", { class: "tg", x: 12, y: 71 }, g); tt.textContent = p.tg.length > 34 ? p.tg.slice(0, 33) + "…" : p.tg; }
+      const nd = new Set(p.facts.flatMap(f => f[3])).size;
+      if (nd) { const td = el("text", { class: "docs", x: pw - 10, y: 18, "text-anchor": "end" }, g); td.textContent = "▤ " + nd; }
+    }
+    g.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); select(p.id, true); } });
+  });
+}
+
+/* pan & zoom */
+const svg = document.getElementById("svg"), stage = document.getElementById("stage");
+let view = { x: 0, y: 0, k: 1 };
+const apply = () => world.setAttribute("transform", `translate(${view.x},${view.y}) scale(${view.k})`);
+const clampK = k => Math.min(3, Math.max(0.25, k));
+function zoomAt(f, cx, cy) { const k = clampK(view.k * f); f = k / view.k; view.x = cx - (cx - view.x) * f; view.y = cy - (cy - view.y) * f; view.k = k; apply(); }
+function fit() {
+  const b = world.getBBox(), r = svg.getBoundingClientRect(), pad = 30;
+  const k = clampK(Math.min((r.width - pad * 2) / b.width, (r.height - pad * 2) / b.height));
+  view.k = k; view.x = (r.width - b.width * k) / 2 - b.x * k; view.y = (r.height - b.height * k) / 2 - b.y * k; apply();
+}
+function centerOn(id) {
+  const p = byId[id], [pw, ph] = dims(p), r = svg.getBoundingClientRect();
+  view.x = r.width / 2 - (p.x + pw / 2) * view.k; view.y = r.height / 2 - (p.y + ph / 2) * view.k; apply();
+}
+svg.addEventListener("wheel", e => { e.preventDefault(); const r = svg.getBoundingClientRect(); zoomAt(Math.exp(-e.deltaY * 0.0015), e.clientX - r.left, e.clientY - r.top); }, { passive: false });
+const ptrs = new Map(); let moved = 0, pinch = null, downTarget = null;
+svg.addEventListener("pointerdown", e => {
+  svg.setPointerCapture(e.pointerId); ptrs.set(e.pointerId, { x: e.clientX, y: e.clientY }); moved = 0;
+  downTarget = e.target.closest(".node");
+  if (ptrs.size === 2) { const [a, b] = [...ptrs.values()]; pinch = { d: Math.hypot(a.x - b.x, a.y - b.y) }; }
+  stage.classList.add("dragging");
+});
+svg.addEventListener("pointermove", e => {
+  if (!ptrs.has(e.pointerId)) return;
+  const prev = ptrs.get(e.pointerId), cur = { x: e.clientX, y: e.clientY }; ptrs.set(e.pointerId, cur);
+  if (ptrs.size === 2 && pinch) {
+    const [a, b] = [...ptrs.values()], d = Math.hypot(a.x - b.x, a.y - b.y), r = svg.getBoundingClientRect();
+    zoomAt(d / pinch.d, (a.x + b.x) / 2 - r.left, (a.y + b.y) / 2 - r.top); pinch.d = d; moved += 10; return;
+  }
+  const dx = cur.x - prev.x, dy = cur.y - prev.y; moved += Math.abs(dx) + Math.abs(dy);
+  view.x += dx; view.y += dy; apply();
+});
+const up = e => {
+  if (!ptrs.has(e.pointerId)) return; ptrs.delete(e.pointerId); if (ptrs.size < 2) pinch = null;
+  if (!ptrs.size) { stage.classList.remove("dragging"); if (moved < 6 && downTarget) select(downTarget.dataset.id, false); }
+};
+svg.addEventListener("pointerup", up); svg.addEventListener("pointercancel", up);
+const mid = () => { const r = svg.getBoundingClientRect(); return [r.width / 2, r.height / 2]; };
+document.getElementById("zin").onclick = () => zoomAt(1.25, ...mid());
+document.getElementById("zout").onclick = () => zoomAt(0.8, ...mid());
+document.getElementById("zfit").onclick = fit;
+
+/* dossier */
+const panel = document.getElementById("panel");
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const chip = st => `<span class="chip st-${st}">${ST[st]}</span>`;
+function select(id, center) {
+  document.querySelectorAll(".node.sel").forEach(n => n.classList.remove("sel"));
+  const g = document.querySelector(`.node[data-id="${id}"]`); if (g) g.classList.add("sel");
+  const p = byId[id]; if (center) centerOn(id);
+  const name = p.n.join(" ");
+  if (p.st === "living") {
+    panel.innerHTML = `<div class="eyebrow">Карточка</div><h2>${esc(name)}</h2><span class="status st-living">${ST.living}</span>
+      <p class="note sec">Живые родственники показаны только именем: даты, адреса и документы о них сюда не попадают.</p>${relHtml(p)}`;
+    bindRel(); return;
+  }
+  const docIds = [...new Set(p.facts.flatMap(f => f[3]))];
+  panel.innerHTML = `<div class="eyebrow">Карточка</div><h2>${esc(name)}</h2><div class="years">${esc(p.yr)}</div>
+    <span class="status st-${p.st}">${ST[p.st]}</span>${p.tg ? `<div class="note" style="margin-top:6px">${esc(p.tg)}</div>` : ""}
+    <div class="sec"><h3>Факты</h3><ul class="facts">${p.facts.map(f => `<li><div class="k"><b>${esc(f[0])}</b>${chip(f[2])}</div><div class="v">${esc(f[1])}</div>
+      ${f[3].length ? `<div class="refs">${f[3].map(d => `<button type="button" class="ref" data-doc="${d}">${esc(DOCS[d].ref)}</button>`).join("")}</div>` : ""}</li>`).join("")}</ul></div>
+    ${relHtml(p)}
+    <div class="sec"><h3>Документы · ${docIds.length}</h3><div class="gallery">${docIds.map(d => { const x = DOCS[d];
+      return `<button type="button" class="doccard" data-doc="${d}">${x.img ? `<img src="${x.img}" alt="Скан: ${esc(x.t)}" loading="lazy">` : `<div class="noimg">${x.url ? "скан в архиве, откроется ссылкой" : "семейный документ, хранится в деле"}</div>`}
+        <div class="meta"><span class="t">${esc(x.t)}</span><span class="r">${esc(x.d)} · ${esc(x.ref)}</span></div></button>`; }).join("") || `<p class="empty">Документов пока нет.</p>`}</div></div>`;
+  panel.querySelectorAll("[data-doc]").forEach(b => b.onclick = () => openDoc(b.dataset.doc));
+  bindRel();
+}
+function relHtml(p) {
+  const par = (p.parents || []).map(i => byId[i]);
+  const kids = P.filter(c => c.parents && c.parents.includes(p.id));
+  const spouse = P.filter(c => c.parents && c.parents.includes(p.id)).flatMap(c => c.parents).filter(i => i !== p.id).map(i => byId[i]);
+  const sib = p.parents ? P.filter(c => c.id !== p.id && c.parents && c.parents.join() === p.parents.join()) : [];
+  const grp = (label, arr) => arr.length ? `<div class="sec"><h3>${label}</h3><div class="rel">${[...new Map(arr.map(a => [a.id, a])).values()].map(a => `<button type="button" data-go="${a.id}">${esc(a.n[0])} <small>${esc(a.yr || "")}</small></button>`).join("")}</div></div>` : "";
+  return grp(p.hypParents ? "Родители (гипотеза)" : "Родители", par) + grp("Супруг(а)", spouse) + grp("Братья и сёстры", sib) + grp("Дети", kids);
+}
+function bindRel() { panel.querySelectorAll("[data-go]").forEach(b => b.onclick = () => select(b.dataset.go, true)); }
+
+/* lightbox */
+const lb = document.getElementById("lb");
+function openDoc(d) {
+  const x = DOCS[d];
+  document.getElementById("lb-t").textContent = x.t;
+  document.getElementById("lb-pic").innerHTML = x.img ? `<img src="${x.img}" alt="Скан: ${esc(x.t)}">`
+    : `<p style="color:#c9d2ce;padding:24px;max-width:46ch">${x.url ? "Скан пока не сохранён в деле. Его можно открыть в архиве по ссылке ниже." : "Семейный документ хранится в деле исследования и в веб-версию не выкладывается."}</p>`;
+  document.getElementById("lb-f").innerHTML = `<span>${esc(x.d)}</span><code>${esc(x.ref)}</code>${x.url ? `<a href="${x.url}" target="_blank" rel="noopener">Открыть в «Поиске по архивам» ↗</a>` : ""}`;
+  lb.hidden = false; document.getElementById("lb-x").focus();
+}
+document.getElementById("lb-x").onclick = () => lb.hidden = true;
+lb.addEventListener("click", e => { if (e.target === lb) lb.hidden = true; });
+document.addEventListener("keydown", e => { if (e.key === "Escape") lb.hidden = true; });
+
+/* theme */
+const root = document.documentElement;
+function setTheme(t) {
+  if (t === "system") root.removeAttribute("data-theme"); else root.setAttribute("data-theme", t);
+  document.querySelectorAll(".seg button").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.t === t)));
+  try { localStorage.setItem("rodoslov-theme", t); } catch (e) {}
+}
+document.querySelectorAll(".seg button").forEach(b => b.onclick = () => setTheme(b.dataset.t));
+let saved = null; try { saved = localStorage.getItem("rodoslov-theme"); } catch (e) {}
+setTheme(saved || (root.getAttribute("data-theme") || "system"));
+
+draw(); requestAnimationFrame(() => { fit(); select("olgaV", false); });
+
+</script>

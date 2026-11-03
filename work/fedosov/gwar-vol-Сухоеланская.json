@@ -1,0 +1,29 @@
+{
+  "source": "gwar",
+  "query": {
+    "birth_place_volost": "Сухоеланская",
+    "birth_place_gubernia": "Воронежская"
+  },
+  "entities": [
+    "chelovek_donesenie",
+    "chelovek_gospital",
+    "chelovek_nagrazhdenie",
+    "chelovek_plen"
+  ],
+  "fingerprint": "d1c99ca849682d8659473b05ddcb8d0ed3d437a711f18b2b5ae8cc27eb61b333",
+  "total": 0,
+  "hits": [],
+  "next_offset": 0,
+  "started_at": "2026-11-02T20:57:27+00:00",
+  "captured_at": "2026-11-02T20:57:31+00:00",
+  "coverage": {
+    "complete": true,
+    "retrieved_records": 0,
+    "reported_total": 0,
+    "limit": 5000,
+    "reason": "",
+    "scope": "returned-source-records-not-population-census"
+  },
+  "updated_at": "2026-11-02T20:57:31+00:00",
+  "blocked": null
+}

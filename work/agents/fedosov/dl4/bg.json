@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title>Page Not Found</title>
+        <style>
+            body{
+                margin:0;
+                padding:30px;
+                font:12px/1.5 Helvetica,Arial,Verdana,sans-serif;
+            }
+            h1{
+                margin:0;
+                font-size:48px;
+                font-weight:normal;
+                line-height:48px;
+            }
+            strong{
+                display:inline-block;
+                width:65px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Page Not Found</h1>
+        <p>
+            The page you are looking for could not be found. Check the address bar
+            to ensure your URL is spelled correctly. If all else fails, you can
+            visit our home page at the link below.
+        </p>
+        <a href='http://billiongraves.com/api/1.4/'>Visit the Home Page</a>
+    <script>window.__CF$cv$params={r:'a52f0d47fdaa6274',t:'MTc5MzQxMTg3Nw==',u:'01a18fad89b376b8a9ad46094aea9d07',ut:'W0uymGpjoPbaWYwEBTrdhpsSmKiQI3wygHS2V77IOz8-1793411877-1.2.1.1-yA_8._TTau5LXhDDnLJbEqVOwBgGmLarDn0kSd7h3nS5QEiZbvaSplRK2qu0MKtqZX1cfjeF96AnoAwGJOnJCY_EqJsVcoMPB8DRrLRV8Ck',i:60};(function(){if(!document.body)return;var l=window.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/precursor/main.js?ray=a52f0d47fdaa6274',s=document.createElement('script');s.src=o?new URL(u,o).href:u;document.head.appendChild(s);})();</script></body>
+</html>

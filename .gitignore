@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+__pycache__/
+site/
+work/raw/
+case/inputs/dna-*
+work/venv/
+work/obdc.txt

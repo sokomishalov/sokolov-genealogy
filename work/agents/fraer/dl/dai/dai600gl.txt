@@ -1,0 +1,861 @@
+DAI Film T81-600 - 1816 Census for Grossliebental (E. Wise)
+
+        Published by the Odessa Digital Library - 30 Apr 2000
+             http://www.odessa3.org
+
+        This document may be freely used for personal, nonprofit
+        purposes or linked by other WWW sites.  It may also be
+        shared with others, provided the header with copyright
+        notice is included.  However, it may not be republished
+        in any form without permission of the copyright owner.
+
+        Copyright 2000, Elli Wise
+
+NOTE:
+
+The Stumpp book, "The Emigration from Germany to Russia in the Years 1763-1862" 
+contains starting on page 577 the published version of this same census.  It 
+should be noted that this file only contains the first approximately 1/3 of the 
+census, as that is all that is included on this film.  If we later discover the 
+rest of this particular census on another DAI film or some place else we will 
+update this file to include any new found information.
+
+It should also be noted, that the researcher that uses this files data while 
+also using the Stumpp book will gain more insight into this information than 
+the person who uses only one or the other.
+
+The T81 DAI film 600 contains many miscellaneous items of interest for many 
+German Russian  researchers. We will add new files as we extract DAI data from 
+this film.
+
+The user is reminded, that these films as a whole will be added to the DAI film 
+collection held at GRHS in Bismarck ND.
+
+It is intended that these films be incorporated into the German Russian 
+collection of films held at GRHS Headquarters in Bismarck ND.  Copies can be 
+obtained from the National Archives or the Library of Congress as appropriate.
+
+There exists far too much data on these films to completely index everything.  
+Many of the items that were indexed will only take you to a frame of the film - 
+where the researcher should find more details about the person/individual. How- 
+ever in some cases, there is essentially little else to be obtained on the film 
+other than what you see here on the file itself.
+
+The GRHS DAI Film Indexing Project is a function of the GRHS Clearing House.  
+For any persons desiring to participate in any manner, such as procurement of 
+more films, translation of German and Russian, inputting of raw data into 
+digital files, or anything else that comes to mind -  please contact the GRHS 
+Clearing House.  We can use all of the help that volunteers are willing to
+give.
+
+RL# Name, first               father     age arrd cens film    frame   remarks
+--- ------------------------- ---------- --- ---- ---- ------- ------- -----------------
+1   Kurz, Balthasar                       48 1803 1816 T81 600 5388597
+1   Kurz, Christina                       48 1803 1816 T81 600 5388597 nee?,wife of Balthasar
+1   Kurz, Johanna             Balthasar   15 1803 1816 T81 600 5388597
+1   Kurz, Ludwig              Balthasar   21 1803 1816 T81 600 5388597
+1   Kurz, Dorothea                        20 1803 1816 T81 600 5388597 nee?, wife of Ludwig
+1   Kurz, Christiana          Ludwig         1803 1816 T81 600 5388597 3 mos
+2   Geisel, Konrad                        56 1803 1816 T81 600 5388597
+2   Geisel, Elisabetha                    45 1803 1816 T81 600 5388597 nee?, 2nd wife of Konrad
+2   Geisel, Georg             Konrad      21 1803 1816 T81 600 5388597 son of 1st marriage, died 1812
+2   Geisel, Konrad            Konrad      14 1803 1816 T81 600 5388597 son of 1st marriage
+2   Geisel, Martin            Konrad      10 1803 1816 T81 600 5388597 son of 1st marriage
+2   Geisel, Maria             Konrad         1803 1816 T81 600 5388597 by first marriage, marr. To Odessa in 1814
+2   Oksner, Balthasar                     16 1803 1816 T81 600 5388597 stepson to Konrad
+2   Oksner, Anton                         12 1803 1816 T81 600 5388597 stepson to Konrad
+2   Oksner, Klara                         21 1803 1816 T81 600 5388597 stepdaughter to Konrad
+2   Oksner, Barbara                       19 1803 1816 T81 600 5388597 stepdaughter to Konrad
+2   Oksner, Margaretha                       1803 1816 T81 600 5388597 stepdaughter to Konrad Geisel, marr in 1811
+3   Zollner, Johann                       48 1803 1816 T81 600 5388597
+3   Maier, Dorothea                       17 1803 1816 T81 600 5388597 stepdaughter to Johann Zollner
+3   Schneider, Kaspar                     22 1803 1816 T81 600 5388597 son in law to Johann Zollner
+3   Zollner, Judith           Johann      19 1803 1816 T81 600 5388597 m. Kaspar Schneider 1815
+4   Lang, Barbara                         56 1803 1816 T81 600 5388597 widow, (also widowed Schneider?)
+4   Schneider, Adam                          1803 1816 T81 600 5388597 son of Barbara Lang, was 21 in 1811, died in 1812
+4   Schneider, Jakob                      20 1803 1816 T81 600 5388597 son of Barbara Lang
+4   Schneider, Leonhard                   18 1803 1816 T81 600 5388597 son of Barbara Lang
+4   Schneider, Kaspar                        1803 1816 T81 600 5388597 son of Barbara Lang, was 17 in 1811, marr. Judith Zollner in 1815
+4   Lang, Thomas                             1803 1816 T81 600 5388597 age 16 in 1811, marr to Alexanderhilf in 1815, stepson of widow Barbara Lang
+5   Wieland, Barbara                         1803 1816 T81 600 5388597 died 1811, sister to Rosina Miller
+5   Miller, Rosina                           1803 1816 T81 600 5388597 died 1812, sister to Barbara Wieland
+5   Wieland, Karl                         24 1803 1816 T81 600 5388597 son of Barbara Wieland
+5   Wieland, Jakob                        21 1803 1816 T81 600 5388597 son of Barbara Wieland
+5   Wieland, Michael                      18 1803 1816 T81 600 5388597 son of Barbara Wieland
+6   Knoblich, Georg                          1803 1816 T81 600 5388597 age 32 in 1811, died 1815
+6   Knoblich, Regina                      37 1803 1816 T81 600 5388597 widow of Georg Knoblich
+6   Knoblich, Barbara         Georg       14 1803 1816 T81 600 5388597 by first marriage, stepdaughter to Regina Knoblich nee?
+6   Knoblich, Georg           Georg        8 1803 1816 T81 600 5388597 by first marriage, stepson to Regina Knoblich nee?
+6   Knoblich, Agnes           Georg        6 1803 1816 T81 600 5388597 mother  is Regina Knoblich, nee?
+7   Scheu, Jakob                          28 1803 1816 T81 600 5388597
+7   Scheu, Luisa                          30 1803 1816 T81 600 5388597 nee?,wife of Jakob Scheu
+7   Scheu, Elisabeth          Jakob        4 1803 1816 T81 600 5388597
+7   Scheu, Magdalena          Jakob        1 1803 1816 T81 600 5388597
+8   Ackermann, Barbara                    54 1803 1816 T81 600 5388597 widow, nee?
+8   Ackermann, Katharina                     1803 1816 T81 600 5388597 daughter of Barbara Ackermann, m. 1814
+8   Ackermann, Peter                       9 1803 1816 T81 600 5388597 son of Barbara Ackermann, nee?
+8   Ackermann, Kaspar                      4 1803 1816 T81 600 5388597 son of Barbara Ackermann, nee?
+8   Ackermann, Peter                      31 1803 1816 T81 600 5388597 son of Barbara Ackermann, nee?
+8   Ackermann, Christina                  30 1803 1816 T81 600 5388597 nee?, wife of Peter Ackermann
+8   Ackermann, Elisabetha     Peter        1 1803 1816 T81 600 5388597 (Christina's daughter?)
+9   Zimmermann, Johann                    46 1803 1816 T81 600 5388598
+9   Zimmermann, Rosina                    42 1803 1816 T81 600 5388598 nee?, wife of Johann
+9   Zimmermann, Magdalena     Johann      17 1803 1816 T81 600 5388598
+9   Zimmermann, Friedrich     Johann      15 1803 1816 T81 600 5388598
+10  Schlueter, Magdalena                     1803 1816 T81 600 5388598 nee?, widow, died 1813
+10  Bemler, Bernhard                         1803 1816 T81 600 5388598 age 40 in 1811, died 1815
+10  Bemler, Agnes                            1803 1816 T81 600 5388598 widow of Bernhard, remarried in 1815
+10  Bemler, Elisabetha        Bernhard       1803 1816 T81 600 5388598 married to Alexanderhilf
+10  Bemler, Friedrich         Bernhard       1803 1816 T81 600 5388598 3 yr old in 1811 - died in 1813
+10  Steinhilber, Georg                    21 1803 1816 T81 600 5388598 stepson to Bernhard Bemler
+10  Steinhilber, Maria                    15 1803 1816 T81 600 5388598 stepdaughter to Bernhard Bemler
+10  Steinhilber, Barbara                  12 1803 1816 T81 600 5388598 stepdaughter to Bernhard Bemler
+11  Menger, Jakob                            1803 1816 T81 600 5388598 age 40 in 1811, died 1812
+11  Menger, Magdalena                     56 1803 1816 T81 600 5388598 widow of Jakob Menger
+11  Menger, Georg             Jakob          1803 1816 T81 600 5388598 age 21 in 1811, died 1814
+11  Menger, Regina            Jakob       21 1803 1816 T81 600 5388598 marr. Martin Neth 1815 (age 21 in 1815?)
+11  Neth, Martin                          23 1803 1816 T81 600 5388598 son in law to Jakob Menger, marr. Regina Menger in 1815 (age 23 in 1815?)
+12  Froeschle, Michael                       1803 1816 T81 600 5388598 age 48 in 1811, died 1812
+12  Froeschle, Dorothea                   58 1803 1816 T81 600 5388598 widow of Michael Froeschle
+12  Froeschle, Adam           Michael     28 1803 1816 T81 600 5388598
+12  Froeschle, Katharina                  27 1803 1816 T81 600 5388598 nee?, wife of Adam Froeschle
+13  Har (Gar?), Philipp                   31 1803 1816 T81 600 5388598
+13  Har (Gar?), Katharina                 31 1803 1816 T81 600 5388598 nee?, wife of Philipp
+13  Har (Gar?), Michael       Philipp      9 1803 1816 T81 600 5388598
+13  Har (Gar?), Martha        Philipp      7 1803 1816 T81 600 5388598
+13  Har (Gar?), Katharina     Philipp      2 1803 1816 T81 600 5388598
+14  Amel, Georg                           38 1803 1816 T81 600 5388598
+14  Amel, Katharina                       27 1803 1816 T81 600 5388598 2nd wife of Georg
+14  Amel, Magdalena           Georg       15 1803 1816 T81 600 5388598 daughter of first marriage
+14  Amel, Georg               Georg        7 1803 1816 T81 600 5388598
+14  Amel, Katharina           Georg          1803 1816 T81 600 5388598 3 mo
+15  Scheck, Johann                        35 1803 1816 T81 600 5388598
+15  Scheck, Elisabeth                     33 1803 1816 T81 600 5388598 nee?, wife of Johann
+15  Scheck, Maria             Johann      10 1803 1816 T81 600 5388598
+15  Scheck, Jakob             Johann       8 1803 1816 T81 600 5388598
+15  Scheck, Katharina         Johann       6 1803 1816 T81 600 5388598
+15  Scheck, Johann            Johann       1 1803 1816 T81 600 5388598
+16  Weimer, Jakob                         27 1803 1816 T81 600 5388598
+16  Weimer, Katharina                     21 1803 1816 T81 600 5388598 wife of Jakob
+16  Weimer, Michael                       24 1803 1816 T81 600 5388598 brother of Jakob
+16  Weimer, Barbara                          1803 1816 T81 600 5388598 died 1812, sister of Jakob
+16  Weimer, Maria                         21 1803 1816 T81 600 5388598 sister of Jakob
+16  Weimer, Katharina                     19 1803 1816 T81 600 5388598 sister of Jakob
+16  Weimer, Urban                         18 1803 1816 T81 600 5388598 brother of Jakob
+17  Strecker, Christian                      1803 1816 T81 600 5388598 age 37 in 1811, died 1815
+17  Strecker, Katharina                   41 1803 1816 T81 600 5388598 nee?, wife of Christian
+17  Strecker, Jakob           Christian    6 1803 1816 T81 600 5388598
+17  Strecker, Christian       Christian      1803 1816 T81 600 5388598 newborn died in 1816
+18  Heim, Johanna                            1803 1816 T81 600 5388598 widow, married in 1812
+18  Strecker, Salomon                     21 1803 1816 T81 600 5388598 son of Johanna Heim
+19  Scheck, Michael                       46 1803 1816 T81 600 5388599
+19  Scheck, Maria                            1803 1816 T81 600 5388599 nee?, 1st wife of Michael, died 1812
+19  Scheck, Christina                     41 1803 1816 T81 600 5388599 nee?, 2nd wife of Michael
+19  Scheck, Michael           Michael     15 1803 1816 T81 600 5388599 son by first marriage
+19  Scheck, Maria             Michael        1803 1816 T81 600 5388599 daughter of first marriage
+19  Scheck, no name           Michael      1 1803 1816 T81 600 5388599 son by second marriage
+20  Ahner, Johann                         38 1803 1816 T81 600 5388599
+20  Ahner, Katharina                      29 1803 1816 T81 600 5388599 nee?, wife of Johann
+20  Ahner, Jakob              Johann       9 1803 1816 T81 600 5388599
+20  Ahner, Katharina          Johann       7 1803 1816 T81 600 5388599
+20  Ahner, Johann             Johann         1803 1816 T81 600 5388599 age 1 in 1811, died 1813
+20  Ahner, Regina             Johann         1803 1816 T81 600 5388599 3 mo
+21  Brittner, Franz                       42 1803 1816 T81 600 5388599
+21  Brittner, Katharina                   38 1803 1816 T81 600 5388599 nee?, wife of Franz
+21  Brittner, Franz           Franz       17 1803 1816 T81 600 5388599
+22  Klein, Michael                        33 1804 1816 T81 600 5388599
+22  Klein, Jakobina                          1804 1816 T81 600 5388599 nee?, 1st wife of Michael, died in 1815
+22  Klein, Apolonia                       24 1804 1816 T81 600 5388599 nee?, 2nd wife of Michael
+22  Klein, Johanna            Michael      6 1804 1816 T81 600 5388599 daughter by first marriage
+23  Beck, Christoph                          1804 1816 T81 600 5388599 age 66 in 1811, died in 1813
+23  Beck, Regina                          58 1804 1816 T81 600 5388599 nee?, wife of Christoph
+23  Weder, Johann                            1804 1816 T81 600 5388599 stepson of Regina Beck nee?, age 20 in 1811, marr in 1813
+23  Beck, Georg               Christoph   26 1804 1816 T81 600 5388599
+23  Beck, Eva                             25 1804 1816 T81 600 5388599 nee?, wife of Georg
+23  Beck, Friederika          Georg          1804 1816 T81 600 5388599 6 mo
+24  Pracht, Jakob                         40 1804 1816 T81 600 5388599
+24  Pracht, Maria                            1804 1816 T81 600 5388599 nee?, 1st wife of Jakob, died 1814
+24  Pracht, Regina                        39 1804 1816 T81 600 5388599 nee?, 2nd wife of Jakob
+24  Pracht, Franz                          8 1804 1816 T81 600 5388599 son by first marriage
+24  Pracht, Karolina                       9 1804 1816 T81 600 5388599 daughter by first marriage
+24  Sauer, Johann                         19 1804 1816 T81 600 5388599 step son
+24  Wiedmann, Gottlieb                    18 1804 1816 T81 600 5388599 step son, came from Odessa in 1814 (age 18 in 1814?)
+24  Wiedmann, Peter                       11 1804 1816 T81 600 5388599 step son, came from Odessa in 1814 (age 11 in 1814?)
+24  Wiedmann, Johanna                      6 1804 1816 T81 600 5388599 step son, came from Odessa in 1814 (age 6 in 1814?)
+25  Ille, Georg                              1805 1816 T81 600 5388599 age 65 in 1811, died 1811
+25  Ille, Margaretha                         1805 1816 T81 600 5388599 nee?, wife of Georg, died 1811
+25  Ille, Jakob               Georg        2 1805 1816 T81 600 5388599
+25  Metz, Dorothea                           1805 1816 T81 600 5388599 step daughter to Georg Ille, marr in 1813
+25  Metz, Leonhard                        26 1805 1816 T81 600 5388599 step son to Georg Ille
+25  Metz, Regina                          22 1805 1816 T81 600 5388599 nee?, wife of Leonhard
+26  Loeffler, Christian                   39 1804 1816 T81 600 5388599
+26  Loeffler, Dorothea                    39 1804 1816 T81 600 5388599 nee?, wife of Christian
+26  Loeffler, Christina       Christian    9 1804 1816 T81 600 5388599
+27  Gaul, Georg                           51 1804 1816 T81 600 5388599
+27  Gaul, Elisabetha                      47 1804 1816 T81 600 5388599 nee?, wife of Georg
+28  Ruf, Friedrich                        49 1804 1816 T81 600 5388599
+28  Ruf, Anna                             38 1804 1816 T81 600 5388599 nee?, wife of Friedrich
+28  Ruf, Michael              Friedrich      1804 1816 T81 600 5388599 son from 1st marriage, age 17 in 1811, died 1812
+28  Ruf, Christoph            Friedrich   19 1804 1816 T81 600 5388599 son from 1st marriage
+28  Ruf, Friederika           Friedrich    1 1804 1816 T81 600 5388599 daughter from second marriage
+29  Baier, Franz                          43 1804 1816 T81 600 5388600
+29  Baier, Theresia                       43 1804 1816 T81 600 5388600 nee?, wife of Franz
+29  Baier, Zacharias          Franz       16 1804 1816 T81 600 5388600
+29  Baier, Johann             Franz        9 1804 1816 T81 600 5388600
+29  Baier, Franziskus         Franz        6 1804 1816 T81 600 5388600
+29  Baier, Eleonore           Franz        2 1804 1816 T81 600 5388600
+29  Baier, Johanna            Franz          1804 1816 T81 600 5388600 married to Klein Liebental in 1815
+30  Keschele, Jost                        34 1804 1816 T81 600 5388600
+30  Keschele, Magdalena                   30 1804 1816 T81 600 5388600 nee?, 2nd wife to Jost
+30  Keschele, Friederika                   9 1804 1816 T81 600 5388600 daughter by first marriage
+30  Keschele, Katharina                    6 1804 1816 T81 600 5388600 daughter by 2nd marriage
+31  Salzer, Elias                         33 1804 1816 T81 600 5388600
+31  Salzer, Agnes                         32 1804 1816 T81 600 5388600 nee?, wife of Elias
+31  Salzer, Agnes             Elias       10 1804 1816 T81 600 5388600
+31  Salzer, Elisabeth         Elias        8 1804 1816 T81 600 5388600
+31  Salzer, Elias             Elias        6 1804 1816 T81 600 5388600
+31  Salzer, Barbara           Elias        3 1804 1816 T81 600 5388600
+31  Eberhardt, Heinrich                   13 1804 1816 T81 600 5388600 adopted son of Elias Salzer
+31  Eberhardt, Ursula                        1804 1816 T81 600 5388600 sister of Heinrich, married in 1812
+32  Beck, Friedrich                       31 1804 1816 T81 600 5388600
+32  Beck, Apolonia                        48 1804 1816 T81 600 5388600 nee?, wife of Friedrich
+32  Beck, Friedrich           Friedrich    9 1804 1816 T81 600 5388600
+32  Schmid, Karl                          19 1804 1816 T81 600 5388600 stepson to Friedrich Beck
+33  Hik (Gik?), Christoph                    1804 1816 T81 600 5388600 age 61 in 1811, died 1811
+33  Hik (Gik?), Barbara                      1804 1816 T81 600 5388600 wife of Christoph, died 1812
+33  Schuler, Jakob                        28 1804 1816 T81 600 5388600 stepson to Christoph Hik (Gik)
+33  Schuler, Johanna                      14 1804 1816 T81 600 5388600 step daugher to Christoph Hik (Gik) by second wife
+33  Schuler, Beate                           1804 1816 T81 600 5388600 1st wife of Jakob - died 1814
+33  Schuler, Maria                        19 1804 1816 T81 600 5388600 2nd wife of Jakob - maried in 1814
+34  Leffner, Leonhard                     62 1804 1816 T81 600 5388600
+34  Leffner, Maria                        44 1804 1816 T81 600 5388600 2nd wife to Leonhard
+34  Leffner, Melchior         Leonhard       1804 1816 T81 600 5388600 son by first marriage, age 19 in 1811, ran away
+34  Leffner, Georg            Leonhard    20 1804 1816 T81 600 5388600 son by first marriage
+34  Leffner, Maria            Leonhard       1804 1816 T81 600 5388600 died in 1812, daughter by first wife
+34  Leffner, Barbara          Leonhard       1804 1816 T81 600 5388600 daughter by second marriage
+34  Belz, Johann                           9 1804 1816 T81 600 5388600 stepson to Leonhard Leffner
+35  Wagner, Georg                            1804 1816 T81 600 5388600 age 41 in 1811, married again in 1814(?)
+35  Wagner, Katharina                        1804 1816 T81 600 5388600 nee?,wife of Georg, died 1815
+35  Wagner, Jakob             Georg          1804 1816 T81 600 5388600 age 12 in 1811, son by first wife
+35  Seinheise, Katharina                     1804 1816 T81 600 5388600 stepdaughter to Georg Wagner, married 1814 to Odessa
+35  Seinheise, Anna                          1804 1816 T81 600 5388600 stepdaughter to Georg Wagner, married 1815 to Alexanderhilf
+35  Seinheise, Heinrich                   18 1804 1816 T81 600 5388600 stepson to Georg Wagner
+35  Seinheise, Jakob                      14 1804 1816 T81 600 5388600 stepson to Georg Wagner
+35  Seinheise, Margaretha                 11 1804 1816 T81 600 5388600 stepdaughter to Georg Wagner
+35  Seinheise, Johann                     28 1804 1816 T81 600 5388600
+35  Seinheise, Katharina                  23 1804 1816 T81 600 5388600 nee?,wife of Johann
+35  Seinheise, Katharina      Johann         1804 1816 T81 600 5388600 3 mos
+36  Fuchs, Philipp                           1804 1816 T81 600 5388600 age 53 in 1811, died 1815
+36  Fuchs, Katharina                         1804 1816 T81 600 5388600 nee?, wife of Philipp, died 1811
+36  Fuchs, Philipp            Philipp        1804 1816 T81 600 5388600 age 26 in 1811, died 1811
+36  Fuchs, Johann             Philipp     20 1804 1816 T81 600 5388600
+36  Fuchs, Christina          Philipp     18 1804 1816 T81 600 5388600
+36  Fuchs, Katharina          Philipp     24 1804 1816 T81 600 5388600
+36  Hornberger, Adam                      26 1804 1816 T81 600 5388600 son-in-law to Philipp Fuchs
+36  Hornberger, Elisabeth     Adam         1 1804 1816 T81 600 5388600
+37  Maier, Balthasar                      56 1804 1816 T81 600 5388601
+37  Maier, Friederika                     55 1804 1816 T81 600 5388601 nee?, wife of Balthasar
+37  Maier, Balthasar          Balthasar      1804 1816 T81 600 5388601 age 20 in 1811, died 1815
+37  Maier, Jakob              Balthasar   16 1804 1816 T81 600 5388601
+37  Maier, Elisabeth          Balthasar   20 1804 1816 T81 600 5388601
+37  Maier, Johann                         24 1805 1816 T81 600 5388601 son-in-law of Balthasar, came from Neuburg, married Elisabeth in 1815
+38  Schlegel, Sabina                         1804 1816 T81 600 5388601 died 1812,
+38  Schlegel, Magdalena                   10 1804 1816 T81 600 5388601 daughter of Sabina
+38  Schlegel, Sabina                      20 1804 1816 T81 600 5388601 daughter of Sabina, married Jakob Helfenstein in 1815
+38  Helfenstein, Jakob                    24 1804 1816 T81 600 5388601 son- in- law of Sabina, married Sabina in 1815, came from Lustdorf
+39  Weissenburger, Daniel                 48 1804 1816 T81 600 5388601
+39  Weissenburger, Maria                  45 1804 1816 T81 600 5388601 nee?, wife of Daniel
+39  Weissenburger, Daniel     Daniel         1804 1816 T81 600 5388601 age 9 in 1811, died in 1811
+39  Weissenburger, Georg      Daniel      13 1804 1816 T81 600 5388601
+39  Weissenburger, Mathaeus   Daniel       9 1804 1816 T81 600 5388601
+39  Weissenburger, Michael    Daniel       7 1804 1816 T81 600 5388601
+39  Weissenburger, Daniel     Daniel       1 1804 1816 T81 600 5388601
+39  Weissenburger, Valentin   Daniel         1804 1816 T81 600 5388601 age 16 in 1811, married in 1814
+40  Schilling, Nikolaus                   35 1804 1816 T81 600 5388601
+40  Schilling, Friederika                 32 1804 1816 T81 600 5388601 nee?, wife of Nikolaus
+40  Schilling, Jakob          Nikolaus       1804 1816 T81 600 5388601 age 1 in 1811, died 1816
+40  Schilling, Elisabetha     Nikolaus     3 1804 1816 T81 600 5388601
+40  Schilling, Friedrich      Nikolaus     1 1804 1816 T81 600 5388601
+41  Feil, Karl                            37 1804 1816 T81 600 5388601
+41  Feil, Elisabeth                       28 1804 1816 T81 600 5388601 nee?, wife of Karl
+41  Feil, Justus              Karl        10 1804 1816 T81 600 5388601
+42  Geiser, Friedrich                     56 1804 1816 T81 600 5388601 Heiser?
+42  Geiser, Margaretha                    46 1804 1816 T81 600 5388601 nee?, wife of Friedrich
+43  First, August                         41 1804 1816 T81 600 5388601
+43  First, Katharina                      28 1804 1816 T81 600 5388601 nee?, wife of August
+43  First, Katharina          August         1804 1816 T81 600 5388601 died 1811
+43  First, Katharina          August       4 1804 1816 T81 600 5388601
+43  First, Karl               August       2 1804 1816 T81 600 5388601
+44  Neth, Bernhard                        55 1804 1816 T81 600 5388601 Heth?
+44  Neth, Georg               Bernhard    24 1804 1816 T81 600 5388601 Heth?
+44  Neth, Agnes               Bernhard    22 1804 1816 T81 600 5388601 Heth?
+44  Neth, Katharina           Bernhard    20 1804 1816 T81 600 5388601 Heth?
+45  Beck, Adam                            33 1804 1816 T81 600 5388601
+45  Beck, Ursula                          35 1804 1816 T81 600 5388601 nee?, wife of Adam
+45  Beck, Magdalena           Adam         2 1804 1816 T81 600 5388601
+46  Schneider, Joseph                     50 1804 1816 T81 600 5388601
+46  Schneider, Maria                      49 1804 1816 T81 600 5388601 nee?, wife of Joseph
+46  Schneider, Georg          Joseph      25 1804 1816 T81 600 5388601
+46  Schneider, Katharina      Joseph      18 1804 1816 T81 600 5388601
+46  Schneider, Joseph         Joseph      16 1804 1816 T81 600 5388601
+46  Schneider, Maria          Joseph      15 1804 1816 T81 600 5388601
+46  Schneider, Johann         Joseph      10 1804 1816 T81 600 5388601
+47  Riedlinger, Felix                        1804 1816 T81 600 5388602 age 39 in 1811, died
+47  Riedlinger, Barbara                   30 1804 1816 T81 600 5388602 nee?, wife of Felix
+47  Riedlinger, Friedrich     Felix       16 1804 1816 T81 600 5388602
+47  Riedlinger, Johann        Felix       12 1804 1816 T81 600 5388602
+47  Riedlinger, Barbara       Felix        2 1804 1816 T81 600 5388602
+48  Dieter, Martin                        31 1804 1816 T81 600 5388602
+48  Dieter, Barbara                       43 1804 1816 T81 600 5388602 nee?, wife of Martin
+48  Dieter, Georg             Martin       2 1804 1816 T81 600 5388602
+48  Kern, Jakob                           20 1804 1816 T81 600 5388602 stepson to Martin Dieter
+48  Kern, Martin                          19 1804 1816 T81 600 5388602 stepson to Martin Dieter
+49  Walter, Kaspar                           1804 1816 T81 600 5388602 age 61 in 1811, died 1815
+49  Walter, Barbara                       65 1804 1816 T81 600 5388602 nee?, wife of Kaspar
+49  Walter, Johann            Kaspar      24 1804 1816 T81 600 5388602
+49  Walter, Kaspar            Kaspar         1804 1816 T81 600 5388602 age 33 in 1811, died 1815
+49  Walter, Barbara           Kaspar       9 1804 1816 T81 600 5388602 daughter of Kaspar (age 33)
+50  Finkboner, Friedrich                  38 1804 1816 T81 600 5388602
+50  Finkboner, Barbara                    38 1804 1816 T81 600 5388602
+50  Finkboner, Barbara        Friedrich      1804 1816 T81 600 5388602 died 1814
+50  Finkboner, Maria          Friedrich      1804 1816 T81 600 5388602 died 1815
+51  Weissenburger, Valentin               21 1804 1816 T81 600 5388602 married in 1814
+51  Weissenburger, Katharina              25 1804 1816 T81 600 5388602 nee?, wife of Valentin
+51  Weissenburger, Jakob      Valentin     1 1804 1816 T81 600 5388602
+52  Schneider, Karl                          1804 1816 T81 600 5388602 age 31 in 1811, died 1812
+52  Schneider, Eva                        28 1804 1816 T81 600 5388602 nee?, wife of Karl
+52  Schneider, Barbara        Karl         8 1804 1816 T81 600 5388602
+52  Maier, Friedrich                      24 1805 1816 T81 600 5388602 2nd husband to Barbara Schneider, married 1814, came from Neuburg
+52  Maier, Katharina          Friedrich    2 1805 1816 T81 600 5388602 from Neuburg
+53  Maier, Kaspar                         44 1804 1816 T81 600 5388602
+53  Maier, Charlotte                         1804 1816 T81 600 5388602 nee?, 1st wife of Kaspar, died 1811
+53  Maier, Heinrich           Kaspar      10 1804 1816 T81 600 5388602 son of first marriage
+53  Maier, Andreas            Kaspar         1804 1816 T81 600 5388602 son of 1st marriage, age 3 in 1811, died 1813
+53  Maier, Katharina          Kaspar      18 1804 1816 T81 600 5388602 daughter of first marriage
+53  Maier, Barbara                        25 1804 1816 T81 600 5388602 2nd wife to Kaspar
+54  Schell, Heinrich                      38 1804 1816 T81 600 5388602
+54  Schell, Elisabetha                    37 1804 1816 T81 600 5388602 nee?, wife of Heinrich
+54  Schell, Elisabetha        Heinrich     6 1804 1816 T81 600 5388602
+54  Schell, Margaretha        Heinrich     3 1804 1816 T81 600 5388602
+54  Schell, Heinrich          Heinrich       1804 1816 T81 600 5388602 3 mo
+55  Hessel, Johann                        38 1804 1816 T81 600 5388602 Gessel?
+55  Hessel, Luisa                            1804 1816 T81 600 5388602 nee?, wife of Johann, died 1811
+55  Hessel, Friedrich         Johann         1804 1816 T81 600 5388602 age 4 in 1811, died 1814
+56  Eberhard, Friedrich                      1804 1816 T81 600 5388602 age 38 in 1811, died 1812
+56  Eberhard, Katharina                   35 1804 1816 T81 600 5388602 nee?, wife of Friedrich
+56  Spaeth, Elisabetha                    14 1804 1816 T81 600 5388602 step daughter of Friedrich Eberhard
+56  Oesterle, Johann                      25 1804 1816 T81 600 5388602 son-in-law of Friedrich Eberhard, married 1812, from Neuburg
+56  Eberhard, Christina       Friedrich   18 1804 1816 T81 600 5388603 nee?, wife of Johann Oesterle
+57  Wanner, Gottfried                        1804 1816 T81 600 5388603 age 34 in 1811, died 1812
+57  Wanner, Rosina                        30 1804 1816 T81 600 5388603 nee?, wife of Gottfried Wanner, marr. Philipp Rupert 1813
+57  Wanner, Gottlieb          Gottfried      1804 1816 T81 600 5388603 age 2 in 1811, died 1815
+57  Rupert, Philipp                       22 1804 1816 T81 600 5388603 age 22 in 1813?, from Peterstal, married widow Rosina Wanner 1813
+58  Weissenburger, Jakob                  32 1804 1816 T81 600 5388603
+58  Weissenburger, Elisabeth              28 1804 1816 T81 600 5388603 nee?, wife of Jakob
+58  Weissenburger, Jakob      Jakob        9 1804 1816 T81 600 5388603
+58  Weissenburger, Valentin   Jakob        8 1804 1816 T81 600 5388603
+58  Weissenburger, Elisabetha Jakob        6 1804 1816 T81 600 5388603
+58  Weissenburger, Katharina  Jakob        1 1804 1816 T81 600 5388603
+59  Vollmer, Jakob                        31 1804 1816 T81 600 5388603
+59  Vollmer, Dorothea                     23 1804 1816 T81 600 5388603 nee?, 2nd wife to Jakob
+59  Vollmer, Karolina         Jakob        8 1804 1816 T81 600 5388603 son from first marriage
+59  Vollmer, Jakob            Jakob        5 1804 1816 T81 600 5388603
+60  Beuerle, Leonhard                     62 1804 1816 T81 600 5388603
+60  Beuerle, Elisabetha                   62 1804 1816 T81 600 5388603 nee?, wife of Leonhard
+60  Beuerle, Friedrich        Leonhard       1804 1816 T81 600 5388603 age 12 in 1811, died 1813
+60  Beuerle, Heinrich         Leonhard    26 1804 1816 T81 600 5388603
+60  Beuerle, Friederika                   25 1804 1816 T81 600 5388603 nee?, wife of Heinrich
+60  Beuerle, Christian        Heinrich     4 1804 1816 T81 600 5388603
+60  Beuerle, Johann           Heinrich     1 1804 1816 T81 600 5388603
+61  Huber, Jakob                          33 1804 1816 T81 600 5388603
+61  Huber, Elisabetha                     29 1804 1816 T81 600 5388603 nee?, wife of Jakob
+61  Huber, Karl               Jakob          1804 1816 T81 600 5388603 died 1816
+61  Huber, Johann             Jakob        4 1804 1816 T81 600 5388603
+61  Huber, Gottlieb           Jakob        2 1804 1816 T81 600 5388603
+62  Gundert, Friedrich                    43 1804 1816 T81 600 5388603
+62  Gundert, Anna                         49 1804 1816 T81 600 5388603 nee?, wife of Friedrich
+62  Gundert, Anna             Friedrich   18 1804 1816 T81 600 5388603
+62  Gundert, Friedrich        Friedrich    9 1804 1816 T81 600 5388603
+62  Gundert, Rosina           Friedrich   21 1804 1816 T81 600 5388603 married Johann Maier in 1814
+62  Maier, Johann                         24 1805 1816 T81 600 5388603 age 24 in 1814?,son in law of Friedrich Gundert, marr Rosina in 1814,  from Alexanderhilf
+63  Schmit, Adam                          65 1804 1816 T81 600 5388603
+63  Schmit, Susanna                       64 1804 1816 T81 600 5388603 nee?, wife of Adam
+63  Schmit, Christina         Adam        30 1804 1816 T81 600 5388603 m. Heinrich Stradinger
+63  Stradinger, Heinrich                  31 1804 1816 T81 600 5388603
+63  Stradinger, Michael       Heinrich     4 1804 1816 T81 600 5388603
+63  Stradinger, Friedrich     Heinrich     1 1804 1816 T81 600 5388603
+63  Feucht, Adam                           9 1804 1816 T81 600 5388603 stepchild to Heinrich Stradinger
+63  Feucht, Maria                          7 1804 1816 T81 600 5388603 stepchild to Heinrich Stradinger
+64  Horand, Jakob                         31 1804 1816 T81 600 5388603 Gorand?
+64  Horand, Wilhelmina                    33 1804 1816 T81 600 5388603 nee?, wife of Jakob
+64  Horand, Martin                           1804 1816 T81 600 5388603 brother to Jakob, age 33 in 1811, died in 1811
+65  Hanselmann, Jakob                        1804 1816 T81 600 5388603 age 39 in 1811, died 1814
+65  Hanselmann, Christina                 42 1804 1816 T81 600 5388603 nee?, widow of Jakob, married Georg Wagner in 1814
+65  Wagner, Georg                         46 1804 1816 T81 600 5388603 age 46 in 1814?, married Christina Hanselmann
+65  Wagner, Jakob             Georg       17 1804 1816 T81 600 5388604 daughter by first marriage
+65  Wagner, Christina         Georg        1 1804 1816 T81 600 5388604
+65  Hanselmann, Jakob         Jakob        8 1804 1816 T81 600 5388604 stepchild to Georg Wagner
+65  Hanselmann, Salome        Jakob       17 1804 1816 T81 600 5388604 stepchild to Georg Wagner
+65  Wagner, Dorothea          Georg       20 1804 1816 T81 600 5388604 married Jakob Maier
+65  Maier, Jakob                          22 1804 1816 T81 600 5388604 son-in law to Georg Wagner
+66  Fohlweider, Georg                     39 1804 1816 T81 600 5388604
+66  Fohlweider, Barbara                      1804 1816 T81 600 5388604 nee?, wife of Georg, died 1815
+66  Fohlweider, Jakob         Georg       19 1804 1816 T81 600 5388604 son from 1st marriage
+66  Fohlweider, Magdalena     Georg       18 1804 1816 T81 600 5388604 daughter from 1st marriage
+66  Fohlweider, Katharina     Georg        1 1804 1816 T81 600 5388604 daughter from 2nd marriage
+67  Kurz, Philipp                         38 1804 1816 T81 600 5388604
+67  Kurz, Katharina                       40 1804 1816 T81 600 5388604 nee?, wife of Philipp
+67  Kurz, Christian           Philipp      9 1804 1816 T81 600 5388604
+67  Kurz, Philipp             Philipp      6 1804 1816 T81 600 5388604
+67  Kurz, Friedrich           Philipp      3 1804 1816 T81 600 5388604
+68  Wollner, Kaspar                       40 1804 1816 T81 600 5388604
+68  Wollner, Dorothea                     32 1804 1816 T81 600 5388604 nee?, wife of Kaspar
+68  Wollner, Gottlieb         Kaspar      13 1804 1816 T81 600 5388604
+68  Wollner, Dorothea         Kaspar       9 1804 1816 T81 600 5388604
+68  Wollner, Katharina        Kaspar       8 1804 1816 T81 600 5388604
+68  Wollner, Christian        Kaspar       7 1804 1816 T81 600 5388604
+68  Wollner, Philipp          Kaspar       3 1804 1816 T81 600 5388604
+68  Wollner, Friederika       Kaspar       3 1804 1816 T81 600 5388604
+69  Kaes, Johann                          42 1804 1816 T81 600 5388604
+69  Kaes, Katharina                       40 1804 1816 T81 600 5388604 nee?, wife of Johann
+70  Gundert, Andreas                      26 1804 1816 T81 600 5388604
+70  Gundert, Katharina                       1804 1816 T81 600 5388604 nee?, 1st wife of Andreas, died 1812
+70  Gundert, Barbara                      21 1804 1816 T81 600 5388604 nee?, 2nd wife of Andreas
+70  Gundert, Andreas          Andreas      3 1804 1816 T81 600 5388604 by 2nd marriage
+70  Gundert, Christian        Andreas        1804 1816 T81 600 5388604 by 2nd marriage, died
+71  Kaiser, Christian                     44 1804 1816 T81 600 5388604
+71  Kaiser, Dorothea                         1804 1816 T81 600 5388604 nee?, 1st wife, died 1813
+71  Kaiser, Johanna                       56 1804 1816 T81 600 5388604 nee?, 2nd wife
+71  Kaiser, Christian         Christian      1804 1816 T81 600 5388604 child by fist marriage, age 1 in 1811, died in 1816
+72  Schaufler, Ferdinand                     1805 1816 T81 600 5388604 age 24 in 1811, died 1813
+72  Schaufler, Maria                      21 1805 1816 T81 600 5388604 nee?, wife of Ferdinand
+72  Schaufler, Andreas                    14 1805 1816 T81 600 5388604 brother of Ferdinand
+73  Reich, Gottfried                      37 1805 1816 T81 600 5388604
+73  Reich, Christina                      43 1805 1816 T81 600 5388604 nee?, wife of Gottfried
+73  Reich, Gottlieb           Gottfried   11 1805 1816 T81 600 5388604
+73  Reich, Christina          Gottfried    7 1805 1816 T81 600 5388604
+73  Reich, Friedrich          Gottfried      1805 1816 T81 600 5388604 age 3 in 1811, died 1813
+73  Reich, Johann             Gottfried    1 1805 1816 T81 600 5388604
+74  Leining, Konrad                       50 1805 1816 T81 600 5388604
+74  Leining, Magdalena                    44 1805 1816 T81 600 5388604 nee?, wife of Konrad
+74  Leining, Friederika       Konrad      17 1805 1816 T81 600 5388604
+74  Leining, Katharina        Konrad       6 1805 1816 T81 600 5388604
+75  Breitmaier, Friedrich                 41 1805 1816 T81 600 5388604
+75  Breitmaier, Christina                 25 1805 1816 T81 600 5388604 nee?, 2nd wife to Friedrich
+75  Breitmaier, Elisabetha    Friedrich   15 1805 1816 T81 600 5388604 from first marriage
+75  Breitmaier, Christina     Friedrich   14 1805 1816 T81 600 5388604 from first marriage
+75  Breitmaier, Luise         Friedrich    2 1805 1816 T81 600 5388604
+76  Hetter, Bernhard                      48 1805 1816 T81 600 5388605 Hertter? Gertter?
+76  Hetter, Margareta                        1805 1816 T81 600 5388605 nee?, wife of Bernhard, died 1811
+76  Hetter, Georg             Bernhard    22 1805 1816 T81 600 5388605
+76  Hetter, Anna              Bernhard    21 1805 1816 T81 600 5388605
+76  Hetter, Balthasar         Bernhard    13 1805 1816 T81 600 5388605
+77  Neunecker, Friedrich                     1805 1816 T81 600 5388605 age 16 in 1811, died 1812
+77  Neunecker, Johann                     21 1805 1816 T81 600 5388605 sibling to Friedrich
+77  Neunecker, Agnes                      18 1805 1816 T81 600 5388605 sibling to Friedrich
+77  Neunecker, Dorothea                   16 1805 1816 T81 600 5388605 sibling to Friedrich
+78  Blumentstein, Georg                      1805 1816 T81 600 5388605 age 43 in 1811, d. 1815
+78  Pfanzler, Katharina                   44 1805 1816 T81 600 5388605 nee?, widow of Georg Blumenstein, married 2nd husband Lambrecht Pfanzler in 1815
+78  Pfanzler, Lambrecht?                  45 1805 1816 T81 600 5388605 married 2nd wife widow Katharina Blumenstein in 1815
+78  Pfanzler, Martin          Lambrecht      1805 1816 T81 600 5388605 age 18 in 1811, d. 1811, son by first marriage
+78  Pfanzler, Katharina       Lambrecht   19 1805 1816 T81 600 5388605 daughter by first marriage
+78  Pfanzler, Gottlieb        Lambrecht   19 1805 1816 T81 600 5388605 son from 1st marriage
+78  Pfanzler, Jakob           Lambrecht   15 1805 1816 T81 600 5388605 son from 1st marriage
+78  Blumentstein, Jakob       Georg       17 1805 1816 T81 600 5388605 stepson to Lambrecht Pfanzler
+78  Blumentstein, Maria       Georg       14 1805 1816 T81 600 5388605 step daughter to Lambrecht Pfanzler
+78  Blumentstein, Katharina   Georg       12 1805 1816 T81 600 5388605 step daughter to Lambrecht Pfanzler
+78  Blumentstein, Regina      Georg        9 1805 1816 T81 600 5388605 step daughter to Lambrecht Pfanzler
+79  Hensel, Margareta                     19 1805 1816 T81 600 5388605 Gensel?, sister to Agnes
+79  Hensel, Agnes                         13 1805 1816 T81 600 5388605 Gensel?, sister to Matgaretha
+80  Ott, Barbara                          51 1805 1816 T81 600 5388605
+80  Ott, Dorothea                         21 1805 1816 T81 600 5388605 child of  Barbara Ott
+80  Ott, Elisabeth                        18 1805 1816 T81 600 5388605 child of  Barbara Ott
+80  Ott, Georg                            16 1805 1816 T81 600 5388605 child of  Barbara Ott
+80  Ott, Friedrich                        13 1805 1816 T81 600 5388605 child of  Barbara Ott
+80  Ott, Barbara                           9 1805 1816 T81 600 5388605 child of  Barbara Ott
+81  Blocher, Johann                       54 1805 1816 T81 600 5388605
+81  Blocher, Barbara                      30 1805 1816 T81 600 5388605 nee?, wife to Johann
+81  Blocher, Mathaeus         Johann      19 1805 1816 T81 600 5388605 son by first marriage
+81  Blocher, Christina        Johann       5 1805 1816 T81 600 5388605
+81  Blocher, Johann           Johann       3 1805 1816 T81 600 5388605
+81  Blocher, Wilhelm          Johann       1 1805 1816 T81 600 5388605
+82  Walker, Georg                         24 1805 1816 T81 600 5388605
+82  Walker, Katharina                     23 1805 1816 T81 600 5388605 nee?, wife to Georg
+83  Walker, Georg                         53 1805 1816 T81 600 5388605
+83  Walker, Maria                         49 1805 1816 T81 600 5388605 nee?, wife to Georg
+83  Walker, Katharina         Georg       20 1805 1816 T81 600 5388605
+83  Walker, Christina         Georg          1805 1816 T81 600 5388605 died 1916
+83  Walker, Martin            Georg       18 1805 1816 T81 600 5388605
+83  Walker, Jakob             Georg       12 1805 1816 T81 600 5388605
+84  Stoll, Friedrich                         1805 1816 T81 600 5388605 age 41 in 1811, died 1811
+84  Stoll, Christina                      38 1805 1816 T81 600 5388605 nee?, wife of Friedrich
+84  Stoll, Friedrich          Friedrich   20 1805 1816 T81 600 5388605
+84  Stoll, Johann             Friedrich      1805 1816 T81 600 5388605 age 3 in 1811, died 1812
+84  Stoll, Jakob              Friedrich      1805 1816 T81 600 5388605 age 2 in 1811, died in 1812
+84  Katz, Georg                           15 1805 1816 T81 600 5388605 stepson to Friedrich Stoll
+84  Schaufler, Christina                   3 1805 1816 T81 600 5388605 stepdaughter to Friedrich Stoll
+85  Walker, Gottlieb                      45 1805 1816 T81 600 5388605
+85  Walker, Maria                         46 1805 1816 T81 600 5388605 nee?, wife of Gottlieb
+85  Walker, Johann            Gottlieb    16 1805 1816 T81 600 5388605
+85  Walker, Stephan           Gottlieb     8 1805 1816 T81 600 5388605
+85  Walker, Christina         Gottlieb       1805 1816 T81 600 5388605 married in 1815
+86  Walker, Christian                        1805 1816 T81 600 5388606
+86  Walker, Maria                            1805 1816 T81 600 5388606 age 33 in 1811, died 1815
+86  Walker, Georg             Christian   14 1805 1816 T81 600 5388606 nee?,wife of Christian, died 1814
+86  Walker, Abraham           Christian    5 1805 1816 T81 600 5388606
+87  Strecher, Friedrich                   32 1805 1816 T81 600 5388606 Strecker?
+87  Strecher, Agnes                       27 1805 1816 T81 600 5388606 nee?, wife of Friedrich
+87  Strecher, Katharina       Friedrich    9 1805 1816 T81 600 5388606
+87  Strecher, Friedrich       Friedrich    7 1805 1816 T81 600 5388606
+87  Strecher, Christian       Friedrich      1805 1816 T81 600 5388606 age 1 in 1811, died in 1812
+87  Strecher, Elisabeth       Friedrich    1 1805 1816 T81 600 5388606
+88  Walker, Georg                         15 1805 1816 T81 600 5388606
+88  Walker, Anna                          17 1805 1816 T81 600 5388606 sister to Georg
+88  Walker, Regina                        12 1805 1816 T81 600 5388606 sister to Georg
+88  Res, Balthasar                         9 1805 1816 T81 600 5388606 cousin to Georg Walker
+88  Res, Barbara                             1805 1816 T81 600 5388606 cousin to Georg Walker, died 1815
+88  Res, Magdalena                           1805 1816 T81 600 5388606 cousin to Georg Walker, marr 1815 to Peterstal
+89  Friesch, Johann                       49 1805 1816 T81 600 5388606
+89  Friesch, Margareta                    49 1805 1816 T81 600 5388606 nee?, wife of Johann
+89  Friesch, Konrad           Johann       9 1805 1816 T81 600 5388606
+90  Hepper, Jakob                            1805 1816 T81 600 5388606 age 45 in 1811, died 1811
+90  Hepper, Christina                        1805 1816 T81 600 5388606 nee?, widow of Jakob, remarried in 1812
+90  Hepper, Georg             Jakob       19 1805 1816 T81 600 5388606
+90  Hepper, Magdalena         Jakob       17 1805 1816 T81 600 5388606
+90  Hepper, Maria             Jakob       13 1805 1816 T81 600 5388606
+90  Hepper, Christina         Jakob       12 1805 1816 T81 600 5388606
+90  Hepper, Michael           Jakob        8 1805 1816 T81 600 5388606
+90  Hepper, Jakob             Jakob        6 1805 1816 T81 600 5388606
+90  Hepper, Sophia            Jakob          1805 1816 T81 600 5388606 died 1815
+91  Albert, Christian                     48 1805 1816 T81 600 5388606
+91  Albert, Elisabetha                    50 1805 1816 T81 600 5388606 nee?, wife of Christian
+92  Knoblich, Eva                            1805 1816 T81 600 5388606 nee?, widow, died 1812
+92  Knoblich, Maria                          1805 1816 T81 600 5388606 daughter of Eva Knoblich, married in 1812
+92  Knoblich, Jakob                       28 1805 1816 T81 600 5388606 son of Eva Knoblich
+92  Knoblich, Maria                       25 1805 1816 T81 600 5388606 nee?, wife of Jakob
+93  Laier, Martin                         45 1805 1816 T81 600 5388606
+93  Laier, Katharina                      49 1805 1816 T81 600 5388606 nee?, wife of Martin
+93  Laier, Jakob              Martin      21 1805 1816 T81 600 5388606
+93  Laier, Magdalena          Martin      18 1805 1816 T81 600 5388606
+93  Laier, Katharina          Martin         1805 1816 T81 600 5388606 married in 1814
+94  Schmit, Friedrich                        1805 1816 T81 600 5388606 age 55 in 1811, died 1815
+94  Schmit, Maria                         36 1805 1816 T81 600 5388606 nee?, wife of Friedrich
+94  Schmit, Friedrich         Friedrich   16 1805 1816 T81 600 5388606 son by first marriage
+94  Schmit, Johann            Friedrich    4 1805 1816 T81 600 5388606
+95  Schedle, David                           1805 1816 T81 600 5388606 age 62 in 1811, died 1812
+95  Schedle, Magdalena                       1805 1816 T81 600 5388606 nee?, wife of David, died in 1811
+95  Schedle, Eberhard         David       20 1805 1816 T81 600 5388606
+95  Schedle, Sara             David          1805 1816 T81 600 5388606 married 1815
+95  Schedle, Magdalena        David          1805 1816 T81 600 5388606 dissapeared in 1813
+96  Schleger, Ludwig                      58 1805 1816 T81 600 5388607 Schleher?
+96  Schleger, Maria                       48 1805 1816 T81 600 5388607 nee?, wife of Ludwig
+96  Schleger, Georg           Ludwig      26 1805 1816 T81 600 5388607 son by first marriage
+96  Schleger, Christina       Ludwig         1805 1816 T81 600 5388607 daughter by first marriage, died 1812
+96  Schleger, Ludwig          Ludwig       8 1805 1816 T81 600 5388607
+96  Eckstein, Agneta                      15 1805 1816 T81 600 5388607 stepdaughter to Ludwig Schleger (Schleher?)
+96  Eckstein, Friederika                     1805 1816 T81 600 5388607 stepdaughter to Ludwig Schleger (Schleher?), married in1815
+97  Bertsch, Samuel                       48 1805 1816 T81 600 5388607
+97  Bertsch, Barbara                         1805 1816 T81 600 5388607 nee?, wife of Samuel, died 1815
+97  Bertsch, Johann           Samuel      18 1805 1816 T81 600 5388607
+97  Bertsch, Samuel           Samuel      16 1805 1816 T81 600 5388607
+97  Bertsch, Georg            Samuel       9 1805 1816 T81 600 5388607
+97  Bertsch, Barbara          Samuel       6 1805 1816 T81 600 5388607
+97  Bertsch, Magdalena        Samuel       3 1805 1816 T81 600 5388607
+97  Bertsch, Jakob            Samuel      24 1805 1816 T81 600 5388607
+97  Bertsch, Maria                        21 1805 1816 T81 600 5388607 nee?, wife of Jakob
+97  Bertsch, Maria            Jakob        1 1805 1816 T81 600 5388607
+98  Menich, Elisabetha                    65 1805 1816 T81 600 5388607
+98  Menich, Bernhard                      20 1805 1816 T81 600 5388607 son of Elisabetha Menich
+98  Menich, Christian                     18 1805 1816 T81 600 5388607 son of Elisabetha Menich
+98  Menich, Maria                         23 1805 1816 T81 600 5388607 daughter of Elisabetha Menich, wife to Ludwig Schuetzle
+98  Schuetzle, Ludwig                     28 1805 1816 T81 600 5388607
+98  Schuetzle, Katharina      Ludwig       5 1805 1816 T81 600 5388607
+99  Neth, Georg                           32 1805 1816 T81 600 5388607 took over the farm? In 1812
+99  Neth, Maria                           25 1805 1816 T81 600 5388607 nee?, wife of Georg
+100 Ellinger, Friedrich                   28 1805 1816 T81 600 5388607 came from Neuburg in 1811, took over farm
+100 Ellinger, Margareta                   24 1805 1816 T81 600 5388607 nee?, wife of Friedrich
+100 Ellinger, Georg           Friedrich    3 1805 1816 T81 600 5388607
+101 Heschele, Christoph                   39 1805 1816 T81 600 5388607
+101 Heschele, Katharina                   23 1805 1816 T81 600 5388607 nee?, wife of Christoph, widowed?Haufler
+101 Heschele, Christoph       Christoph    8 1805 1816 T81 600 5388607
+101 Heschele, Jakob           Christoph    3 1805 1816 T81 600 5388607
+101 Heschele, Georg           Christoph      1805 1816 T81 600 5388607 3 mo
+101 Haufler, Dorothea                     18 1805 1816 T81 600 5388607 step daughter of Christoph Heschele
+101 Haufler, Magdalena                    13 1805 1816 T81 600 5388607 step daughter of Christoph Heschele
+101 Haufler, Christiana                      1805 1816 T81 600 5388607 step daughter of Christoph Heschele, married in 1812
+102 Steinhilber, Georg                    33 1805 1816 T81 600 5388607
+102 Steinhilber, Margarethe               38 1805 1816 T81 600 5388607 nee?, wife of Georg
+102 Steinhilber, Georg        Georg          1805 1816 T81 600 5388607 age 3 in 1811, died 1814
+102 Steinhilber, Friedrich    Georg        6 1805 1816 T81 600 5388607
+103 Gap (Hap?), Georg                     37 1805 1816 T81 600 5388607 Hap?
+103 Gap (Hap?), Maria                     47 1805 1816 T81 600 5388607 Schuler nee?, married Georg
+103 Gap (Hap?), Georg         Georg          1805 1816 T81 600 5388607 age 6 in 1811, died 1814, son by first marriage
+103 Schuler, Gottfried                    21 1805 1816 T81 600 5388607 Stepson to Georg Gap (Hap?)
+103 Beck, Georg                           24 1805 1816 T81 600 5388607 married into family in 1815, brother in law to Gottfried Schuler? Or son in law to Georg Gap (Hap?)??
+103 Beck, Elisabetha                      16 1805 1816 T81 600 5388607 wife of Georg Beck, sister of Gottfried Schuler?? Or daughter of Georg Gap( Hap?) ?
+103 Neth, Georg                              1805 1816 T81 600 5388607 age 27 in 1811, left in 1812, brother in law or son in law to Georg Gap (Hap?)? - or brother in law to Georg Beck?
+103 Neth, Maria                              1805 1816 T81 600 5388607 nee?, wife of Georg Neth, left in 1812
+104 Bauder, Jakob                         63 1805 1816 T81 600 5388607
+104 Bauder, Maria                         68 1805 1816 T81 600 5388607 nee?, wife of Jakob
+104 Bauder, Philipp           Jakob       18 1805 1816 T81 600 5388607
+104 Bauder, Georg             Jakob          1805 1816 T81 600 5388607 age 19 in 1811, left in 1815 to take farm
+104 Bauder, Konrad            Jakob       22 1805 1816 T81 600 5388607
+104 Bauder, Friederika                    19 1805 1816 T81 600 5388607 nee?, wife of Konrad
+105 Bauder, Johann                        26 1805 1816 T81 600 5388608
+105 Bauder, Friederike                    23 1805 1816 T81 600 5388608 nee?, wife of Johann
+105 Bauder, Katharina         Johann       4 1805 1816 T81 600 5388608
+106 Orth, Georg                           49 1805 1816 T81 600 5388608
+106 Orth, Regina                          43 1805 1816 T81 600 5388608 nee?, wife of Georg
+106 Orth, David               Georg       17 1805 1816 T81 600 5388608
+106 Orth, Euphrosina          Georg       11 1805 1816 T81 600 5388608
+107 Baumgaertner, Johann                  61 1805 1816 T81 600 5388608
+107 Baumgaertner, Beate                   58 1805 1816 T81 600 5388608 nee?, wife of Johann
+107 Baumgaertner, Wilhelm     Johann      24 1805 1816 T81 600 5388608
+107 Baumgaertner, Friedrich   Johann         1805 1816 T81 600 5388608 age 21 in 1811, left to take farm in 1815
+107 Baumgaertner, Katharina   Johann      16 1805 1816 T81 600 5388608
+107 Baumgaertner, Friederika  Johann      13 1805 1816 T81 600 5388608
+107 Baumgaertner, Jakob       Johann         1805 1816 T81 600 5388608 age 22 in 1811, left to take farm in 1812
+107 Baumgaertner, Rosina                     1805 1816 T81 600 5388608 nee?, wife of Jakob, died in 1811
+108 Buck, Johann                             1805 1816 T81 600 5388608 age 70 in 1811, died 1812
+108 Baumgaertner, Jakob                   27 1805 1816 T81 600 5388608 married Maria Buck nee? In 1812
+108 Baumgaertner, Maria                   44 1805 1816 T81 600 5388608 nee?, widow of Johann Buck?, married to Jakob Baumgaertner
+108 Baumgaertner, Friedrich   Jakob        3 1805 1816 T81 600 5388608
+108 Buck, Johann              Johann      14 1805 1816 T81 600 5388608 stepson to Jakob Baumgaertner
+108 Buck, Katharina           Johann         1805 1816 T81 600 5388608 stepdaughter to Jakob Baumgaertner, died 1812
+109 Froehlich, Georg                         1805 1816 T81 600 5388608 age 43 in 1811, died 1811
+109 Froehlich, Sara                       42 1805 1816 T81 600 5388608 nee?, wife of Georg
+109 Froehlich, Mathias        Georg        8 1805 1816 T81 600 5388608
+109 Froehlich, Dorothea       Georg          1805 1816 T81 600 5388608 married in 1814
+110 Max, Mathias                             1805 1816 T81 600 5388608 age 44 in 1811, died 1814
+110 Max, Margaretha                       49 1805 1816 T81 600 5388608 nee?, wife of Mathias
+110 Max, Johann               Mathias     16 1805 1816 T81 600 5388608
+110 Max, Franz                Mathias      8 1805 1816 T81 600 5388608
+110 Max, Elisabetha           Mathias        1805 1816 T81 600 5388608 married in 1812
+111 Max, Eberhard                         28 1805 1816 T81 600 5388608
+111 Max, Barbara                          31 1805 1816 T81 600 5388608
+112 Hochstetter, Gottlieb                 29 1805 1816 T81 600 5388608
+112 Hochstetter, Barbara                  36 1805 1816 T81 600 5388608 nee?, widowed Rothfuss?, married Gottlieb - arrived in 1804?
+112 Rothfuss, Georg                       15 1804 1816 T81 600 5388608 stepson to Gottlieb Hochstetter
+112 Rothfuss, Christian                    9 1804 1816 T81 600 5388608 stepson to Gottlieb Hochstetter
+112 Rothfuss, Eva                         13 1804 1816 T81 600 5388608 step daughter to Gottlieb Hochstetter
+113 Baumgaertner, Friedrich               26 1805 1816 T81 600 5388608
+113 Baumgaertner, Katharina               21 1805 1816 T81 600 5388608 nee?, wife of Friedrich
+113 Baumgaertner, Friedrich   Friedrich    1 1805 1816 T81 600 5388608
+114 Eichele, Georg                        33 1805 1816 T81 600 5388608
+114 Eichele, Elisabetha                   28 1805 1816 T81 600 5388608 nee?, 2nd wife of Georg
+114 Eichele, Elisabeth        Georg       11 1805 1816 T81 600 5388608 daughter by 1st marriage?
+114 Eichele, Elisabeth        Georg        8 1805 1816 T81 600 5388608 child by second marriage
+114 Eichele, Ludwig           Georg        2 1805 1816 T81 600 5388608 child by second marriage
+115 Steigert, Maria                       58 1805 1816 T81 600 5388609
+115 Steigert, Georg                       18 1805 1816 T81 600 5388609 son of Maria
+115 Steigert, Johann                      14 1805 1816 T81 600 5388609 son of Maria
+115 Steigert, Anna                           1805 1816 T81 600 5388609 daughter of Maria, married in 1812
+115 Steigert, Gottfried                   21 1805 1816 T81 600 5388609 son of Maria
+115 Steigert, Margaretha                  22 1805 1816 T81 600 5388609 nee?, wife of Gottfried
+116 Klenger, Friedrich                    29 1805 1816 T81 600 5388609
+116 Klenger, Dorothea                        1805 1816 T81 600 5388609 nee?, 1st wife of Friedrich, died 1815
+116 Klenger, Sara                         22 1805 1816 T81 600 5388609 nee?, 2nd wife of Friedrich
+116 Klenger, Johann           Friedrich    6 1805 1816 T81 600 5388609 son by first marriage
+116 Klenger, Katharina        Friedrich    4 1805 1816 T81 600 5388609 daughter by first marriage
+117 Berg, Gottfried                       34 1805 1816 T81 600 5388609
+117 Berg, Christiana                      25 1805 1816 T81 600 5388609 nee?, wife of Gottfried
+117 Berg, Jakob               Gottfried    7 1805 1816 T81 600 5388609
+117 Berg, Elisabetha          Gottfried    4 1805 1816 T81 600 5388609
+117 Berg, Johann              Gottfried    1 1805 1816 T81 600 5388609
+118 Bauder, Georg                         24 1805 1816 T81 600 5388609 took over farm in 1815
+118 Bauder, Margaretha                    23 1805 1816 T81 600 5388609 nee?, wife of Georg
+119 Gessele, Christian                       1805 1816 T81 600 5388609 Gesnele?, age 30 in 1811, died in 1811 (see Heuschele)
+119 Laier, Andreas                        48 1804 1816 T81 600 5388609 married into farm in 1812
+119 Laier, Friederika                     30 1805 1816 T81 600 5388609 nee?,widow of Christian Gessele or Heuschele?, wife of Andreas Laier
+119 Laier, Friedrich          Andreas      2 1805 1816 T81 600 5388609
+119 Heuschele, Karolina       Christian?   6 1805 1816 T81 600 5388609 stepdaughter to Andreas Laier
+119 Hofstiter, Emanuel                       1805 1816 T81 600 5388609 age 19 in 1811, died 1812, brother in law to Andreas Laier
+119 Hofstiter, Sigmund                    19 1805 1816 T81 600 5388609 brother in law to Andreas Laier
+119 Hofstiter, Christian                  17 1805 1816 T81 600 5388609 brother in law to Andreas Laier
+119 Hofstiter, Johann                     15 1805 1816 T81 600 5388609 brother in law to Andreas Laier
+120 Eisenbarth, Friedrich                 37 1805 1816 T81 600 5388609
+120 Eisenbarth, Susanna                      1805 1816 T81 600 5388609 nee?, 1st wife to Friedrich, d. 1811
+120 Eisenbarth, Maria                     23 1805 1816 T81 600 5388609 nee?, 2nd wife to Friedrich
+120 Eisenbarth, Ludwig        Friedrich    1 1805 1816 T81 600 5388609
+120 Eisenbarth, Friederika    Friedrich    3 1805 1816 T81 600 5388609
+120 Kag (Hag?), Johann                    15 1805 1816 T81 600 5388609 stepson to Friedrich Eisenbarth
+120 Kag (Hag?), Friedrich                 12 1805 1816 T81 600 5388609 stepson to Friedrich Eisenbarth
+121 Klein, Franz                          56 1805 1816 T81 600 5388609
+121 Klein, Margaretha                     44 1805 1816 T81 600 5388609 nee?, wife of Franz
+121 Klein, Balthasar          Franz       14 1805 1816 T81 600 5388609
+121 Klein, Elisabeth          Franz       12 1805 1816 T81 600 5388609
+121 Klein, Kaspar             Franz        7 1805 1816 T81 600 5388609
+121 Klein, Franz              Franz          1805 1816 T81 600 5388609 age 1 in 1811, died in 1814
+122 Riegel, Jakob                         32 1805 1816 T81 600 5388609
+122 Riegel, Elisabeth                     30 1805 1816 T81 600 5388609 nee?, wife of Jakob
+122 Riegel, Leopold           Jakob        7 1805 1816 T81 600 5388609
+122 Riegel, Maria             Jakob        4 1805 1816 T81 600 5388609
+122 Riegel, Andreas           Jakob        1 1805 1816 T81 600 5388609
+123 Scherle, Agathe                       52 1805 1816 T81 600 5388609 nee?, widow
+123 Scherle, Michael                      32 1805 1816 T81 600 5388609 son of Agathe
+123 Scherle, Martin                       25 1805 1816 T81 600 5388609 son of Agathe
+123 Scherle, Agathe                       16 1805 1816 T81 600 5388609 daughter of Agathe
+123 Scherle, Mathias                      14 1805 1816 T81 600 5388609 son of Agathe
+124 Gieser, Valentin                      45 1805 1816 T81 600 5388609
+124 Gieser, Christina                     44 1805 1816 T81 600 5388609 nee?, 2nd wife to Valentin Gieser
+124 Gieser, Michael           Valentin    17 1805 1816 T81 600 5388609 age 11 in 1811, died 1816, son by first wife
+124 Gieser, Johann            Valentin       1805 1816 T81 600 5388609 son by first wife
+124 Gieser, Margaretha        Valentin    14 1805 1816 T81 600 5388609 daughter by first wife
+124 Gieser, Jakob             Valentin    11 1805 1816 T81 600 5388609 son by first wife
+124 Hermann, Johann                       24 1805 1816 T81 600 5388609 stepson to Valentin Gieser
+124 Hermann, Anton                        18 1805 1816 T81 600 5388609 stepson to Valentin Gieser
+124 Hermann, Paul                         11 1805 1816 T81 600 5388609 stepson to Valentin Gieser
+124 Hermann, Michael                       9 1805 1816 T81 600 5388609 stepson to Valentin Gieser
+125 Bote, Nikolaus                        39 1805 1816 T81 600 5388610
+125 Bote, Katharina                       43 1805 1816 T81 600 5388610 nee?, wife of Nikolaus
+125 Bote, Jakob               Nikolaus    10 1805 1816 T81 600 5388610
+125 Bote, Johann              Nikolaus     8 1805 1816 T81 600 5388610
+125 Bote, Katharina           Nikolaus     5 1805 1816 T81 600 5388610
+125 Bote, Elisabeth           Nikolaus     4 1805 1816 T81 600 5388610
+125 Bote, Christina           Nikolaus     2 1805 1816 T81 600 5388610
+125 Bote, Maria               Nikolaus       1805 1816 T81 600 5388610 married in 1814 to Alexanderhilf
+126 Wiedmaier, Jakob                      35 1805 1816 T81 600 5388610
+126 Wiedmaier, Maria                      29 1805 1816 T81 600 5388610 nee?, wife of Jakob
+126 Wiedmaier, Eberhard       Jakob        6 1805 1816 T81 600 5388610
+127 Schmied, Michael                      30 1805 1816 T81 600 5388610
+127 Schmied, Barbara                      27 1805 1816 T81 600 5388610 nee?, wife of Michael
+127 Schmied, Johann           Michael      2 1805 1816 T81 600 5388610
+127 Schmied, Gottfried        Michael        1805 1816 T81 600 5388610 6 mo
+128 Wagner, Katharina                     55 1809 1816 T81 600 5388610 nee?, widow
+128 Wagner, Franz                         21 1809 1816 T81 600 5388610 son of Katharina
+128 Wagner, Elisabetha                    19 1809 1816 T81 600 5388610 daughter of Katharina
+128 Wagner, Maria                         16 1809 1816 T81 600 5388610 daughter of Katharina
+128 Wagner, Joseph                        12 1809 1816 T81 600 5388610 son of Katharina
+128 Wagner, Apolonia                         1809 1816 T81 600 5388610 daughter of Katharina Wagner, married in 1814
+129 Menich, Jakob                         38 1809 1816 T81 600 5388610 came from Rohrbach in 1814
+129 Menich, Apolonia                         1809 1816 T81 600 5388610 nee?, 1st wife of Jakob, died in 1814, came from Rohrbach in 1814
+129 Menich, Sophia                        21 1809 1816 T81 600 5388610 nee?, 2nd wife of Jakob
+129 Menich, Katharina         Jakob       11 1809 1816 T81 600 5388610 daughter by first marriage
+129 Menich, Eva               Jakob        8 1809 1816 T81 600 5388610 daughter by first marriage
+129 Menich, Margaretha        Jakob        5 1809 1816 T81 600 5388610 daughter by first marriage
+129 Menich, Susanna           Jakob        7 1809 1816 T81 600 5388610 daughter by first marriage
+129 Menich, Barbara           Jakob          1809 1816 T81 600 5388610 daughter by first marriage, married in 1814
+130 Gorig, Nikolaus                       47 1809 1816 T81 600 5388610 came from Rohrbach in 1814
+130 Gorig, Barbara                           1809 1816 T81 600 5388610 nee?, died in 1814, wife of Nikolaus
+130 Gorig, Georg              Nikolaus       1809 1816 T81 600 5388610 died 1814
+130 Gorig, Magdalena          Nikolaus       1809 1816 T81 600 5388610 died 1814
+130 Gorig, Nikolaus           Nikolaus    13 1809 1816 T81 600 5388610
+130 Gorig, Ludwig             Nikolaus    10 1809 1816 T81 600 5388610
+130 Gorig, Jakob              Nikolaus     5 1809 1816 T81 600 5388610
+131 Gill (Hill?), Philipp                 49 1809 1816 T81 600 5388610 came from Rohrbach in 1814 (marriage)
+131 Gill (Hill?), Katharina               47 1809 1816 T81 600 5388610 nee?, wife of Philipp
+131 Gill (Hill?), Heinrich    Philipp     20 1809 1816 T81 600 5388610
+131 Gill (Hill?), Philipp     Philipp     10 1809 1816 T81 600 5388610
+132 Walther, Ernst                        36 1809 1816 T81 600 5388610
+132 Walther, Maria                        29 1809 1816 T81 600 5388610 nee?, wife of Ernst
+132 Walther, Johann           Ernst       12 1809 1816 T81 600 5388610
+132 Walther, Ernst            Ernst        9 1809 1816 T81 600 5388610
+132 Walther, Maria            Ernst        8 1809 1816 T81 600 5388610
+132 Walther, Georg            Ernst        2 1809 1816 T81 600 5388610
+133 Lindenmann, Georg         Jakob       23 1809 1816 T81 600 5388610 married in 1815
+133 Lindenmann, Christina                 18 1809 1816 T81 600 5388610 nee?, wife of Georg
+134 Lindenmann, Jakob                     46 1809 1816 T81 600 5388610
+134 Lindenmann, Katharina                 45 1809 1816 T81 600 5388610 nee?, wife of Jakob
+134 Lindenmann, Johann        Jakob       21 1809 1816 T81 600 5388610
+134 Lindenmann, Margaretha    Jakob       13 1809 1816 T81 600 5388610
+134 Lindenmann, Michael       Jakob       10 1809 1816 T81 600 5388610
+134 Lindenmann, Georg         Jakob          1809 1816 T81 600 5388610 married in 1815
+135 Hefner, Albrecht                      38 1809 1816 T81 600 5388611
+135 Hefner, Apolonia                      38 1809 1816 T81 600 5388611 nee?, wife of Albrecht
+135 Hefner, Jakob             Albrecht    19 1809 1816 T81 600 5388611
+135 Hefner, Philipp           Albrecht    14 1809 1816 T81 600 5388611
+135 Hefner, Wendel            Albrecht    12 1809 1816 T81 600 5388611
+135 Hefner, Apolonia          Albrecht     8 1809 1816 T81 600 5388611
+135 Eberle, Jakob                          9 1809 1816 T81 600 5388611 nephew to Albrecht Hefner
+136 Schiler, Thomas                       33 1809 1816 T81 600 5388611
+136 Schiler, Katharina                    30 1809 1816 T81 600 5388611 nee?, wife of Thomas
+136 Schiler, Jakob            Thomas       6 1809 1816 T81 600 5388611
+136 Schiler, Karolina         Thomas         1809 1816 T81 600 5388611 died 1813
+136 Schiler, Dorothea         Thomas       5 1809 1816 T81 600 5388611
+136 Schiler, Wilhelmina       Thomas       3 1809 1816 T81 600 5388611
+136 Schiler, Katharina        Thomas       1 1809 1816 T81 600 5388611
+137 Reich, Georg                          46 1810 1816 T81 600 5388611
+137 Reich, Katharina                      41 1810 1816 T81 600 5388611 nee?, wife of Georg
+137 Reich, Dorothea           Georg       20 1810 1816 T81 600 5388611
+137 Reich, Wilhelm            Georg       13 1810 1816 T81 600 5388611
+137 Reich, Georg              Georg       10 1810 1816 T81 600 5388611
+137 Reich, Johann             Georg        5 1810 1816 T81 600 5388611
+137 Reich, Jakob              Georg        3 1810 1816 T81 600 5388611
+137 Reich, Margaretha         Georg          1810 1816 T81 600 5388611 married Friedrich Esslinger in 1815
+137 Esslinger, Friedrich                     1810 1816 T81 600 5388611 age 23 in 1811, married Margaretha Reich in 1815,
+138 Keibert, Peter                           1810 1816 T81 600 5388611
+138 Keibert, Elisabetha                      1810 1816 T81 600 5388611 nee?, wife of Peter
+138 Keibert, Peter            Peter          1810 1816 T81 600 5388611
+138 Keibert, Margaretha       Peter          1810 1816 T81 600 5388611
+139 Torno, Johann                         32 1814 1816 T81 600 5388611 Warsaw colonist
+139 Torno, Elisabetha                     31 1814 1816 T81 600 5388611 nee?, wife of Johann, Warsaw colonist
+139 Torno, Karl               Johann      10 1814 1816 T81 600 5388611 Warsaw colonist
+139 Torno, Friedrich          Johann       5 1814 1816 T81 600 5388611 Warsaw colonist
+139 Torno, Konrad             Johann       2 1814 1816 T81 600 5388611 Warsaw colonist
+139 Torno, Luise              Johann      12 1814 1816 T81 600 5388611 Warsaw colonist
+140 Ebert, Erdmann                        58 1814 1816 T81 600 5388611 died 1815, Warsaw colonist
+140 Ebert, Dorothea                       42 1814 1816 T81 600 5388611 nee?, wife of Erdmann, Warsaw colonist
+140 Ebert, Wilhelmina         Erdmann     11 1814 1816 T81 600 5388611 Warsaw colonist
+140 Horstwald, Johann                        1814 1816 T81 600 5388611 stepson, died 1815, Warsaw colonist
+141 Schmied, Michael                         1814 1816 T81 600 5388611 died 1816, Warsaw colonist
+141 Schmied, Rosina                          1814 1816 T81 600 5388611 nee?, wife of Michael, died 1814, Warsaw colonist
+141 Schmied, Anna             Michael        1814 1816 T81 600 5388611 died 1816, Warsaw colonist
+141 Schmied, Georg            Michael     15 1814 1816 T81 600 5388611 Warsaw colonist
+141 Schmied, Daniel           Michael      6 1814 1816 T81 600 5388611 Warsaw colonist
+142 Sommerfeld, Johann                    51 1814 1816 T81 600 5388611 Warsaw colonist
+142 Sommerfeld, Dorothea                  51 1814 1816 T81 600 5388611 nee?, wife of Johann, Warsaw colonist
+142 Sommerfeld, Johann        Johann      17 1814 1816 T81 600 5388611 Warsaw colonist
+142 Sommerfeld, Stephan       Johann      14 1814 1816 T81 600 5388611 Warsaw colonist
+143 Martin, Joseph                        42 1814 1816 T81 600 5388611 Warsaw colonist
+143 Martin, Katharina                     41 1814 1816 T81 600 5388611 nee?, wife of Joseph, Warsaw colonist
+143 Martin, Michael           Joseph      17 1814 1816 T81 600 5388611 Warsaw colonist
+143 Martin, Elisabeth         Joseph      15 1814 1816 T81 600 5388611 Warsaw colonist
+143 Martin, Johann            Joseph      13 1814 1816 T81 600 5388611 Warsaw colonist
+143 Martin, Peter             Joseph      11 1814 1816 T81 600 5388611 Warsaw colonist
+143 Martin, Christoph         Joseph       8 1814 1816 T81 600 5388611 Warsaw colonist
+143 Martin, Paul              Joseph       6 1814 1816 T81 600 5388611 Warsaw colonist
+143 Martin, Andreas           Joseph       4 1814 1816 T81 600 5388611 Warsaw colonist
+144 Dahlke, Jakob                         53 1814 1816 T81 600 5388611 Warsaw colonist
+144 Dahlke, Dorothea                      41 1814 1816 T81 600 5388611 nee?, wife of Jakob, Warsaw colonist
+144 Dahlke, Katharina         Jakob       20 1814 1816 T81 600 5388611 Warsaw colonist
+144 Dahlke, Elisabetha        Jakob       18 1814 1816 T81 600 5388611 Warsaw colonist
+144 Dahlke, Rosina            Jakob       17 1814 1816 T81 600 5388611 Warsaw colonist
+144 Dahlke, Johann            Jakob       16 1814 1816 T81 600 5388611 Warsaw colonist
+144 Dahlke, Maria             Jakob       11 1814 1816 T81 600 5388611 Warsaw colonist
+144 Dahlke, Christina         Jakob        7 1814 1816 T81 600 5388611 Warsaw colonist
+145 Met, Gottfried                        51 1814 1816 T81 600 5388612 Het?, Warsaw colonist
+145 Met, Dorothea                         49 1814 1816 T81 600 5388612 nee?, wife of Gottfried, Warsaw colonist
+145 Met, Susanna              Gottfried      1814 1816 T81 600 5388612 died in 1815, Warsaw colonist
+145 Met, Michael              Gottfried      1814 1816 T81 600 5388612 died in 1815, Warsaw colonist
+145 Met, Andreas              Gottfried   12 1814 1816 T81 600 5388612 Warsaw colonist
+145 Met, Jakob                Gottfried    6 1814 1816 T81 600 5388612 Warsaw colonist
+146 Hagel, Michael                        35 1814 1816 T81 600 5388612 Gagel?, Warsaw colonist
+146 Hagel, Rosina                         36 1814 1816 T81 600 5388612 nee?, wife of Michael, Warsaw colonist
+146 Hagel, Michael            Michael      6 1814 1816 T81 600 5388612 Warsaw colonist
+146 Hagel, Eva                Michael      5 1814 1816 T81 600 5388612 Warsaw colonist
+146 Hagel, Adam               Michael        1814 1816 T81 600 5388612 died 1814, Warsaw colonist
+146 Lukas, Johann                         15 1814 1816 T81 600 5388612 stepson to Michael Hagel, Warsaw colonist
+146 Lukas, Gottfried                      12 1814 1816 T81 600 5388612 stepson to Michael Hagel, Warsaw colonist
+146 Lukas, Jakob                           9 1814 1816 T81 600 5388612 stepson to Michael Hagel, Warsaw colonist
+147 Fast, Ernst                              1814 1816 T81 600 5388612 died 1816, Warsaw colonist
+147 Fast, Katharina                          1814 1816 T81 600 5388612 nee?, wife of Ernst, died 1815, Warsaw colonist
+147 Fast, Ernst               Ernst          1814 1816 T81 600 5388612 died 1816, Warsaw colonist
+147 Fast, Katharina           Ernst       19 1814 1816 T81 600 5388612 Warsaw colonist
+147 Fast, Johann              Ernst       12 1814 1816 T81 600 5388612 Warsaw colonist
+148 Henke, Christoph                      28 1814 1816 T81 600 5388612 Warsaw colonist
+148 Henke, Anna                           27 1814 1816 T81 600 5388612 nee?, wife of Christoph, Warsaw colonist
+148 Henke, Michael            Christoph    6 1814 1816 T81 600 5388612 Warsaw colonist
+148 Henke, Christoph          Christoph    2 1814 1816 T81 600 5388612 Warsaw colonist
+149 Schweigert, Martin                    28 1814 1816 T81 600 5388612 Warsaw colonist
+149 Schweigert, Friederika                24 1814 1816 T81 600 5388612 nee?, wife of Martin, Warsaw colonist
+150 Baier, Michael                        36 1814 1816 T81 600 5388612 Warsaw colonist
+150 Baier, Anna                           29 1814 1816 T81 600 5388612 nee?, wife of Michael, Warsaw colonist
+150 Baier, Johann             Michael     10 1814 1816 T81 600 5388612 Warsaw colonist
+150 Baier, Gottfried          Michael      7 1814 1816 T81 600 5388612 Warsaw colonist
+150 Baier, Karolina           Michael      5 1814 1816 T81 600 5388612 Warsaw colonist
+150 Baier, Jakob              Michael        1814 1816 T81 600 5388612 died 1814, Warsaw colonist
+151 Arndt, Christoph                      47 1814 1816 T81 600 5388612 Warsaw colonist
+151 Arndt, Anna                           46 1814 1816 T81 600 5388612 nee?, wife of Christoph, Warsaw colonist
+151 Arndt, Samuel             Christoph   22 1814 1816 T81 600 5388612 Warsaw colonist
+151 Arndt, Marianna           Christoph      1814 1816 T81 600 5388612 died 1816, Warsaw colonist
+151 Arndt, Peter              Christoph      1814 1816 T81 600 5388612 died 1814, Warsaw colonist

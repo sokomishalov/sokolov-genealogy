@@ -1,0 +1,1570 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <title>ОБД Мемориал</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="icon" href="images/favicon.png"  type="image/png"/>
+    <link rel="stylesheet" type="text/css" href="css/header-page.css?v=2017" >
+    <link rel="stylesheet" type="text/css" href="css/common.css?v=2017_04" >
+    <link rel="stylesheet" type="text/css" href="css/search-page.css?v=2017" >
+    <link rel="stylesheet" type="text/css" href="css/bootstrap-grid.css">
+    <link rel="stylesheet" type="text/css" href="css/jquery-ui.css">
+    <link rel="stylesheet" type="text/css" href="css/jquery.selectBox.css">
+
+    <script charset="utf-8" src="/67ade9e9af5a5f590385c22b.js?1777298211534"></script>
+<script type="text/javascript" src="js/jquery-2.2.4.min.js"></script>
+    <script type="text/javascript" src="js/jquery-ui.js"></script>
+    <script type="text/javascript" src="js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="js/jquery.validate.min.js"></script>
+
+    <script type="text/javascript" src="js/common.js?v=2017"></script>
+    <script type="text/javascript" src="js/jquery.selectBox.js"></script>
+    <script type="text/javascript" src="js/data-save.js?v=2017"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-1541255-1"></script>
+    <script src="js/statistic.js"></script>
+
+    <meta name="robots" content="noindex"/>
+</head>
+<body class="show-header-logo show-header-to-main"><noscript><img src="/c0c84a03315ede2d283035b0e498d348.gif" width="0" height="0" alt="" /></noscript>
+
+<script type="text/javascript">
+    /*<![CDATA[*/
+
+    showFullInfo = function(id) {
+        var url = "info.htm?id=" + id;
+        $(window.location).attr('href', url);
+    };
+
+
+
+    $(function(){
+
+        var sph= $.urlParam('sphinx');
+        if (sph!=''){
+            $("#stat").show();
+        }
+        else
+            $("#stat").hide();
+
+
+
+        // Сохраняем результаты поиска для куждой страницы (возврат на нужную страницу)
+        var url_req = $(window.location).attr('href');
+        var queryString = url_req ? url_req.split('?')[1] : window.location.search.slice(1);
+        queryString = decodeURI(queryString);
+        saveRequest(queryString);
+
+        // клонируем пагинацию и размещаем внизу
+        var paginator = $("#topPaginator").clone();
+        paginator.removeAttr("id");
+        $("#bottomPaginatorPointer").after(paginator);
+
+        var memoryBookOff = "\u0418\u0441\u043A\u043B\u044E\u0447\u0438\u0442\u044C \u041A\u043D\u0438\u0433\u0438 \u041F\u0430\u043C\u044F\u0442\u0438";
+        memoryBookOff = memoryBookOff.replace(/'/g, "");
+        var memoryBookOn= "\u0412\u043A\u043B\u044E\u0447\u0438\u0442\u044C \u041A\u043D\u0438\u0433\u0438 \u041F\u0430\u043C\u044F\u0442\u0438";
+        memoryBookOn = memoryBookOn.replace(/'/g, "");
+        //var memoryBookOff = ""\u0418\u0441\u043A\u043B\u044E\u0447\u0438\u0442\u044C \u041A\u043D\u0438\u0433\u0438 \u041F\u0430\u043C\u044F\u0442\u0438"".replace(/'/g, ""); // Исключить Книги Памяти
+        //var memoryBookOn = ""\u0412\u043A\u043B\u044E\u0447\u0438\u0442\u044C \u041A\u043D\u0438\u0433\u0438 \u041F\u0430\u043C\u044F\u0442\u0438"".replace(/'/g, ""); // Включить Книги Памяти
+
+        if (!$.urlParam('entities')) {
+            $('#add_book').show();
+            if ($.urlParam('book')=='1')
+                $('#add_book')
+                        .removeClass("memoryBookOff")
+                        .addClass("memoryBookOn")
+                        .text(memoryBookOff);
+            else
+                $('#add_book')
+                        .removeClass("memoryBookOn")
+                        .addClass("memoryBookOff")
+                        .text(memoryBookOn);
+
+        }
+        else
+            $('#add_book').hide();
+
+        var countPages = 8;
+
+        // текущий номер страницы
+        var curpage = parseInt($.urlParam('p'), 10);
+        if (curpage==0 || isNaN(curpage)) {
+            curpage=1;
+        }
+        var pages_select = $(".pages_select");
+        pages_select.each(function(){
+            $(this).val(curpage);
+        })
+
+        // количество результатов на страницу
+        var countPerPage = parseInt($.urlParam('ps'), 10);
+        if (countPerPage==0 || isNaN(countPerPage)) {
+            countPerPage=20;
+        }
+        var cnt_res= $(".cnt_res");
+        cnt_res.each(function(){
+            $(this).val(countPerPage);
+        })
+
+        $(document)
+                .on("click", ".search-navigation_to-start", function(e){
+                    toPage(1);
+                })
+                .on("click", ".search-navigation_to-prev", function(e){
+                    if (curpage > 1) {
+                        toPage(curpage - 1);
+                    }
+                })
+                .on("click", ".search-navigation_to-next", function(e){
+                    if (curpage < countPages) {
+                        toPage(curpage + 1);
+                    }
+                })
+                .on("click", ".search-navigation_to-end", function(e){
+                    toPage(countPages);
+                })
+            .on("click", "#add_book", function(e){
+                var cur_href = window.location.href;
+                var parambook = $.urlParam('book');
+                if (parambook=='')
+                    cur_href = cur_href + '&book=0';
+                if (parambook=='1')
+                    cur_href = cur_href.replace('book=1', 'book=0');
+                else
+                    cur_href = cur_href.replace('book=0', 'book=1');
+                $(window.location).attr('href',  cur_href);
+            })
+
+            .on("keydown", ".pages_select", function(e){
+                if (e.keyCode == 13) {
+                    var nextpage = $(this).val();
+                    if (nextpage > 0 && nextpage <= countPages) {
+                        toPage(nextpage);
+                    }
+                }
+            })
+            .on("change", ".cnt_res", function(e){
+                var newCountPerPage = $(this).val();
+                var cur_href = window.location.href.replaceAll('#', '');
+                var next_href;
+                if (cur_href.indexOf('&ps=') > 0) {
+                    next_href = cur_href.replace('&ps=' + countPerPage, '&ps=' + newCountPerPage);
+                } else {
+                    next_href = cur_href + "&ps=" + newCountPerPage;
+                }
+
+                if (next_href.indexOf('&p=') > 0) {
+                    var curpage = parseInt($.urlParam('p'), 10);
+                    next_href = next_href.replace('&p=' + curpage, '&p=1');
+                }
+
+                window.location.href = next_href;
+            })
+            .on("keyup",  ".numInput", function(e){
+                var input = jQuery(this);
+                input.val(input.val().replace(/[^-0-9.]/gi, ""));
+            })
+            .on("click", ".search-result", function(e){
+                var id = $(this).attr("id"),
+                    target = $(e.target);
+
+                switch (true) {
+                    case target.is(".searchResultSummary") : {
+                        // переход к сводной информации
+                        id_common = $( target ).attr( "id_common" );
+                        window.location.href = "info.htm?id="+id_common;
+                        //alert("переход к сводной информации");
+                        break;
+                    }
+                    case target.is(".searchResultSee") : {
+                        // просмотр документа
+                        id_preview = ($( target ).attr( "id_preview" ));
+                        id_image = ($( target ).attr( "id_image" ));
+                        window.location.href = "https://cdnc.pamyat-naroda.ru/memorial/"+id_image;
+                        //window.location.href = "fullimage?id="+id_preview;
+                        break;
+                    }
+                    case target.is(".searchResultDownload") : {
+                        // сохранение документа
+                        id_download = ($( target ).attr( "id_download" ));
+                        window.location.href = "fullimage?id="+id_download+"&attachment=true";
+                        //alert("сохранение документа: /fullimage?id="+id_download+"&attachment=true");
+                        break;
+                    }
+                    default : {
+                        // открытие карточки
+                        showFullInfo(id);
+                    }
+                }
+            })
+
+
+        function toPage(num) {
+            var cur_href = window.location.href.replaceAll('#', '');
+            if (cur_href.indexOf('&p=') < 0) {
+                cur_href = cur_href + '&p=1';
+            }
+            var curpage = parseInt($.urlParam('p'), 10);
+            if (curpage==0 || isNaN(curpage)) {
+                curpage=1;
+            }
+            var next_href = cur_href.replace('&p=' + curpage, '&p=' + num);
+            window.location.href = next_href;
+        }
+
+        $("select").selectBox();
+
+        // ровняем ширину элементов с порядковыми номерами
+        var posElems = $(".search-result__pos");
+        var w = 0;
+        var _w;
+        posElems.each(function(){
+            _w = $(this).width();
+            if (_w > w) {
+                w = _w;
+            }
+        })
+        posElems.each(function(){
+            $(this).width(w);
+        })
+
+        // задаем ширину элементов с текстом
+        var posAndIconElems = $(".search-result__col-pos-and-icon");
+        w = 0;
+        posAndIconElems.each(function(){
+            _w = $(this).width();
+            if (_w > w) {
+                w = _w;
+            }
+        })
+        $(".search-result__col-text-and-icons").each(function(){
+            $(this).css({
+                width :"calc(100% - "+ w + "px)"
+            })
+        })
+
+
+        // сохраняем идентификаторы результатов
+        var totalCount = 154;
+
+        saveSearchResuls($("#ids").html().split(','), totalCount);
+
+        var visitedMap = VisitedResults.load();
+
+        var ids = $("#ids").html().split(',');
+
+        $.each(ids, function(i, id){
+            if (visitedMap[id]) {
+                $("#" + id).addClass("visited-result");
+            }
+        })
+
+    });
+    /*]]>*/
+</script>
+
+<div class="container">
+    <div>
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" defer >
+        (function (d, w, c) {
+            (w[c] = w[c] || []).push(function() {
+                try {
+                    w.yaCounter47526808 = new Ya.Metrika2({
+                        id:47526808,
+                        clickmap:true,
+                        trackLinks:true,
+                        accurateTrackBounce:true,
+                        webvisor:true
+                    });
+                } catch(e) { }
+            });
+
+            var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+            s.type = "text/javascript";
+            s.async = true;
+            s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+            if (w.opera == "[object Opera]") {
+                d.addEventListener("DOMContentLoaded", f, false);
+            } else { f(); }
+        })(document, window, "yandex_metrika_callbacks2");
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/47526808" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+
+    <div class="header__button-outer">
+        <div class="page__stripe"></div>
+
+        <div class="header__logo">
+            <a href="/memorial/">
+                <img src="images/logo-big.png"/>
+            </a>
+        </div>
+
+        <div class="header__button">
+            <img src="images/menu.png"/>
+        </div>
+    </div>
+
+    <div id="pageHeaderMenu" class="page-header__menu">
+        <div class="page__stripe">
+        </div>
+
+        <div class="header__logo">
+            <a href="/">
+                <img src="images/logo-big.png"/>
+            </a>
+        </div>
+
+        <div class="header__to-main">
+            <a href="/" >На главную</a>
+        </div>
+
+        <div class="header__help">
+            <a href="help_ru.htm">
+                <span >Помощь</span>
+            </a>
+        </div>
+        <div class="header__bookmark">
+            <a id="mark" href="javascript:void(0)">
+                <span>Избранное</span>
+            </a>
+        </div>
+
+        <div class="header__lang">
+
+            <a id="lang_link" class="page__lang-link page__active-lang-link" lang="ru" href="javascript:void(0)">
+                RU
+            </a>
+            <!--<a id="lang_en" class="page__lang-link" lang="en" href="javascript:void(0)">-->
+                <!--EN-->
+            <!--</a>-->
+        </div>
+
+        <div class="header__login">
+            <a id="login" href="javascript:void(0)" data-memorial="Nomil">
+                <img src="./images/personal.png"/>
+                <span class="login-text">Войти</span>
+            </a>
+        </div>
+        
+
+    </div>
+</div>
+    <div style="display: none;" id="ids" ></div>
+
+    <div class="row">
+        <div class="search-header_left">
+            <a href="advanced-search.htm" class="noUnderline">Расширенный поиск</a>
+            / <span>Результаты поиска</span>
+        </div>
+        <div class="search-header_right">
+            <a class="addbook" href="#" id="add_book">Включить Книги Памяти</a>
+        </div>
+    </div>
+
+    <div>
+        <!-- top paginator -->
+        <div id="topPaginator" class="row">
+            <div class="search-navigation">
+                <div class="search-navigation_left-col search-navigation_text">
+                <span>Записи с 1 по 20 из 154</span>
+                </div>
+
+                <div class="search-navigation_right-col">
+                <span class="search-navigation_text2">
+                    <span>Результатов на странице</span>:
+                </span>
+                <span class="search-navigation_count-per-page">
+                    <select class="cnt_res">
+                        <option value="10">10</option>
+                        <option value="20">20</option>
+                        <option value="50">50</option>
+                        <option value="100">100</option>
+                    </select>
+                </span>
+                </div>
+
+                <div class="search-navigation_center-col">
+                    <span class="search-navigation_btn search-navigation_to-start"></span>
+                    <span class="search-navigation_btn search-navigation_to-prev"></span>
+                    <span class="search-navigation_text2">Страницы</span>
+                <span class="search-navigation_pages-select">
+                    <input class="pages_select flatInput numInput" />
+                </span>
+                    <span class="search-navigation_text2">из 8</span>
+                    <span class="search-navigation_btn search-navigation_to-next"></span>
+                    <span class="search-navigation_btn search-navigation_to-end"></span>
+                </div>
+
+            </div>
+        </div>
+
+        <div id="stat" style="display: none;">
+            <span>0.523</span>
+
+        </div>
+
+        <!-- results -->
+        <div id="2042726"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =2042726;
+                  t= t+','+2042726;
+                $("#ids").html(t);
+                //addData(2042726);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">1</span>
+                <img src="images/icons/02-search-donesenie.png" title="Донесение о потерях" alt="Донесение о потерях">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Елескин Василий Тарасович</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1900</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>07.07.1942</span>
+                    </div><div class="search-result__col-place">
+                        <span>Горьковская обл., Выксунский р-н, дер. Указка</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="502042726">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="2042590" id_image="VS/001/058-0818883-1463/00000187.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="2126962"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =2126962;
+                  t= t+','+2126962;
+                $("#ids").html(t);
+                //addData(2126962);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">2</span>
+                <img src="images/icons/02-search-donesenie.png" title="Донесение о потерях" alt="Донесение о потерях">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Елескин Николай Ильич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1908</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>09.06.1943</span>
+                    </div><div class="search-result__col-place">
+                        <span>Пензенская обл., Барановский р-н, с. Старое Пичеур</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="502126962">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="2126932" id_image="VS/001/058-0018001-0236/00000368.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="2202863"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =2202863;
+                  t= t+','+2202863;
+                $("#ids").html(t);
+                //addData(2202863);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">3</span>
+                <img src="images/icons/02-search-donesenie.png" title="Донесение о потерях" alt="Донесение о потерях">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Елескин Петр Егорович</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1920</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>29.06.1942</span>
+                    </div><div class="search-result__col-place">
+                        <span>Ярославская обл., Беловский р-н, дер. Заречье</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="502202863">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="2202071" id_image="VS/001/058-0018001-0324/00000084.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="2242421"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =2242421;
+                  t= t+','+2242421;
+                $("#ids").html(t);
+                //addData(2242421);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">4</span>
+                <img src="images/icons/02-search-donesenie.png" title="Донесение о потерях" alt="Донесение о потерях">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Елескин Алексей Федорович</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1899</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>24.08.1943</span>
+                    </div><div class="search-result__col-place">
+                        <span>Ульяновская обл.</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="502242421">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="2241995" id_image="VS/001/058-0018001-0630/00000383.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="2687741"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =2687741;
+                  t= t+','+2687741;
+                $("#ids").html(t);
+                //addData(2687741);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">5</span>
+                <img src="images/icons/02-search-donesenie.png" title="Донесение о потерях" alt="Донесение о потерях">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Елескин Прокофий Григорьевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1912</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>22.07.1943</span>
+                    </div><div class="search-result__col-place">
+                        <span>Казахская ССР, Алма-Атинская обл., Энбекши-Казахский р-н, с. Болтобай</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="502687741">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="2687711" id_image="VS/001/058-0018001-0547/00000283.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="2827759"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =2827759;
+                  t= t+','+2827759;
+                $("#ids").html(t);
+                //addData(2827759);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">6</span>
+                <img src="images/icons/02-search-donesenie.png" title="Донесение о потерях" alt="Донесение о потерях">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Елескин Петр Степанович</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1905</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>31.03.1943</span>
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="502827759">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="2827575" id_image="VS/001/058-0018001-0589/00000185.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="2895791"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =2895791;
+                  t= t+','+2895791;
+                $("#ids").html(t);
+                //addData(2895791);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">7</span>
+                <img src="images/icons/02-search-donesenie.png" title="Донесение о потерях" alt="Донесение о потерях">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Елескин Алексей Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1922</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>05.06.1943</span>
+                    </div><div class="search-result__col-place">
+                        <span>Пензенская обл., Каменский р-н, дер. Кургановка</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="502895791">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="2895757" id_image="VS/001/058-0018001-0859/00000105.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="3395562"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =3395562;
+                  t= t+','+3395562;
+                $("#ids").html(t);
+                //addData(3395562);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">8</span>
+                <img src="images/icons/02-search-donesenie.png" title="Донесение о потерях" alt="Донесение о потерях">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Елескин Иван Александрович</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1918</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>10.03.1943</span>
+                    </div><div class="search-result__col-place">
+                        <span>Саратовская обл., Балаковский р-н, с. Н.-Успенка</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="503395562">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="3395156" id_image="VS/001/058-0018001-0897/00000036.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="3432726"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =3432726;
+                  t= t+','+3432726;
+                $("#ids").html(t);
+                //addData(3432726);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">9</span>
+                <img src="images/icons/02-search-donesenie.png" title="Донесение о потерях" alt="Донесение о потерях">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Елескин Леонид Федорович</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1918</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>06.10.1943</span>
+                    </div><div class="search-result__col-place">
+                        <span>Ульяновская обл., Вешкаймский р-н, с. Дурасово-Степн.</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="503432726">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="3432385" id_image="VS/001/058-0018001-1059/00000287.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="3816605"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =3816605;
+                  t= t+','+3816605;
+                $("#ids").html(t);
+                //addData(3816605);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">10</span>
+                <img src="images/icons/02-search-donesenie.png" title="Донесение о потерях" alt="Донесение о потерях">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Елескин Иван Леонтьевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1907</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>01.05.1944</span>
+                    </div><div class="search-result__col-place">
+                        <span>Ульяновская обл., Богдашкинский р-н, с. Сред. Чемирчин</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="503816605">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="3816520" id_image="VS/002/058-0018002-0354/00000349.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="4118293"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =4118293;
+                  t= t+','+4118293;
+                $("#ids").html(t);
+                //addData(4118293);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">11</span>
+                <img src="images/icons/02-search-donesenie.png" title="Донесение о потерях" alt="Донесение о потерях">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Елескин Василий Григорьевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1913</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>18.02.1943</span>
+                    </div><div class="search-result__col-place">
+                        <span>Новосибирская обл.</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="504118293">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="4118260" id_image="VS/002/058-0018001-1064/00000017.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="4218533"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =4218533;
+                  t= t+','+4218533;
+                $("#ids").html(t);
+                //addData(4218533);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">12</span>
+                <img src="images/icons/02-search-donesenie.png" title="Донесение о потерях" alt="Донесение о потерях">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Елескин Дмитрий Павлович</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1909</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>03.11.1944</span>
+                    </div><div class="search-result__col-place">
+                        <span>Кемеровская обл., г. Белово, шахта Пионерско-Котовского 14</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="504218533">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="4218507" id_image="VS/002/058-0018003-0046/00000202.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="4540901"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =4540901;
+                  t= t+','+4540901;
+                $("#ids").html(t);
+                //addData(4540901);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">13</span>
+                <img src="images/icons/02-search-donesenie.png" title="Донесение о потерях" alt="Донесение о потерях">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Елескин Василий Григорьевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1924</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>20.03.1945</span>
+                    </div><div class="search-result__col-place">
+                        <span>Кемеровская обл., г. Гурьевск</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="504540901">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="4540845" id_image="VS/002/058-0018003-0761/00000034.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="5989899"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =5989899;
+                  t= t+','+5989899;
+                $("#ids").html(t);
+                //addData(5989899);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">14</span>
+                <img src="images/icons/04-search-doc-poteri.png" title="Донесение, уточнящее потери" alt="Донесение, уточнящее потери">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Елескин Иван Петрович</span>
+                    </div><div class="search-result__col-date-birth">
+                        
+                    </div><div class="search-result__col-date-out">
+                        
+                    </div><div class="search-result__col-place">
+                        <span>Ленинский р-н, г. Баку, ул. Артема, 50-55</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="505989899">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="5989898" id_image="TV/001/058-0018001-0339/00000054.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="6966015"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =6966015;
+                  t= t+','+6966015;
+                $("#ids").html(t);
+                //addData(6966015);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">15</span>
+                <img src="images/icons/02-search-donesenie.png" title="Донесение о потерях" alt="Донесение о потерях">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Елескин Петр Яковлевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1925</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>23.06.1944</span>
+                    </div><div class="search-result__col-place">
+                        <span>Ульяновская обл., Барановский р-н</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="506966015">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="6966013" id_image="VS/003/058-0018002-0528/00000214.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="8263375"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =8263375;
+                  t= t+','+8263375;
+                $("#ids").html(t);
+                //addData(8263375);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">16</span>
+                <img src="images/icons/04-search-doc-poteri.png" title="Донесение, уточнящее потери" alt="Донесение, уточнящее потери">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Елескин Дмитрий Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1913</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>__.04.1943</span>
+                    </div><div class="search-result__col-place">
+                        <span>Кемеровская обл., Беловский р-н, с. Каракан</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="508263375">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="8263374" id_image="TV/004/058-0977520-3289/00000230.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="8676257"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =8676257;
+                  t= t+','+8676257;
+                $("#ids").html(t);
+                //addData(8676257);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">17</span>
+                <img src="images/icons/02-search-donesenie.png" title="Донесение о потерях" alt="Донесение о потерях">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Елескин Иван Максимович</span>
+                    </div><div class="search-result__col-date-birth">
+                        
+                    </div><div class="search-result__col-date-out">
+                        <span>28.09.1942</span>
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="508676257">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="56038417" id_image="Z/004/058-0018001-1119/00000167.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="9237581"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =9237581;
+                  t= t+','+9237581;
+                $("#ids").html(t);
+                //addData(9237581);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">18</span>
+                <img src="images/icons/07-search-iscluch-list.png" title="Приказ об исключении из списков" alt="Приказ об исключении из списков">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Елескин Василий Григорьевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1913</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>18.02.1943</span>
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="509237581">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="9237576" id_image="TV/005/056-0012220-0104/00000342.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="9301697"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =9301697;
+                  t= t+','+9301697;
+                $("#ids").html(t);
+                //addData(9301697);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">19</span>
+                <img src="images/icons/07-search-iscluch-list.png" title="Приказ об исключении из списков" alt="Приказ об исключении из списков">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Елескин Петр Егорович</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1920</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>не позднее 30.11.1942</span>
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="509301697">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="9301694" id_image="TV/005/056-0012220-0072/00000446.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="9328106"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =9328106;
+                  t= t+','+9328106;
+                $("#ids").html(t);
+                //addData(9328106);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">20</span>
+                <img src="images/icons/07-search-iscluch-list.png" title="Приказ об исключении из списков" alt="Приказ об исключении из списков">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Елескин Кузьма Архипович</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1904</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>01.11.1942</span>
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="509328106">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="9328105" id_image="TV/005/056-0012220-0079/00000451.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+
+        <!-- bottom paginator -->
+        <div id="bottomPaginatorPointer" class="hide"></div>
+    </div>
+
+    
+
+    <div>
+
+     <div class="row">
+         <div class="col-sm-12 col-md-12 ">
+             <div class="page__footer-links-container">
+                 <div class="page__stripe">
+                 </div>
+
+                 <div class="row">
+                     <div class="col-sm-12 col-md-4 col-lg-4 page__footer-logo-outer">
+                         <a href="/memorial/">
+                             <img src="images/logo-grayscale.png"/>
+                         </a>
+                     </div>
+                     <div class="col-sm-12 col-md-8 col-lg-8">
+                         <div class="row">
+                             <div class="col-sm-12 col-md-3 col-lg-3 page__footer-links">
+                                 <a href="about.htm">О проекте</a>
+                                 <a href="comments.htm">Отзывы</a>
+                             </div>
+                             <div class="col-sm-12 col-md-4 col-lg-4 page__footer-links">
+                                 <a href="feedback.htm">Обратная связь</a>
+                                 <a href="help_ru.htm">Помощь</a>
+                             </div>
+                             <div class="col-sm-12 col-md-5 col-lg-5 page__footer-links">
+                                 <a href="sources.htm">Источники информации</a>
+                                 <a href="legal-info.htm">Правовая информация</a>
+                             </div>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+
+         </div>
+     </div>
+
+     <div class="row">
+         <div class="col-sm-12 col-md-12 col-lg-12 alignCenter">© Министерство обороны Российской Федерации</div>
+     </div>
+
+
+     <div class="row">
+         <div class="col-sm-10 col-md-12 col-lg-9 page__footer-links-container">
+             <div class="bottom-banners">
+
+                 <div class="banner">
+                     <a href="http://www.kremlin.ru">
+                         <img title="Сайт Президента Российской Федерации" alt=""
+                              src="images/banners/new/prezident.png"/>
+                     </a>
+                 </div>
+                 <div class="banner">
+                     <a href="http://www.government.ru">
+                         <img title="Сайт Правительства Российской Федерации" alt=""
+                              src="images/banners/new/government.png"/>
+                     </a>
+                 </div>
+                 <div class="banner">
+                     <a href="http://www.mil.ru">
+                         <img title="Сайт Министерства Обороны Российской Федерации" alt=""
+                              src="images/banners/new/mo-rf.png"/>
+                     </a>
+                 </div>
+                 <div class="banner">
+                     <a href="http://archive.mil.ru/archival_service/central.htm">
+                         <img title="Центральный архив Министерства обороны" alt="" src="images/banners/new/camo.png"/>
+                     </a>
+                 </div>
+
+                 <div class="banner">
+                     <a href="http://www.podvignaroda.ru/?utm_source=memorial_ft">
+                         <img title="Сайт Подвиг Народа" alt="" src="images/banners/new/podvig.png"/>
+                     </a>
+                 </div>
+                 <div class="banner">
+                     <a href="http://pobeda.elar.ru/?utm_source=memorial_ft">
+                         <img title="Календарь Победы" alt="" src="images/banners/new/pobeda.png"/>
+                     </a>
+                 </div>                
+                 <div class="banner">
+                             <a href="http://gwar.mil.ru/?utm_source=memorial_ft">
+                                 <img title="Памяти героев Великой Войны 1914-1918" alt="" src="images/banners/new/hiroes.png" />
+                             </a>
+                         </div>
+                 
+                 <div class="banner">
+                     <a href="https://pamyat-naroda.ru/?utm_source=memorial_ft">
+                         <img title="Сайт Память Народа" alt="" src="images/banners/new/pn.png"/>
+                     </a>
+                 </div>
+
+             </div>
+         </div>
+     </div>
+
+     <div class="hide">
+         <div id="testDialog">
+             <div>Header</div>
+         </div>
+
+         <div id="authOuterMemorial">
+             <span>Для авторизации перейдите на </span> <a href="https://obd-memorial.ru">https://obd-memorial.ru</a>
+         </div>
+         <div id="authOuter">
+             <div id="authHeaderLinksOuter" class="row auth__links-header">
+                 <div class="col-sm-12">
+                     <span id="loginLink" class="auth__link">Войдите</span>
+                     <span>или</span>
+                     <span id="registerLink" class="auth__link">Зарегистрируйтесь</span>
+                 </div>
+             </div>
+             <div id="authHeaderProfileOuter" class="row auth__links-header hideForce">
+                 <div class="col-sm-12">
+                     <span>Профиль пользователя</span>
+                 </div>
+             </div>
+
+             <div class="dialog__for-login">
+                 <form id="loginForm">
+                     <div class="row ui-dialog__row">
+                             <div class="col-sm-12 col-md-4 dialog__name-outer">
+                                 <span>Логин (или e-mail)</span><span class="red">*</span>
+                              </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="loginUsername" name="loginUsername" type='text'/>
+                         </div>
+                     </div>
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Пароль</span><span class="red">*</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="loginPassword" name="loginPassword" type='password'/>
+                         </div>
+                    </div>
+                 </form>
+             </div>
+
+             <div class="dialog__for-register">
+                 <form id="registerForm">
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Логин</span><span class="red">*</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="reg_username" name="reg_username" type='text'/>
+                         </div>
+                     </div>
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Email</span><span class="red">*</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="reg_email" name="reg_email" type='text'/>
+                         </div>
+                     </div>
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Пароль</span><span class="red">*</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="reg_password" type="password" name="reg_password"/>
+                         </div>
+                     </div>
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Подтвердите пароль</span><span class="red">*</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="reg_repassword" type="password" name="reg_repassword"/>
+                         </div>
+                     </div>
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Фамилия</span><span class="red">*</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="reg_family" type='text' name="reg_family"/>
+                         </div>
+                     </div>
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Имя</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="reg_name" type='text'/>
+                         </div>
+                     </div>
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Отчество</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="reg_middlename" type='text'/>
+                         </div>
+                     </div>
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Организация</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="reg_organization" type='text'/>
+                         </div>
+                     </div>
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Должность</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="reg_post" type='text'/>
+                         </div>
+                     </div>
+                 </form>
+                 <a id="idmycomment" href="mycomments.htm">Доп. информация, добавленная мной</a>
+             </div>
+         </div>
+
+
+         <div id="authFinishedOuter">
+             <div class="row">
+                 <div class="col-sm-12 auth__finished-header">Регистрация завершена</div>
+             </div>
+             <div class="row">
+                 <div class="col-sm-12 auth__finished-content">На указанный Вами e-mail выслано письмо с указанием действия, необходимого для подтверждения регистрации. После подтверждения регистрации Вы сможете вводить дополнительную информацию.</div>
+             </div>
+         </div>
+
+
+         <div id="restorePasswordOuter">
+             <div class="row">
+                 <div class="col-sm-12 restore__header">Восстановление пароля</div>
+             </div>
+             <div class="row ui-dialog__row restore__message">Для получения нового пароля введите Email, который Вы указывали при регистрации. Вы получите ссылку на смену пароля на Ваш Email.</div>
+             <div class="row ui-dialog__row">
+                 <div class="col-sm-12 col-md-4" >E-mail</div>
+                 <div class="col-sm-12 col-md-8">
+                     <input type="text" id="restore"/>
+                 </div>
+             </div>
+         </div>
+
+
+
+         <div id="bookmark" title="Избранное" style="display: none;">
+             <div class="row">
+                 <div class="col-sm-12 auth__links-header">Избранное</div>
+             </div>
+             <div class="row bookmark__list-outer">
+                 <ul id="bookmark__list" class="bookmark__list"></ul>
+             </div>
+         </div>
+
+
+         <script>
+             Main.init({
+                 bookmarkDialog: {
+                     choose: "Выбрать", //"Выбрать",
+                     del: "Удалить", //"Удалить",
+                     cancel: "Отмена" //"Отмена"
+                 },
+                 authDialog: {
+                     login: "Войти", //"Войти",
+                     register: "Зарегистрироваться", //"Зарегистрироваться",
+                     save: "Сохранить", //"Сохранить",
+                     cancel: "Отмена", //"Отмена",
+                     forgotten: "Забыли пароль?", //"Забыли пароль?"
+                     loginUsernameMessage : "Укажите свое имя или e-mail", //"Укажите свое имя или e-mail"
+                     loginPasswordMessage : "Укажите пароль", //"Укажите пароль"
+                     reg_usernameMessage : "Укажите свое имя", //"Укажите свое имя"
+                     reg_familyMessage : "Укажите свою фамилию", //"Укажите свою фамилию"
+                     reg_emailMessage : "Укажите Ваш email", //"Укажите Ваш email"
+                     reg_password : "Укажите пароль", //"Укажите пароль"
+                     reg_repasswordMessage : "Подтвердите пароль", //"Подтвердите пароль"
+                     reg_repasswordNotEqualMessage : "Неверное подтверждение пароля" //"Неверное подтверждение пароля"
+                 },
+                 restorePasswordOuter : {
+                     restore: "Восстановить", //"Восстановить",
+                     cancel: "Отмена" //"Отмена",
+                 }
+             });
+         </script>
+
+     </div>
+
+ </div>
+</div>
+
+</body>
+</html>

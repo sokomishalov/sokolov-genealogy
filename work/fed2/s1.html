@@ -1,0 +1,2602 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <title>ОБД Мемориал</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="icon" href="images/favicon.png"  type="image/png"/>
+    <link rel="stylesheet" type="text/css" href="css/header-page.css?v=2017" >
+    <link rel="stylesheet" type="text/css" href="css/common.css?v=2017_04" >
+    <link rel="stylesheet" type="text/css" href="css/search-page.css?v=2017" >
+    <link rel="stylesheet" type="text/css" href="css/bootstrap-grid.css">
+    <link rel="stylesheet" type="text/css" href="css/jquery-ui.css">
+    <link rel="stylesheet" type="text/css" href="css/jquery.selectBox.css">
+
+    <script charset="utf-8" src="/67ade9e9af5a5f590385c22b.js?1777298211534"></script>
+<script type="text/javascript" src="js/jquery-2.2.4.min.js"></script>
+    <script type="text/javascript" src="js/jquery-ui.js"></script>
+    <script type="text/javascript" src="js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="js/jquery.validate.min.js"></script>
+
+    <script type="text/javascript" src="js/common.js?v=2017"></script>
+    <script type="text/javascript" src="js/jquery.selectBox.js"></script>
+    <script type="text/javascript" src="js/data-save.js?v=2017"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-1541255-1"></script>
+    <script src="js/statistic.js"></script>
+
+    <meta name="robots" content="noindex"/>
+</head>
+<body class="show-header-logo show-header-to-main"><noscript><img src="/c0c84a03315ede2d283035b0e498d348.gif" width="0" height="0" alt="" /></noscript>
+
+<script type="text/javascript">
+    /*<![CDATA[*/
+
+    showFullInfo = function(id) {
+        var url = "info.htm?id=" + id;
+        $(window.location).attr('href', url);
+    };
+
+
+
+    $(function(){
+
+        var sph= $.urlParam('sphinx');
+        if (sph!=''){
+            $("#stat").show();
+        }
+        else
+            $("#stat").hide();
+
+
+
+        // Сохраняем результаты поиска для куждой страницы (возврат на нужную страницу)
+        var url_req = $(window.location).attr('href');
+        var queryString = url_req ? url_req.split('?')[1] : window.location.search.slice(1);
+        queryString = decodeURI(queryString);
+        saveRequest(queryString);
+
+        // клонируем пагинацию и размещаем внизу
+        var paginator = $("#topPaginator").clone();
+        paginator.removeAttr("id");
+        $("#bottomPaginatorPointer").after(paginator);
+
+        var memoryBookOff = "\u0418\u0441\u043A\u043B\u044E\u0447\u0438\u0442\u044C \u041A\u043D\u0438\u0433\u0438 \u041F\u0430\u043C\u044F\u0442\u0438";
+        memoryBookOff = memoryBookOff.replace(/'/g, "");
+        var memoryBookOn= "\u0412\u043A\u043B\u044E\u0447\u0438\u0442\u044C \u041A\u043D\u0438\u0433\u0438 \u041F\u0430\u043C\u044F\u0442\u0438";
+        memoryBookOn = memoryBookOn.replace(/'/g, "");
+        //var memoryBookOff = ""\u0418\u0441\u043A\u043B\u044E\u0447\u0438\u0442\u044C \u041A\u043D\u0438\u0433\u0438 \u041F\u0430\u043C\u044F\u0442\u0438"".replace(/'/g, ""); // Исключить Книги Памяти
+        //var memoryBookOn = ""\u0412\u043A\u043B\u044E\u0447\u0438\u0442\u044C \u041A\u043D\u0438\u0433\u0438 \u041F\u0430\u043C\u044F\u0442\u0438"".replace(/'/g, ""); // Включить Книги Памяти
+
+        if (!$.urlParam('entities')) {
+            $('#add_book').show();
+            if ($.urlParam('book')=='1')
+                $('#add_book')
+                        .removeClass("memoryBookOff")
+                        .addClass("memoryBookOn")
+                        .text(memoryBookOff);
+            else
+                $('#add_book')
+                        .removeClass("memoryBookOn")
+                        .addClass("memoryBookOff")
+                        .text(memoryBookOn);
+
+        }
+        else
+            $('#add_book').hide();
+
+        var countPages = 1;
+
+        // текущий номер страницы
+        var curpage = parseInt($.urlParam('p'), 10);
+        if (curpage==0 || isNaN(curpage)) {
+            curpage=1;
+        }
+        var pages_select = $(".pages_select");
+        pages_select.each(function(){
+            $(this).val(curpage);
+        })
+
+        // количество результатов на страницу
+        var countPerPage = parseInt($.urlParam('ps'), 10);
+        if (countPerPage==0 || isNaN(countPerPage)) {
+            countPerPage=20;
+        }
+        var cnt_res= $(".cnt_res");
+        cnt_res.each(function(){
+            $(this).val(countPerPage);
+        })
+
+        $(document)
+                .on("click", ".search-navigation_to-start", function(e){
+                    toPage(1);
+                })
+                .on("click", ".search-navigation_to-prev", function(e){
+                    if (curpage > 1) {
+                        toPage(curpage - 1);
+                    }
+                })
+                .on("click", ".search-navigation_to-next", function(e){
+                    if (curpage < countPages) {
+                        toPage(curpage + 1);
+                    }
+                })
+                .on("click", ".search-navigation_to-end", function(e){
+                    toPage(countPages);
+                })
+            .on("click", "#add_book", function(e){
+                var cur_href = window.location.href;
+                var parambook = $.urlParam('book');
+                if (parambook=='')
+                    cur_href = cur_href + '&book=0';
+                if (parambook=='1')
+                    cur_href = cur_href.replace('book=1', 'book=0');
+                else
+                    cur_href = cur_href.replace('book=0', 'book=1');
+                $(window.location).attr('href',  cur_href);
+            })
+
+            .on("keydown", ".pages_select", function(e){
+                if (e.keyCode == 13) {
+                    var nextpage = $(this).val();
+                    if (nextpage > 0 && nextpage <= countPages) {
+                        toPage(nextpage);
+                    }
+                }
+            })
+            .on("change", ".cnt_res", function(e){
+                var newCountPerPage = $(this).val();
+                var cur_href = window.location.href.replaceAll('#', '');
+                var next_href;
+                if (cur_href.indexOf('&ps=') > 0) {
+                    next_href = cur_href.replace('&ps=' + countPerPage, '&ps=' + newCountPerPage);
+                } else {
+                    next_href = cur_href + "&ps=" + newCountPerPage;
+                }
+
+                if (next_href.indexOf('&p=') > 0) {
+                    var curpage = parseInt($.urlParam('p'), 10);
+                    next_href = next_href.replace('&p=' + curpage, '&p=1');
+                }
+
+                window.location.href = next_href;
+            })
+            .on("keyup",  ".numInput", function(e){
+                var input = jQuery(this);
+                input.val(input.val().replace(/[^-0-9.]/gi, ""));
+            })
+            .on("click", ".search-result", function(e){
+                var id = $(this).attr("id"),
+                    target = $(e.target);
+
+                switch (true) {
+                    case target.is(".searchResultSummary") : {
+                        // переход к сводной информации
+                        id_common = $( target ).attr( "id_common" );
+                        window.location.href = "info.htm?id="+id_common;
+                        //alert("переход к сводной информации");
+                        break;
+                    }
+                    case target.is(".searchResultSee") : {
+                        // просмотр документа
+                        id_preview = ($( target ).attr( "id_preview" ));
+                        id_image = ($( target ).attr( "id_image" ));
+                        window.location.href = "https://cdnc.pamyat-naroda.ru/memorial/"+id_image;
+                        //window.location.href = "fullimage?id="+id_preview;
+                        break;
+                    }
+                    case target.is(".searchResultDownload") : {
+                        // сохранение документа
+                        id_download = ($( target ).attr( "id_download" ));
+                        window.location.href = "fullimage?id="+id_download+"&attachment=true";
+                        //alert("сохранение документа: /fullimage?id="+id_download+"&attachment=true");
+                        break;
+                    }
+                    default : {
+                        // открытие карточки
+                        showFullInfo(id);
+                    }
+                }
+            })
+
+
+        function toPage(num) {
+            var cur_href = window.location.href.replaceAll('#', '');
+            if (cur_href.indexOf('&p=') < 0) {
+                cur_href = cur_href + '&p=1';
+            }
+            var curpage = parseInt($.urlParam('p'), 10);
+            if (curpage==0 || isNaN(curpage)) {
+                curpage=1;
+            }
+            var next_href = cur_href.replace('&p=' + curpage, '&p=' + num);
+            window.location.href = next_href;
+        }
+
+        $("select").selectBox();
+
+        // ровняем ширину элементов с порядковыми номерами
+        var posElems = $(".search-result__pos");
+        var w = 0;
+        var _w;
+        posElems.each(function(){
+            _w = $(this).width();
+            if (_w > w) {
+                w = _w;
+            }
+        })
+        posElems.each(function(){
+            $(this).width(w);
+        })
+
+        // задаем ширину элементов с текстом
+        var posAndIconElems = $(".search-result__col-pos-and-icon");
+        w = 0;
+        posAndIconElems.each(function(){
+            _w = $(this).width();
+            if (_w > w) {
+                w = _w;
+            }
+        })
+        $(".search-result__col-text-and-icons").each(function(){
+            $(this).css({
+                width :"calc(100% - "+ w + "px)"
+            })
+        })
+
+
+        // сохраняем идентификаторы результатов
+        var totalCount = 44;
+
+        saveSearchResuls($("#ids").html().split(','), totalCount);
+
+        var visitedMap = VisitedResults.load();
+
+        var ids = $("#ids").html().split(',');
+
+        $.each(ids, function(i, id){
+            if (visitedMap[id]) {
+                $("#" + id).addClass("visited-result");
+            }
+        })
+
+    });
+    /*]]>*/
+</script>
+
+<div class="container">
+    <div>
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" defer >
+        (function (d, w, c) {
+            (w[c] = w[c] || []).push(function() {
+                try {
+                    w.yaCounter47526808 = new Ya.Metrika2({
+                        id:47526808,
+                        clickmap:true,
+                        trackLinks:true,
+                        accurateTrackBounce:true,
+                        webvisor:true
+                    });
+                } catch(e) { }
+            });
+
+            var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+            s.type = "text/javascript";
+            s.async = true;
+            s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+            if (w.opera == "[object Opera]") {
+                d.addEventListener("DOMContentLoaded", f, false);
+            } else { f(); }
+        })(document, window, "yandex_metrika_callbacks2");
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/47526808" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+
+    <div class="header__button-outer">
+        <div class="page__stripe"></div>
+
+        <div class="header__logo">
+            <a href="/memorial/">
+                <img src="images/logo-big.png"/>
+            </a>
+        </div>
+
+        <div class="header__button">
+            <img src="images/menu.png"/>
+        </div>
+    </div>
+
+    <div id="pageHeaderMenu" class="page-header__menu">
+        <div class="page__stripe">
+        </div>
+
+        <div class="header__logo">
+            <a href="/">
+                <img src="images/logo-big.png"/>
+            </a>
+        </div>
+
+        <div class="header__to-main">
+            <a href="/" >На главную</a>
+        </div>
+
+        <div class="header__help">
+            <a href="help_ru.htm">
+                <span >Помощь</span>
+            </a>
+        </div>
+        <div class="header__bookmark">
+            <a id="mark" href="javascript:void(0)">
+                <span>Избранное</span>
+            </a>
+        </div>
+
+        <div class="header__lang">
+
+            <a id="lang_link" class="page__lang-link page__active-lang-link" lang="ru" href="javascript:void(0)">
+                RU
+            </a>
+            <!--<a id="lang_en" class="page__lang-link" lang="en" href="javascript:void(0)">-->
+                <!--EN-->
+            <!--</a>-->
+        </div>
+
+        <div class="header__login">
+            <a id="login" href="javascript:void(0)" data-memorial="Nomil">
+                <img src="./images/personal.png"/>
+                <span class="login-text">Войти</span>
+            </a>
+        </div>
+        
+
+    </div>
+</div>
+    <div style="display: none;" id="ids" ></div>
+
+    <div class="row">
+        <div class="search-header_left">
+            <a href="advanced-search.htm" class="noUnderline">Расширенный поиск</a>
+            / <span>Результаты поиска</span>
+        </div>
+        <div class="search-header_right">
+            <a class="addbook" href="#" id="add_book">Включить Книги Памяти</a>
+        </div>
+    </div>
+
+    <div>
+        <!-- top paginator -->
+        <div id="topPaginator" class="row">
+            <div class="search-navigation">
+                <div class="search-navigation_left-col search-navigation_text">
+                <span>Записи с 1 по 44 из 44</span>
+                </div>
+
+                <div class="search-navigation_right-col">
+                <span class="search-navigation_text2">
+                    <span>Результатов на странице</span>:
+                </span>
+                <span class="search-navigation_count-per-page">
+                    <select class="cnt_res">
+                        <option value="10">10</option>
+                        <option value="20">20</option>
+                        <option value="50">50</option>
+                        <option value="100">100</option>
+                    </select>
+                </span>
+                </div>
+
+                <div class="search-navigation_center-col">
+                    <span class="search-navigation_btn search-navigation_to-start"></span>
+                    <span class="search-navigation_btn search-navigation_to-prev"></span>
+                    <span class="search-navigation_text2">Страницы</span>
+                <span class="search-navigation_pages-select">
+                    <input class="pages_select flatInput numInput" />
+                </span>
+                    <span class="search-navigation_text2">из 1</span>
+                    <span class="search-navigation_btn search-navigation_to-next"></span>
+                    <span class="search-navigation_btn search-navigation_to-end"></span>
+                </div>
+
+            </div>
+        </div>
+
+        <div id="stat" style="display: none;">
+            <span>0.097</span>
+
+        </div>
+
+        <!-- results -->
+        <div id="2753766"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =2753766;
+                  t= t+','+2753766;
+                $("#ids").html(t);
+                //addData(2753766);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">1</span>
+                <img src="images/icons/02-search-donesenie.png" title="Донесение о потерях" alt="Донесение о потерях">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1902</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>22.07.1942</span>
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="502753766">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="2753534" id_image="VS/001/058-0018001-0550/00000158.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="3883227"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =3883227;
+                  t= t+','+3883227;
+                $("#ids").html(t);
+                //addData(3883227);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">2</span>
+                <img src="images/icons/02-search-donesenie.png" title="Донесение о потерях" alt="Донесение о потерях">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1895</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>20.09.1944</span>
+                    </div><div class="search-result__col-place">
+                        <span>Московская обл., ст. Заветы Ильича</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="503883227">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="3883220" id_image="VS/002/058-0018002-1033/00000118.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="8058471"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =8058471;
+                  t= t+','+8058471;
+                $("#ids").html(t);
+                //addData(8058471);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">3</span>
+                <img src="images/icons/04-search-doc-poteri.png" title="Донесение, уточнящее потери" alt="Донесение, уточнящее потери">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1908</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>__.04.1943</span>
+                    </div><div class="search-result__col-place">
+                        <span>Калининская обл., Куделевский р-н, д. Пожар</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="508058471">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="8058470" id_image="TV/004/058-0977520-3178/00000219.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="8143972"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =8143972;
+                  t= t+','+8143972;
+                $("#ids").html(t);
+                //addData(8143972);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">4</span>
+                <img src="images/icons/04-search-doc-poteri.png" title="Донесение, уточнящее потери" alt="Донесение, уточнящее потери">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1915</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>__.10.1944</span>
+                    </div><div class="search-result__col-place">
+                        <span>Псковская обл., Пожеревицкий р-н, Сырковский с/с, д. Бол. Жучково</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="508143972">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="8143971" id_image="TV/004/058-0018004-2608/00000076.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="8448916"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =8448916;
+                  t= t+','+8448916;
+                $("#ids").html(t);
+                //addData(8448916);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">5</span>
+                <img src="images/icons/04-search-doc-poteri.png" title="Донесение, уточнящее потери" alt="Донесение, уточнящее потери">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1922</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>__.07.1942</span>
+                    </div><div class="search-result__col-place">
+                        <span>Горьковская обл., Балахнинский р-н, Пречистинский с/с, д. Долганово</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="508448916">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="8448915" id_image="TV/005/058-0977521а-0824/00000440.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="51623821"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =51623821;
+                  t= t+','+51623821;
+                $("#ids").html(t);
+                //addData(51623821);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">6</span>
+                <img src="images/icons/02-search-donesenie.png" title="Донесение о потерях" alt="Донесение о потерях">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1902</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>24.07.1942</span>
+                    </div><div class="search-result__col-place">
+                        <span>Ворошиловградская обл., г. Серго, шахта Голубовка, ул. Громова, 20</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="551623821">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="51570603" id_image="Z/002/058-0818883-0865/00000311.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="53237909"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =53237909;
+                  t= t+','+53237909;
+                $("#ids").html(t);
+                //addData(53237909);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">7</span>
+                <img src="images/icons/02-search-donesenie.png" title="Донесение о потерях" alt="Донесение о потерях">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1894</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>23.02.1944</span>
+                    </div><div class="search-result__col-place">
+                        <span>Красноярский край, Курагинский р-н</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="553237909">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="53194136" id_image="Z/002/058-0018002-0171/00000091.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="54003041"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =54003041;
+                  t= t+','+54003041;
+                $("#ids").html(t);
+                //addData(54003041);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">8</span>
+                <img src="images/icons/03-search-hospital.png" title="Документы госпиталей и медсанбатов" alt="Документы госпиталей и медсанбатов">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1895</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>20.09.1944</span>
+                    </div><div class="search-result__col-place">
+                        <span>Московская обл., ст. Заветы Ильича, Дачстрой</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="554003041">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="53945593" id_image="Z/003/058-А-0083627-0641/00000028.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="56192267"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =56192267;
+                  t= t+','+56192267;
+                $("#ids").html(t);
+                //addData(56192267);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">9</span>
+                <img src="images/icons/02-search-donesenie.png" title="Донесение о потерях" alt="Донесение о потерях">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1914</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>13.01.1944</span>
+                    </div><div class="search-result__col-place">
+                        <span>Чувашская АССР, Гебрещенский р-н, с. Кламово</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="556192267">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="56192208" id_image="Z/004/058-0018002-0211/00000332.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="57606261"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =57606261;
+                  t= t+','+57606261;
+                $("#ids").html(t);
+                //addData(57606261);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">10</span>
+                <img src="images/icons/04-search-doc-poteri.png" title="Донесение, уточнящее потери" alt="Донесение, уточнящее потери">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1915</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>__.01.1942</span>
+                    </div><div class="search-result__col-place">
+                        <span>Куйбышевская обл., Шенталинский р-н, с. Салейкино</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="557606261">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="57606212" id_image="Z/005/058-0018004-0395/00000356.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="58202575"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =58202575;
+                  t= t+','+58202575;
+                $("#ids").html(t);
+                //addData(58202575);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">11</span>
+                <img src="images/icons/04-search-doc-poteri.png" title="Донесение, уточнящее потери" alt="Донесение, уточнящее потери">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1899</span>
+                    </div><div class="search-result__col-date-out">
+                        
+                    </div><div class="search-result__col-place">
+                        <span>Ленинградская обл., Соснецкий с/с, д. Кривая Берева</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="558202575">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="58202565" id_image="Z/005/058-0018004-0441/00000321.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="58492766"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =58492766;
+                  t= t+','+58492766;
+                $("#ids").html(t);
+                //addData(58492766);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">12</span>
+                <img src="images/icons/04-search-doc-poteri.png" title="Донесение, уточнящее потери" alt="Донесение, уточнящее потери">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1919</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>__.10.1941</span>
+                    </div><div class="search-result__col-place">
+                        <span>Горьковская обл., Вадский р-н, Яблонский с/с, д. Гари</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="558492766">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="58492596" id_image="Z/005/058-0018004-0537/00000269.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="59294300"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =59294300;
+                  t= t+','+59294300;
+                $("#ids").html(t);
+                //addData(59294300);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">13</span>
+                <img src="images/icons/04-search-doc-poteri.png" title="Донесение, уточнящее потери" alt="Донесение, уточнящее потери">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1905</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>__.02.1942</span>
+                    </div><div class="search-result__col-place">
+                        <span>Рязанская обл., Михайловский р-н, с. Кукуй</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="559294300">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="59294186" id_image="Z/005/058-0018004-0762/00000398.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="61048346"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =61048346;
+                  t= t+','+61048346;
+                $("#ids").html(t);
+                //addData(61048346);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">14</span>
+                <img src="images/icons/04-search-doc-poteri.png" title="Донесение, уточнящее потери" alt="Донесение, уточнящее потери">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1914</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>__.02.1944</span>
+                    </div><div class="search-result__col-place">
+                        <span>Чувашская АССР, Ибресинский р-н, с. Климово</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="561048346">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="61048234" id_image="Z/006/058-0977520-0347/00000412.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="62213501"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =62213501;
+                  t= t+','+62213501;
+                $("#ids").html(t);
+                //addData(62213501);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">15</span>
+                <img src="images/icons/04-search-doc-poteri.png" title="Донесение, уточнящее потери" alt="Донесение, уточнящее потери">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1906</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>__.09.1942</span>
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="562213501">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="62213484" id_image="Z/006/058-0977520-0466/00000280.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="62609591"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =62609591;
+                  t= t+','+62609591;
+                $("#ids").html(t);
+                //addData(62609591);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">16</span>
+                <img src="images/icons/03-search-hospital.png" title="Документы госпиталей и медсанбатов" alt="Документы госпиталей и медсанбатов">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        
+                    </div><div class="search-result__col-date-out">
+                        <span>13.01.1944</span>
+                    </div><div class="search-result__col-place">
+                        <span>Чувашская АССР, Ибресенский р-н, с. Климово</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="562609591">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="62416778" id_image="TV/003/058-А-0083627-7230/00000018.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="62609841"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =62609841;
+                  t= t+','+62609841;
+                $("#ids").html(t);
+                //addData(62609841);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">17</span>
+                <img src="images/icons/03-search-hospital.png" title="Документы госпиталей и медсанбатов" alt="Документы госпиталей и медсанбатов">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        
+                    </div><div class="search-result__col-date-out">
+                        <span>11.01.1944</span>
+                    </div><div class="search-result__col-place">
+                        <span>Чувашская АССР, Гебрещенский р-н, с. Климово</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="562609841">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="62416828" id_image="TV/003/058-А-0083627-7233/00000008.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="63610434"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =63610434;
+                  t= t+','+63610434;
+                $("#ids").html(t);
+                //addData(63610434);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">18</span>
+                <img src="images/icons/02-search-donesenie.png" title="Донесение о потерях" alt="Донесение о потерях">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1902</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>24.07.1942</span>
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="563610434">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="63610431" id_image="Z/006/058-0977525-0204/00000681.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="63847220"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =63847220;
+                  t= t+','+63847220;
+                $("#ids").html(t);
+                //addData(63847220);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">19</span>
+                <img src="images/icons/04-search-doc-poteri.png" title="Донесение, уточнящее потери" alt="Донесение, уточнящее потери">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1905</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>__.02.1942</span>
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="563847220">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="63847189" id_image="Z/006/058-0977520-0455/00000400.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="64654922"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =64654922;
+                  t= t+','+64654922;
+                $("#ids").html(t);
+                //addData(64654922);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">20</span>
+                <img src="images/icons/04-search-doc-poteri.png" title="Донесение, уточнящее потери" alt="Донесение, уточнящее потери">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1921</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>__.12.1942</span>
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="564654922">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="64654824" id_image="Z/006/058-0018004-0313/00000009.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="64828563"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =64828563;
+                  t= t+','+64828563;
+                $("#ids").html(t);
+                //addData(64828563);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">21</span>
+                <img src="images/icons/04-search-doc-poteri.png" title="Донесение, уточнящее потери" alt="Донесение, уточнящее потери">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1896</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>__.10.1944</span>
+                    </div><div class="search-result__col-place">
+                        <span>Татарская АССР, Челнинский р-н, Елизаветино</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="564828563">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="64828180" id_image="Z/006/058-0977520-0165/00000317.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="69290645"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =69290645;
+                  t= t+','+69290645;
+                $("#ids").html(t);
+                //addData(69290645);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">22</span>
+                <img src="images/icons/04-search-doc-poteri.png" title="Донесение, уточнящее потери" alt="Донесение, уточнящее потери">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1908</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>__.04.1943</span>
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="569290645">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="69290639" id_image="Z/007/058-0977521-0691/00000063.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="71594785"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =71594785;
+                  t= t+','+71594785;
+                $("#ids").html(t);
+                //addData(71594785);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">23</span>
+                <img src="images/icons/04-search-doc-poteri.png" title="Донесение, уточнящее потери" alt="Донесение, уточнящее потери">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1915</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>__.03.1943</span>
+                    </div><div class="search-result__col-place">
+                        <span>Курская обл., Льговский р-н, с. Износково</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="571594785">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="71594783" id_image="Z/010/058-0977523-0140/00000310.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="87839358"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =87839358;
+                  t= t+','+87839358;
+                $("#ids").html(t);
+                //addData(87839358);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">24</span>
+                <img src="images/icons/05-search-name-list.png" title="Поименные списки захоронений" alt="Поименные списки захоронений">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        
+                    </div><div class="search-result__col-date-out">
+                        
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="587839358">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="87839349" id_image="Z/017/Паспорта ВМЦ/Белгородская область/12068157/00000014.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="89313531"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =89313531;
+                  t= t+','+89313531;
+                $("#ids").html(t);
+                //addData(89313531);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">25</span>
+                <img src="images/icons/05-search-name-list.png" title="Поименные списки захоронений" alt="Поименные списки захоронений">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        
+                    </div><div class="search-result__col-date-out">
+                        
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="589313531">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="89313507" id_image="Z/017/Паспорта ВМЦ/Ростовская область/00330588/00000007.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="90220254"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =90220254;
+                  t= t+','+90220254;
+                $("#ids").html(t);
+                //addData(90220254);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">26</span>
+                <img src="images/icons/05-search-name-list.png" title="Поименные списки захоронений" alt="Поименные списки захоронений">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        
+                    </div><div class="search-result__col-date-out">
+                        
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="590220254">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="90220252" id_image="Z/017/Паспорта ВМЦ/Смоленская область_1/00000262.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="260194657"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =260194657;
+                  t= t+','+260194657;
+                $("#ids").html(t);
+                //addData(260194657);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">27</span>
+                <img src="images/icons/05-search-name-list.png" title="Поименные списки захоронений" alt="Поименные списки захоронений">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        
+                    </div><div class="search-result__col-date-out">
+                        
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="265194657">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="260194646" id_image="Захоронения2/Передача_001/0014/34 Белгородская область/00001973.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="261240240"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =261240240;
+                  t= t+','+261240240;
+                $("#ids").html(t);
+                //addData(261240240);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">28</span>
+                <img src="images/icons/05-search-name-list.png" title="Поименные списки захоронений" alt="Поименные списки захоронений">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        
+                    </div><div class="search-result__col-date-out">
+                        
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="266240240">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="261240217" id_image="Захоронения2/Передача_003/0053/88_Ростовская_область/00001541.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="261812934"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =261812934;
+                  t= t+','+261812934;
+                $("#ids").html(t);
+                //addData(261812934);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">29</span>
+                <img src="images/icons/05-search-name-list.png" title="Поименные списки захоронений" alt="Поименные списки захоронений">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1895</span>
+                    </div><div class="search-result__col-date-out">
+                        
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="266812934">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="261812921" id_image="Захоронения2/Передача_004/0071/116_Гродненская_область/00000349.png">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="261852917"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =261852917;
+                  t= t+','+261852917;
+                $("#ids").html(t);
+                //addData(261852917);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">30</span>
+                <img src="images/icons/05-search-name-list.png" title="Поименные списки захоронений" alt="Поименные списки захоронений">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        
+                    </div><div class="search-result__col-date-out">
+                        
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="266852917">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="261852900" id_image="Захоронения2/Передача_004/0074/119_Могилевская_область/00000861.png">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="261853376"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =261853376;
+                  t= t+','+261853376;
+                $("#ids").html(t);
+                //addData(261853376);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">31</span>
+                <img src="images/icons/05-search-name-list.png" title="Поименные списки захоронений" alt="Поименные списки захоронений">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        
+                    </div><div class="search-result__col-date-out">
+                        
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="266853376">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="261853364" id_image="Захоронения2/Передача_004/0074/119_Могилевская_область/00000897.png">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="1155174946"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =1155174946;
+                  t= t+','+1155174946;
+                $("#ids").html(t);
+                //addData(1155174946);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">32</span>
+                <img src="images/icons/05-search-name-list.png" title="Поименные списки захоронений" alt="Поименные списки захоронений">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        
+                    </div><div class="search-result__col-date-out">
+                        
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="1155213607">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="1155174909" id_image="DIP/004/РОСТОВСКАЯ ОБЛАСТЬ/00000054.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="1156646008"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =1156646008;
+                  t= t+','+1156646008;
+                $("#ids").html(t);
+                //addData(1156646008);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">33</span>
+                <img src="images/icons/04-search-doc-poteri.png" title="Донесение, уточнящее потери" alt="Донесение, уточнящее потери">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1908</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>__.04.1943</span>
+                    </div><div class="search-result__col-place">
+                        <span>Калинин. обл., д. Пожар</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="1156664779">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="1156646001" id_image="Images_545_2019/DIP/006/10000309/00000067.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="1156650793"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =1156650793;
+                  t= t+','+1156650793;
+                $("#ids").html(t);
+                //addData(1156650793);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">34</span>
+                <img src="images/icons/04-search-doc-poteri.png" title="Донесение, уточнящее потери" alt="Донесение, уточнящее потери">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1908</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>__.04.1943</span>
+                    </div><div class="search-result__col-place">
+                        <span>Калининская обл., Кудеверский р-н, д. Понсар</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="1156666038">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="1156650790" id_image="Images_545_2019/DIP/006/10000329/00000345.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="1157363198"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =1157363198;
+                  t= t+','+1157363198;
+                $("#ids").html(t);
+                //addData(1157363198);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">35</span>
+                <img src="images/icons/04-search-doc-poteri.png" title="Донесение, уточнящее потери" alt="Донесение, уточнящее потери">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1908</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>__.04.1943</span>
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="1157386186">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="1157363197" id_image="Images_545_2019/DIP/006/40000009/00003003.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="1158009561"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =1158009561;
+                  t= t+','+1158009561;
+                $("#ids").html(t);
+                //addData(1158009561);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">36</span>
+                <img src="images/icons/04-search-doc-poteri.png" title="Донесение, уточнящее потери" alt="Донесение, уточнящее потери">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        
+                    </div><div class="search-result__col-date-out">
+                        <span>__.10.1944</span>
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="1158032557">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="1158009551" id_image="Images_545_2019/DIP/006/11002020/00000148.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="1158759281"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =1158759281;
+                  t= t+','+1158759281;
+                $("#ids").html(t);
+                //addData(1158759281);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">37</span>
+                <img src="images/icons/04-search-doc-poteri.png" title="Донесение, уточнящее потери" alt="Донесение, уточнящее потери">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        
+                    </div><div class="search-result__col-date-out">
+                        <span>__.02.1942</span>
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="1158774168">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="1158759276" id_image="Images_1022_2020/DIP/007/11002000/00000082.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="1159950424"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =1159950424;
+                  t= t+','+1159950424;
+                $("#ids").html(t);
+                //addData(1159950424);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">38</span>
+                <img src="images/icons/04-search-doc-poteri.png" title="Донесение, уточнящее потери" alt="Донесение, уточнящее потери">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        
+                    </div><div class="search-result__col-date-out">
+                        <span>11.10.1943</span>
+                    </div><div class="search-result__col-place">
+                        <span>Башкирская АССР, Хайбуллинский р-н</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="1159983316">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="1159950423" id_image="Images_441_2020/DIP/008/11007050/00000253.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="1160465281"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =1160465281;
+                  t= t+','+1160465281;
+                $("#ids").html(t);
+                //addData(1160465281);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">39</span>
+                <img src="images/icons/04-search-doc-poteri.png" title="Донесение, уточнящее потери" alt="Донесение, уточнящее потери">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        
+                    </div><div class="search-result__col-date-out">
+                        <span>Не позднее 15.01.1944</span>
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="1160496362">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="1160465274" id_image="Images_441_2020/DIP/008/11007055/00000071.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="1162201038"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =1162201038;
+                  t= t+','+1162201038;
+                $("#ids").html(t);
+                //addData(1162201038);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">40</span>
+                <img src="images/icons/04-search-doc-poteri.png" title="Донесение, уточнящее потери" alt="Донесение, уточнящее потери">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        
+                    </div><div class="search-result__col-date-out">
+                        <span>__.10.1941</span>
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="1162224184">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="1162201019" id_image="Images_490_2021/DIP/010/25150287/00000085.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="1162209689"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =1162209689;
+                  t= t+','+1162209689;
+                $("#ids").html(t);
+                //addData(1162209689);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">41</span>
+                <img src="images/icons/04-search-doc-poteri.png" title="Донесение, уточнящее потери" alt="Донесение, уточнящее потери">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        
+                    </div><div class="search-result__col-date-out">
+                        <span>__.10.1941</span>
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="1162230820">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="1162209656" id_image="Images_490_2021/DIP/010/25150285/00000092.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="1162364202"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =1162364202;
+                  t= t+','+1162364202;
+                $("#ids").html(t);
+                //addData(1162364202);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">42</span>
+                <img src="images/icons/04-search-doc-poteri.png" title="Донесение, уточнящее потери" alt="Донесение, уточнящее потери">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        <span>__.__.1919</span>
+                    </div><div class="search-result__col-date-out">
+                        <span>__.10.1941</span>
+                    </div><div class="search-result__col-place">
+                        <span>Горьковская обл., Вадский р-н, д. Гари</span>
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="1162392331">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="1162364193" id_image="Images_490_2021/DIP/010/25150279/00000062.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="1162556385"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =1162556385;
+                  t= t+','+1162556385;
+                $("#ids").html(t);
+                //addData(1162556385);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">43</span>
+                <img src="images/icons/04-search-doc-poteri.png" title="Донесение, уточнящее потери" alt="Донесение, уточнящее потери">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        
+                    </div><div class="search-result__col-date-out">
+                        <span>__.09.1942</span>
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="1162578978">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="1162556355" id_image="Images_490_2021/DIP/010/25150463/00000142.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+        <div id="1912983297"
+             class="row search-result">
+            <script>
+                var t = $("#ids").html();
+                if (!t || t.length === 0) t =1912983297;
+                  t= t+','+1912983297;
+                $("#ids").html(t);
+                //addData(1912983297);
+            </script>
+
+            <div class="search-result__col-pos-and-icon">
+                <span class="search-result__pos">44</span>
+                <img src="images/icons/08-search-kartoteka.png" title="Картотека" alt="Картотека">
+            </div>
+
+            <div class="search-result__col-text-and-icons">
+                <div class="search-result__col-text">
+                    <div class="search-result__col-name">
+                        <span>Федотов Семен Васильевич</span>
+                    </div><div class="search-result__col-date-birth">
+                        
+                    </div><div class="search-result__col-date-out">
+                        <span>13.01.1944</span>
+                    </div><div class="search-result__col-place">
+                        
+                    </div></div>
+
+                <div class="search-result__col-buttons">
+                    <span class="searchResultSummary" title="Сводная информация" id_common="1912983298">
+                </span>
+                    <span class="searchResultSee" title="Просмотр документа" id_preview="1912983296" id_image="DIP/002/Картотека общего учета/235-31_Федотов Ник С - Федотов Спири/00002967.jpg">
+                </span>
+<!--                    <span class="searchResultDownload" th:if="${result.imageId>0}"-->
+<!--                          th:attr="id_download=${result.imageId}" title="Сохранить документ"></span>-->
+                </div>
+            </div>
+
+            <!--
+            <div class="">
+                <img  th:if="${result.imageId>0}" th:id="${result.id}" src="images/img_preview.png" height="21" width="21" />
+            </div>
+            -->
+        </div>
+
+        <!-- bottom paginator -->
+        <div id="bottomPaginatorPointer" class="hide"></div>
+    </div>
+
+    
+
+    <div>
+
+     <div class="row">
+         <div class="col-sm-12 col-md-12 ">
+             <div class="page__footer-links-container">
+                 <div class="page__stripe">
+                 </div>
+
+                 <div class="row">
+                     <div class="col-sm-12 col-md-4 col-lg-4 page__footer-logo-outer">
+                         <a href="/memorial/">
+                             <img src="images/logo-grayscale.png"/>
+                         </a>
+                     </div>
+                     <div class="col-sm-12 col-md-8 col-lg-8">
+                         <div class="row">
+                             <div class="col-sm-12 col-md-3 col-lg-3 page__footer-links">
+                                 <a href="about.htm">О проекте</a>
+                                 <a href="comments.htm">Отзывы</a>
+                             </div>
+                             <div class="col-sm-12 col-md-4 col-lg-4 page__footer-links">
+                                 <a href="feedback.htm">Обратная связь</a>
+                                 <a href="help_ru.htm">Помощь</a>
+                             </div>
+                             <div class="col-sm-12 col-md-5 col-lg-5 page__footer-links">
+                                 <a href="sources.htm">Источники информации</a>
+                                 <a href="legal-info.htm">Правовая информация</a>
+                             </div>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+
+         </div>
+     </div>
+
+     <div class="row">
+         <div class="col-sm-12 col-md-12 col-lg-12 alignCenter">© Министерство обороны Российской Федерации</div>
+     </div>
+
+
+     <div class="row">
+         <div class="col-sm-10 col-md-12 col-lg-9 page__footer-links-container">
+             <div class="bottom-banners">
+
+                 <div class="banner">
+                     <a href="http://www.kremlin.ru">
+                         <img title="Сайт Президента Российской Федерации" alt=""
+                              src="images/banners/new/prezident.png"/>
+                     </a>
+                 </div>
+                 <div class="banner">
+                     <a href="http://www.government.ru">
+                         <img title="Сайт Правительства Российской Федерации" alt=""
+                              src="images/banners/new/government.png"/>
+                     </a>
+                 </div>
+                 <div class="banner">
+                     <a href="http://www.mil.ru">
+                         <img title="Сайт Министерства Обороны Российской Федерации" alt=""
+                              src="images/banners/new/mo-rf.png"/>
+                     </a>
+                 </div>
+                 <div class="banner">
+                     <a href="http://archive.mil.ru/archival_service/central.htm">
+                         <img title="Центральный архив Министерства обороны" alt="" src="images/banners/new/camo.png"/>
+                     </a>
+                 </div>
+
+                 <div class="banner">
+                     <a href="http://www.podvignaroda.ru/?utm_source=memorial_ft">
+                         <img title="Сайт Подвиг Народа" alt="" src="images/banners/new/podvig.png"/>
+                     </a>
+                 </div>
+                 <div class="banner">
+                     <a href="http://pobeda.elar.ru/?utm_source=memorial_ft">
+                         <img title="Календарь Победы" alt="" src="images/banners/new/pobeda.png"/>
+                     </a>
+                 </div>                
+                 <div class="banner">
+                             <a href="http://gwar.mil.ru/?utm_source=memorial_ft">
+                                 <img title="Памяти героев Великой Войны 1914-1918" alt="" src="images/banners/new/hiroes.png" />
+                             </a>
+                         </div>
+                 
+                 <div class="banner">
+                     <a href="https://pamyat-naroda.ru/?utm_source=memorial_ft">
+                         <img title="Сайт Память Народа" alt="" src="images/banners/new/pn.png"/>
+                     </a>
+                 </div>
+
+             </div>
+         </div>
+     </div>
+
+     <div class="hide">
+         <div id="testDialog">
+             <div>Header</div>
+         </div>
+
+         <div id="authOuterMemorial">
+             <span>Для авторизации перейдите на </span> <a href="https://obd-memorial.ru">https://obd-memorial.ru</a>
+         </div>
+         <div id="authOuter">
+             <div id="authHeaderLinksOuter" class="row auth__links-header">
+                 <div class="col-sm-12">
+                     <span id="loginLink" class="auth__link">Войдите</span>
+                     <span>или</span>
+                     <span id="registerLink" class="auth__link">Зарегистрируйтесь</span>
+                 </div>
+             </div>
+             <div id="authHeaderProfileOuter" class="row auth__links-header hideForce">
+                 <div class="col-sm-12">
+                     <span>Профиль пользователя</span>
+                 </div>
+             </div>
+
+             <div class="dialog__for-login">
+                 <form id="loginForm">
+                     <div class="row ui-dialog__row">
+                             <div class="col-sm-12 col-md-4 dialog__name-outer">
+                                 <span>Логин (или e-mail)</span><span class="red">*</span>
+                              </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="loginUsername" name="loginUsername" type='text'/>
+                         </div>
+                     </div>
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Пароль</span><span class="red">*</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="loginPassword" name="loginPassword" type='password'/>
+                         </div>
+                    </div>
+                 </form>
+             </div>
+
+             <div class="dialog__for-register">
+                 <form id="registerForm">
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Логин</span><span class="red">*</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="reg_username" name="reg_username" type='text'/>
+                         </div>
+                     </div>
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Email</span><span class="red">*</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="reg_email" name="reg_email" type='text'/>
+                         </div>
+                     </div>
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Пароль</span><span class="red">*</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="reg_password" type="password" name="reg_password"/>
+                         </div>
+                     </div>
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Подтвердите пароль</span><span class="red">*</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="reg_repassword" type="password" name="reg_repassword"/>
+                         </div>
+                     </div>
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Фамилия</span><span class="red">*</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="reg_family" type='text' name="reg_family"/>
+                         </div>
+                     </div>
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Имя</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="reg_name" type='text'/>
+                         </div>
+                     </div>
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Отчество</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="reg_middlename" type='text'/>
+                         </div>
+                     </div>
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Организация</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="reg_organization" type='text'/>
+                         </div>
+                     </div>
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Должность</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="reg_post" type='text'/>
+                         </div>
+                     </div>
+                 </form>
+                 <a id="idmycomment" href="mycomments.htm">Доп. информация, добавленная мной</a>
+             </div>
+         </div>
+
+
+         <div id="authFinishedOuter">
+             <div class="row">
+                 <div class="col-sm-12 auth__finished-header">Регистрация завершена</div>
+             </div>
+             <div class="row">
+                 <div class="col-sm-12 auth__finished-content">На указанный Вами e-mail выслано письмо с указанием действия, необходимого для подтверждения регистрации. После подтверждения регистрации Вы сможете вводить дополнительную информацию.</div>
+             </div>
+         </div>
+
+
+         <div id="restorePasswordOuter">
+             <div class="row">
+                 <div class="col-sm-12 restore__header">Восстановление пароля</div>
+             </div>
+             <div class="row ui-dialog__row restore__message">Для получения нового пароля введите Email, который Вы указывали при регистрации. Вы получите ссылку на смену пароля на Ваш Email.</div>
+             <div class="row ui-dialog__row">
+                 <div class="col-sm-12 col-md-4" >E-mail</div>
+                 <div class="col-sm-12 col-md-8">
+                     <input type="text" id="restore"/>
+                 </div>
+             </div>
+         </div>
+
+
+
+         <div id="bookmark" title="Избранное" style="display: none;">
+             <div class="row">
+                 <div class="col-sm-12 auth__links-header">Избранное</div>
+             </div>
+             <div class="row bookmark__list-outer">
+                 <ul id="bookmark__list" class="bookmark__list"></ul>
+             </div>
+         </div>
+
+
+         <script>
+             Main.init({
+                 bookmarkDialog: {
+                     choose: "Выбрать", //"Выбрать",
+                     del: "Удалить", //"Удалить",
+                     cancel: "Отмена" //"Отмена"
+                 },
+                 authDialog: {
+                     login: "Войти", //"Войти",
+                     register: "Зарегистрироваться", //"Зарегистрироваться",
+                     save: "Сохранить", //"Сохранить",
+                     cancel: "Отмена", //"Отмена",
+                     forgotten: "Забыли пароль?", //"Забыли пароль?"
+                     loginUsernameMessage : "Укажите свое имя или e-mail", //"Укажите свое имя или e-mail"
+                     loginPasswordMessage : "Укажите пароль", //"Укажите пароль"
+                     reg_usernameMessage : "Укажите свое имя", //"Укажите свое имя"
+                     reg_familyMessage : "Укажите свою фамилию", //"Укажите свою фамилию"
+                     reg_emailMessage : "Укажите Ваш email", //"Укажите Ваш email"
+                     reg_password : "Укажите пароль", //"Укажите пароль"
+                     reg_repasswordMessage : "Подтвердите пароль", //"Подтвердите пароль"
+                     reg_repasswordNotEqualMessage : "Неверное подтверждение пароля" //"Неверное подтверждение пароля"
+                 },
+                 restorePasswordOuter : {
+                     restore: "Восстановить", //"Восстановить",
+                     cancel: "Отмена" //"Отмена",
+                 }
+             });
+         </script>
+
+     </div>
+
+ </div>
+</div>
+
+</body>
+</html>

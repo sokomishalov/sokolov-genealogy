@@ -1,0 +1,438 @@
+DAI T81-624, Frame 5420560-0571 (D. Wahl)
+
+        Published by the Odessa Digital Library - 6 Feb 2000
+             http://www.odessa3.org
+
+        This document may be freely used for personal, nonprofit
+        purposes or linked by other WWW sites.  It may also be
+        shared with others, provided the header with copyright
+        notice is included.  However, it may not be republished
+        in any form without permission of the copyright owner.
+
+        Copyright 1999, Dale Lee Wahl
+
+        Edited by Marty McMahon
+
+NOTES:
+
+The data below is taken from the DAI film T81-624, frames 5420560-0571.
+
+This is a report supplied by Dr. Hermann Roemer, Markgroeningen, concerning
+research of families reflected in the State Archives in Ludwigsburg, and those
+Schwaben persons and families leaving from the reflected communities.
+
+We need to have some translator volunteer to read the words that go along with
+this data so we better understand the full meaning of this data.
+
+This film (624) will be added to the collection at the GRHS film library in
+Bismarck ND.  However there is other work being done concerning this film, and
+until that work is done, the film will not be found there.
+
+This data is a product of the GRHS Clearing House DAI project.
+
+************************************************
+
+Page 1-5                          Headings of table data below:
+Markgroeningen 14 July 1939      (A)   List number
+Hermann Roemer                   (B)   Family
+data dated 10 June 1817          (C)   Name
+                                 (D)   Where from
+                                 (E)   Profession (see legend after the list)
+                                 (F)   Male Adult
+                                 (G)   Female Adult
+                                 (H)   Children
+                                 (I)   Money in Florins 
+
+(A)  (B)           (C)               (D)                             (E) (F) (G) (H) (I)
+1    Mayer         Karl Heinrich     Winnenden                        1   1   1   4  430  fl
+2    Klein         Johann Georg      Leutenbach (Waibl.)              2   1   1   1  325  fl  15 kr
+3    Wurst         Andreas           Winnenden                        3   1   1   1  270  fl
+4    Rauleder      Baltas            Schwaikheim                      3   1   1   3  300  fl
+5    Daudel        Kaspar            Schwaikheim                      3   1   1   4  578  fl  44 kr
+6    Lamm          Leonhard          Winnenden                        4   1   1   3  300  fl
+7    Koch          Gottlieb          Schwaikheim                      2   1   1   3  -
+8    Auwaerter     Bernhard          Schorndorf                       5   1   1   1  300  fl
+9    Stoesser      David             Schorndorf                       3   1   1   5  300  fl
+10   Frank         Johann Georg      Schorndorf                       6   1   1      -
+11   Durst         Gottlob Friedrich Schorndorf                       3   1   1      52   fl
+12   Ungerbuehler  Joh. Daniel       Schorndorf                       2   1   1      -
+13   Abele         Johannes          Schorndorf                       7   1   1   6  -
+14   Schwarz       Johann Georg      Schorndorf                       8   1   1   3  1199 fl  20 kr
+15   Schnabel      Leonhard          Weiler (Schorndf)                8   1   1   1  740  fl  14 kr
+16   Hutt          Johann Georg      Weiler (Schorndf)                8   1   1   2  36   fl  22 kr
+17   Koch          Gottlieb          Weiler (Schorndf)                6   1   1   4  100  fl
+18   Sigle         David             Grossheppach                     3   1   1   4  18   fl  20 kr
+19   Sigle         Ludwig            Grossheppach                     3   1   1   3  zusammen besitzen
+20   Sigle         Gottlieb Fch      Grossheppach                     3   1   1   5  1461 fl
+21   Benz          Joh. Georg        Miedelsbach                      9   1   1   1  499  fl  50 kr
+     Baun          Christiane Kath.  Rohrbronn                        10      1      -
+22   Schaal        Jakob             Miedelsbach                      3   1   1      29   fl  4 kr
+     Bauh          Barbara           Rohrbronn                        10      1      80   fl
+23   Wenzel        Gottlieb          Neulautern (Loewenstein)         11  1   1   1  328  fl  30 kr
+24   Prassel       Gottlieb          Neulautern (Loewenstein)         8   1   1   3  190  fl
+25   Wenzel        Georg             Neulautern (Loewenstein)         5   1   1   3  50   fl  5 kr
+26   Gall          Johann Adam       Neulautern (Loewenstein)         5   1   1   6  130  fl
+27   Wenzel        Elias August      Neulautern (Loewenstein)         9   1   1   1  725  fl  46 kr
+28   Ulmer         Matthaeus         Kleiningersheim                  8   1   1   1  2000 fl
+     Blattert      Johannes          Kleiningersheim                  10  1          150  fl
+     Schweigeret   Elisabeth         Kleiningersheim                  10  1   1      75   fl
+29   Kallenberger  David             Kleiningersheim                  8   1   1   4  300  fl
+     Deuschler     Christiane        Kleiningersheim                  10      1      200  fl
+30   Holzwarth     Jakob             Kleiningersheim                  8   1   1      150  fl
+31   Bertsch       Johannes          Kleiningersheim                  12  1   1   6  300  fl
+32   Kapfenstein   Jakob             Kleiningersheim                  8   1   1   4  300  fl
+33   Grill         Christian         Grossingersheim                  3   1   1   6  400  fl
+34   Vogenberger   Jakob             Eltingen (Leonbg)                6   1   1   3  225  fl
+35   Hartmann      Georg Adam        Eltingen (Leonbg)                12  1   1   3  300  fl
+36   Woehr         Philipp           Eltingen (Leonbg)                5   1   1   2  258  fl
+37   Boehmler      Sebastian         Eltingen (Leonbg)                8   1   1   6  970  fl
+38   Widmaier      Jakob             Eltingen (Leonbg)                8   1   1   3  800  fl
+     Wolf          Margarete         Eltingen (Leonbg)                A       1      100  fl
+39   Eiss          Johannes          Eltingen (Leonbg)                13  1   1      -
+40   Mueller       Christian         Leonberg                         5   1   1   6  100  fl
+41   Kaercher      Georg Fch         Leonberg                         13  1   1   4  500  fl
+42   Hofmeister    Michael           Bondorf                          2   1   1   6  100  fl
+43   Wagner        Christoph         Gerlingen                        8   1   1      -
+44   Seiz          David             Hoesslinswarth                   3   1   1      100  fl
+45   Seiz          Johann Georg      Hoesslinswarth                   14  1   1   1  50   fl
+46   Wagner        Christoph         Gerlingen                        8   1   1   4  zusammen mit Nr 47
+47   Wagner        Christoph son     Gerlingen                        8   1   1   2  850  fl
+48   Plieninger    Peter             Hebsack                          3   1   1   4  600  fl
+49   Wied          Philipp Hch       Schwaikheim                      2   1   1   1  884  fl  6 kr
+50   Ott           Johann Kaspar     Schwaikheim                      15  1   1   3  69   fl  54 kr
+51   Dollenschall  Nikolaus          Spiegelberg                      8   1   1   5  423  fl
+52   Sixt          Heinrich          Waiblingen                       16  1   1   2  30   fl  21 kr
+53   Holzwarth     Johann Adam       Benningen                        8   1   1   4  300  fl
+54   Holzwarth     Jakob             Benningen                        8   1   1   6  300  fl
+55   Riesch        Ludwig            Frommern (Bal.)                  15  1   1   1  105  fl  31 kr
+56   Sessler       Johannes          Frommern (Bal.)                  17  1   1   4  322  fl
+57   Baumeister    Johann Jakob      Balingen                         12  1   1   2  507  fl  49 kr
+58   Schler        Christian         Frommern (Bal.)                  17  1   1   1  335  fl  17 kr
+59   Dapp          Daniel            Balingen                         7   1   1      100  fl
+60   Jetter        Jakob             Balingen                         8   1   1   2  350  fl
+61   Hummel        Johann Georg      Frommern (Bal.)                  8   1   1   4  494  fl  51 kr
+62   Mautte        Johannes          Frommern (Bal.)                  7   1   1   6  305  fl
+63   Gastel        Johannes          Frommern (Bal.)                  8   1   1   4  217  fl  10 kr
+64   Gastel        Anna Maria        Frommern (Bal.)                  10      1      155  fl
+65   Bauer         Adam Fch          Besigheim                        3   1   1   2  718  fl  12 kr
+66   Eisen kraemer  Georg Fch         Besigheim                        6   1   1   6  266 fl
+67   Eisen kraemer  Johannes          Besigheim                        8   1          215 fl  6 kr
+68   Dapp          Georg Adam        Loechgau                         2   1   1   3  500  fl
+69   Koels         Johann Michael    Weiler zum Stein                 8   1   1   3  217  fl  48 kr
+70   Hochstetter   Johannes          Weiler zum Stein                 8   1   1   1  105  fl  18 kr
+71   Feil          Johann Michael    Affalterbach                     18  1   1   4  30   fl
+72   Blumhard      Johannes          Affalterbach                     18  1   1   4  30   fl
+73   Schweizerhog  Tobias            Hoepfigheim                      2   1   1   4  211  fl  30 kr
+74   Muehlacker    Matthaeus         Bittenfeld                       8   1   1   1  450  fl
+75   Maeule        Adam David        Bietigheim                       8   1   1   9  520  fl
+76   Reiss         Michael           Merklingen                       19  1   1   5  175  fl
+77   Reiss         Johannes          Merklingen                       20  1   1   3  160  fl  16 kr
+78   Maier         Joh. Gottlieb     Marbach                          3   1   1   1  106  fl
+     Lausterer     Georg Fch         Ludwigsburg                      21  1   1   1  500  fl
+79   Gnaiting      Johannes          Zazenhausen                      5   1   1   3  75   fl
+80   Wisemann      Christian         Ludwigsburg                      22  1   1   7  2240 fl
+81   Kurz          Johann Fch        Ossweil (Ludw.)                  8   1   1   6  1400 fl
+82   Schwilk       Peter             Ossweil (Ludw.)                  18  1   1   6  1300 fl
+83   Bauer         Michael           Ossweil (Ludw.)                  2   1   1   4  500  fl
+84   Reinhard      Christian         Ossweil (Ludw.)                  8   1   1   5  350  fl
+85   Kaess         Johann Michael    Lauffen a.N.                     9   1   1   4  600  fl
+86   Duerr         Christoph         Lauffen a.N.                     8   1   1   4  1200 fl
+87   Mezler        Georg David       Lauffen a.N.                     6   1   1   2  120  fl
+88   Ommerlin      Johann Fch        Marbach a.N.                     6   1   1   3  -
+89   Schmid        Gottlieb Fch      Marbach a.N.                     23  1          121  fl  44 kr
+90   Hoefel        Adam              Marbach a.N.                     24  1   1   1  -
+91   Reisser       Adam Friedrich    Marbach a.N.                     3   1   1   3  365  fl  18 kr
+92   Freeber       Johann Gottlieb   Spiegelberg                      15  1   1   1  35   fl  26 kr
+93   Klinger       Katharine         Spiegelberg                      A       1      29   fl  56 kr
+94   Stiefel       Heinrich          Spiegelberg                      15  1   1   4  2    fl  36 kr
+95   Rommel        Michael           Grossingersheim                  3   1   1   3  310  fl
+96   Gerber        Theodor           Grossingersheim                  3   1   1      324  fl
+97   Rudolph       Jakob Friedrich   Grossingersheim                  3   1   1   3  650  fl
+98   Lachenmaier   Johann Georg      Marbach a.N.                     8   1   1   2  8    fl  33 kr
+99   Dorn          Johann Friedrich  Marbach a.N.                     8   1   1   6  293  fl  2 kr
+100  Pfeil         Eva Katharina     Bittenfeld                       A       1   1  250  fl
+101  Dommer        Ludwig            Steinheim a.Murr                 6   1   1   1  250  fl
+102  Gerstner      Andreas           Spiegelberg                      15  1   1   1  156  fl  34 kr
+103  Lachenmaier   Johann            Bietigheim                       6   1   1   2  400  fl
+104  Kochendorfer  Phil. Konrad      Kaltenwesten(=Neckarwestheim)    3   1   1   1  390  fl
+105  Hilkert       Johannes          Kaltenwesten(=Neckarwestheim)    25  1   1   5  189  fl
+106  Meyer         Johannes          Kaltenwesten(=Neckarwestheim)    7   1   1   6  180  fl
+107  Spahr         Jakob Friedrich   Kaltenwesten(=Neckarwestheim)    15  1   1   2  85   fl
+108  Zweygard      Ludwig            Jux (Backnang)                   26  1   1      50   fl
+     nach preussis                                                            1   1
+109  Benzer        Franz             Duerrn (Pforzheim)               8   1   1      323  fl
+110  Domminger     Friedrich         Duerrn (Pforzheim)               8   1   1   4  400  fl
+111  Seefried      Gottlieb          Backnang                         27  1   1   2  155  fl  35 kr
+112  Buerkle       Johannes          Neustadt (Waibl.)                8   1   1   6  600  fl
+113  Seeger        Christoph         Backnang                         15  1   1   3  385  fl  26 kr
+114  Lohrer        Andreas           Backnang                         15  1   1   4  93   fl
+115  Sauer         Joh. Friedrich    Backnang                         6   1   1   3   -
+116  Schlegel      Matthaeus Ulrich  Backnang                         4   1   1   3  194  fl
+117  Boeb          Gottfried         Backnang                         19  1   1   2  93   fl  28 kr
+118  Kuhn          Johann Jakob      Backnang                         15  1   1   6  300  fl
+119  Schafert      Michael           Waldbach (Weinsbg)               8   1   1   5  273  fl  13 kr
+120  Hampel        Georg             Waldbach (Weinsbg)               8   1   1   4  122  fl
+121  Buerkle       Philipp Fch       Waldbach (Weinsbg)               15  1   1   5  25   fl  24 kr
+122  Hample        Johann Christoph  Waldbach (Weinsbg)               3   1   1   1  15   fl
+123  Klein         Gottlieb          Backnang                         7   1   1   2  300  fl
+124  Denzel        Gottlieb          Backnang                         13  1   1   5  410  fl  4 kr
+125  Gruber        Friedrich         Harbach (Backnang)               15  1   1   3  189  fl  59 kr
+126  Lang          Michael           Harbach (Backnang)               18  1   1   7  46   fl  11 kr
+127  Muenz         Philipp Adam      Metzingen                        8   1   1   7  300  fl
+128  Hild          Erasmus           Maubach                          8   1   1   3  70   fl  39 kr
+129  Hahnle        Johannes          Backnang                         8   1   1   2  300  fl  32 kr
+130  Halmsdoerfer  Eberhard          Backnang                         28  1   1   5  300  fl
+131  layer         Johann Christian  Backnang                         29  1   1   4  520  fl
+132  Kochendorfer  Jakob             Schluchtern Amt Eppingen, Baden  30  1   1   2  15000fl
+133  Haegele       Matthaeus         Erdmannhausen                    31  1   1   5  1910 fl  49 kr
+     Maier         Barbara           Erdmannhausen                    B       1      208  fl  26 kr
+134  Lips          Christian         Warmbronn (Leonberg)             32  1          Nr 134
+     Lips          Johannes          Warmbronn (Leonberg)             2   1          besitzen
+     Lips          Jakob             Warmbronn (Leonberg)             32  1          zusanneb
+     Lips          Katharine         Warmbronn (Leonberg)             10      1      430  fl  42 kr
+     Lips          Anna Maria        Warmbronn (Leonberg)             10      1
+135  Schacher      Konrad            Rottenacker (Ehingen)            8   1   1   4  200  fl
+136  Spitz         Johannes          Buttenhausen (Muensingen)        7   1   1   5  100  fl
+137  Spitz         Ludwig            Buttenhausen (Muensingen)        8   1   1   8  250  fl
+138  Reber         Georg             Jux (Backnang)                   2   1   1   1  288  fl
+139  Dieterich     Georg Dan.        Willsbach (Weinsbg)              2   1   1   2  21   fl  43 kr
+140  Gros          Israel            Jux (Backnang)                   15  1   1   2  -
+141  Schnabel      Christian         Jux (Backnang)                   15  1   1      9    fl
+142  Straub        Philipp           Steinheim a.Murr                 5   1   1   4  182  fl
+143  Weibert       Friedrich Wilh.   Steinheim a.Murr                     1   1   6  176  fl
+144  Straub        Christian         Steinheim a.Murr                 5   1   1   3  36   fl
+145  Burgetsmaier  Christian         Steinheim a.Murr                 3   1   1   2  251  fl
+146  Jenner        Bernhard          Erdmannhausen                    8   1   1   3  1652 fl
+     Niederberger  Christiane        Heiningen (Backng)               A       1      -
+147  Maier         Ulrich            Erdmannhausen                    2   1   1   1  194  fl  22 kr
+     Muehlbach     Maria Magdalena   Marbach a.N.                     10      1      30   fl
+148  Maier         Johann Georg      Grossaspach                      30  1   1   4  197  fl  52 kr
+149  Denzel        Gottlieb, Witwer  Backnang                         13  1          -
+     Gaisin        Rosina            Jux (Backnang)                   10      1      125  fl
+150  Huettinger    Georg Adam, Wwr   Abstatt                          8   1   -   2  426  fl  58 kr
+151  Lachenmaier   Andreas           Happenbach (Abstatt)             8   1   1   5  470  fl
+152  Utz           Nikolaus          Happenbach (Abstatt)             8   1   1   3  453  fl  23 kr
+153  Graeter       Christian Jakob   Knittlingen                      33  1   1   5   -
+154  Kochendorfer  Johann ernst      Schwab. Gmuend                   30  1   1   6  320  fl  17 kr
+155  Schwab        Johann Christoph  Happenbach (Abstatt)             8   1   1   1  300  fl
+     Mutschelknaus Katharine         Kleinaspach                              1      50   fl
+156  Lauer         Johannes          Merklingen (Leonberg)            34  1   1      115  fl
+157  Ruf           Johannes          Erzingen (Balingen)              15  1   1   5  300  fl
+158  Weber         Christian         Erzingen (Balingen)              15  1   1   6  607  fl  53 kr
+159  Schuler       Friedrich         Erzingen (Balingen)              8   1   1   5  435  fl  49 kr
+160  Hekeler       Johannes          Winnenden                        35  1   1   5  298  fl
+161  Hutt          Friedrich         Weiler (Schorndf)                3   1   1   1  55   fl
+162  Lillich       Jakob             Marbach a.N.                     2   1   1   4  399  fl  24 kr
+163  Noll          Michael           Echterdingen                     7   1   1   8  200  fl
+164  Strobel       Christian         Frommern (Bal.)                  17  1   1   2  322  fl
+     Maerklin      Anna Maria        Frommern (Bal.)                  10      1      -
+                                               165M., 171 W., 512 K. 69351 fl 10 kr
+
+Legend:
+(Professions from "German - English Genealogical Dictionary" by Ernest Thode)
+1      Saddler                21      Hunter
+2      Tailor                 22      Hatmaker
+3      Winegartner            23      Bookbinder
+4      Joiner/Woodworker      24      Woodjoiner
+5      Stonemason/Bricklayer  25      Kuefer/Cooper
+6      Shoemaker/Cobler       26      Cottonspinner
+7      Baker                  27      Locksmith
+8      Farmer                 28      Sackmaker
+9      Smith                  29      Buttonmaker
+10     Hired Hand             30      Miller
+11     Glassmaker             31      Surveyer
+12     Butcher                32      Knitter
+13     Tanner                 33      Writer
+14     Potmaker/Potter        34      Wagonmaker/Cartwright
+15     Weaver                 35      Clothmaker
+16     Bottlemaker
+17     Nitratemaker           A      Single
+18     Carpenter              B      Mother-in-Law
+19     Stockingweaver
+20     Ropemaker
+
+**************************************************************
+
+Page 6-7
+Markgroeningen 14 July 1939
+Hermann Roemer
+data dated May - July 1817
+State Archives - Ludwigsburg (Oberregierungsakten)
+
+I. Liste: 24 Personen.
+(Read index number, last name, first name and place of origins.)
+Oberamt Esslingen:
+1      Bart       Joh. Jakob       Altbach
+2      Seitter    Johann           Altbach
+3      Zeitter    Kaspar           Altbach
+4      Zaiser     Georg Fch        Plochingen
+5      Zaiser     Christian Wilh.  Esslingen
+6      Schickler  Johannes         Koengen
+7      Spohn      Margarete        Koengen
+8      Aldinger   David            Koengen
+9      Goelz      Jakob            Oetlingen
+Oberamt Goeppingen:
+10      Albrecht  Christoph        Jebenhausen
+Oberamt Waiblingen:
+11      Koch      Gottlieb      Korb
+12      Sieglen   Gotthilf      Grossheppach
+13      Jeitter   Johann Georg  Grossheppach
+Oberamt Schorndorf:
+14      Palmer      Gottlieb      Weiler
+Oberamt Nuertingen
+15      Widmann      Adam      Beuren
+Oberamt Urach:
+16      Hartter    Jakob      Glems
+17      Ruopp      Clemens    Rietheim
+18      Vollmer    Christoph  Mittelstadt
+Oberamt Muensingen:
+19      Scheck     Jakob         Buttenhausen
+20      Ruess      Gottlob Fch   Muensingen
+21      Dangel     Johann Georg  Buttenhausen
+Oberamt Tuebingen:
+22      Winterle    Karl          Ruebgarten
+23      Wirsum      Jakob         Ruebgarten
+24      Schurr      Johannes      Rommelsbach
+25      Walker      Johann Georg  Lustnau
+Oberamt Stuttgart:
+26      Kraemer      Johann Georg      Plieningen
+27      Kraemer      Ludwig Witwe.     Plieningen
+Oberamt Nagold:
+28      Lohrer     Johann Georg  Schoenbronn
+29      Walz       Johann Georg  Rotfelden
+30      Baeuerle   Michael       Ebhausen
+31      Schoettle  Jakob         Rotfelden
+32      Schmidt    Konrad        Oberschwandorf
+33      Schmidt    Christian     Rohrdorf
+34      Schoettle  Georg Simon   Ebhausen
+
+II Liste : 70 Personen:
+
+Oberamt: Reulingen:
+1      Kaehrer      Johann Georg      Reutlingen
+2      Wurstig      Maria Magdalene   Reutlingen
+3      Wendler      Johann Heinrich   Reutlingen
+4      Wendler      Sebastian         Reutlingen
+5      Fischer      Johann Georg      Reutlingen
+6      Daetzel      Johann            Reutlingen
+Oberamt Herrenberg:
+7      Beck         Johann        Breitenholz
+8      Roth         Jakob         Breitenholz
+9      Stoll        Philipp Adam  Breitenholz
+10      Breitmayer  Ludwig        Breitenholz
+11      Sailer      Karl          Entringen
+12      Eckert      Michael       Entringen
+Oberamt Tuebingen:
+13      Steiger     Matthaeus     Goenningen
+Oberamt Urach:
+14      Hoenning     Georg Friedrich  Metzingen
+15      Vettner      Johannes         Metzingen
+        Schoelling   Friederike       Metzingen
+Oberamt Waiblingen:
+16      Zoerrer      Johann Jakob  Korb
+17      Zoerrer      Johannes      Korb
+18      Heidenwang   Johannes      Korb
+19      Laemp        Matthaeus     Buoch
+20      Siger        Barbara       Korb
+21      Schaefer     Wilhelm Fch   Korb
+22      Schaefer     Christoph     Korb
+Oberamt Nuertingen:
+23      Forschner    Karl                   Neckartailfingen
+24      Mueller      Johannes               Neckartailfingen
+25      Fischer      Jakob                  Neckartailfingen mit Schwiegermutter
+26      Mueller      Jonathan               Neckartailfingen
+27      Mueller      Jakob                  Neckartailfingen
+28      Ebinger      N.                     Grossbettlingen
+29      Koepple      Salomo                 Nehausen
+30      Koepple      Christine Kath., Wwe   Dottingen
+Ferner:
+31      Kuegelen   Regine, Wwe  Korb
+32      Kress      Christiane   Gochsen
+33      Kloss      Johann Fch   Marbach
+34      Hafner     Johann       Beutelsbach
+35      Kurz       Joseph       Reichenbach (Waibl.)
+Ferner aus Reutlingen:
+36      Groezinger    Johannes
+37      Hammer        Georg Michael
+38      Raicheter     Johannes
+39      Mezger        Jakob
+40      Vollmer       Johannes
+41      Vollmer       Daniel
+42      Hummel        Heinrich
+43      Tigel         Stephan
+44      Vottler       Matthias
+45      Klingenstein  Dorothea
+46      Votteler      Matthias
+47      Wucherer      Johannes
+48      Wucherer      Jakob
+49      Schaefer      Johannes
+50      Hammer        Matthias
+51      Vohrer        Christoph
+52      Vollmer       Johann Martin
+53      Votteler      Stephan
+Oberamt Nuertingen:
+54      Strom       Johann      Bempflingen
+55      Mayer       Heinrich    Neckartenzlingen
+56      Armbruster  August      Neckartenzlingen
+57      Vetter      Johannes    Neckartenzlingen
+58      Krohmer     Johannes    Neckartenzlingen
+Oberamt Herrenberg:
+59      Schlichter  Johann Michael  Reusten
+60      Schlichter  Georg           Reusten
+61      Staeble     Johann Georg    Reusten
+62      Kayser      Johannes        Entringen
+63      Reisser     Johann Adam     Entringen
+64      Breitmayer  Johann          Entringen
+65      Wein        Johann Adam     Entringen
+Oberamt Nagold:
+66      Nestle      Christian  Ebhausen
+67      Nestle      Franz Fch  Ebhausen
+68      Schlichter  Gallus     Ebhausen
+69      Schlichter  Jakob      Ebhausen
+Oberamt Reutlingen:
+70      Tigel      Johann Georg  Betingen
+
+******************************************************
+
+Page 8
+Markgroeningen 14 July 1939
+Hermann Roemer
+data dated 29 March 1817
+State Archives - Ludwigsburg (Oberregierungsakten)
+
+(Read last name, first name and place of origins.)
+
+Har        Christoph  Neckartenzlingen
+Lebsanft   Jakob      Neckartenzlingen
+Nedinger   Johann     Denkendorf
+Harsch     Jakob      Denkendorf
+Lebsanft   Jakob      Denkendorf
+Eckstein   Jakob Fch  Unterheinrieth, OA Weinsberg
+Marbach    Joseph     Unterheinrieth, OA Weinsberg
+Bronner    Joseph     Unterheinrieth, OA Weinsberg
+Groehner   Jakob      Gruppenbach, OA Besigheim
+Vogel      Joseph     Gruppenbach, OA Besigheim
+
+NOTE:
+Most of these families show up in the Stumpp book.
+It appears that ECKSTEIN went to Teplitz Bessarabia
+It appears that VOGEL went to Gnadental Bessarabia
+Traces of ECKSTEIN in Teplitz is in the Teplitz church records.
+Traces of VOGEL in Gnadental is not that apparent.
+
+***************************************************************
+
+Page 9
+Markgroeningen 14 July 1939
+Hermann Roemer
+data dated 16 February 1817
+State Archives - Ludwigsburg (Oberregierungsakten)
+
+Frick  Johann Georg  Altbach
+
+NOTE:
+Page 268 of the Stumpp book;
+Frick, Joh. Georg, 39 J., aus Altbach/Esslingen-Wue
+1816, nach Helenendorf/Tau; Barbara, Catharina,
+Christian, Gotthilf, Joh. Georg, Johnnes, Lorenz
+

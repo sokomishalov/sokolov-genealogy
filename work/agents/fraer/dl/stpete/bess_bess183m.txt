@@ -1,0 +1,951 @@
+Bessarabian Village Marriage Records, 183x (R. Drefs)
+
+        Published by the Odessa Digital Library - 20 Sep 1997
+             http://www.odessa3.org
+
+        This document may be freely used for personal, nonprofit
+        purposes or linked by other WWW sites.  It may also be
+        shared with others, provided the header with copyright
+        notice is included.  However, it may not be republished
+        in any form without permission of the copyright owner.
+
+        Copyright 1997, Reuben R. Drefs
+
+        This file contains marriage records from the Bessarabian
+        villages of South Russia for the decade 1833-1839.  This
+        information was compiled by R. Reuben Drefs, coordinator,
+        and Ed Schulz January 17, 1997 from the St. Petersburg
+        Lutheran Evangelical archives published by the LDS. 
+        Editing was done by Marty McMahon.  This work may be
+        freely copied for nonprofit purposes. -re (10-20-1997)
+
+The Bessarabian marriage extraction files are organized by decade and have
+been posted in the same manner. The data provided has only been sorted by
+Groom Surname.  The film/item, page and Register numbers are provided to
+assist researchers, if they wish to view the actual record found on the
+microfilm of the Church of Latter Day Saints [LDS], Family History Library,
+Salt Lake City, Utah.  These films can be rented though local LDS Family
+History Centers, where they exist.  Some records have Remarks attached to them
+which often [especially the 183x decade] provide detailed family information.
+There are approximately 11,000 marriage records in this database.  Some
+duplicate records exist, since a marriage may have been reported in two
+parishes or in two different reporting years.
+
+Most of the St. Petersburg Lutheran Consistory Archive records were organized
+and reported by Parish rather than by individual colony.  This is especially
+true for the Marriage Records.  Therefore, your ancestors' marriage, while it
+probably occurred in their home colony, will usually be reported as if it
+occurred elsewhere.  The usual Bessarabian parishes found in the records were
+[in order of appearance]:  Sarata, Arcis, Fere Champenoise [Alt-Elft],
+Tarutino, and Kloestitz. The smaller parishes of Kischinew [Kischineff] [1844+]
+and Benkendorf [1869+] also appear later in the records.
+
+There are gaps in the St. Petersburg records--entire years and some individual
+parishes in other years.  The missing data can often be found on local colony
+and parish records on other films taken by the LDS Church.  It is planned to
+fill in the gaps by researching these other films, but that effort is in its
+early stages.  When it is completed, these other records will be added to the
+Bessarabian Marriage database and a Volume II hardcopy will be produced.  The
+gaps identified are as follows [by Parish]:
+
+   Sarata Parish - all records before 1833; 1844 [23 Nov 1843-22 Jan 1845];
+   1849 [2 Dec 1848-27 Dec 1849]; 1865-1866 [13 Dec 1864-5 Jan 1867]; 1872-1874
+   [2 Dec 1871-23 Jan 1875];1880 [30 Nov 1879-11 Dec 1880]; all after Dec 1885.
+      
+   Arcis Parish - all records before 1833; 1844 [25 Nov 1843-4 Jan 1845]; 1849
+   [16 Dec 1848-29 Dec 1849]; 1865-1866 [31 Dec 1864-5 Jan 1867]; 1872-1873
+   [30 Dec 1871-3 Jan 1874]; 1880 [27 Dec 1879-2 Jan 1881]; all after Dec 1885.
+
+   Fere Champenoise Parish - all records before 1833; 1844 [25 Nov 1843-4 Jan 1845];
+   1849 [2 Dec 1848-1 Dec 1849]; 1865-1866 [4 Dec 1864-30 Dec 1866]; 1869 [27 Dec 1868
+   -1 Jan 1870]; 1872-1873 [3 Dec 1871-7 Feb 1874]; 1880 [12 Nov 1879-2 Jan 1881];
+   all after Dec 1885.
+
+   Tarutino Parish - all records before 1833; 1842 [4 Dec 1841-27 Dec 1842];
+   1844 [16 Dec 1843-28 Dec 1844]; 1849 [25 Nov 1848-27 Nov 1849]; 1865-1866
+   [18 Dec 1864-22 Jan 1867]; 1872-1873 [late Dec 1871-28 Dec 1873]; 1880
+   [29 Dec 1879-29 Dec 1880]; all after Dec 1885.
+  
+   Kloestitz Parish - all records before 1833; 1842 [29 Dec 1841-5 Jan 1843];
+   1844 [9 Dec 1843-28 Dec 1844]; 1849 [2 Dec 1848-22 Dec 1849]; 1864-1866
+   [28 Nov 1863-1 Dec 1866]; 1872-1873 [19 Dec 1871-3 Jan 1874]; 1880
+   [29 Dec 1879-1 Jan 1881]; all after Dec 1885.
+
+   Kischinew Parish - all records before 1844; most years until 1863; 1872-1873
+   [26 Dec 1871-14 Jan 1874]; 1880 [11 Dec 1879-10 Feb 1881]; all after Dec 1885.
+
+   Benkendorf Parish - all records before 1869; 1872-1873 [26 Dec 1871-31 Dec 1873];
+   1877-1878 [28 Dec 1876-4 Jan 1879]; 1880 [30 Dec 1879-26 Sep 1880]; all after
+   Dec 1885.
+
+Family name spellings often "evolved" through time; therefore, surname
+spellings have NOT been standardized, but appear as translated from the German
+script by the extractors.  The accuracy of the translations is affected by the
+penmanship of the scribes who wrote the records, as well as the fact that
+these records were transcribed from local church records, thereby adding to the
+possibility of spelling errors.
+____________________________________________
+Thomas A. Stangl, Sterling VA, January, 1997.
+
+Groom                           Marr.  Year Bride                            Place            Film/It   Reg Pge Groom Remarks                                         Bride Remarks                                            Remarks
+
+Adam, Johann                    12 Feb 1835 Hochstrasser, Christina          Tarutino         1882645/2  26 123 19y,Beresina [s +Gottlieb]                            16y,b Kloestitz [d +Christian]
+Adam, Johann                    17 Mar 1836 Bauer, Regina                    Tarutino         1882646/2  12 162 22y,b enrte frm Pol [widower] [s +Gottlieb]           18y,b Wue [d Jakob Friedrich]                            both BrsnaKol
+Adolph, Wilhelm                 23 Dec 1839 Maier, Augustina                 Alt Arcis        1882649/3  43  58
+Aelt, August                    25 Nov 1839 Lorg, Johanna                    Tarutino         1882649/3  63 146
+Albrecht, Friedrich             28 Oct 1837 Hansen, Margaretha               Sarata           1882647/3  17  41
+Albrecht, Jacob                  9 Oct 1834 Bechtle, Henrike                 Sarata           1882643/1  12 119
+Albrecht, Johann                 6 Sep 1835 Kelm, Rosina                     Alt Arcis        1882645/2  21  77                                                       widow; gb Steinke
+Albrecht, Wilhelm                9 Oct 1839 Kelm, Wilhelmina                 Alt Arcis        1882649/3  38  58
+Amend, Franz                    21 Oct 1834 Ruge, Caroline                   Leipzig          1882643/1  40 177 22y, b Poland [s +Valentin]                           17y, b Kulm [d Christian]
+Arlt, Gottfried Erdmann         19 Feb 1835 Fueller, Philippina              Tarutino         1882645/2  28 123 20y,Frdnstl,b Sagan?,f-Gttfrd                         18y,b Borodino [d +Sebastian]
+Arndt, Karl                     12 Apr 1838 Schnepf, Elisabeth               Alt Arcis        1882648/2  18  36
+Arndt, Ludwig                   10 Feb 1838 Ponto, Luisa                     Alt Arcis        1882648/2   7  36
+Aschenheimer, Friedrich         29 Aug 1835 Schoepp, Henriette               Tarutino         1882645/2  48 128 19y,TarutinoKol,b Trtno [s +Jakob]                    23y,b Zeibere/Prussia [d +August]
+Augst, Carl                     14 Feb 1833 Eckert, Justina Carolina         Gnadenthal       1792290/2   4  65
+Baesler, Johann                 27 Dec 1836 Hund, Louise                     Tarutino         1882646/2  42 165 19y [s Peter]                                         16y [d +Michael]                                         both b Leipzig
+Baesler, Paul                    8 Jan 1833 Bertski, Rosina                  Leipzig          1883193/2  36 118
+Baier, Johann                   21 Oct 1837 Wolf, Rosine                     Alt Arcis        1882647/3  44  62
+Baierbach, Johann               19 May 1838 Bauer, Elisabeth                 Alt Arcis        1882648/2  23  36
+Baierbach, Philipp              24 Jun 1834 Keller, Charlotte                Katzbach         1882643/1  32 148 20y, b Poland [s Michael]                             18y, b Katzbach [d +Martin]
+Bandel, Johann                   6 Sep 1838 Knauer, Rosine                   Sarata           1882648/2  12   8                                                       gb Mak
+Banik, Christoph                26 Jan 1839 Gruenwald, Florentina            Alt Arcis        1882649/3   4  57
+Banik, Michael                  10 Feb 1838 Walker, Salome                   Alt Arcis        1882648/2   6  36
+Bartel, Martin                   4 Feb 1837 Lobe, Eva                        Tarutino         1882647/3  13 100 27y,KlmKol,bPol [sMartin]                             18y,KlmKol [dLdgBrgrmstr]
+Bast, Ludwig                    12 Feb 1835 Rueb, Catharina                  Sarata           1882645/2   5  32 frm Toeplits                                          frm Gnadenthal
+Bauch, Matthias                 30 Dec 1834 Erdmann, Caroline Wilhelmine     Tarutino         1882643/1  63 176 23y, b Poland [s Andreas]                             18y, b Tarutino [d Johann]
+Bauer, Andreas                  30 Sep 1834 Juengling, Katarina              Neu Elft         1882643/1  23 147 25y, wid, b Poland [s Konrad]                         20y, b Poland [d +Christian]
+Bauer, Jakob Frdrh              23 Jun 1835 Rath, Elisabeth                  Kulm             1882645/2  41 124 21y,BeresinaKol,b Besigheim [s Jak Frdrh]             20y,b Beresina [d +Johannes]
+Bauer, Jakob Frdrh              19 May 1836 Hildwein, Christina              Tarutino         1882646/2  25 163 50y,BrsnKol,b Besigheim/Wu [widower] [s+ChrstphLrnz   46y,b Neubrueck/Wue [d Georg]; gb Launer
+Baumann, Johann David           26 Jan 1838 Oswald, Rosine                   Sarata           1882648/2   1   8
+Baumann, Johann Philipp         19 Jul 1838 Laib, Dorothea Margaretha        Sarata           1882648/2   9   8
+Bech, Christoph                 25 Sep 1836 Kupke, Christine                 Tarutino         1882646/2  34 164 21y,b Kulm [s +Johann]                                18y,b Leipzig [d Johann]                                 both LeipzigKol
+Becker, Friedrich               14 Nov 1835 Meister, Agnes Maria             Tarutino         1882645/2  65 127 23y,BrsnaKol,b Plotzk [s +Gottlieb]                   19y,AElftKol,b enrout Po [d +Johann]
+Becker, Gottlieb                27 May 1835 Jarcho, Dorothea                 Tarutino         1882645/2  37 129 30y,BeresinaKol,b Pol [s +Gottlieb]                   17y,b Trtno [d +Carl]
+Becker, Johannes                24 Jan 1837 Mammel, Justina                  Kloestitz        1882647/3   7  99 22y [sJohannes]                                       17y [d+Jakob]                                            KlostitzKols
+Becker, Wilhelm                 11 Feb 1837 Ruge, Anna Caroline              Alt Arcis        1882647/3  18  61
+Beierbach, Philipp              13 Feb 1836 Ruff, Christine                  Alt Arcis        1882646/2  35 118
+Bender, Friedrich                4 Mar 1837 Fossler, Anna Maria              Alt Arcis        1882647/3  24  61
+Berg, Jacob                      3 Apr 1839 Berg, Catharina                  Alt Arcis        1882649/3  17  57 [s Jacob]                                             [d Johann]
+Berkholz                        15 Jul 1836 Floeter, Carolina                Tarutino         1882646/2  28 164 25y,KulmKol,b Po [Birkholz], Michael [s Michael]      16y,BrsnaKol,b Beresina [d Gottlieb]
+Biech, Michael                  21 Nov 1835 Grams, Eleonore                  Tarutino         1882645/2  68 127 29y,KulmKol,b Pol [s Jakob]                           16y,b Poland [d +Christoph]
+Bietz, Friedrich                 7 Feb 1833 Bohnet, Anna Maria               Alt Posttal      1883193/2  19 117
+Bihlmaier, Johann Georg          5 Feb 1833 Ehrenfeld, Rosina                Gnadenthal       1792290/2   3  65
+Birkholz, Ludwig                16 Aug 1837 Drath, Eleonore                  Alt Arcis        1882647/3  38  62                                                       widow Suckert
+Blaskowski, Johann              27 Jan 1838 Krueger, Louisa                  Alt Arcis        1882648/2   4  36
+Blaskowski, Peter               31 Oct 1836 Martin, Caroline                 Alt Arcis        1882646/2  58 119
+Blatter, Balthasar              30 Jan 1834 Schmidt, Anna Maria              Sarata           1882643/1   1 119
+Bobermin, Gottlieb              16 Nov 1838 Kupke, Karolina                  Tarutino         1882648/2  64  84
+Bobermin, Karl                  24 Aug 1833 Buettner, Mariane                Culm             1883193/2  30 118 widower                                               widow
+Bobermin, Michael               22 Apr 1837 Hetke, Anna                      Kulm             1882647/3  33 104 53y,KulmKol,b Pol [widower] [s +Michael]              46y,b Prussia [d +Michael]
+Boeglau, Michael                23 Jan 1838 Rode, Rosina                     Tarutino         1882648/2   6  83
+Boelke, Christian               29 Jul 1837 Friske, Elisabeth                Alt Arcis        1882647/3  36  61
+Boepple, Johann                  3 Dec 1836 Phaser, Louise                   Alt Arcis        1882646/2  61 119
+Boettcher, Christoph            16 Apr 1835 Schielke, Carolina               Tarutino         1882645/2  32 129 23y,b Pol [s Peter]                                   16y,b Trtno [d Friedrich]                                both TarutinoKol
+Boettcher, Ludwich              23 May 1839 Hoffmann, Wilhelmina             Tarutino         1882649/3  42 146
+Boettcher, Michael              22 Jun 1839 Moeske, Luisa                    Alt Arcis        1882649/3  24  57
+Boettcher, Peter                22 Jan 1835 Stumpf, Catharina                Tarutino         1882645/2  15 130 21y,b Pol [s Peter]                                   18y,b Trtno [d Jakob]                                    both TrtnoKol
+Boettger, Christian             30 Dec 1834 Henneberger, Louisa              Kulm             1882643/1  65 173 30y, wid.,b Poland                                    18y, b Kulm [d Christian]
+Boettger, Christoph              3 Feb 1833 Schimke, Eva                     Culm             1883193/2  21 118 widower
+Boettiger, Johann               22 Nov 1836 Rauhut, Carolina                 Tarutino         1882646/2  38 165 26y,KulmKol,b Pol [s +Christoph]                      19y,b Leipzig [d Georg]
+Boger, Friedrich                16 May 1837 Herzge, Christine                Kloestitz        1882647/3  39 105 30y,KlsttzKol,b nr Heilbronn [widower][s Grg Michael] 18y,BrdnoKol [d +Martin]
+Bohnet, Bernhard                22 Jan 1833 Theurer, Christina               Alt Posttal      1883193/2  18 117
+Bohnet, Bernhard                 6 Apr 1833 Hauser, Barbara                  Wittenberg       1883193/2  14 117
+Bohnet, Georg                   18 Jul 1837 Lang, Johanna Juliane            Wittenberg       1882647/3  47 107 25y,b Ndrf [s +Christian]                             18y,FrdnsthlKol,b Gruenberg/Pr [d Franz]
+Bohnet, Gottlieb                27 Nov 1834 Eberle, Anna Catharina           Tarutino         1882643/1  52 175 22y, b Poland [s Michael]                             19y, b Wittenberg [d Johann]
+Bohnet, Johannes                24 Dec 1838 Rath, Barbara                    Tarutino         1882649/3   5 145
+Bomm, Christoph                 15 Aug 1837 Schon, Christina                 Beresina         1882647/3  49 107 34y,BrsnaKol,b Lenschuetz [widower] [s +Michael]      21y,b Louisenfeld/Hung [d Georg]
+Bonnet, Johannes                14 May 1835 Hochstrasser, Anna               Tarutino         1882645/2  38 124 GlkstlKol,b Baden [widower]                           22y,KlsttzKol,b Poland [d +Christian]
+Bork, August                     4 Feb 1835 Kelm, Louise                     Alt Arcis        1882645/2   3  76
+Borth, Michael                  22 Nov 1838 Motzenberger, Barbara            Alt Arcis        1882648/2  54  37
+Brandt, Gottfried               24 Jan 1835 Briske, Justine                  Tarutino         1882645/2  17 130 26y,LeipzigKol,b Po [sBartholomaeus                   18y,b Trtno [d Martin]
+Brauer, Daniel                  29 Mar 1836 Gohl, Anna Maria                 Alt Arcis        1882646/2  37 118
+Braun, Ferdinand                 5 Feb 1835 Redmann, Eva                     Tarutino         1882645/2  24 123 22y,Leipzig,b Warsaw [s +Gottfried]                   18y,b Leipzig [d +Johann]
+Braun, Wilhelm                  10 Feb 1838 Schulz, Katharina                Tarutino         1882648/2  12  83
+Breitmeier, Christian           12 Jun 1834 Haug, Barbara                    Toeplitz         1882643/1  11 146 26y, b Wue [s Jacob]                                  20y, b Wue [d Johannes]
+Brenner, Christoph              29 Jan 1835 Schmidt, Catharina               Sarata           1882645/2   3  32
+Brenner, Johann                 23 Feb 1837 Singer, Salome                   Sarata           1882647/3   3  41
+Brenner, Johann Anton           16 Apr 1833 Mueller, Crescentia              Sarata           1792290/2   3  63
+Brenner, Johannes                2 Dec 1834 Ruge, Heinrietta                 Neu Elft         1882643/1  24 147 22y, b Poland [s Georg]                               18y, b Kulm [d +Christian]
+Broneske, Johann                18 May 1833 Friedrich, Anna Elisabeth        Paris            1792290/2   1 121 18y, b Moldau [s Johann]                              26y, b Poland [d +Friedrich]
+Bross, Friedrich                28 Nov 1839 Schlenker, Katharina             Tarutino         1882649/3  67 146
+Brost, Adam                     21 Jan 1836 Sauter, Anna Maria               Tarutino         1882646/2   4 161 21y,APsttlKol,b Pol [s Michael]                       19y,WttnbrgKol,b Wttnbrg [d Georg]
+Brunnenkant, Philipp            10 Jun 1837 Engel, Dorothea                  Tarutino         1882647/3  44 106 24y,b nr Laenschuetz/Po [s +Andreas]                  18y [d Jakob]                                            both KlsttzKol
+Brunsch, Frdrch Wm              21 Jan 1837 Gill, Caroline                   Tarutino         1882647/3   4  98 20y,b16y [s Samuel]                                   TrtnoKols [dChrstn]
+Bublitz, August                 14 Feb 1837 Drath, Caroline                  Tarutino         1882647/3  15 100 20y [s Christian]                                     16y [d +Jakob]                                           both TrtnoKol
+Buch, Christian                 28 Nov 1839 Treuchel, Maria                  Tarutino         1882649/3  74 146
+Buchholz, Johann                18 Apr 1839 Kittler, Wilhelmina              Tarutino         1882649/3  28 146
+Buchweitz, Philipp               3 Oct 1839 Zarbock, Wilhelmina              Tarutino         1882649/3  59 146
+Buda, Christian                 10 Jul 1839 Weinstock, Elisabeth             Tarutino         1882649/3  49 146
+Buechele, Bernhard              22 Nov 1838 Schaufelberger, Appolonia        Sarata           1882648/2  13   8
+Burgermeister, Adam             28 Nov 1835 Finkbeiner, Katharina            Alt Arcis        1882645/2  29  77
+Burkhard, Johann Georg           6 Nov 1834 Herold, Christina Dorothea       Tarutino         1882643/1  45 178 25y, b Wue [s+JohGeorg]                               17y, b Wittenberg [d +Franz]
+Daiss, Johan                     2 May 1833 Bilmaier, Christina              Gnadenthal       1792290/2   5  65
+Dallmann, Michael               13 Feb 1833 Hiller, Christina                Culm             1883193/2  24 118 widower
+Dallmann, Michael               30 Dec 1834 Neumann, Justine                 Tarutino         1882643/1  64 176 36y, wid., b Poland                                   36y, wid. Lange, b Poland [d +Michael]
+Damaschke, Johann Gottlob        3 May 1833 Kubi, Justine                    Kloestitz Parish 1883193/2   8 136
+Decker, Christoph                1 Jul 1837 Gutz, Rhenute                    Alt Arcis        1882647/3  35  61
+Deckert, Christian              29 Apr 1837 Sperling, Susana                 Tarutino         1882647/3  35 104 60y,KulmKol,b Pr [widower] [s +Christoph]             56y,b Prussia [d +Johann]; gb Geisler
+Deisinger, Bartholomaeus        29 Sep 1836 Klan, Maria Dorothea             Sarata           1882646/2  12  41                                                       [Klaw?]
+Deisler, Joseph                  9 Oct 1838 Reichert, Regina                 Alt Arcis        1882648/2  45  37
+Deiss, Israel                   12 Apr 1838 Gaiser, Maria                    Alt Arcis        1882648/2  17  36                                                       gb Bahnmueller
+Deuschle, Friedrich             29 Sep 1838 Marx, Beata                      Alt Arcis        1882648/2  43  37
+Deutsch, Friedrich              12 Nov 1833 Schimming, Karolina              Kloestitz Parish 1883193/2  21 136
+Dieno, Johann                   22 Apr 1837 Banoehr, Wilhelmine              Kulm             1882647/3  34 104 22y,NaussauKol [s Johann]                             18y,KulmKol [d Gottfried]
+Dieterich, August               25 Nov 1839 Wagner, Sophia                   Tarutino         1882649/3  65 146
+Dieterle, Johannes               5 Jun 1838 Drexler, Luisa                   Tarutino         1882648/2  38  84
+Dietrich, Johann                30 Mar 1839 Hornung, Magdalena               Alt Arcis        1882649/3  15  57
+Dietrich, Johann                21 Dec 1839 Priebe, Rosina                   Alt Arcis        1882649/3  41  58 [widower]
+Dietrich, Johann                22 Jan 1835 Stollsteiner, Helena             Tarutino         1882645/2  14 122 22y,Borod,b Warsaw [s Daniel]                         16y,b Borodino [d +Stephan]
+Dobberstein, Ludwig             18 Jan 1837 Bock, Caroline                   Tarutino         1882647/3   2  98 35y.KlmKolbPol                                        16y,TrtnKol [dAndreas]
+Dobler, Michael                 22 Jan 1835 Wirth, Wilhelmina                Sarata           1882645/2   1  32 frm Toeplits                                          frm Gnadenthal
+Dobrowotsky, Cajetan            21 Jan 1837 Baier, Anna Louise               Alt Arcis        1882647/3  12  61
+Doebler, Jacob Adam             25 May 1838 Schorr, Caroline                 Sarata           1882648/2   6   8
+Doering, Gottlieb               11 Oct 1835 Lobe, Karolina                   Tarutino         1882645/2  57 125 29y,KulmKol,b Pol [widower] [s Johann]                17y,b Kulm [d +Gottlieb]
+Doering, Ludwig                  1 Oct 1835 Mueller, Louise                  Tarutino         1882645/2  55 125 21y,KulmKol,b Pol [s Johann]                          16y,b Tarutino [d Christian]
+Doering, Samuel                 28 Sep 1834 Mewes, Maria                     Tarutino         1882643/1  36 180 22y, b Poland [s Johann]                              16y, b Kulm [d Friedrich]
+Doerrmann, Jakob                27 Dec 1834 Golz, Christina                  Tarutino         1882643/1  61 176 21y, b Poland [s Martin]                              22y, b Poland [d +Johann]
+Dorsch, Georg Michael           23?Apr 1839 Neumann, Elisabeth               Sarata           1882649/3   5 106
+Dorsch, Georg Michael           20 Apr 1839 Neumann, Elisabeth               Tarutino         1882649/3  32 146
+Duerr, Friedrich                 9 Sep 1837 Schilke, Caroline                Alt Arcis        1882647/3  40  62
+Dumdei, Franz                   26 Apr 1834 Hartmann, Caroline               Tarutino         1882643/1  16 181 25y, b Poland [s +Christoph]                          17y, b Leipzig [d Gottlieb]
+Eberle, Gottfried               17 May 1838 Doerrmann, Katharina             Alt Arcis        1882648/2  22  36
+Eckert, Gottlob                 14 Jul 1836 Bandel, Magdalena                Sarata           1882646/2  10  41
+Eckert, Jakob                    1 Nov 1838 Necker, Christina                Tarutino         1882648/2  54  84
+Ehmann, Georg                   10 Jul 1839 Schrank, Heinrietta              Tarutino         1882649/3  46 146
+Ehni, Carl                       5 Jun 1834 Kuehlmann, Barbara               Tarutino         1882643/1  23 182 32y, wid., b Wue [s +Johannes]                        32y, b nr Marbach [d +Georg Adam]
+Ehni, Gottlob                   21 May 1839 Vogel, Luise                     Tarutino         1882649/3  35 146
+Ehresmann, Georg                 5 Apr 1838 Braendtelin, Karolina            Alt Arcis        1882648/2  12  36
+Ehrmann, Christian               6 Oct 1838 Hinz, Beata                      Alt Arcis        1882648/2  44  37                                                       gb Boschitzki
+Eichelberg, Michael              4 Jan 1837 Welk, Caroline                   Alt Arcis        1882647/3   1  61
+Elhard, Gottfried               21 May 1839 Heidinger, Rosina                Tarutino         1882649/3  37 146
+Engel, Christoph                15 Oct 1836 Orlowski, Eva Rosine             Alt Arcis        1882646/2  56 119
+Engel, Friedrich                28 Aug 1834 Widmer, Barbara                  Kloestitz        1882643/1  31 180 25y, b near Lenschuetz/Po [s Jakob]                   18y, b Wittenberg [d Jakob]
+Ensle, Peter                    24 Dec 1838 Heier, Katharina                 Tarutino         1882649/3   4 145
+Epler, Johannes                 25 Jul 1833 Heidelsperger, Katharine         Teplitz          1792290/2   4  97 b Poland [s +Johannes]                                b Beresina [d +Jacob]
+Ernst, Alexander                 6 Mar 1834 Zeller, Elisabetha               Sarata           1882643/1   5 119
+Ernst, Alexander                22 Sep 1838 Grueneich, Anna Rosina           Alt Arcis        1882648/2  41  37
+Ernst, Georg Friedrich          14 Oct 1834 Stern, Wilhelmine                Tarutino         1882643/1  39 177 29y, wid., b Wue [s+JohGg]                            27y, b Wittenberg [d Jakob]
+Esslinger, Jakob                18 Jan 1835 Schilling, Elisabeth             Tarutino         1882645/2   9 122 23y,Klsttz,b Pol [s +Georg]                           20y,b Pol [d Michael]
+Esslinger, Johann               23 Feb 1833 Bohnet, Anna Maria               Kloestitz Parish 1883193/2   6 136
+Faelscher, Johann               15 Feb 1838 Weizel, Luisa                    Alt Arcis        1882648/2   8  36
+Falkenberg, Friedrich           30 Jun 1838 Kuck, Elisabeth                  Alt Arcis        1882648/2  31  37                                                       gb Jung
+Fandrei, Wilhelm                16 Nov 1838 Guse, Wilhelmina                 Tarutino         1882648/2  63  84
+Fandrich, Daniel                15 Jan 1833 Fredrich, Louisa                 Tarutino         1883193/2   1 117
+Farofski, Johann                 1 Jan 1835 Schmolke, Rosina                 Tarutino         1882645/2   1 131 25y,KulmKol,b Pol [s +Andreas]                        38y,b Poland [d +Michael]; gb Bomm
+Fecho, Jacob                    11 Feb 1835 Albrecht, Anna Carolina          Alt Arcis        1882645/2   6  76 may be Fercho or Fix [Fercho?]
+Fedorowitsch, Jakob             23 Apr 1835 Rolle, Eleonore                  Alt Arcis        1882645/2  10  76
+Fickel, Daniel                  22 Jan 1833 Zeller, Christiana               Gnadenthal       1792290/2   1  65
+Fickel, Jacob                   17 Feb 1837 Wirth, Friedrike                 Sarata           1882647/3   2  41
+Fischer, Abraham                19 Oct 1837 Rheinhardt, Magdalene            Sarata           1882647/3  15  41
+Fischer, Abraham                17 Apr 1839 Balmer, Margaretha               Alt Arcis        1882649/3  18  57
+Fischer, Abraham                23?Apr 1839 Balmer, Margarethe               Sarata           1882649/3   3 106
+Fischer, Christian Jacob        12 Jun 1839 Spring, Catharine Margaretha     Sarata           1882649/3  12 106
+Fischer, Martin                 24 Jan 1838 Guenter, Rosina                  Tarutino         1882648/2   8  83
+Flaig, Bernhard                 24 Dec 1838 Walz, Katharina                  Tarutino         1882649/3   6 145
+Flaig, Christoph                27 Nov 1834 Kalmbach, Friederike             Tarutino         1882643/1  53 175 31y, wid., b Poland [s Christoph]                     18y, b Wittenberg [d Johann Georg]
+Flaig, Johann                    2 Oct 1839 Koenig, Barbara                  Tarutino         1882649/3  57 146
+Fode, Gottfried                 18 Jan 1835 Ziegler, Dorothea                Tarutino         1882645/2  11 122 25y,APstl,b Po [s Gottfried]                          19,b APstl [d Georg]
+Fode, Karl                      24 Jan 1838 Ensle, Christina                 Tarutino         1882648/2   7  83
+Forkert, Christian               8 Oct 1839 Kern, Luisa                      Alt Arcis        1882649/3  37  58                                                       gb Hanke  [widow]
+Franz, Heinrich                 14 Sep 1834 Salzsiedler, Elisabeth           Alt Arcis        1882643/1   4 145 21y, b Poland [s Johann]                              17y, b Moldau [d +Jacob]
+Fredrich, Christian             18 Sep 1833 Hammel, Charlotte                Tarutino         1883193/2   7 117
+Frei, Johann Georg               1 Jan 1835 Buchholz, Susanna                Tarutino         1882645/2   5 131 36y,AElftKol,b Wue [widower] [s+Bernhard]             20y,TrtnoKol,b Trtno [d Christian]
+Frei, Philipp                    8 Nov 1834 Dammel, Johanna                  Toeplitz         1882643/1  14 146 35y, wid, b near Wiesbaden [s +Johannes]              22y, b Wue [d Georg Adam]
+Freier, Martin                  16 Feb 1836 Walz, Dorothea                   Tarutino         1882646/2   9 161 21y,LiepzigKol [s +Gottfried]                         18y,WttnbrgKol,b Wttnbrg [d Martin]
+Freimuth, Jakob                 30 Nov 1839 Vuessle, Amalia                  Tarutino         1882649/3  82 147
+Freitag, Christopn              20 May 1836 Bech, Rosina                     Tarutino         1882646/2  26 163 24y,FrdnsthlKol,b Po [s +Michael]                     17y,KulmKol,b Kulm [d +Michael]
+Fried, Johann                   27 Nov 1839 Bobermin, Maria                  Tarutino         1882649/3  71 146
+Friedrich, Christian            17 Jun 1837 Zellmer, Anna Maria Theresia     Tarutino         1882647/3  45 106 42y,KlstttzKol,b Pr [widower] [s Christian]           34y,b nr Lenschuez/Pol [d+Martin]; gb Ziebart
+Friedrich, Philipp               5 May 1836 Flaig, Regina                    Tarutino         1882646/2  20 163 21y,APsttlKol,b APsttl [s +Carl]                      21y,WttnbrgKol,b Wttnbg [d +Jakob]
+Fritz, Jacob                     8 Jun 1834 Harter, Margaretha               Toeplitz         1882643/1  10 146 22y, b Wue                                            22y, b Wue [d Johannes]
+Fruck, Ludwig                    2 Sep 1834 Walz, Anna Maria                 Leipzig          1882643/1  32 180 20y, b Leipzig [s Johann]                             19y, b Wittenberg [d Andreas]
+Fuess, Christian Wendel         30 Sep 1835 Illg, Johanna                    Sarata           1882645/2  13  32
+Funk, Christian                  4 Oct 1839 Pahl, Anna                       Tarutino         1882649/3  54 146
+Gaeckle, Johann                 21 Mar 1837 Ruff, Maria                      Tarutino         1882647/3  27 103 26y,WttnbrgKol,b Rawa [s +Johann]                     34y,BrdnoKol,b nr Paisern [widow] gb Dieterle [d Martin]
+Gall, Johann                     8 Oct 1836 Griep, Dorothea                  Alt Arcis        1882646/2  54 119                                                       gb Hinz
+Ganzke, Friedrich               10 Feb 1839 Riske, Anna Rosina               Alt Arcis        1882649/3   7  57
+Gerling, Wilhelm                17 Nov 1838 Herrmann, Luisa                  Alt Arcis        1882648/2  52  37
+Gessler, Andreas                17 Nov 1836 Geigle, Magdalena                Sarata           1882646/2  13  41
+Getzinger, Christoph            21 Aug 1839 Rauther, Maria                   Tarutino         1882649/3  52 146
+Giermann, Christian             22 Jun 1838 Deling, Karolina                 Tarutino         1882648/2  42  84
+Giese, Samuel                    4 Feb 1836 Brunsch, Justine                 Tarutino         1882646/2   6 161 34y,LeipzigKol,b Pol [widower] [s Michael]            18y,TrtnoKol,b Trtno [d Johann]
+Giessler, Johann                10 Jul 1839 Messinger, Magdalena             Tarutino         1882649/3  44 146
+Glaessmann, Jacob               27 Dec 1834 Klittmann, Charlotte             Alt Elft         1882643/1  35 148 23y, b Poland [s +Johann]                             18y, b Moldau [d Gottlieb]
+Glass, Joseph                    7 Jun 1837 Priebe, Maria                    Wittenberg       1882647/3  41 105 32y,KulmKol,b Pol [widower] [s Gottfried]             38y,TrutnoKol,b Poland [widow] gb Dehling [d +Johann]
+Gleis, Joseph                   28 Nov 1839 Kohler, Katharina                Tarutino         1882649/3  76 147
+Goehner, Johannes               24 Dec 1838 Schulz, Anna                     Tarutino         1882649/3   8 145
+Goehring, Gottlieb              11 Jul 1833 Zahn, Rosina                     Kloestitz Parish 1883193/2  12 136
+Goener, Georg                   20 Sep 1834 Stahl, Friederike                Tarutino         1882643/1  35 180 24y, b Poland [s Georg]                               18y, b Beresina [d Friedrich]
+Goener, Gottlieb                28 Feb 1837 Hehr, Catharina                  Tarutino         1882647/3  22 101 22y,A-PsttlKol [s Johann]                             19y,WttnbrgKol [d Friedrich]
+Goener, Johann Georg            21 Oct 1834 Herrmann, Wilhelmine Catharina   Tarutino         1882643/1  41 177 44y, wid., b Wue [s+JohGeorg]                         27y, b Wue [d Daniel]
+Goener, Michael                 28 Apr 1835 Widmer, Catharina                Tarutino         1882645/2  35 129 23y,b Pol [s Johannes]                                21y,b Pol [d Johannes]                                   both WttnbrgKol
+Gottschalk, Martin              24 Dec 1838 Schwarz, Katharina               Tarutino         1882649/3   2 145
+Graessle, Gottlieb              26 Aug 1834 Schilling, Eva                   Borodino         1882643/1  30 179 20y, b Borodino [s +Engelhard]                        18y, b near Lenschuetz/Po [d Michael]
+Graumann, Gottlieb               4 May 1838 Deiske, Elisabeth                Tarutino         1882648/2  36  84
+Grieb, Johann                   16 Jan 1833 Martins, Wilhelmine              Neu Arcis        1792290/2   1  81 20y, b Prussia [s of Christoph]                       18y, b Kassel
+Griep, Friedrich                22 Apr 1836 Machau, Maria                    Alt Arcis        1882646/2  38 118
+Gross, Friedrich                21 Jan 1837 Mueller, Catharine               Alt Arcis        1882647/3   9  61
+Gross, Michael                  16 Jan 1833 Gerle, Katharina                 Alt Arcis        1792290/2   1  75 25y, b Poland [s of Michael]                          25y,widow, b Poland
+Grueneich, Friedrich             4 Apr 1838 Zahl, Maria                      Tarutino         1882648/2  25  83
+Grueneich, Johann               21 Jan 1837 Strohschein, Catharine           Tarutino         1882647/3   5  98 24y.FrdnstlKol,bPtrkau [s Daniel]                     19y,TrtnoKol [dChrtph]
+Guenther, Jakob                 25 Apr 1835 Liebelt, Anna Rosina             Tarutino         1882645/2  33 129 36y,WttnbrgKol,b Wue [wid] [s +Johann]                29y,TrtnoKol,b Poland [widow] gb Goldmann
+Gusse, Immanuel                  6 Nov 1836 Wudel, Eva Rosina                Tarutino         1882646/2  36 164 19y,b Kulm [s Martin]                                 16y,b Kulm [d +Martin]                                   both KulmKol
+Gusse, Martin                   23 Jun 1835 Broneske, Anna Rosina            Kulm             1882645/2  36 129 51y,KulmKol,b Prussia [s +Johann]                     41y,b Poland [d +Johann]; gb Schenkel
+Gust, Adam                      10 Feb 1838 Kliem, Anna Elisabeth            Tarutino         1882648/2  15  83
+Gutknecht, Samuel                9 Jan 1836 Sass, Helena                     Alt Arcis        1882646/2  32 118
+Gutsche, Christian              25 Feb 1837 Heinrich, Caroline               Alt Arcis        1882647/3  22  61
+Gutsche, Wilhelm                10 Feb 1835 Kern, Rosina                     Alt Arcis        1882645/2   4  76
+Gutz, Wilhelm                   22 May 1839 Weiss, Eva                       Tarutino         1882649/3  38 146
+Haag, David                      6 Apr 1833 Woelfle, Katharina               Wittenberg       1883193/2  15 117
+Haag, Konrad                    21 Feb 1839 Schwab, Katharina                Tarutino         1882649/3  14 145
+Haarbach, Gottfried              8 Jul 1834 Teschner, Justine                Alt Posttal      1882643/1  26 179 21y, b Poland                                         17y, b Leipzig [d Samuel]
+Haas, Friedrich                 26 Jan 1839 Haas, Eva                        Tarutino         1882649/3   9 145
+Haas, Friedrich                 28 Jan 1834 Baumann, Catharina               Wittenberg       1882643/1   5 183 29y, b Brackenheim/Wu [s Gottlob]                      B 21y,b Markgroeningen/Wu [d Georg]
+Haass, Friedrich                28 Jul 1835 Graul, Katharina                 Alt Arcis        1882645/2  17  76                                                       widow; gb Knodel
+Habelmann, Daniel                6 Feb 1836 Spielhak, Christine              Alt Arcis        1882646/2  33 118
+Habelmann, Johann               10 Sep 1836 Quast, Rosine                    Alt Arcis        1882646/2  51 119                                                       [widow] gb Sternberg
+Haecker, Johann Friedrich        4 Aug 1837 Dorsch, Christiana Dorothea      Sarata           1882647/3  11  41
+Haeger, Johannes                25 Nov 1839 Theurer, Margaretha              Tarutino         1882649/3  64 146
+Haes, Jakob                     25 Nov 1839 Krau, Friederike                 Tarutino         1882649/3  66 146
+Hag, Georg                      15 Nov 1838 Scherbinski, Anna                Tarutino         1882648/2  56  84
+Hahn, Gottlieb                   3 Sep 1835 Kurz, Eva Catharina              Sarata           1882645/2  12  32
+Hahn, Gottlob                   30 Apr 1836 Kitzler, Jakobine Katharine      Sarata           1882646/2   4  41
+Haller, Ludwig                  19 Sep 1837 Zindler, Catharine               Alt Arcis        1882647/3  42  62
+Hamann, Friedrich                2 Oct 1839 Lepkuchen, Anna Katharina        Tarutino         1882649/3  58 146
+Hammel, Wilhelm                  4 Sep 1834 Briske, Caroline                 Tarutino         1882643/1  33 180 22y, b Prussia [s Christian]                          16y, b Tarutino [d Gottlieb]
+Handel, Christoph               20 May 1837 Weingaertner, Christine          Alt Arcis        1882647/3  30  61
+Handel, Daniel                  17 Oct 1833 Schlaps, Elisabeth               Teplitz          1792290/2   5  97 b Wuert [s +Daniel]                                   b Poland [d +Gottfried]
+Hansen, Gottlieb                26 Oct 1837 Oberlander, Margaretha           Sarata           1882647/3  16  41
+Harder, Michael                  4 Jun 1835 Herrmann, Johanna Wilhelmine     Sarata           1882645/2   8  32
+Harmel, Gottfried               25 Mar 1837 Brandt, Anna Elisabetha          Tarutino         1882647/3  28 103 20y [s Gottlieb]                                      18y [dBartholomaeus                                      both LeipzigKol
+Hartmann, Johann Georg          29 Oct 1833 Hochstrasser, Margaretha         Kloestitz Parish 1883193/2  19 136
+Hasenfuss, Johann Gottfried     19 Sep 1833 Ruck, Carolina                   Gnadenthal       1792290/2   7  65
+Hasse, Ludwig                    2 Dec 1834 Wudel, Caroline                  Wittenberg       1882643/1  55 175 26y, wid., b Poland [s +Christoph]                    17y, b Kulm [d Martin]
+Hassert, Israel                 22 Jan 1835 Blatter, Magdalena               Sarata           1882645/2   2  32
+Hauff, Christian                11 Dec 1834 Weid, Maria                      Tarutino         1882643/1  56 175 28y, wid., b Poland [s +Georg]                        18y, b Leipzig [d Jakob]
+Haumnann, Johann                21 Jan 1837 Rosenau, Luise                   Alt Arcis        1882647/3  10  61
+Hausch, Joseph                  13 Oct 1838 Reichenberg, Anna                Tarutino         1882648/2  48  84
+Hausch, Joseph                  17 May 1834 Schoeller, Katarina              Friedensthal     1882643/1  29 148 33y, b Wue [s +Johannes]                              34y, wid, b Wue, fa-+Christian; gb Ott
+Hauser, Christian               21 Oct 1837 Kuebler, Anna                    Tarutino         1882647/3  58 109 23y [s Matthias]                                      21y [d +Jakob]                                           both WttnbrgKol
+Hauser, Friedrich               19 Oct 1837 Propenauer, Catharina            Tarutino         1882647/3  56 108 25y,WttnbrgKol,b Pol [s Matthias]                     17y,BrdnoKol [d Wilhelm]
+Hedt, Gottlieb                  10 Feb 1833 Schwanz, Anna Christina          Neu Arcis        1792290/2   3  81 22y, b Poland [s of Johann]                           17y, b Moldau [d Peter]
+Hehn, Andreas                   15 Nov 1834 Arndt, Juliana                   Tarutino         1882643/1  50 178 23y, b Plock/Po [s +Andreas]                          17y, b Leipzig [d +Friedrich]
+Heiden, Georg                   27 Feb 1839 Hoff, Catharina                  Alt Arcis        1882649/3  10  57
+Heidinger, Jakob                13 Feb 1838 Ruf, Elisabeth                   Tarutino         1882648/2  18  83
+Heier, Christian                28 Mar 1839 Bietz, Christine                 Tarutino         1882649/3  19 145
+Heier, Jakob                    25 Jan 1838 Hoffmann, Friedrika              Tarutino         1882648/2  10  83
+Heim, Christian                 18 Feb 1835 Roeder, Wilhelmina               Tarutino         1882645/2  27 123 18y [s +Georg]                                        17y [d Christoph]                                        both b Tarutino
+Heim, Johann                     3 Oct 1839 Kundt, Luise                     Tarutino         1882649/3  62 146
+Heim, Johann Georg              27 Feb 1834 Hildebrandt, Rosine              Tarutino         1882643/1  10 184 22y, b Poland [s Johann]                              20y, b Poland [d Johann]
+Hein, Georg                     28 Mar 1839 Schmeichel, Barbara              Tarutino         1882649/3  24 145
+Hein, Jakob                     12 May 1836 Dalk, Carolina                   Tarutino         1882646/2  22 163 23y,b nr Kulm/Po [s Georg]                            23y,b Pol [d Christian]                                  both BrdnoKol
+Hein, Johann                    21 Feb 1837 Giessler, Maria                  Beresina         1882647/3  18 101 23y,FrdnstlKol,b nr Perlemberg [s Johann]             21y,BrdnoKol [d Friedrich]
+Hein, Michael                   28 Nov 1839 Voelkert, Katharina              Tarutino         1882649/3  80 147
+Heinrich, Georg                 23 Jul 1833 Kliehm, Anna                     Culm             1883193/2  28 118 widower                                               widow
+Heinzelmann, Johann Georg       28 Nov 1839 Finkbeiner, Anna Maria           Tarutino         1882649/3  77 147
+Heisch, Jacob                   25 Jun 1836 Kurz, Christine                  Alt Arcis        1882646/2  46 118
+Heller, Michael                 28 Nov 1839 Flaig, Katharina                 Tarutino         1882649/3  70 146
+Henne, Michael                  20 Jun 1837 Schulz, Louise                   Kulm             1882647/3  46 106 22y,b Neudorf [s Georg]                               18y [d Gottfried]                                        both KlstitzKol
+Henning                         19 Apr 1836 Adam, Christine                  Tarutino         1882646/2  19 163 42y,AArcisKol,b nr Kalisch/Po [widower] [s +Michael]  46y,BrsnKol,b Po [d +Georg]; gb Wagner
+Hensel, Johann                  28 Mar 1839 Justawitz, Wilhelmine            Tarutino         1882649/3  23 145
+Herberg, Martin                  7 Jan 1837 Schaendler, Anna Christine       Alt Arcis        1882647/3   2  61
+Herrmann, Johann                 4 Feb 1837 Blum, Anna Maria                 Alt Arcis        1882647/3  16  61
+Herrmann, Johann Georg           1 Jun 1839 Sackmann, Catharine              Sarata           1882649/3   9 106
+Herrold, Andreas                 3 Oct 1839 Matiks, Anna Elisabeth           Tarutino         1882649/3  61 146
+Hess, Georg                     13 Nov 1834 Hauff, Eva                       Tarutino         1882643/1  48 178 24y, b near Worms [s Adam]                            18y, b Wittenberg [d Daniel]
+Hess, Jakob                     28 Oct 1834 Arld, Johanna Rosina             Tarutino         1882643/1  43 177 20y, b Borodino [s Jakob]                             18y, b Poland [d Gottfried]
+Heth, Christoph                 15 Feb 1838 Janke, Karolina                  Alt Arcis        1882648/2   9  36
+Heth, Daniel                    27 Dec 1838 Kruckenberg, Katharina           Alt Arcis        1882648/2  57  37
+Heth, Ludwig                    18 Nov 1837 Mittelstaedt, Henriette          Tarutino         1882647/3  69 111 23y,b nr Posen [s +Martin]                            17y [d +Johann]                                          both TrtnoKol
+Heubach, Johann Wilh.           22 May 1834 Vogel, Christine                 Sarata           1882643/1   6 119
+Heubach, Joseph Friedr.         25 Sep 1834 Wirth, Maria Agnes               Sarata           1882643/1  10 119
+Hilber, Johann                  14 May 1836 Rode, Anna Louise                Alt Arcis        1882646/2  40 118
+Hildebrand, Michael             22 May 1839 Radke, Luise                     Tarutino         1882649/3  39 146
+Hildebrandt, Karl Michael       27 Jan 1833 Tim, Anna Christina              Neu Arcis        1792290/2   2  81 20y, b Moldau [s Christ.]                             17y [d Johann]
+Hiller,                         nodate 1836                                  Alt Arcis        1882646/2  42 118                                                                                                                Married on trip thru A-A, no other info
+Hiller, Michael                 10 Feb 1838 Krause, Wilhelmina               Tarutino         1882648/2  13  83
+Hillius, Ignatz                 15 Feb 1837 Gruesle, Louise                  Tarutino         1882647/3  20 101 23y NElftKol,b enroute [s Johann]                     19y,BrdnoKol [d +Engelhard]
+Hinz, Christoph                  7 Jul 1838 Weber, Anna                      Tarutino         1882648/2  45  84
+Hinz, Jakob                      6 Aug 1835 Lobe, Justine                    Tarutino         1882645/2  45 124 28y,KulmKol,b Pol [s Jakob]                           17y,b Kulm [d +Christian]
+Hinz, Johann                    27 Nov 1839 Tiede, Rosina                    Tarutino         1882649/3  72 146
+Hinz, Samuel                    23 Jun 1835 Lock, Christiana                 Kulm             1882645/2  42 124 22y,LeipzigKol,b nr Pultusk [s Michael]               18y,b Leipzig [d +Franz]
+Hirschkorn, Friedrich           18 Feb 1837 Kutzbach, Maria                  Tarutino         1882647/3  16 100 20y,b Pol [s Andreas]                                 17y [d Christian]                                        both TrtnoKol
+Hirschkorn, Martin              20 May 1833 Krause, Maria                    Tarutino         1883193/2   2 117 widower                                               widow, nee Schmiedt
+Hirschmann, Gottfried            3 Feb 1838 Bartel, Wilhelmina               Tarutino         1882648/2  11  83
+Hobbacher, Fransiscus           10 May 1838 Schoeck, Catharine               Sarata           1882648/2   4   8
+Hoellwarth, Jacob               26 Jan 1837 Gessler, Agathe                  Sarata           1882647/3   1  41
+Hoellwarth, Johann               5 Feb 1833 Schaufelberger, Anna             Gnadenthal       1792290/2   2  65
+Hoeschele, Lorenz               23 Apr 1839 Waberschuetz, Friedrike          Sarata           1882649/3   2 106
+Hoffmann, Gottfried             11 Feb 1838 Mueller, Rosina                  Tarutino         1882648/2  16  83
+Hoffmann, Gottfried             14 Jun 1838 Weiss, Christina                 Tarutino         1882648/2  41  84
+Hoffmann, Gottlieb              31 Jan 1839 Baumann, Maria                   Tarutino         1882649/3  10 145
+Hoffmann, Johann Nikolaus       14 Apr 1835 von Rehren, Catharina Wlhlmna    Kloestitz        1882645/2  31 129 OdessaKol                                             34y,b Arensburg [d+Maj.Carl]
+Hohloch, Johannes                9 Oct 1834 Schaal, Katarina                 Toeplitz         1882643/1  13 146 26y, b Wue [s Urban]                                  20y [d Johannes]
+Holoch, Matthias                16 Apr 1835 Kienzle, Christine Barbara       Sarata           1882645/2   6  32 frm Toeplitz
+Holtz, Andreas                   7 Oct 1836 Kautz, Catharina                 Tarutino         1882646/2  35 164 23y,LpzgKol,b nr Warsaw [s Michael]                   18y,b Rosenthal/Bess [d Georg]
+Hoppacher, Simbert              19 Dec 1839 Witt, Luisa                      Alt Arcis        1882649/3  40  58                                                       gb Henkel  [widow]
+Huber, Christian                24 Jul 1834 Schwillich, Christine            Tarutino         1882643/1  27 179 21y, b Bergdorf/Od [s +Christian]                     18y, b Beresina [d Friedrich]
+Idler, Christian                16 May 1839 Issler, Catharina Magdalene      Sarata           1882649/3  10 106
+Idler, Johann                   25 Jul 1835 Mueller, Rosine Barbara          Sarata           1882645/2  11  32                                                       widow; gb Hafner
+Illg, Johann David              19 Oct 1837 Fischer, Christiana Friedrike    Sarata           1882647/3  14  41
+Illg, Joseph                    29 Jun 1837 Mueller, Marianne                Sarata           1882647/3   9  41
+Irion, Johann Peter              9 Oct 1834 Wuerth, Elisabeth                Tarutino         1882643/1  37 180 28y, b Poland [s Samuel]                              18y, b Kloestitz [d +Heinrich]
+Irion, Samuel                   14 Nov 1837 Sackmann, Anna Maria             Wittenberg       1882647/3  67 111 19y [s Friedrich]                                     19y [d Martin]                                           both WttnbrgKol
+Issler, Johann Georg            10 May 1838 Hobbacher, Elisabeth             Sarata           1882648/2   5   8
+Issler, Johann Martin           28 May 1833 Klopfer, Christiana              Sarata           1792290/2   4  63
+Jaeckle, Christian Gottlieb     17 Jan 1833 Stump, Jacobine                  Sarata           1792290/2   1  63
+Jahnle, Georg Michael           29 Jul 1834 Haffner, Agatha                  Beresina         1882643/1  29 179 29y, b Wue [s Michael]                                17y, b Beresina [ d Thomas]
+Janke, Andreas                  21 Nov 1837 Assenheimer, Christine           Tarutino         1882647/3  70 111 59y,TrtnoKol,b Pr [widower] [s +Martin]               58y,b Prussia [widow]
+Janke, Karl                      3 Apr 1833 Buss, Eleonora                   Leipzig          1883193/2  38 118
+Janke, Martin                    2 Oct 1833 Martin, Wilhelmine               Katzbach         1792290/2   5 114 20y, b Poland [s Michael]                             17y, b Poland [d Martin]
+Jans, Johann                    17 Sep 1838 Dalman, Maria                    Alt Arcis        1882648/2  40  37                                                       gb Kowalski
+Jaton, Daniel                   13 May 1834 Gross, Magdalena                 Schabbo          1882643/1  33 148 24y, b Switzerland [s Jean Louis]                     18y, b Elsass [d Matthias]
+Jerke, Martin                   18 Apr 1839 Merschin, Anna                   Tarutino         1882649/3  31 146
+Jeschke, Michael                27 Feb 1834 Tumm, Eva                        Tarutino         1882643/1  11 184 28y, div., b nr Warsaw [s Michael]                    25y, wid., b Poland [d +Andreas]
+Jeski, Andreas                   6 Aug 1835 Widmer, Justine                  Tarutino         1882645/2  44 124 25y,KulmKol,b Pol [s +Johann]                         25y,WttnbrgKol,b Poland [d Jakob]
+Jeski, Andreas                  12 Jan 1836 Eberle, Elisabeth                Tarutino         1882646/2   1 161 26y,b Pol [widower] [s +Johannes]                     17y,b Wttnbrg [d Christian]                              both Wttnbrg Kol
+Jesske, Christian                3 Sep 1833 Falk, Elisabeth                  Culm             1883193/2  32 118 widower
+Joachim, Andreas                22 Aug 1839 Nitschke, Dorothea               Alt Arcis        1882649/3  34  58
+Joerke, Gottfried               25 Nov 1836 Boettiger, Susanne               Alt Arcis        1882646/2  60 119
+Juengling, Andreas              25 Jun 1836 Spiess, Catharine                Alt Arcis        1882646/2  45 118
+Kaldun, Wilhelm Friedrich        1 Feb 1835 Hartmann, Wilhelmina             Tarutino         1882645/2  21 130 18y,TrtnoKol,b Trtno [s Joh]                          18y,KulmKol,b Kulm [d Johann]
+Kalk, Christoph                 14 Oct 1838 Singbeil, Friedrika              Alt Arcis        1882648/2  47  37                                                       gb Ziemer
+Kalk, Ludwig                    13 May 1836 Muttschall, Christina            Tarutino         1882646/2  24 163 19y,FrdnsthlKol,b Rummelsburg/Pr [s Johann]           18y,b Trtno [d Michael]
+Kalmbach, Christian             28 Nov 1837 Schlenker, Anna Barbara          Leipzig          1882647/3  74 112 22y [s Friedrich]                                     21y [d Caspar]                                           both Alt Posttal Kol
+Kalmbach, Friedrich             13 May 1837 Martern, Christine               Tarutino         1882647/3  38 105 46y,A-PsttlKol,b Altenstrig/Wu [widower]              30y,b Nagold/Po [widow]
+Kalmbach, Johannes              15 Nov 1838 Sackmann, Christina              Tarutino         1882648/2  59  84
+Kannenberger, Heinrich          11 Oct 1834 Klein, Anna Beata                Alt Arcis        1882643/1   5 145 25y, b Poland [s +Friedrich]                          18y, b Poland [d Martin]
+Kannewischer, August             1 Mar 1837 Rode, Anna Rosina                Tarutino         1882647/3  23 102 22y [s +Michael]                                      17y [d Michael]                                          TarutinoKol
+Kautz, Christoph                22 Jan 1835 Boettcher, Anna Rosina           Tarutino         1882645/2  16 130 18y [s +Christoph]                                    18y [d Peter]                                            both b Tarutino
+Keck, Georg                     27 Dec 1838 Wirth, Anna Maria                Tarutino         1882648/2  66  84
+Keller, Johann                  18 Feb 1837 Bremer, Anna Maria               Alt Arcis        1882647/3  20  61
+Keller, Johann                   2 Mar 1837 Genter, Caroline                 Sarata           1882647/3   4  41
+Keller, Johann                   4 Apr 1838 Quinner, Rosina                  Tarutino         1882648/2  27  83
+Keller, Johannes                 4 Jun 1835 Bechtle, Christiana              Sarata           1882645/2   9  32
+Keller, Johannes                 7 Feb 1839 Brenner, Eva                     Alt Arcis        1882649/3   5  57
+Kern, Adam                      26 Nov 1835 Lieb, Barbara                    Alt Arcis        1882645/2  28  77
+Kern, Andreas                    7 Jan 1837 Zahnke, Louise                   Alt Arcis        1882647/3   6  61
+Kern, Leonhard                  12 Apr 1838 Jahnle, Agatha                   Alt Arcis        1882648/2  16  36                                                       gb Hafner
+Kientzle, Johann Georg          22 Aug 1839 Schwaderer, Eva Catharine        Sarata           1882649/3  14 106
+Kienzle, Johann                 22 Aug 1839 Schwaderer, Eva Catharina        Alt Arcis        1882649/3  35  58 Also in Sarata Records
+Kienzle, Johann Georg            4 Feb 1836 Vogel, Katharina                 Sarata           1882646/2   1  41
+Kintzler, Johann                 7 Feb 1833 Schmiedt, Anna Maria             Wittenberg       1883193/2  10 117
+Kinzler, Andreas                10 Jul 1839 Vossler, Christina               Tarutino         1882649/3  43 146
+Kirchhoebel, Johann             11 Mar 1835 Mauch, Dorothea                  Tarutino         1882645/2  29 123 22y,Trtno,b Pr [s Michael]                            21y,APsttl,b Poland [d Jakob]
+Kitzler, Christoph              16 Apr 1836 Schuh, Karoline                  Sarata           1882646/2   2  41
+Klatt, Simon                    12 Nov 1837 Wanke, Wilhelmina                Tarutino         1882647/3  66 110 20y,ParisKol [s Samuel]                               17y,TrtnoKol [d Johann]
+Klause, Christian                9 Nov 1833 Kern, Anna Eleonora              Leipzig          1883193/2  40 118
+Kleinknecht, Andreas             7 Jan 1837 Juengling, Anna Dorothea         Alt Arcis        1882647/3   3  61
+Kleiss, Johann                   4 Apr 1833 Rauser, Martha                   Katzbach         1792290/2   1 114 24y, b Poland [s +Michael]                            20y [d Andreas]
+Kliem, Wilhelm                  10 Feb 1838 Briske, Maria                    Tarutino         1882648/2  14  83
+Kloninger, Johann                3 Oct 1839 Anhorn, Katharina                Tarutino         1882649/3  60 146
+Klopfer, Thomas                 10 Nov 1835 Winger, Anna Maria               Sarata           1882645/2  14  32
+Klotzbuecher, Jakob             28 Nov 1839 Kalmbach, Luise                  Tarutino         1882649/3  68 146
+Kludt, Friedrich August          4 Jun 1836 Hoegele, Eva Catharine           Alt Arcis        1882646/2  43 118
+Klukas, Johann                  10 Apr 1833 Riephagel, Karoline              Katzbach         1792290/2   3 114 b Prussia [s +Jacob]                                  17y
+Knauer, Gottlieb                22 Jun 1833 Hoffer, Magdalena                Sarata           1792290/2   5  63
+Knauer, Jacob Andreas            5 Feb 1839 Deiss, Friedrike                 Sarata           1882649/3   1 106
+Knauer, Johann Daniel           27 Feb 1834 Fischer, Friedrike               Sarata           1882643/1   3 119
+Knauer, Matthaeus Friedrich     14 Nov 1833 Winger, Anna Maria               Sarata           1792290/2   6  63
+Knauer, Samuel Johann           20 Feb 1834 Aldinger, Magdalena              Sarata           1882643/1   2 119
+Knecht, Andreas                 18 Nov 1836 Dalmann, Anna Christina          Alt Arcis        1882646/2  59 119
+Knodel, Christian               11 Nov 1837 Stein, Catharine                 Alt Arcis        1882647/3  50  62
+Knodel, Christian                4 Nov 1837 Stein, Catharina                 Alt Arcis        1882647/3  68 111 32y,NElftKol,b Po [widower]                           20y,A-PosttalKol [d Gottlieb]
+Knodel, Johann                  14 Nov 1833 Teske, Karoline Barbara          Alt Elft         1792290/2   3 104 35y, wid., b Prussia [s +Johann]                      18y, b Kassel [d Christian]
+Knodel, Peter                    1 Apr 1834 Zaiser, Magdalena                Alt Elft         1882643/1  20 147 31y, wid, b Prussia [s +Johann]                       17y, b A Elft [d +Georg]
+Knop, Michael                    1 Apr 1836 Bock, Wilhelmina                 Tarutino         1882646/2  15 162 23y,KulmKol,b Pol [s Johann]                          17y,TrtnoKol,b Trtno [d Andreas]
+Knopp, Johann                   22 May 1839 Riess, Amalia                    Tarutino         1882649/3  40 146
+Koch, Friedrich                 20 Oct 1838 Gebel, Katharina                 Alt Arcis        1882648/2  50  37                                                       gb Deuschle
+Koenig, Friedrich               14 Jan 1836 Heier, Catharina                 Tarutino         1882646/2   3 161 20y,APsttlKol,b APsttl [s Georg]                      19y,WttnbrgKol,b Wttnbg [d Georg]
+Koenig, Gottlieb                 3 Sep 1833 Kujat, Anna Dorothea             Culm             1883193/2  31 118
+Kohler, Jonas                    4 Apr 1833 Schlichting, Anna Elisabeth      Neu Elft         1792290/2   2 109 41y,wid, b Wue                                        38y, wid, b Prussia [d +Jeremias]
+Kohls, Christian                14 May 1836 Fielmann, Rosine                 Alt Arcis        1882646/2  41 118
+Kohls, Christian                 7 Jan 1834 Hoffmann, Christina              Brienne          1882643/1  16 146 55y, wid, b Poland [s +David]                         44y, widow [par deceased]
+Kolb, Johann                    24 Nov 1838 Klein, Margaretha                Alt Arcis        1882648/2  55  37
+Koppenstein, Karl                3 May 1838 Motzenberger, Agnes              Alt Arcis        1882648/2  21  36
+Kosanke, Christoph               4 Nov 1837 Gross, Maria Elisabetha          Tarutino         1882647/3  65 110 20y,ParisKol [s +Johann]                              17y,KulmKol [d Martin]
+Kosel, Matthias                 11 Dec 1834 Zaiser, Christina                Tarutino         1882643/1  57 175 22y, b near Kulm [s +Matthias]                        19y, b Borodino [d +Adam]
+Kosel, Michael                  21 May 1839 Kron, Margarethe                 Tarutino         1882649/3  36 146
+Koth, Friedrich                 29 Jan 1837 Hensel, Christine                Kulm             1882647/3  10  99 23y,KlmKol,bPlnd [s+Johann]                           16y,KulmKol [dMrtn]
+Kraemer, Johann                  6 Oct 1835 Mahle, Rosine                    Kloestitz        1882645/2  56 125 38y,NArcisKol,b Pol [widower] [s +Andreas]            41y,KlsttzKol,b Prussia [widow] gb Rehl
+Kraemer, Matthias               16 Nov 1838 Maier, Elisabeth                 Tarutino         1882648/2  62  84
+Kraft, Conrad                   17 Dec 1839 Herrmann, Katharina              Alt Arcis        1882649/3  39  58
+Kraft, Jakob                     6 Jan 1835 Hein, Carolina                   Tarutino         1882645/2   7 131 22y,KrasnaKol,b Pol [s +Martin]                       19y,KulmKol,b Kulm [d +Johann]
+Kraleck, Joseph                 26 Jul 1834 Weiss, Anna Caroline             Tarutino         1882643/1  28 179 52y, wid., b Trenschin [s +Andreas]                   32y, b Poland [d +Johann]
+Kranich, Gottfried               3 Jan 1833 Jeske, Karolina                  Leipzig          1883193/2  35 118
+Kranich, Martin                 18 Dec 1834 Burgstaler, Anna Dorothea        Tarutino         1882643/1  59 176 55y,wid.,Neustadt/Po [s +Christoph]                   45y,wid., b Terschtiegel [d +Daniel S]; gb Schulz
+Krause, Andreas                 16 Jul 1836 Neumann, Christine               Alt Arcis        1882646/2  48 118
+Krause, Christoph               10 Feb 1835 Busse, Rosina                    Alt Arcis        1882645/2   5  76
+Krause, Ludwig                  12 Feb 1838 Sept, Christina                  Tarutino         1882648/2  17  83
+Krause, Michael                  4 Mar 1834 Vogel, Eva Maria                 Tarutino         1882643/1  12 184 37y,wid,b Lippenau/WPr [s +Jakob]                     57y,wid,b FrnkfrtAmOdr [d +Gottlob]
+Krause, Michael                 21 Jan 1837 Klinger, Louise                  Tarutino         1882647/3   3  98 29y,PrsKolbPol [wid,s Christoph]                      17yKlmKol [dMartin]
+Krause, Samuel                  18 Oct 1838 Theurer, Katharina               Tarutino         1882648/2  50  84
+Krogel, Ludwig                   9 Jun 1833 Hanschke, Juliana                Tarutino         1883193/2   3 117 widower
+Kruckenberg, Johann             11 Nov 1837 Heth, Christine                  Alt Arcis        1882647/3  47  62
+Krueger, Andreas                23 Jun 1838 Kraus, Eva                       Alt Arcis        1882648/2  29  37
+Krueger, August                 25 Feb 1833 Ehresmann, Margarethe            Neu Elft         1792290/2   1 109 b Poland                                              b Russia [d Christoph]
+Krueger, Johann                 10 Jan 1838 Hagel, Anna Maria                Alt Arcis        1882648/2   2  36
+Krueger, Michael                22 Apr 1838 Welk, Henriette                  Alt Arcis        1882648/2  19  36
+Krueger, Peter                  18 Mar 1836 Lang, Catharina                  Tarutino         1882646/2  13 162 25y,KtzbchKol,b Pr [s +Johann]                        17y,BrsnKol,b Brsna [d Johann Adam]
+Kuck, Gottfried                 15 Sep 1838 Moritz, Dorothea                 Alt Arcis        1882648/2  39  37
+Kuehler, Gottlieb               11 Apr 1837 Wirsch, Rosine                   Kulm             1882647/3  29 103 24y,TrtnoKol,B Sumlen/Po [s +Gottfried]               28y,KulmKol,b Pol [widow] gb Glass [d Gottfried]
+Kuehn, Andreas                  14 Nov 1833 Blaskowski, Maria                Paris            1792290/2   2 121 20y, b Moldau                                         22y, b Prussia [d +Andreas]
+Kuesse, Carl                    27 Sep 1835 Hartmann, Maria Elisabeth        Tarutino         1882645/2  53 128 28y,b nr Plotzk/Pol [s +Johann]                       17y,b Leipzig [d Carl]                                   both Leipzig
+Kuest, Georg Jakob              19 Apr 1837 Brost, Maria                     Borodino         1882647/3  30 103 23y,b nr Laenschuetz [s Friedrich]                    19y [d Christian]                                        both KlsttzKol
+Kuhjad, Christian                1 Oct 1836 Machau, Caroline                 Alt Arcis        1882646/2  53 119
+Kuhn, Andreas                   27 Dec 1833 Kruckenberg, Christine           Alt Arcis        1792290/2   4  75 22y, b Poland [s of +Andreas]                         17y, b Poland [d of Martin]
+Kuhnle, Johann Daniel           21 Aug 1834 Eisele, Katarina                 Toeplitz         1882643/1  12 146 29y, b Wue [s Johann]                                 24y, b Wue [d Martin]
+Kunisch, Gottfried              19 Mar 1834 Krause, Anna Christina           Paris            1882643/1  25 147 27y [s +Jacob]                                        18y, b Paris [d +Johann]
+Kunkel, Christian                6 Apr 1833 Gwinner, Friedrika               Wittenberg       1883193/2  16 117
+Kupke, Christian                24 Jun 1834 Flaig, Anna                      Leipzig          1882643/1  25 179 33y, wid., b Poland [s +Gottfried]                    19y, b near StPetersburg [d Georg]
+Kurz, Johann Georg              16 Jul 1835 Laengert, Barbara                Alt Arcis        1882645/2  18  76
+Kurz, Ludwig                     2 Oct 1834 Glueck, Christina                Paris            1882643/1  27 147 27y, wid, b Poland [s +Andreas]                       17y [s +Friedrich]
+Kuttruff, Christian             24 Nov 1838 Dreher, Anna                     Alt Arcis        1882648/2  56  37                                                       gb Kaufmann
+Laemke, Ludwig                  29 Jul 1833 Schieler, Rosina                 Culm             1883193/2  29 118                                                       widow
+Laengner, Johann                30 Dec 1834 Dehling, Wilhelmine              Kulm             1882643/1  67 173 18y, b Kulm [s Christoph]                             17y, b Kulm [d +Joachim]
+Laengner, Johann                30 Dec 1834 Dehling, Wilhelmina              Tarutino         1882645/2   3 131 18y,KulmKol,b Kulm [s Christoph]                      17y,TrtnoKol,b Trtno [d Joachim]
+Lagger, Anton                   23 May 1835 Math, Cresentia                  Sarata           1882645/2   7  32
+Lai, Gottfried                  23 Jan 1834 Boettger, Anna Maria             Tarutino         1882643/1   4 183 28y, b Prussia [s +Paul]                              18y, b Kulm [d +Christoph]
+Laier, Jacob                    27 May 1836 Reiner, Christine                Sarata           1882646/2   5  41
+Laier, Johann Georg             16 Jul 1834 Heisser, Margaretha              Sarata           1882643/1   8 119
+Laier, Ludwig                   16 Jul 1834 Heisser, Dorothea                Sarata           1882643/1   9 119
+Lang, Friedrich                 17 Oct 1833 Grabow, Friederika               Kloestitz Parish 1883193/2  16 136
+Lang, Jakob                     10 Sep 1835 Pommerinki, Anna                 Tarutino         1882645/2  50 128 23y,b Pol [s +Abraham]                                22y,b nrWarsaw [d +Peter]                                both Borodiners
+Lang, Karl                      26 Jan 1833 Dux, Justina                     Kloestitz Parish 1883193/2   3 136
+Lehr, Johann                     5 Apr 1836 Jauch, Catharina                 Tarutino         1882646/2  18 162 26y,b Pol [widower], Friedrich                        20y,b Pol [d Christian]                                  both APsttlKol
+Lei, Johann                     27 May 1835 Trikowsky, Eva                   Alt Arcis        1882645/2  14  76 fa, Peter Lei                                         fa, Johann Trikowsky [widow]
+Leischner, Gottfried            27 Nov 1839 Mueller, Anna                    Tarutino         1882649/3  75 147
+Lemke, Christian                20 Jan 1835 Koth, Carolina                   Tarutino         1882645/2  13 122 Leipzig,b Pr [s +Michael]                             18y,b Kulm [d +Johann]
+Lemke, Paul                     26 Apr 1834 Seelig, Friederike               Tarutino         1882643/1  15 181 34y, b nr Warsaw [s +Friedrich]                       17y, b Beresina [d +Christian]
+Lempke, Michael                  4 Apr 1838 Schulz, Dorothea                 Tarutino         1882648/2  24  83
+Lick, Michael                   21 Jan 1837 Babitzki, Henriette              Alt Arcis        1882647/3   8  61
+Liebelt, Gottlieb               18 Oct 1835 Kund, Karoline                   Tarutino         1882645/2  60 125 21y,TarutinoKol,b Pol [s Johann]                      18y,b Tarutino [d Paul]
+Link, David                     21 Feb 1839 Ehmann, Katharina                Tarutino         1882649/3  15 145
+Littau, Erdmann                 26 Apr 1835 Eichelberg, Anna Elisabeth       Alt Arcis        1882645/2   8  76
+Lobe, Christian                  6 Jan 1838 Roloff, Henriette                Tarutino         1882648/2   1  83
+Lobe, Gottlieb                  30 Nov 1833 Burgermeister, Eva               Culm             1883193/2  34 118
+Loch, Carl                      27 Apr 1837 Habelmann, Christina             Alt Arcis        1882647/3  29  61
+Lorenz, Peter                   15 Jan 1834 Kosanki, Susanna                 Alt Elft         1882643/1  19 147 25y, b Poland [s +Matthias]                           21y [d +Martin]
+Luckas, Johann Adam             17 Oct 1837 Sperr, Catharina                 Tarutino         1882647/3  54 108 22y,BrsnaKol,b Eich [s Adam]                          25y,b Rielingshausen [d Philipp]
+Luettke, Gottfried              11 Jan 1833 Freimuth, Christina              Leipzig          1883193/2  37 118                                                       widow
+Machau, Simon                   14 Apr 1833 Rehmann, Luise                   Neu Arcis        1792290/2   5  81 20y, b Moldau [s of Johann]                           20y [d Christian]
+Maerz, Johann                   17 Oct 1837 Stehr, Jakobine                  Tarutino         1882647/3  55 108 20y,BrsnaKil [s Bernhard]                             18y,FrdnsfldKol [d +Johannes]
+Mahs, Christian                 30 Dec 1837 Wuerfel, Justine                 Alt Arcis        1882647/3  52  62
+Mahs, Martin                    30 Dec 1837 Karcher, Anna Maria              Alt Arcis        1882647/3  51  62
+Maier, Christian                16 May 1833 Reichert, Katharina              Kloestitz Parish 1883193/2   9 136
+Maier, Erdmann                  28 Dec 1838 Bort, Anna Rosina                Tarutino         1882648/2  69  84
+Maier, Friedrich                18 Jan 1835 Mueller, Anna Maria              Tarutino         1882645/2  12 122 26y,APstl,b Po [s Michael]                            18,b APstl [d Johannes]
+Maier, Johannes                 26 Sep 1837 Schramm, Caroline                Tarutino         1882647/3  52 108 28y,b Grundelbach [s +Johann]                         18y,BeresinaKol [d +Georg]
+Maier, Philipp                   7 Jul 1838 Lang, Rosina                     Alt Arcis        1882648/2  33  37
+Mantz, Gottlieb                 26 Apr 1834 Scheerer, Louisa                 Tarutino         1882643/1  14 181 23y, b Rohrdorf/Wue [s +Martin]                       19y, b Wittenberg [d +Johannes]
+Marcus, Matthaeus               30 Sep 1837 Kallenberg, Margaretha           Alt Arcis        1882647/3  43  62
+Marquart, Christian             29 Mar 1839 Karius, Rosina                   Alt Arcis        1882649/3  14  57
+Martin, Daniel                  21 Oct 1836 Kelm, Anna Maria                 Alt Arcis        1882646/2  63 119
+Martin, Johann Daniel           26 Jul 1838 Sawall, Justina                  Alt Arcis        1882648/2  36  37
+Martsch, Christian              19 Jun 1838 Waelz, Anna Rosina               Alt Arcis        1882648/2  28  36
+Martsch, Johann                  4 Mar 1837 Allerlei, Elisabeth              Alt Arcis        1882647/3  25  61
+Marx, Johann Gottfried          17 Jan 1839 Stappel, Julianna                Alt Arcis        1882649/3   1  57
+Massal, Gottlieb                 1 May 1838 Zoellner, Elisabeth              Tarutino         1882648/2  30  84
+Math, Leonhard                  28 May 1836 Storz, Catharine                 Sarata           1882646/2   7  41
+Mauch, Gottlieb                  4 Apr 1838 Ruch, Karolina                   Tarutino         1882648/2  26  83
+Mauch, Jakob                     2 Jul 1839 Stark, Anna                      Alt Arcis        1882649/3  31  58                                                       gb Paul  [widow]
+Mauch, Johann Peter             11 Mar 1835 Jerke, Wilhelmina                Alt Arcis        1882645/2   7  76
+Meier, Christian                11 Jun 1836 Manski, Eva                      Alt Arcis        1882646/2  44 118
+Melchert, Michael                6 Jan 1835 Walker, Maria                    Tarutino         1882645/2   6 131 23y,KlsttzKol,b Pol [s +Christian]                    18y,b Poland [d +Stephan]
+Melke, Gottlieb                  7 Apr 1838 Franz, Friederika                Alt Arcis        1882648/2  13  36
+Menge, Martin                   24 Jan 1837 Mueller, Eva                     Beresina         1882647/3   6  98 21y,FrdnstlKol,bKolle [sChrstph]                      18y,TrtnoKol [dJakob]
+Merle, Kaspar                   25 Jan 1838 Schulz, Rosina                   Tarutino         1882648/2   9  83
+Mertz, Bernhard                 27 May 1834 Baumann, Catharina               Beresina         1882643/1  22 182 46y, wid., b Wue [s +Gottfried]                       49y, wid., b Wue [d +Johann Georg]; gb Rauser
+Merz, Jakob                     15 Nov 1838 Stahl, Magdalena                 Tarutino         1882648/2  58  84
+Messerle, Christian             28 May 1836 Kienzle, Anna Maria              Sarata           1882646/2   8  41
+Messinger, Conrad               21 Feb 1837 Krueger, Justine                 Beresina         1882647/3  19 101 20y [s +Albrecht]                                     18y [d +Martin]                                          both KloestitzKol
+Miller, Georg Michael            2 Aug 1838 Lust, Sophie Catharine           Sarata           1882648/2  10   8
+Moench, Christoph                7 Jan 1837 Zahn, Elisabeth                  Tarutino         1882647/3   1  98 18y,TrtnKol [s +Johann]                               18,KlmKol [dMichael]
+Moench, nn                      29 Nov 1834 Boettger, Anna                   Tarutino         1882643/1  54 175 22y, b Bromberg/Bess [s Johann]                       18y, b Leipzig [d Georg]
+Motz, Christoph                 23 Dec 1838 Schlenker, Margaretha            Tarutino         1882649/3   1 145
+Motz, Friedrich                  7 Feb 1839 Bodamer, Christina               Tarutino         1882649/3  16 145
+Motz, Georg                     25 Aug 1836 Neubauer, Anna Rosina            Tarutino         1882646/2  30 164 50y,b Wue [widower] [s +Caspar]                       45y,b Pultulsk/Po? [divorced] gb Kaft                    both BrsnaKol
+Mueller, Adolph                 28 Dec 1838 Matulatus, Justina               Alt Arcis        1882648/2  58  37
+Mueller, Adolph                 10 Jun 1837 Rundthaler, Caroline             Tarutino         1882647/3  42 106 22y [s Christian]                                     17y [d Jakob]                                            both TrtnoKol
+Mueller, Carl                   20 Nov 1836 Hille, Wilhelmina                Tarutino         1882646/2  37 165 20y,b Kulm [s Christian]                              17y,b Kulm [d Gottlieb]
+Mueller, Christian              30 Nov 1839 Paulin, Franziska                Sarata           1882649/3  16 106
+Mueller, Ferdinand              27 Jan 1835 Vogel, Carolina                  Leipzig          1882645/2  19 130 18y [s +Joh Frdrh]                                    16y [d Johann]                                           both b Kulm & KulmKol
+Mueller, Florian                29 Jun 1837 Fickel, Susanna                  Sarata           1882647/3   8  41
+Mueller, Friedrich              30 Jan 1834 Schlenker, Christine             Tarutino         1882643/1   6 183 19y, b nr Lemberg [s +Johannes]                       18y, b Borodino [d Christian]
+Mueller, Jacob                   7 Jul 1839 Stiefel, Christina               Alt Arcis        1882649/3  33  58                                                        [widow]
+Mueller, Jakob                  20 Dec 1836 Hiller, Rosina                   Tarutino         1882646/2  40 165 24y,ParisKol,b nr Warsaw [s Jakob]                    21y,TrtnoKol,b Trtno [d +Peter]
+Mueller, Johann                 18 Jan 1834 Gerke, Caroline                  Tarutino         1882643/1   2 183 28y, b Poland [s +Friedrich]                          17y, b Leipzig [d +Friedrich]
+Mueller, Karl                    2 Oct 1839 Theurer, Christina               Tarutino         1882649/3  56 146
+Mueller, Karl                    6 May 1837 Schoettler, Elisabetha           Tarutino         1882647/3  37 105 22y [s +Johann]                                       18y [d +Friedrich]                                       both TarutinoKol
+Mueller, Ludwig                 22 Jan 1835 Loch, Wilhelmina                 Alt Arcis        1882645/2   2  76
+Mueller, Ludwig                 29 Apr 1837 Fischer, Karoline                Tarutino         1882647/3  36 104 22y,fa-KrasnaKol [s Martin]                           17y,TrtnoKol [d David]
+Mueller, Michael                10 Jul 1839 Hintz, Luise                     Tarutino         1882649/3  48 146
+Mueller, Wilhelm                30 May 1833 Nufer, Friedrika                 Culm             1883193/2  26 118
+Muenz, Michael                   1 May 1839 Krause, Euphrosina               Alt Arcis        1882649/3  21  57                                                       gb Salzsiedler  [widow]
+Mund, Christian                 22 Jan 1839 Blech, Anna Elisabeth            Alt Arcis        1882649/3   3  57
+Muth, Johann Chrstph            10 May 1838 Balz, Catharine Frdrke           Kischinew        1882648/2   1 188 29y,b Wue [sJoh Hein                                  33y,b Bidigheim/Wue [sJacobFrdrh]; gb Dank
+Mutschall, August               19 Nov 1833 Hannemann, Maria                 Tarutino         1883193/2   8 117
+Mutschall, Wilhelm              28 Mar 1839 Linke, Rosina                    Tarutino         1882649/3  26 146
+Muttschall, August               8 Jun 1836 Wolf, Anna Louise                Tarutino         1882646/2  27 163 26y,TrtnoKol,b nr Warsaw [s Michael]                  17y,LeipzigKol,b Lpzg [d Christian]
+Muttschall, Christian            9 Jul 1835 Hanschke, Dorothea               Tarutino         1882645/2  43 124 21y,TarutinoKol,b Pol [s +Paul]                       26y,b Poland [d +Gottfried]
+Muttschall, Jakob               27 Nov 1839 Roik, Juliana                    Tarutino         1882649/3  73 146
+Muttschall, Johann               9 Nov 1834 Ingber, Rosine                   Tarutino         1882643/1  46 178 19y, b Tarutino [s +Jakob]                            26y, wid., b Prussia [d Andreas L]; gb Lieske
+Muttschall, Johann              11 May 1836 Ullrich, Wilhelmina              Tarutino         1882646/2  21 163 21y,b nr Warsaw [s Michael]                           17y,b Trtno [d Georg]                                    both TrtnoKol
+Mutzenberger, Jakob              6 Apr 1838 Kraleck, Karolina                Tarutino         1882648/2  29  84
+Naffin, Johann                  24 Jan 1833 Schlenker, Margaretha            Kloestitz Parish 1883193/2   2 136
+Nagel, Ludwig                   16 May 1833 Doeffinger, Elisabeth            Teplitz          1792290/2   1  97 b Wuert [s of +Martin]                                b Bergdorf [d Joseph]
+Nawer, Philipp                   8 Jan 1838 Bublitz, Karolina                Tarutino         1882648/2   2  83
+Necker, Andreas                  6 Apr 1833 Gwinner, Anna Maria              Wittenberg       1883193/2  13 117
+Necker, Joachim                 21 Oct 1837 Kalmbach, Dorothea               Tarutino         1882647/3  57 109 20y [s Johann]                                        17y [d Johann Georg]                                     both WttnbrgKol
+Necker, Johann                   6 Apr 1833 Esslinger, Henriette             Wittenberg       1883193/2  12 117
+Necker, Johann                  20 Jun 1833 Butau, Katharina                 Wittenberg       1883193/2  17 117 widower                                               widow
+Neitz, Philipp                  11 Feb 1836 Walz, Friederike                 Tarutino         1882646/2   8 161 31y,KlttzKol,b Pol [widower] [s Philipp]              21y,BrsnaKol,b Borodino [d +Friedrich]
+Nesper, Johann                   8 Apr 1837 Kohn, Elisabeth                  Alt Arcis        1882647/3  28  61
+Netzer, Christian               23 Jun 1839 Hinkel, Anna Maria               Alt Arcis        1882649/3  25  57
+Neulitz, Karl                   23 Jan 1838 Klinger, Karolina                Tarutino         1882648/2   4  83
+Neumann, Ferdinand               2 Oct 1834 Meier, Anna Elisabeth            Neu Arcis        1882643/1   7 145 19y, b Moldau [s Christoph]                           18y [d +Johannes]
+Neumann, Gottlieb               15 Oct 1836 Welk, Louise                     Alt Arcis        1882646/2  57 119
+Neumann, Gottlieb               23 Jun 1839 Pidt, Christina                  Alt Arcis        1882649/3  26  57
+Neumann, Gottlieb                2 Feb 1836 Hoffmann, Carolina               Tarutino         1882646/2   5 161 19y,TrtnoKol,b Trtno [s +Christoph]                   16y,KulmKol,b Kulm [d Gottfried]
+Neumann, Jacob                  14 May 1836 Brenner, Anna Maria              Alt Arcis        1882646/2  39 118
+Neumann, Karl                   27 May 1835 Arndt, Henriette                 Alt Arcis        1882645/2  13  76
+Neumann, Karl                   10 Nov 1833 Ludwig, Christiane               Katzbach         1792290/2   6 114 b Poland [s +Johann]                                  26y, b Poland [d +Christoph]
+Neumann, Paul                   27 Dec 1834 Palke, ChristinaZanke            Brienne          1882643/1  18 146 76y,wid,b W Pruss [s +Matthias]                       65y,wid,b Pruss,fa-Johannes; gb +
+Nickel, Gottlieb                13 Mar 1838 Jans, Anna                       Alt Arcis        1882648/2  11  36
+Nitschke, Wilhelm                7 Feb 1833 Geigle, Margaretha               Kloestitz Parish 1883193/2   4 136
+Nuernberg, Jakob                 9 Nov 1835 Martin, Anna                     Alt Arcis        1882645/2  26  77                                                       widow
+Nuske, Gottfried                23 Jan 1838 Kranich, Rosina                  Tarutino         1882648/2   5  83
+Oberlander, Johann Georg         9 Oct 1834 Albrecht, Elisabeth              Sarata           1882643/1  11 119
+Oberlander, Matthaeus           30 May 1839 Schaefer, Elisabetha             Sarata           1882649/3   8 106
+Oberlander, Michael             19 Sep 1839 Oppenlaender, Caroline Margareth Sarata           1882649/3  15 106
+Oswald, Christoph               10 Feb 1838 Frick, Christina                 Sarata           1882648/2   3   8
+Oswald, Nicolaus                 2 Feb 1838 Boerner, Anna Maria              Sarata           1882648/2   2   8
+Otterstaetter, Philipp          30 May 1833 Hess, Margaretha                 Kloestitz Parish 1883193/2  10 136
+Pahl, Wilhelm                   18 Jun 1835 Sprenger, Elisabeth              Tarutino         1882645/2  40 124 39y,LeipzigKol,b Landsberg [widower] [s +Christian]   29y,b nr Warsaw [widow] gb Laechelt [d+Chrst
+Pfahl, Johann                   20 May 1837 Schmidtke, Elisabeth             Alt Arcis        1882647/3  33  61
+Pfeifer, Gottlieb                7 Apr 1838 Bohnet, Jakobina                 Alt Arcis        1882648/2  14  36
+Pfennig, Joseph                 28 Mar 1839 Quaschnick, Luise                Tarutino         1882649/3  25 146
+Pflueger, Heinrich              21 Aug 1839 Rattei, Susanna                  Tarutino         1882649/3  51 146
+Poepke, Wilhelm                 10 Jan 1835 Lange, Johanna Wilhelmina        Tarutino         1882645/2   8 122 21y,b Pol [s +Christoph]                              18y,b Pol [d Frdrch]
+Pohl, Johann                    24 Nov 1835 Ganz, Karoline                   Tarutino         1882645/2  69 127 24y,KlsttzKol,b Graudenz [s Michael]                  27y,ParisKol,b Warsaw [widow] gb Conrad
+Pommerenke, Martin              15 Nov 1835 Seidler, Christine               Tarutino         1882645/2  66 127 67y,LeipzigKol,b Scharneko [wid] [s +Bartholomaeus]   45y,LeipzigKol,b Po [widow] gb Baesler [d+Anton]
+Pommerinke, Peter               11 Nov 1833 Obergefaell, Anna Maria          Kloestitz Parish 1883193/2  20 136
+Pommrenke, Gottlieb             20 Jan 1835 Scharin, Friedrike               Alt Arcis        1882645/2   1  76
+Predehl, Gottlieb               20 Apr 1837 Hennig, Maria                    Leipzig          1882647/3  32 104 25y,b Pol [widower]                                   17y [d Martin]                                           both LeipzigKol
+Preussler, Johann Ernst          7 Jan 1837 Denning, Anna Christine          Alt Arcis        1882647/3   4  61
+Propenauer, Wilhelm              2 May 1838 Gewiss, Anna                     Tarutino         1882648/2  34  84
+Prophet, Friedrich              22 Sep 1835 Laier, Friederike                Beresina         1882645/2  51 128 44y,BersnaKol,b Wue [divorced] [s +Frdrh]             24y,b Wue [d +Joh Ludwig]
+Puezler, Daniel                 17 Jan 1839 Maier, Justina                   Alt Arcis        1882649/3   2  57                                                       stpfa=Johann Sommerfeld
+Quast, Johann                   22 Feb 1839 Pfeiffer, Eva                    Alt Arcis        1882649/3   8  57                                                       Katzbach Kol
+Rampagel, Friedrich             21 Sep 1838 Zahn, Wilhelmina                 Tarutino         1882648/2  46  84
+Raschke, August                 24 May 1838 Freitag, Elisabeth               Alt Arcis        1882648/2  25  36
+Ratke, Andreas                   2 May 1838 Stuber, Anna Maria               Tarutino         1882648/2  33  84
+Raugust, Michael                10 Jun 1837 Vogel, Justine                   Tarutino         1882647/3  43 106 26y,b Prussia [s Jakob]                               17y [d Johann]                                           both KulmKol
+Rauhut, Georg                   27 Jan 1835 Luettke, Elisabeth               Leipzig          1882645/2  18 130 52y,b nr Sandstaedtel/Po                              57y,b nr Thorn/Po
+Rauhut, Georg                   12 Mar 1837 Stelzer, Karolina                Leipzig          1882647/3  26 102 21y,b nr Posen [s Georg]                              17y [d +Gottlieb]                                        LeipzigKol
+Rauhut, Gottfried               19 Jul 1836 Dierke, Carolina                 Tarutino         1882646/2  29 164 23y,b nr Posen [s Georg]                              18y,b Leipzig [d Johann]                                 both LeipzigKol
+Redel, Johann                    4 Jan 1834 Schulz, Rosina                   Tarutino         1882643/1   1 183 24y, b Poland [s +Friedrich]                          18y, b Leipzig [d +Johann]
+Reich, Gottfried                 3 Dec 1833 Trikowski, Anna                  Alt Arcis        1792290/2   3  75 40+y, widower, b Poland [s of +Johann]                35+y, b Poland
+Reich, Gottlieb                  9 Jan 1836 Treffinger, Catharina            Alt Arcis        1882646/2  31 118
+Reichenberg, Friedrich          28 Nov 1839 Klett, Margaretha                Tarutino         1882649/3  78 147
+Reichert, Christian              1 Nov 1838 Jenner, Christina                Tarutino         1882648/2  53  84
+Reinke, Johann                   6 Sep 1834 Esslinger, Margaretha            Tarutino         1882643/1  34 180 23y, b Poland [s Johann]                              20y, b Kloestitz [d Jakob]
+Reinke, Johann                  21 Oct 1837 Borngrueber, Friederika          Tarutino         1882647/3  59 109 25y,TrtnoKol [widower]                                16y,b Prussia [d Friedrich]
+Reiser, Heinrich                30 May 1833 Weisert, Christina               Teplitz          1792290/2   3  97 b Wuert [s +Heinrich]                                 b Bergdorf [d Jacob]
+Reiser, Ludwig Gottlieb         28 May 1835 Esslinger, Friedrike             Alt Arcis        1882645/2  15  76                                                       widow; gb Stahl
+Rellmann, Dietrich              23 Oct 1838 Hennig, Friederike               Kischinew        1882648/2   3 188 25y,b Bremen [s +Dietrich]                            18y,b Kamenolz/Pol [d +Friedrich]
+Renin, Gottfried                26 Dec 1833 Prenzlau, Rosina                 Tarutino         1883193/2   9 117
+Renn, Christoff                 18 Aug 1833 Klinger, Justina                 Tarutino         1883193/2   6 117 widower
+Renz, Johannes                  18 Apr 1839 Hein, Margaretha                 Tarutino         1882649/3  29 146
+Reule, Karl                      2 Oct 1833 Hauser, Christina                Kloestitz Parish 1883193/2  15 136
+Richter, Carl                    3 Aug 1837 Marquard, Eva                    Alt Arcis        1882647/3  37  61
+Rode, Christoph                 23 Mar 1838 Haetke, Maria                    Tarutino         1882648/2  20  83
+Rode, Daniel                    22 Sep 1835 Funk, Elisabeth                  Beresina         1882645/2  52 128 31y,LpzgKol,b Pultusk [widower] [s +Andreas]          34y,b nr Bialystock/Pol [widow] [d +Michael Conrad]
+Roeder, Christian               20 May 1834 Hiller, Justine                  Tarutino         1882643/1  18 181 18y, b Tarutino [s Christoph]                         34y, wid., b Poland [wid Peter Hiller]; gb Hiller
+Roehl, Friedrich                28 Dec 1838 Nuske, Christina                 Tarutino         1882648/2  67  84
+Roess, Karl                      6 Jan 1838 Stark, Petronella                Alt Arcis        1882648/2   1  36
+Roloff, Georg                   30 Sep 1837 Schimke, Carolina                Tarutino         1882647/3  53 108 34y,b Pol [widower] [s +Johann]                       18y [d Friedrich]                                        both KulmKol
+Rosenfeld, Christian            24 Apr 1838 Konrad, Karolina                 Alt Arcis        1882648/2  20  36
+Ross, Karl                      25 Jun 1839 Kurz, Luisa                      Alt Arcis        1882649/3  29  57
+Rothacker, Martin               21 Aug 1839 Teske, Elisabeth                 Tarutino         1882649/3  50 146
+Rothfuss, Christian              1 Jan 1835 Widmann, Rosina Catharina        Tarutino         1882645/2   4 131 29y,BrdnoKol,b Pol [wid] [s +Martin]                  28y,GndntlKol,b Wue [d Johannes]
+Ruch, Johann                    16 Aug 1834 Lange, Justina                   Alt Arcis        1882643/1   3 145 23y [s +Johann]                                       18y, b Alt Arcis [d +Johann]
+Rueb, Christian Burghard         2 Jul 1836 Lang, Barbara                    Alt Arcis        1882646/2  47 118
+Rueber, Jacob Friedr.            7 Oct 1834 Heck, Katarina                   Brienne          1882643/1  17 146 27y, b Wue [s+Jac.Frd]                                28y, wid, b Wue, fa-+Isaak; gb Breitmeier
+Ruff, Gottfried                 16 Nov 1837 Woltman, Anna Caroline           Alt Arcis        1882647/3  48  62
+Rumpel, Bartholomaeus            4 Nov 1837 Christmann, Christine            Alt Arcis        1882647/3  46  62
+Sackmann, Johann Adam           23 Nov 1837 Keller, Maria Elisabeth          Wittenberg       1882647/3  72 112 21y [s Adam]                                          17y [d Adam]                                             both WttnbergKol
+Salzsiedler, Christian           7 Feb 1833 Bruneske, Justina                Alt Arcis        1792290/2   2  75 21y, b Poland [s of +Johann]                          19y, b Poland
+Sandau, Johann                  25 Aug 1838 Sternberg, Maria                 Alt Arcis        1882648/2  38  37
+Sarofski, Johann                31 Dec 1834 Schmolke, Rosine                 Kulm             1882643/1  68 173 23y, b Poland [s +Andreas]                            38y, wid., b Poland
+Sattler, Eberhard               12 Jun 1838 Messinger, Christina             Alt Arcis        1882648/2  27  36                                                       gb Kauz
+Sauer, Christian                27 Oct 1834 Lobe, Eva Rosina                 Tarutino         1882643/1  44 178 26y, b Poland [s +Gottlieb]                           24y, wid., b Poland [d +Christoph H]; gb Hoenke
+Sauer, Gottfried                20 Apr 1837 Hund, Justine                    Leipzig          1882647/3  31 103 25y,KulmKol,b Samlin/Po [s Gottfried]                 20y,LeipzigKol [s +Gottlieb]
+Sauer, Gottlieb                 22 Feb 1839 Retzlaw, Karolina                Tarutino         1882649/3  17 145
+Sauter, Michael                 18 Feb 1836 Strohschein, Christine           Tarutino         1882646/2  10 162 20y,FrdnstlKol,b Rava/Pol [s +Carl]                   18y,TrtnoKol,b Trtno [d Christoph]
+Saval, Daniel                   18 Feb 1837 Gross, Justine                   Alt Arcis        1882647/3  19  61
+Sawall, Ludwig                   7 Apr 1838 Boess, Karolina                  Alt Arcis        1882648/2  15  36
+Schaal, Friedrich               30 May 1833 Christner, Barbara               Teplitz          1792290/2   2  97 [s +Johann]                                           [d +Christoph]                                           both b in Wuert.
+Schaal, Johann                  11 Mar 1837 Eckert, Friedrike                Alt Arcis        1882647/3  26  61
+Schaefele, Georg                12 Feb 1835 Rueb, Rosina Regina              Sarata           1882645/2   4  32 frm Toeplits                                          frm Gnadenthal
+Schaefer, Johannes              23?Apr 1839 Baraiter, Caroline               Sarata           1882649/3   4 106
+Schaefer, Joseph                20 Mar 1838 Zaiser, Anna Maria               Tarutino         1882648/2  22  83
+Schaeufele, Michael             28 May 1835 Schmidt, Margarethe              Alt Arcis        1882645/2  16  76                                                       widow; gb Schlotter
+Schamm, Georg                    3 Feb 1838 Sockert, Eleonora                Alt Arcis        1882648/2   5  36
+Scharin, nn                     28 Jan 1837 Priebe, Maria                    Tarutino         1882647/3   9  99 19y,FrdKol,bPrss [s+Johann]                           18yTrtnoKol [d+Johann]
+Scharpf, Johann                 26 Oct 1837 Hehr, Catharina                  Tarutino         1882647/3  61 109 21y [s Johann]                                        19y [d Johannes]                                         both WttnbrgKol
+Schaufelberger, Johann Peter    12 Jul 1838 Klopfer, Christina Barbara       Sarata           1882648/2   8   8
+Schelle, Andreas                27 Aug 1836 Mansberger, Margaretha           Tarutino         1882646/2  31 164 50y,b Marbach [widower] [s +Jakob]                    49y,b Wue,LeipzigKol [widow] gb Hoeger [d+Jakob]
+Schelske, Johann                13 Jun 1838 Sprecher, Anna Rosina            Tarutino         1882648/2  40  84
+Schelski, Christian             13 Feb 1833 Bobermin, Wilhelmina             Culm             1883193/2  25 118
+Schelski, Johann                10 Jul 1839 Batzer, Katharina                Tarutino         1882649/3  47 146
+Schert, Gottlieb                28 Mar 1839 Hoess, Katharina                 Tarutino         1882649/3  20 145
+Scheuchner, Gottfried           24 May 1834 Kuhn, Louise                     Tarutino         1882643/1  21 182 54y, wid., b nr Posen                                 18y, b Tarutino [d Ferdinand]
+Schick, Caspar                  28 Mar 1839 Littau, Rosina                   Alt Arcis        1882649/3  13  57
+Schiemke, Johann                 6 Nov 1833 Raugust, Wilhelmina              Culm             1883193/2  33 118
+Schilling, Adam                 11 Oct 1838 Nupke, Augustina                 Alt Arcis        1882648/2  46  37
+Schilling, Andreas               6 May 1834 Rothacker, Christine             Borodino         1882643/1  17 181 29y, b Wue                                            18y, b Beresina [d Johann]
+Schilling, Jacob                 7 Feb 1833 Lutz, Augustina                  Kloestitz Parish 1883193/2   5 136
+Schimke, Friedrich              23 Nov 1837 Hinz, Eva                        Wittenberg       1882647/3  71 111 22y,b Pol [s Friedrich]                               18y [d Jacob]                                            both KulmKol
+Schlauch, Carl                  18 Nov 1834 Meckle, Anna Maria               Tarutino         1882643/1  49 178 20y, b Poland [s +Carl]                               17y, b Borodino [d Georg]
+Schlecht, Friedrich              8 Sep 1835 Boess, Eleonore                  Alt Arcis        1882645/2  23  77                                                       widow; gb Roth
+Schlenker, Bernhard              4 Apr 1833 Kleiss, Anna Maria               Katzbach         1792290/2   2 114 20y, b Poland [s Johannes]                            20y [d Michael]
+Schlenker, Christian            22 Oct 1833 Benner, Margaretha               Kloestitz Parish 1883193/2  17 136                                                       [Brenner?]
+Schlenker, Johann               15 Nov 1838 Widmer, Anna Maria               Tarutino         1882648/2  57  84
+Schlenker, Johann Martin        28 Nov 1837 Fode, Barbara                    Leipzig          1882647/3  75 112 25y,b Pol [s Caspar]                                  17y [s +Gottfried]                                       both AltPosttalKol
+Schlenker, Ludwig               10 Nov 1838 Wiese, Anna Katharina            Tarutino         1882648/2  55  84
+Schlewing, Heinrich              7 Aug 1833 Schwarz, Anna Rosina             Brienne          1792290/2   2  90                                                       b in Moldau
+Schmalz, Christoph              16 Aug 1837 Haemmerling, Caroline            Alt Arcis        1882647/3  39  62
+Schmidt, Christian               9 May 1835 Goetzinger, Dorothea             Alt Arcis        1882645/2  12  76                                                       widow; gb Schlotter
+Schmidt, Christian              16 Nov 1838 Kloninger, Christina             Tarutino         1882648/2  61  84
+Schmidt, Christian              29 Apr 1834 Schwarz, Magdalena               Alt Arcis        1882643/1   1 145 20y, b Wue [s +Johann]                                20y b Wue [d Gottlieb]
+Schmidt, Christian              13 Nov 1834 Kalmbach, Christine              Tarutino         1882643/1  47 178 24y, b Poland [s +Georg]                              20y, b Wittenberg [d Johann Georg]
+Schmidt, Georg                  22 Sep 1838 Meier, Wilhelmine                Alt Arcis        1882648/2  42  37
+Schmidt, Jacob                  30 Apr 1833 Wurster, Maria                   Neu Elft         1792290/2   3 109 wid, b Wue [s +Jacob]                                 b Poland [d Friedrich]
+Schmidt, Johann                  2 Jul 1833 Hartmann, Dorothea               Kloestitz Parish 1883193/2  11 136
+Schmidt, Matthaeus              21 Dec 1839 Siewert, Anna Christina          Alt Arcis        1882649/3  42  58 [widower]                                               [widow]
+Schmidtke, Christian            10 Jul 1838 Fischer, Katharina               Alt Arcis        1882648/2  34  37
+Schmidtke, Gottfried            31 Jul 1838 Makus, Anna                      Alt Arcis        1882648/2  37  37                                                       gb Schoenfeld
+Schmidtke, Gottlieb             30 Jun 1838 Giek, Karolina                   Alt Arcis        1882648/2  32  37
+Schmidtke, Ludwig               26 May 1833 Bauer, Christine                 Alt Elft         1792290/2   1 104 22y, b Poland [s +Andreas]                            28y, b Poland [d +Andreas]
+Schmidtke, Peter                16 Nov 1837 Siepert, Helene                  Alt Arcis        1882647/3  49  62
+Schmiedke, Friedrich             9 Feb 1839 Behringer, Johanna               Alt Arcis        1882649/3   6  57
+Schmiedt, Michael               14 Feb 1833 Rath, Katharina                  Wittenberg       1883193/2  11 117
+Schmucker, Joseph               25 Aug 1838 Traub, Johanna                   Sarata           1882648/2  11   8
+Schneck, Johann                 24 Feb 1836 Grill, Friederike                Tarutino         1882646/2  11 162 23y,BrdnoKol,b Warsaw [s +Matthaeus]                  21y,BrsnKol,b Stuttgart [d Daniel]
+Schneckenburger, Andreas         2 May 1837 Bachman, Barbara                 Sarata           1882647/3   5  41
+Schneider, Andreas               2 Jan 1836 Breitkreuz, Susanne              Alt Arcis        1882646/2  30 118
+Schneider, Conrad               20 Dec 1836 Schmidt, Christina               Tarutino         1882646/2  41 165 27y,WttnbrgKol,b Pol [s Ludwig]                       18y,b Wttnbrg [d Georg]
+Schneider, Wilhelm              28 Mar 1839 Marcus, Carolina                 Alt Arcis        1882649/3  16  57
+Schock, Martin                   8 May 1839 Schmidt, Helena                  Alt Arcis        1882649/3  23  57
+Schock, Wilhelm                 12 Jul 1838 Kaufmann, Anna                   Alt Arcis        1882648/2  35  37                                                       gb Strohhecker
+Schoech, Christian              29 May 1834 Mueller, Margaretha              Sarata           1882643/1   7 119
+Schoenherr, Johann Georg        13 Apr 1833 Faber, Maria                     Sarata           1792290/2   2  63
+Schoenrock, Carl                28 Jan 1837 Vogel, Johanna Barbara           Alt Arcis        1882647/3  13  61
+Schoenrock, Karl                14 Nov 1833 Wetzler, Katharine               Alt Elft         1792290/2   4 104 38y,wid,b Frankfurt/Oder [s +Christian]               19y,b Frankfurt/Main [d +Jacob]
+Schoettle, Johannes             15 Oct 1835 Nittel, Regina                   Tarutino         1882645/2  59 125 20y,WittnbrgKol [s Joseph]                            20y [d Sebastian]                                        both b Wallachai
+Schorr, Jak Philipp             29 Aug 1835 Neulitz, Louise gb Jastrow       Tarutino         1882645/2  49 128 27y,GndntlKol,b Ludwgsbrg/Wu [s GrgBlthsr]            22y,b Bromberg/Po [widow] 
+Schragle, Johannes              12 May 1836 Walz, Catharina                  Tarutino         1882646/2  23 163 23y,FrdnsthlKol,b Po [s Johann]                       19y,BrdnoKol,b Brdno [d +Friedrich]
+Schrank, Johann                 27 May 1837 Moritz, Anna Maria               Tarutino         1882647/3  40 105 20y, TrtnoKol [s +Michael]                            20y,KulmKol [d +Gottfried]
+Schreiber, Johann Friedrich      9 Jul 1839 Kurz, Barbara                    Sarata           1882649/3  13 106
+Schuetz, Karl                   15 Feb 1838 Bauch, Susanna                   Tarutino         1882648/2  19  83
+Schukut, Johann                 20 Mar 1834 Drath, Eleonora                  Paris            1882643/1  26 147 22y, b Poland [s +Peter]                              18y, b Paris [d +Johann]
+Schulz, Christian                9 Feb 1833 Sperling, Susanna                Culm             1883193/2  23 118 widower
+Schulz, Christian                5 Jan 1833 Noetzel, Justina                 Kloestitz Parish 1883193/2   1 136
+Schulz, Christoph               10 Dec 1836 Herzberg, Anna Elisabeth         Alt Arcis        1882646/2  62 119
+Schulz, Christoph                9 Sep 1837 Rabe, Christine                  Alt Arcis        1882647/3  41  62
+Schulz, Franz                   24 Nov 1836 Speck, Anna Maria                Tarutino         1882646/2  39 165 21y,b Pesth? [s Leopold]                              20y,b APsttl [d Bartholomaeus]                           both APsttlKol
+Schulz, Gottlieb                 4 Apr 1838 Bobermin, Anna Christina         Tarutino         1882648/2  23  83
+Schulz, Gottlieb                 9 Aug 1834 Quellmann, Charlotte             Alt Arcis        1882643/1   2 145 22y, b Poland [s +Gottlieb]                           18y, b Moldau [d Johann]
+Schulz, Gottlieb                 4 Nov 1837 Gross, Wilhelmina                Tarutino         1882647/3  64 110 32y,b Pol [widower]                                   17y [d Martin]                                           both KulmKol
+Schulz, Johann Friedrich         2 Jun 1833 Klempner, Maria                  Culm             1883193/2  27 118 widower                                               widow
+Schulz, Michael                 22 Aug 1839 Herzke, Katharina                Tarutino         1882649/3  53 146
+Schulz, Peter                   25 Feb 1837 Voss, Christine                  Alt Arcis        1882647/3  21  61
+Schulz, Wilhelm                 18 Apr 1839 Buchholz, Rosina                 Tarutino         1882649/3  27 146
+Schwab, Christian               23 Sep 1837 Wagner, Margaretha               Sarata           1882647/3  13  41
+Schwab, Friedrich                4 Feb 1836 Lang, Henriette Friederike       Tarutino         1882646/2   7 161 33y,b Tpltz [s +Christian]                            33y,b Goeppingen/Wue,fa-ChrtphFrd; gb Weik
+Schwalbe, Jakob                 24 Dec 1838 Mann, Luise                      Tarutino         1882649/3   3 145
+Schwandt, Andreas                4 Feb 1837 Bittau, Euphrosine               Alt Arcis        1882647/3  17  61
+Schwarz, Carl                   23 Jan 1834 Messinger, Barbara               Tarutino         1882643/1   3 183 21y, b Poland [s +Friedrich]                          18y, b Kloestitz [d +Albrecht]
+Schwarz, Christian              21 Feb 1837 Damaschke, Wilhelmina            Beresina         1882647/3  17 101 18y,Kloestitz [s +Gottfried]                          17y [d Johann Gottlob]
+Schwarz, Jakob                  12 Nov 1835 Mardel, Magdalena                Tarutino         1882645/2  63 127 20y,KlsttzKol,b Klsttz [s +Gottfried]                 19y,b Borodino [s +Christian]
+Schwarz, Wilhelm                27 Dec 1835 Heiss, Helena                    Tarutino         1882645/2  72 126 32y,BeresinaKol,b nr Warsaw [widower] [s +Carl]       20y,b Brienne [d +Georg]
+Schweikert, Bernhard             6 Feb 1839 Renz, Christina                  Tarutino         1882649/3  11 145
+Schweikert, Johann               6 Feb 1839 Lutz, Margaretha                 Tarutino         1882649/3  12 145
+Schweitz, Joseph                 8 Sep 1835 Schmidtke, Maria                 Alt Arcis        1882645/2  22  77
+Schweiz, Ludwig                 28 Dec 1838 Boettcher, Karolina              Tarutino         1882648/2  68  84
+Seeger, Johann Christian        26 Jun 1838 Niederreiter, Elisabeth          Sarata           1882648/2   7   8
+Seelig, Friedrich               18 Feb 1834 Hoffmann, Rosine                 Beresina         1882643/1   7 184 20y, b Borodino [s +Christian]                        17y, b Kloestitz [d +Ernst]
+Seidler, Andreas                15 May 1833 Boess, Maria                     Katzbach         1792290/2   4 114 22y, b Poland [s +Johann]                             17y, b Poland [d Johann]
+Seidler, Johann                 20 Mar 1838 Kurz, Katharina                  Tarutino         1882648/2  21  83
+Seifried, Andreas                4 Mar 1837 Bohnet, Dorothea                 Alt Arcis        1882647/3  25 102 26y,NElftKol,b Pol [s +Jakob]                         18y,A-PosttalKol [d Michael]
+Seipt, Johann                   12 Nov 1838 Tiel, Christina                  Alt Arcis        1882648/2  51  37                                                       gb Sommerfeld
+Selentin, Andreas               18 Apr 1839 Sandau, Margaretha               Alt Arcis        1882649/3  19  57
+Sept, Johann Friedrich          18 Apr 1839 Flaig, Dorothea                  Tarutino         1882649/3  30 146
+Siepert, Valentin               26 Oct 1838 Bort, Dorothea                   Tarutino         1882648/2  51  84
+Sievert, Ferdinand              20 May 1837 Salo, Dorothea                   Alt Arcis        1882647/3  32  61
+Sievert, Ferdinand              24 May 1838 Forkert, Anna Rosina             Alt Arcis        1882648/2  26  36
+Sievert, Karl                   27 Jun 1838 Mueller, Magdalena               Alt Arcis        1882648/2  30  37
+Silcher, Georg                  17 Nov 1838 Kifferle, Margaretha             Alt Arcis        1882648/2  53  37                                                       gb Dobler
+Simpfendoerfer, Gottlieb Fried. 16 Jun 1836 Winkler, Elisabetha              Sarata           1882646/2   6  41
+Skalei, Johann                  15 Oct 1835 Jesse, Christine                 Tarutino         1882645/2  58 125 23y,BeresinaKol,b Lenschuetz,Po [s +Gottlieb]         18y,b Beresina [d Peter]
+Solkowski, NN                   11 Nov 1834 Kerlin, Dorothea Louisa          Neu Arcis        1882643/1   8 145 25y, wid, b Poland [s of Johann]                      20y, b Pommerania [d Jacob]
+Sommer, Christoph               24 Jun 1837 Conrad, Maria                    Alt Arcis        1882647/3  34  61
+Speck, Bartholomaeus            19 Nov 1835 Hag, Karoline                    Tarutino         1882645/2  67 127 22y,APsttlKol,b Poland [fa-same na                    20y,b Wittenberg [d +Conrad]
+Speer, Philipp                  13 Jul 1834 Schorr, Christina Barbara        Friedensthal     1882643/1  31 148 41y, wid, b Wue [s +Jacob Fried.]                     23y, b Wue [d Balthasar]
+Speidel, Jakob                  17 Dec 1835 Kapp, Ursulla                    Tarutino         1882645/2  71 126 24y,BeresinaKol,b Rava/Po [s Jakob]                   22y,BeresinaKol,b Po [d +Rudolph]
+Speitel, Friedrich              28 Mar 1839 Goehring, Christina              Tarutino         1882649/3  22 145
+Sperling, Gottlieb              30 Dec 1834 Radke, Rosine                    Kulm             1882643/1  66 173 28y, b Poland [s +Gottlieb]                           16y, b Kulm [d Christian]
+Sperling, Gottlieb              30 Dec 1834 Radke, Rosina                    Kulm             1882645/2   2 131 28y,b Pol [s +Gottlieb]                               16y,b Kulm [d Christian]                                 both KulmKol
+Spiess, Heinrich                24 Jan 1837 Mammel, Catharina                Tarutino         1882647/3   8  99 21y [s+Johannes]                                      16y [d+Jhns]                                             KlostitzKol
+Sprecher, Friedrich             21 Nov 1838 Buss, Christina                  Tarutino         1882648/2  65  84
+Stadel, Jakob                   24 May 1838 Deuschle, Christina              Alt Arcis        1882648/2  24  36
+Stahl, Jakob                    11 Dec 1834 Kuhnle, Dorothea                 Tarutino         1882643/1  58 176 20y, b Wittenberg [s +Jakob]                          23y, b Wue [d Johannes]
+Staib, Tobias Friedr.           29 May 1834 Schmauder, Magdalena             Toeplitz         1882643/1   9 146 23y, b Wue [s Tobias]                                 widow, fa-Peter Herber; gb Herber
+Stankewitz, Dionis              11 Sep 1838 Schnabel, Elisabeth              Kischinew        1882648/2   2 188 33y,soldier [s +Georg]                                20y,f-Trtno Pastor [d +Friedrich]
+Stappel, Gottlieb               25 Jun 1839 Werner, Dorothea                 Alt Arcis        1882649/3  28  57                                                       gb Hinz  [widow]
+Statsmann, Michael               4 Jul 1839 Tiez, Karolina                   Alt Arcis        1882649/3  32  58                                                       [Tietz]
+Staubel, Martin                 30 Nov 1839 Sommer, Justina                  Tarutino         1882649/3  83 147
+Stauber, Jakob                  15 Sep 1836 Becker, Catharina                Tarutino         1882646/2  33 164 22y,b Wasserau [s Michael]                            19y,b Klsttz [d +Peter]                                  both KlsttzKol
+Stauber, Michael                28 Jun 1838 Falk, Anna                       Tarutino         1882648/2  43  84
+Stauber, Philipp                11 Feb 1837 Stumpf, Wilhelmine               Alt Arcis        1882647/3  14 100 29y,KlstKolbDrlch [wdwr] [sMichael]                   26y,TtKol,bPol [wdw] [d+Jchm]
+Steege, Michael                  8 Oct 1836 Nauenburg, Friedrike             Alt Arcis        1882646/2  55 119
+Steer, Michael                  26 Aug 1837 Dietrich, Catharina              Tarutino         1882647/3  50 107 26y,BrsnaKol,b Frdrchsfld [widower] [s +Johann]       22y,BrdnoKol [d Daniel]
+Steer, Nikolaus                 20 Dec 1834 Rempfer, Anna Barbara            Tarutino         1882643/1  60 176 21y, b Beresina [s +Johann]                           19y, b Beresina [d Friedrich]
+Steinke, Christoph              14 Nov 1835 Bohn, Eleonore                   Alt Arcis        1882645/2  27  77                                                       widow; gb Markus
+Steinke, Christoph              12 Aug 1834 Joerke, Karolina                 Alt Elft         1882643/1  22 147 41y, wid [s +Georg]                                   31y, wid, fa-+Johann; gb Glaesemann
+Steinke, Michael                14 Apr 1835 Traub, Christine Magdalena       Alt Arcis        1882645/2   9  76
+Stern, Gottlieb                 27 Nov 1839 Wagner, Amalia                   Tarutino         1882649/3  69 146
+Sternberg, Friedrich            28 Jan 1837 Moeske, Caroline                 Alt Arcis        1882647/3  14  61
+Steudle, Johann                 22 Sep 1836 Bartholomaei, Catharina Magdalen Sarata           1882646/2  11  41
+Steuk, Martin                    3 Apr 1836 Banoehr, Friederike              Tarutino         1882646/2  17 162 21y,TrtnoKol,b Pol [s Michael]                        19y,KulmKol,b Kulm [d Gottfried]
+Stickel, Andreas                26 Oct 1837 Zeller, Anna Maria               Tarutino         1882647/3  62 110 21y,WttnbrgKol [s Andreas]                            19y,KlsttzKol [d +Johann Georg]
+Stock, Johann                   11 Feb 1837 Bohnet, Anna Maria               Tarutino         1882647/3  12 100 21y,KtbhKol,bMldu [s+Jakob]                           14y,AaltPstlKol [fthr+nn]
+Stoer, Jakob                     1 May 1838 Roedel, Anna Rosina              Tarutino         1882648/2  31  84
+Stoike, Johann                  30 Apr 1835 Dalke, Karoline                  Alt Arcis        1882645/2  11  76
+Stoike, Johann                  28 Jan 1837 Kramer, Maria                    Alt Arcis        1882647/3  15  61
+Stoike, Johann                   3 May 1839 Kelm, Anna Justina               Alt Arcis        1882649/3  22  57
+Stoike, Johann                  20 Dec 1837 Schulz, Anna Maria               Tarutino         1882647/3  78 113 24y,ParisKol,b nr Warsaw [widower] [s +Johann]        20y,AltElfKol [d +Michael]
+Straub, Immanuel                15 Sep 1836 Stauber, Elisabeth               Tarutino         1882646/2  32 164 29y,BrsnKol,b Neuffer [s +Ludwig]                     18y,KlsttzKol,b Wasserau [d Michael]
+Streich, Johann                  7 Feb 1835 Rode, Anna                       Tarutino         1882645/2  25 123 28y,Leipzig,b Warsaw [s +Johann]                      18y,b Leipzig [d +Johann]
+Strohschein, Andreas            23 Jul 1833 Kalk, Louisa                     Tarutino         1883193/2   5 117
+Strohschein, Johann             23 Jul 1833 Henke, Friedrika                 Tarutino         1883193/2   4 117
+Strohschein, Johann              2 Mar 1837 Albrecht, Anna Christine         Alt Arcis        1882647/3  23  61
+Stuber, Philipp                 28 Feb 1837 Schill, Christina                Alt Posttal      1882647/3  21 101 20y,b nr Graudenz [s +Philipp]                        18y [d +Conrad]                                          both WttnbrgKol
+Stumm, Ludwig                   26 Oct 1837 Kalmbach, Anna Maria             Tarutino         1882647/3  63 110 26y,b Pol [s Matthias]                                19y [d +Johannes]                                        both WttnbrgKol
+Stumpf, Jakob                    1 Apr 1836 Koenig, Rosina                   Tarutino         1882646/2  14 162 43y,TrtnoKol,b Wue [widower] [s Johann]               48y,NElftKol,b Wue [widow] [d +Wilhelm Reichert]
+Suchland, Joh. Friedrich        13 Feb 1836 Schaub, Sophie                   Alt Arcis        1882646/2  36 118                                                       gb Foerstenberg
+Sulz, Jakob                      4 Apr 1838 Hach, Judith                     Tarutino         1882648/2  28  83
+Tabbert, Christian               9 Oct 1838 Neiz, Anna                       Tarutino         1882648/2  49  84
+Taschner, August                 1 Nov 1838 Kranich, Christina               Tarutino         1882648/2  52  84
+Teige, Gottlieb                 19 Sep 1833 Schlenz, Dorothea                Leipzig          1883193/2  39 118                                                       widow
+Teschner, Friedrich             27 Nov 1839 Schaefer, Maria                  Tarutino         1882649/3  81 147
+Tiede, Johann                   13 Feb 1839 Winter, Wilhelmina               Tarutino         1882649/3  13 145
+Tiede, Johann                   11 Oct 1834 Mueller, Justine                 Tarutino         1882643/1  38 177 20y, b Kulm [s Carl]                                  16y, b Kulm [d Christian]
+Tiede, Johann                   12 Nov 1835 Neumann, Christina               Tarutino         1882645/2  64 127 b Kulm [widower] [s Carl]                             16y,b Tarutino [d +Christoph]
+Tiede, Karl                      6 Aug 1833 Mueller, Friederika              Kloestitz Parish 1883193/2  13 136
+Tornaske, Gottlieb              25 Feb 1834 Schmalz, Susanne                 Alt Posttal      1882643/1   9 184 26y, b Poland [s +Gottlieb]                           18y, b Poland [d +Christian]
+Trapp, Friedrich                 7 Jan 1837 Preussler, Anna Christine        Alt Arcis        1882647/3   5  61
+Trautwein, Friedrich            19 May 1838 Kranz, Maria                     Tarutino         1882648/2  37  84
+Treiber, Martin                  3 Jun 1834 Richle, Maria Katarina           Beontief?        1882643/1  34 148 33y, b Schwaigern,Wue [s Michael]                     30y, b Wue [d Michael]
+Treichel, Johann                 1 May 1838 Quast, Christina                 Tarutino         1882648/2  32  84
+Treuchel, Christian              3 Feb 1833 Werner, Justine                  Brienne          1792290/2   1  90                                                       b in Moldau
+Trikowski, Georg                13 Jan 1838 Schaefer, Justina                Alt Arcis        1882648/2   3  36                                                       gb Gelm
+Tschernei, Matthaeus            31 Jan 1837 Hoch, Christina                  Leipzig          1882647/3  11  99 22y,FrdKolbBhma [sMartin]                             22yLpzKol,bGlbn [d+Johann]
+Tschritter, August              10 Sep 1836 Meintz, Anna Maria               Alt Arcis        1882646/2  50 119                                                                                                                Meintz = Moritz?
+Tschritter, Ernst               20 May 1837 Fauser, Friedrike                Alt Arcis        1882647/3  31  61
+Uhlig, Valentin                 18 Jan 1835 Klukas, Anna Maria               Tarutino         1882645/2  10 122 21y,Klsttz,b Warsaw [s +Gottlieb]                     22y,b Po [d +Johann]
+Ulrich, Jakob                    9 Sep 1837 Hess, Anna Maria                 Tarutino         1882647/3  51 107 21y [s Christian]                                     18y [d Jakob]                                            both BorodinoKol
+Unterseher, Albertus             2 May 1839 Baumann, Catharine Rosine        Sarata           1882649/3   7 106
+Unterseher, Jakob               26 Jul 1836 Seifried, Maria Barbara          Sarata           1882646/2   9  41
+Uttecht, Johann                 16 Nov 1838 Erdmann, Anna                    Tarutino         1882648/2  60  84
+Vanke, Friedrich                 2 Mar 1837 Klinger, Caroline                Tarutino         1882647/3  24 102 20y,ParisKol,b Rosenthal [s Paul]                     17y,TrtnoKol,b Kulm [d +Johann]
+Veigel, Gottlieb                29 Jun 1837 Illg, Catharine                  Sarata           1882647/3   7  41
+Veil, Michael                    9 Nov 1835 Neitz, Magdalena                 Tarutino         1882645/2  62 125 23y,NeudorfKol, b Ndrf [s Michael]                    KlsttzKol,b Poland [widow] gb Schauber
+Vietzmaier, Johann Heinrich     17 Jun 1835 Fode, Rosina                     Tarutino         1882645/2  39 124 25y,b nr Schorndorf,Wue [s+Kaspar                     44y,b Wue [widow] gb Guderjahn [d+Johann]
+Vogel, Adam                     16 Apr 1836 Laier, Catharine                 Sarata           1882646/2   3  41
+Vogel, Andreas                  20 May 1837 Banik, Anna Catharine            Sarata           1882647/3   6  41
+Vogel, Andreas                  25 Jun 1839 Schikorski, Maria                Alt Arcis        1882649/3  27  57
+Vogel, Georg Michael            22 May 1834 Heubach, Magdalena               Sarata           1882643/1   4 119
+Vogel, Joseph                   13 Jun 1838 Schlenker, Christina             Tarutino         1882648/2  39  84
+von Lesedow, Heinrich Friedrich  8 Jul 1835 Albrecht, Marie                  Alt Arcis        1882645/2  19  76 Pastor of Sarata
+Vossler, Christoph              24 Dec 1838 Kalisch, Katharina               Tarutino         1882649/3   7 145
+Vossler, Johann Martin          29 Sep 1835 Mack, Eva Margaretha             Wittenberg       1882645/2  54 125 20y [s+Johannes                                       19y [d+Joh Wolfgng]                                      both b Wittenberg
+Vossler, Martin                 22 May 1834 Bross, Caroline                  Tarutino         1882643/1  20 182 23y, b Poland [s +Martin]                             18y, b Alt Posttal [d Johann Georg]
+Wagner, Conrad                  27 Dec 1834 Nikkel, Magdalena                Tarutino         1882643/1  62 176 20y, b Poland [son +Johann Adam]                      18y, b Borodino [d Adam]
+Wagner, Jacob                   10 Oct 1837 Frick, Louise                    Sarata           1882647/3  12  41
+Wagner, Johann                  29 Jun 1837 Geigle, Anna Barbara             Sarata           1882647/3  10  41
+Wagner, Johann Michael          17 Nov 1837 Braun, Angelica                  Sarata           1882647/3  18  41
+Wagner, Michael                 23?Apr 1839 Otterstetter, Catharine          Sarata           1882649/3   6 106
+Wagner, Michael                 23 Apr 1839 Otterstaetter, Katharina         Tarutino         1882649/3  33 146
+Wahl, Johann Georg              28 Mar 1839 Binder, Rosina Christina         Alt Arcis        1882649/3  12  57
+Walker, Johann Georg            21 Jan 1837 Keterer, Salome Christine        Alt Arcis        1882647/3  11  61
+Wallewein, Christian            28 Oct 1833 Bergstraesser, Dorothea          Kloestitz Parish 1883193/2  18 136
+Wallewein, Christoph            29 Jan 1835 Weipert, Johanna                 Tarutino         1882645/2  20 130 24y,b nr Warsaw [s +Andreas]                          21y,b Pol [d Jakob                                       both BorodinoKol
+Wallewein, Friedrich            20 Aug 1835 Schneck, Catharina               Tarutino         1882645/2  46 128 20y,BrdnoKol,b Pol [s +Andreas]                       20y,b Borodino [d +Matthaeus]
+Wallewein, Georg                17 Sep 1833 Schmidtke, Anna Eleonora         Kloestitz Parish 1883193/2  14 136
+Walter, Jakob                   26 Oct 1838 Schuhmacher, Luisa               Alt Arcis        1882648/2  49  37
+Walther, Johann Jacob           23 Aug 1839 Brem, Katharina                  Alt Arcis        1882649/3  36  58                                                         [widow]
+Wandri, Gottfried                7 Jan 1834 Kienitz, Luisa                   Brienne          1882643/1  15 146 23y, b Poland [s Johann]                              18y, b Brienne
+Wegenast, Gottlieb              12 Aug 1837 Luckas, Catharina                Tarutino         1882647/3  48 107 21y,b Klsttz [s +Jakob]                               19y,b nr Mainz [d Adam]                                  both BeresinaKol
+Wegner, Andreas                 17 Dec 1835 Esslinger, Christine             Tarutino         1882645/2  70 127 24y,KlsttzKol,b Pol [s +Martin]                       17y,b Kloestitz [d Andreas]
+Weidner, Georg                  27 Nov 1834 Krueger, Wilhelmine              Tarutino         1882643/1  51 175 22y, b near Warsaw [s +Johann]                        18y, b Prussia [d Christian]
+Weiler, Friedrich               20 May 1834 Lingert, Margaretha              Alt Elft         1882643/1  21 147 22y, b Poland [s +Friedrich]                          18y, b Russia
+Weinert, August                 25 Mar 1837 Konrad, Dorothea                 Alt Arcis        1882647/3  27  61
+Weingaertner, Gottlieb          22 Oct 1835 Kussmaul, Magdaleme              Alt Arcis        1882645/2  25  77
+Weiss, Christian                28 Nov 1837 Schulz, Barbara                  Leipzig          1882647/3  76 112 22y [s Gottfried]                                     19y [d Leopold]                                          both Alt Posttal Kol
+Weiss, Friedrich                17 May 1838 Schneider, Katharina             Tarutino         1882648/2  35  84
+Weiss, Friedrich                 3 Oct 1833 Rast, Dorothea                   Alt Elft         1792290/2   2 104 28y, b Poland [s +Martin]                             28y, widow, b Poland [d +Georg]
+Weiss, Friedrich                26 Nov 1834 Wagner, Karolina                 Alt Arcis        1882643/1   6 145 33y, wid, b Poland [s +Christian]                     18y, b Alt Arcis [d +Wilhelm]
+Weiss, Gottfried                29 Aug 1835 Koenig, Rosina                   Alt Arcis        1882645/2  20  77
+Weiss, Gottfried                22 May 1834 Stock, Eva                       Tarutino         1882643/1  19 182 48y, wid., Wiedleben/Prus [s +Gottlieb]               35y, wid., b Poland [d +Jakob Sandau]; gb Sandau
+Weiss, Jakob                     3 Mar 1838 Riedel, Christina                Alt Arcis        1882648/2  10  36
+Weiss, Karl Nicolaus             1 May 1833 Reinhardt, Sophia                Kloestitz Parish 1883193/2   7 136
+Weller, Johann                  28 Mar 1839 Glaesmann, Luise                 Tarutino         1882649/3  21 145
+Wendschlag, August               9 Sep 1835 Semmler, Caroline                Alt Arcis        1882645/2  24  77
+Wernek, Ludwig                   5 May 1839 Kuhn, Maria                      Tarutino         1882649/3  34 146
+Werner, Gottfried               23 Apr 1839 Betscheck, Catharina             Alt Arcis        1882649/3  20  57                                                       stepfa=Christoph Matiks
+Werner, Johann                   3 Apr 1833 Nezel, Dorothea                  Neu Arcis        1792290/2   4  81 59y, wid., b Prussia [s of +Johann]                   23y, b Poland [d Michael]
+Widmer, Friedrich               23 May 1839 Zeller, Katharina                Tarutino         1882649/3  41 146
+Widmer, Jakob                   13 Mar 1839 Hehr, Elisabeth                  Tarutino         1882649/3  18 145
+Widmer, Jakob                   30 Oct 1835 Rath, Rosine                     Tarutino         1882645/2  61 125 20y,WittnbrgKol,b Tarutino [s +Friedrich]             19y,b Wittenberg [d Johann]
+Widmer, Johann                   9 Jan 1838 Mack, Dorothea                   Tarutino         1882648/2   3  83
+Widmer, Johann                  28 Nov 1839 Mueller, Elisabeth               Tarutino         1882649/3  79 147
+Widmer, Johann Georg            28 Apr 1835 Woelfle, Christine               Tarutino         1882645/2  34 129 23y,b Pol [s Johannes]                                16y,b Wttnbrg [d Blasius]                                both WttnbrgKol
+Wiedmann, Gottfried             29 Jun 1839 Welz, Katharina                  Alt Arcis        1882649/3  30  57
+Wiedmann, Johannes              nodate 1839 Welz, Christianna Catharine      Sarata           1882649/3  11 106
+Wilhelm, Georg Adam             23 Oct 1834 Keck, Eva                        Tarutino         1882643/1  42 177 24y, b Wue [s +Christian]                             17y, b Kloestitz [d Johannes]
+Will, Martin                    17 May 1834 Braun, Luisa                     Friedensthal     1882643/1  28 148 67y, wid, b Poland [s +Christian]                     38y, wid, b Prussia [d +Johann]
+Williams, Peter                 24 Apr 1834 Tritschler, Margaretha           Alt Arcis        1882643/1  13 181 44y, A-A Pastor, b nr Walk [s Wilhelm]                24y,wid,b Basel/Sw [d Johann Hoch]; gb Hoch
+Winkler, Johann Michael         14 Jul 1835 Beck, Marianne                   Sarata           1882645/2  10  32                                                       widow; gb Schumaier
+Winkler, Matthaeus              30 Oct 1834 Heubach, Friedrika               Sarata           1882643/1  13 119
+Winter, August                   1 Apr 1836 Tiede, Louisa                    Tarutino         1882646/2  16 162 18y,b Kulm [s Martin]                                 17y,b Kulm [d Carl]                                      both KulmKol
+Winter, Daniel                   5 Oct 1838 Jarcho, Maria                    Tarutino         1882648/2  47  84
+Wirch, Johann                    3 Feb 1835 Dieterle, Catharina              Kloestitz        1882645/2  22 123 24y,AElft,b Pol [s +Gottlieb]                         19y,b Kloestitz [d Matthias]
+Wirth, Jakob                    25 Feb 1834 Borth, Anna Dorothea             Alt Posttal      1882643/1   8 184 19y, b nr Kischinew [s +Heinrich]                     16y, b Kloestitz [d +Friedrich]
+Wirth, Johann Christian         23 Jul 1833 Deuschle, Magdalena              Gnadenthal       1792290/2   6  65
+Wittchen, Johann Friedrich       9 Feb 1833 Zeh, Regina                      Culm             1883193/2  22 118                                                       widow
+Wittibschlaeger, Johann Frdrh   17 Jun 1834 Schwab, Anna Maria               Alt Posttal      1882643/1  24 182 26y, b Wue [s+Chrisoph]                               18y, b Alt Posttal [d Matthias]
+Wittibschlaeger, Johann Frdrh    5 Feb 1835 Schmidt, Maria Barbara           Tarutino         1882645/2  23 123 27y,Ktzbch,b Wue [s +Chr Frd]                         20y,WittnbrgKol [d Georg]
+Wittich, Johann                 21 Jan 1837 Kohler, Anna Maria               Alt Arcis        1882647/3   7  61
+Woefle, Johannes                14 Jan 1836 Heller, Christine                Tarutino         1882646/2   2 161 22y,APsttlKol,b Pol [s Martin]                        19y,WttnbrgKol,b Wttnbrg [d Konrad]
+Woelfle, Martin                 15 May 1833 Scherbinski, Christina           Alt Posttal      1883193/2  20 117 widower                                               widow; gb Bohnet
+Woerner, Johann                 14 Sep 1836 Batzler, Anna Christine          Alt Arcis        1882646/2  52 119
+Wolf, Christian                 28 Nov 1837 Janke, Eleonore                  Leipzig          1882647/3  73 112 51y,LeipzigKol,b nr Modlin [widower] [s+Bartholomaeus 41y,b nr Danzig [widow] gb Weiss [d Daniel]
+Wolt, Andreas                   27 Aug 1835 Reinschmidt, Catharina           Tarutino         1882645/2  47 128 28y,b nr Dreileben [s +Andreas]                       21y,b Baden [d Adam]                                     both Beresiners
+Wonnenberg, August              30 Nov 1839 Burgermeister, Wilhelmina        Tarutino         1882649/3  84 147
+Wonnenberg, Ferdinand           10 Jul 1839 Radach, Karolina                 Tarutino         1882649/3  45 146
+Wonnenberg, Friedrich           24 Feb 1839 Klein, Luisa                     Alt Arcis        1882649/3   9  57
+Wonnenberg, Karl                30 Jun 1838 Hammel, Eva                      Tarutino         1882648/2  44  84
+Zarbock, August                  9 Apr 1835 Braun, Justine                   Tarutino         1882645/2  30 129 19y,TrtnoKol,b Trtno [s Johann]                       17y,Pariser,b Paris [d +Christian]
+Zarbock, Gottlieb                2 Oct 1839 Lindemann, Luise                 Tarutino         1882649/3  55 146
+Zeitner, Daniel                 24 Oct 1837 Stern, Christina                 Tarutino         1882647/3  60 109 26y,FrdnsthlKol,b Pol [s Johann]                      34y,KulmKol,b Poland [widow]
+Zeller, August                  21 Nov 1837 Waldbauer, Maria                 Alt Arcis        1882647/3  45  62
+Zeller, Michael                  8 Jul 1834 Zimmermann, Dorothea             Friedensthal     1882643/1  30 148 26y, b Wue [s Michael]                                43y, wid, b Wue, fa-+Balthasar; gb Klotz
+Zelmer, Christoph               20 Oct 1838 Sternberg, Dorothea              Alt Arcis        1882648/2  48  37                                                       gb Steffan
+Ziffle, Friedrich               30 Nov 1837 Bossert, Anna Maria              Bordino          1882647/3  77 113 23y [s +Georg]                                        26y, b Pol [widow]                                       both BeresinaKol
+Zimmermann, Balthasar           28 Feb 1839 Walker, Friedrica                Alt Arcis        1882649/3  11  57
+Zimmermann, Joh. Gottlieb       30 Jul 1836 Kallenberg, Christine            Alt Arcis        1882646/2  49 119
+Zindler, Jacob                  13 Feb 1836 Krenzler, Catharine              Alt Arcis        1882646/2  34 118
+.

@@ -1,0 +1,623 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="ru" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>ОБД Мемориал</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    <link rel="icon" href="images/favicon.png"  type="image/png"/>
+    <link rel="stylesheet" type="text/css" href="css/common.css?v=2019_05"/>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap-carousel.css" />
+    <link rel="stylesheet" type="text/css" href="css/bootstrap-grid.css" />
+    <link rel="stylesheet" type="text/css" href="css/jquery-ui.css" />
+    <link rel="stylesheet" type="text/css" href="css/header-page.css?v=2017" />
+    <link rel="stylesheet" type="text/css" href="css/hint.css" />
+
+    <script charset="utf-8" src="/67ade9e9af5a5f590385c22b.js?1777298211534"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1541255-1"></script>
+    <script src="js/statistic.js"></script>
+
+    <script type="text/javascript" src="js/jquery-2.2.4.min.js?v=2017"></script>
+    <script type="text/javascript" src="js/jquery-ui.js?v=2017"></script>
+    <script type="text/javascript" src="js/jquery.cookie.js?v=2017"></script>
+    <script type="text/javascript" src="js/jquery.validate.min.js"></script>
+
+    <script type="text/javascript" src="js/bootstrap.carousel.js?v=2017_"></script>
+    <script type="text/javascript" src="js/data-save.js?v=2017"></script>
+    <script src="js/common.js?v=2017"></script>
+    <script src="js/main-page.js?v=2017"></script>
+
+
+</head>
+
+<body><noscript><img src="/c0c84a03315ede2d283035b0e498d348.gif" width="0" height="0" alt="" /></noscript>
+
+
+
+<div class="container old-version-link-outer">
+
+<!--    <div class="old-version-link-inner">
+        Уважаемые пользователи! В связи с проведением технологических работ доступ к сайту может быть ограничен. Приносим извинения за доставленные неудобства.
+    </div>
+-->
+<!--    <div class="old-version-link-inner">-->
+<!--        Уважаемые пользователи, заработала новая HTML-версия сайта. Для перехода к старой версии нажмите на-->
+<!--        <a id="flash_link" th:href="@{${@environment.getProperty('application.flashLink')}}">ссылку</a>-->
+<!--    </div>-->
+</div>
+
+<div class="container relative">
+
+    <div>
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" defer >
+        (function (d, w, c) {
+            (w[c] = w[c] || []).push(function() {
+                try {
+                    w.yaCounter47526808 = new Ya.Metrika2({
+                        id:47526808,
+                        clickmap:true,
+                        trackLinks:true,
+                        accurateTrackBounce:true,
+                        webvisor:true
+                    });
+                } catch(e) { }
+            });
+
+            var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+            s.type = "text/javascript";
+            s.async = true;
+            s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+            if (w.opera == "[object Opera]") {
+                d.addEventListener("DOMContentLoaded", f, false);
+            } else { f(); }
+        })(document, window, "yandex_metrika_callbacks2");
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/47526808" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+
+    <div class="header__button-outer">
+        <div class="page__stripe"></div>
+
+        <div class="header__logo">
+            <a href="/memorial/">
+                <img src="images/logo-big.png"/>
+            </a>
+        </div>
+
+        <div class="header__button">
+            <img src="images/menu.png"/>
+        </div>
+    </div>
+
+    <div id="pageHeaderMenu" class="page-header__menu">
+        <div class="page__stripe">
+        </div>
+
+        <div class="header__logo">
+            <a href="/">
+                <img src="images/logo-big.png"/>
+            </a>
+        </div>
+
+        <div class="header__to-main">
+            <a href="/" >На главную</a>
+        </div>
+
+        <div class="header__help">
+            <a href="help_ru.htm">
+                <span >Помощь</span>
+            </a>
+        </div>
+        <div class="header__bookmark">
+            <a id="mark" href="javascript:void(0)">
+                <span>Избранное</span>
+            </a>
+        </div>
+
+        <div class="header__lang">
+
+            <a id="lang_link" class="page__lang-link page__active-lang-link" lang="ru" href="javascript:void(0)">
+                RU
+            </a>
+            <!--<a id="lang_en" class="page__lang-link" lang="en" href="javascript:void(0)">-->
+                <!--EN-->
+            <!--</a>-->
+        </div>
+
+        <div class="header__login">
+            <a id="login" href="javascript:void(0)" data-memorial="Nomil">
+                <img src="./images/personal.png"/>
+                <span class="login-text">Войти</span>
+            </a>
+        </div>
+        
+
+    </div>
+</div>
+
+    <div>
+
+    <div class="row">
+        <div class="col-md-5 main-page__logo-outer">
+            <a class="main-page__logo" href="/">
+                <img src="images/logo-big.png">
+            </a>
+        </div>
+        <div class="col-md-7 main-page-header__content">
+            <p>
+                <span>Обобщенный банк данных «Мемориал» - банк данных о защитниках Отечества, погибших, умерших и пропавших без вести в период Великой Отечественной войны и послевоенный период.</span> <a href="about.htm">Подробнее о проекте</a>
+            </p>
+        </div>
+    </div>
+
+</div>
+
+    <div class="row">
+        <div class="col-sm-12 col-md-12">
+            <div id="memorial-2015" class="carousel slide" data-ride="carousel" data-interval="10000" data-pause="hover">
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+      <div class="item m2015-1">
+          <div class="carousel-caption">
+              <strong>Новое в 2024–2025 г.</strong>
+              <div><b>2,5 млн.</b> записей из документов</div>
+              <div>о личном составе</div>
+          </div>
+      </div>
+      <div class="item m2015-2">
+          <div class="carousel-caption">
+              <strong>Новое в 2024–2025 г.</strong>
+              <div><b>150 тыс.</b> записей</div>
+              <div>о потерях</div>
+          </div>
+      </div>
+      <div class="item m2015-3">
+          <div class="carousel-caption">
+              <strong>Новое в 2024–2025 г.</strong>
+              <div><b>143 тыс.</b> записей из паспортов</div>
+              <div>захоронений</div>
+          </div>
+      </div>
+      <div class="item m2015-4">
+          <div class="carousel-caption">
+              <strong>Новое в 2024–2025 г.</strong>
+              <div><b>1,8 млн.</b> карточек</div>
+              <div>на раненых</div>
+          </div>
+      </div>
+  </div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#memorial-2015" role="button" data-slide="prev">
+    
+  </a>
+  <a class="right carousel-control" href="#memorial-2015" role="button" data-slide="next">
+    
+  </a>
+</div>
+        </div>
+    </div>
+
+    <div class="row main-page-form-outer">
+
+        <div class="col-md-12">
+            <div class="main-page-form">
+                <div class="main-page-form_title">
+                    <span>Установить судьбу</span>
+                    <a href="help_ru.htm#link6">
+                        <img src="./images/manual.png" />
+                    </a>
+                </div>
+
+                <div class="row">
+                    <div class="col-sm-12 col-md-6 col-lg-4 main-page-form__cell">
+                        <div class="main-page-form__input-title">Фамилия</div>
+                        <input type="text" id="family" class="main-page-form__input" />
+                    </div>
+                    <div class="col-sm-12 col-md-6 col-lg-4 main-page-form__cell">
+                        <div class="main-page-form__input-title">Имя</div>
+                        <input type="text" id="name" class="main-page-form__input"/>
+                    </div>
+                    <div class="col-sm-12 col-md-6 col-lg-4 main-page-form__cell">
+                        <div class="main-page-form__input-title">Отчество</div>
+                        <input type="text" id="surname" class="main-page-form__input"/>
+                    </div>
+                    <div class="col-sm-12 col-md-6 col-lg-4 main-page-form__cell hint--bottom hint--medium hint--rounded"
+                         label="Поддерживается поиск только по году (например, 1910, в диапазоне с 1700 по текущий год)">
+                        <div class="main-page-form__input-title">Год рождения</div>
+                        <input type="text" id="year"
+                               class="main-page-form__input date-checker-element"
+                               data-formats='YYYY' data-year-from='1700' data-year-to='NOW'
+                        />
+                    </div>
+                    <div class="col-sm-12 col-md-6 col-lg-4 main-page-form__cell">
+                        <div class="main-page-form__input-title">Звание</div>
+                        <input type="text" id="rank" class="main-page-form__input"/>
+                    </div>
+                    <div class="col-sm-12 col-md-6 col-lg-4 main-page-form__cell">
+                        <div class="main-page-form__input-title">&nbsp;</div>
+                        <div class="row">
+                            <div class="col-sm-12 col-md-6 col-lg-6">
+                                <button id="findbtn" class="search-button">Найти</button>
+                            </div>
+                            <div class="col-sm-12 col-md-6 col-lg-6 main-page-form__advanced-search-outer">
+                                <a href="advanced-search.htm">Расширенный поиск</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12 col-md-12 col-lg-10 main-page_content">
+            <h2 class="main-page_content-greeting">Уважаемые соотечественники!</h2>
+
+            <div class="main-page_content-main">
+                <p>Победа в Великой Отечественной войне досталась нам очень высокой ценой. Судьбы тысяч людей так и остались невыясненными. До сих пор продолжаются поиски мест захоронений погибших воинов. С целью организации работы по увековечению памяти павших защитников Отечества и реализации на практике лозунга «Никто не забыт, ничто не забыто» Президент Российской Федерации издал ряд поручений и Указов.</p>
+
+                <p>
+                    <span>В соответствии с Перечнем поручений Президента Российской Федерации от 23 апреля 2003 г. №пр-698 по вопросам организации военно-мемориальной работы в Российской Федерации и </span>
+                    <a href="http://www.kremlin.ru/acts/bank/23367">Указом от 22 января 2006 года № 37 «Вопросы увековечения памяти погибших при защите Отечества»</a>, <span>Министерством обороны Российской Федерации создан Обобщенный компьютерный банк данных, содержащий информацию о защитниках Отечества, погибших и пропавших без вести в годы Великой Отечественной войны, а также в послевоенный период (ОБД Мемориал).</span>
+                </p>
+
+                <p>Главная цель проекта - дать возможность миллионам граждан установить судьбу или найти информацию о своих погибших или пропавших без вести родных и близких, определить место их захоронения.</p>
+
+                <p>Тылом Вооруженных Сил Российской Федерации (Военно-мемориальным центром ВС РФ) проведена уникальная по масштабам, технологии и срокам исполнения работа, в результате которой создана информационно-справочная система глобального значения, не имеющая аналогов в мировой практике.</p>
+            </div>
+
+            <div id="main-page_content-advanced" class="hide">
+                <p>
+                    <span>Выполнение технической части проекта - создание и наполнение сайта ОБД Мемориал (www.obd-memorial.ru) было поручено специализированной организации - </span>
+                    <a href="http://www.elar.ru/">корпорации &quot;ЭЛАР&quot;</a>.
+                </p>
+
+                <p>Данные для наполнения Обобщенного банка данных взяты из официальных архивных документов, хранящихся в Центральном архиве Минобороны РФ, Центральном военно-морском архиве Минобороны РФ, Российском государственном военном архиве, Государственном архиве РФ и его региональных отделениях, Управлении Минобороны РФ по увековечению памяти погибших при защите Отечества. Основной массив документов - это донесения боевых частей о безвозвратных потерях, другие архивные документы, уточняющие потери (похоронки, документы госпиталей и медсанбатов, трофейные карточки советских военнопленных и т.д.), а также паспорта захоронений советских солдат и офицеров.</p>
+
+                <p>На сайте Вы можете найти информацию о звании погибшего, части, в которой он служил, дате и причине смерти (убит, умер от ран, пропал без вести) и месте захоронения. Более того, на сайте выложены отсканированные копии всех обработанных документов-первоисточников, содержащих информацию о персоналиях. Эти документы позволяют с большой точностью идентифицировать павших, поскольку в них часто содержится дополнительная информация, в частности имена и адреса родственников, которым отсылались похоронки.</p>
+
+                <p>В рамках проекта отсканировано и предоставлено в Интернет-доступ более 16,8 миллионов листов архивных документов и свыше 45 тыс. паспортов воинских захоронений. Впервые Вы сможете ознакомиться с реальными документами, самостоятельно провести поиск и исследование.</p>
+
+                <p>На сегодняшний день ни в одной стране мира нет подобного банка данных. Осуществление такого проекта требует построения многоэтапной цепочки по сбору, проверке, оцифровке бумажных массивов, исчисляющихся миллионами листов, загрузке данных в мощную поисковую систему, обеспечение глобального многопользовательского доступа к документам. При этом все участвующие в его создании люди чувствуют особую ответственность за то, что каждая допущенная в работе ошибка может в корне изменить судьбу того или иного воина. Все это делает еще более ценным тот факт, что именно в современной России объединенные действия государства, общественных организаций и научно-технических фирм привели к созданию ОБД &quot;Мемориал&quot;.</p>
+
+                <p>ОБД Мемориал является достойным памятником всем воинам, погибшим и пропавшим без вести при защите нашей Родины и ее интересов, на практике реализуя лозунг &quot;Никто не забыт, ничто не забыто&quot;.</p>
+
+                <p>Работы по пополнению банка данных продолжаются.</p>
+
+                <p>
+                    <span>Последнее обновление осуществлено</span>
+                    <span>в апреле 2025г.</span>
+                    <br/>
+                    <span></span>
+                    <br/>
+                    <!--
+                    <span>
+                        Среди новых документов:
+                        <ul>
+                            <li>регистрационная книга концлагеря Дахау;</li>
+                            <li>списки к паспортам воинских захоронений;</li>
+                            <li>документы райвоенкоматов, в т.ч. Щелковского и Гагаринского; </li>
+                            <li>документы Красноярского ВПП.</li>
+                        </ul>
+                         Добавлены записи на умерших из Картотеки ранений Филиала ЦАМО (военно-медицинских документов) и частично из Картотеки политработников ЦАМО. <br>
+                         Добавлены записи из документов запасных полков.
+
+                    </span>
+                    <br/>
+                    -->
+                    <br/>
+                    e-mail : <a href="mailto:obd-memorial@elar.ru">obd-memorial@elar.ru</a>
+                </p>
+            </div>
+
+            <a id="advanced-content-toggler" href="javascript:void(0)" class="noUnderline fontSize09"></a>
+        </div>
+    </div>
+
+
+    <div>
+
+     <div class="row">
+         <div class="col-sm-12 col-md-12 ">
+             <div class="page__footer-links-container">
+                 <div class="page__stripe">
+                 </div>
+
+                 <div class="row">
+                     <div class="col-sm-12 col-md-4 col-lg-4 page__footer-logo-outer">
+                         <a href="/memorial/">
+                             <img src="images/logo-grayscale.png"/>
+                         </a>
+                     </div>
+                     <div class="col-sm-12 col-md-8 col-lg-8">
+                         <div class="row">
+                             <div class="col-sm-12 col-md-3 col-lg-3 page__footer-links">
+                                 <a href="about.htm">О проекте</a>
+                                 <a href="comments.htm">Отзывы</a>
+                             </div>
+                             <div class="col-sm-12 col-md-4 col-lg-4 page__footer-links">
+                                 <a href="feedback.htm">Обратная связь</a>
+                                 <a href="help_ru.htm">Помощь</a>
+                             </div>
+                             <div class="col-sm-12 col-md-5 col-lg-5 page__footer-links">
+                                 <a href="sources.htm">Источники информации</a>
+                                 <a href="legal-info.htm">Правовая информация</a>
+                             </div>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+
+         </div>
+     </div>
+
+     <div class="row">
+         <div class="col-sm-12 col-md-12 col-lg-12 alignCenter">© Министерство обороны Российской Федерации</div>
+     </div>
+
+
+     <div class="row">
+         <div class="col-sm-10 col-md-12 col-lg-9 page__footer-links-container">
+             <div class="bottom-banners">
+
+                 <div class="banner">
+                     <a href="http://www.kremlin.ru">
+                         <img title="Сайт Президента Российской Федерации" alt=""
+                              src="images/banners/new/prezident.png"/>
+                     </a>
+                 </div>
+                 <div class="banner">
+                     <a href="http://www.government.ru">
+                         <img title="Сайт Правительства Российской Федерации" alt=""
+                              src="images/banners/new/government.png"/>
+                     </a>
+                 </div>
+                 <div class="banner">
+                     <a href="http://www.mil.ru">
+                         <img title="Сайт Министерства Обороны Российской Федерации" alt=""
+                              src="images/banners/new/mo-rf.png"/>
+                     </a>
+                 </div>
+                 <div class="banner">
+                     <a href="http://archive.mil.ru/archival_service/central.htm">
+                         <img title="Центральный архив Министерства обороны" alt="" src="images/banners/new/camo.png"/>
+                     </a>
+                 </div>
+
+                 <div class="banner">
+                     <a href="http://www.podvignaroda.ru/?utm_source=memorial_ft">
+                         <img title="Сайт Подвиг Народа" alt="" src="images/banners/new/podvig.png"/>
+                     </a>
+                 </div>
+                 <div class="banner">
+                     <a href="http://pobeda.elar.ru/?utm_source=memorial_ft">
+                         <img title="Календарь Победы" alt="" src="images/banners/new/pobeda.png"/>
+                     </a>
+                 </div>                
+                 <div class="banner">
+                             <a href="http://gwar.mil.ru/?utm_source=memorial_ft">
+                                 <img title="Памяти героев Великой Войны 1914-1918" alt="" src="images/banners/new/hiroes.png" />
+                             </a>
+                         </div>
+                 
+                 <div class="banner">
+                     <a href="https://pamyat-naroda.ru/?utm_source=memorial_ft">
+                         <img title="Сайт Память Народа" alt="" src="images/banners/new/pn.png"/>
+                     </a>
+                 </div>
+
+             </div>
+         </div>
+     </div>
+
+     <div class="hide">
+         <div id="testDialog">
+             <div>Header</div>
+         </div>
+
+         <div id="authOuterMemorial">
+             <span>Для авторизации перейдите на </span> <a href="https://obd-memorial.ru">https://obd-memorial.ru</a>
+         </div>
+         <div id="authOuter">
+             <div id="authHeaderLinksOuter" class="row auth__links-header">
+                 <div class="col-sm-12">
+                     <span id="loginLink" class="auth__link">Войдите</span>
+                     <span>или</span>
+                     <span id="registerLink" class="auth__link">Зарегистрируйтесь</span>
+                 </div>
+             </div>
+             <div id="authHeaderProfileOuter" class="row auth__links-header hideForce">
+                 <div class="col-sm-12">
+                     <span>Профиль пользователя</span>
+                 </div>
+             </div>
+
+             <div class="dialog__for-login">
+                 <form id="loginForm">
+                     <div class="row ui-dialog__row">
+                             <div class="col-sm-12 col-md-4 dialog__name-outer">
+                                 <span>Логин (или e-mail)</span><span class="red">*</span>
+                              </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="loginUsername" name="loginUsername" type='text'/>
+                         </div>
+                     </div>
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Пароль</span><span class="red">*</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="loginPassword" name="loginPassword" type='password'/>
+                         </div>
+                    </div>
+                 </form>
+             </div>
+
+             <div class="dialog__for-register">
+                 <form id="registerForm">
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Логин</span><span class="red">*</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="reg_username" name="reg_username" type='text'/>
+                         </div>
+                     </div>
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Email</span><span class="red">*</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="reg_email" name="reg_email" type='text'/>
+                         </div>
+                     </div>
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Пароль</span><span class="red">*</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="reg_password" type="password" name="reg_password"/>
+                         </div>
+                     </div>
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Подтвердите пароль</span><span class="red">*</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="reg_repassword" type="password" name="reg_repassword"/>
+                         </div>
+                     </div>
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Фамилия</span><span class="red">*</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="reg_family" type='text' name="reg_family"/>
+                         </div>
+                     </div>
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Имя</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="reg_name" type='text'/>
+                         </div>
+                     </div>
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Отчество</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="reg_middlename" type='text'/>
+                         </div>
+                     </div>
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Организация</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="reg_organization" type='text'/>
+                         </div>
+                     </div>
+                     <div class="row ui-dialog__row">
+                         <div class="col-sm-12 col-md-4 dialog__name-outer">
+                             <span>Должность</span>
+                         </div>
+                         <div class="col-sm-12 col-md-8">
+                             <input id="reg_post" type='text'/>
+                         </div>
+                     </div>
+                 </form>
+                 <a id="idmycomment" href="mycomments.htm">Доп. информация, добавленная мной</a>
+             </div>
+         </div>
+
+
+         <div id="authFinishedOuter">
+             <div class="row">
+                 <div class="col-sm-12 auth__finished-header">Регистрация завершена</div>
+             </div>
+             <div class="row">
+                 <div class="col-sm-12 auth__finished-content">На указанный Вами e-mail выслано письмо с указанием действия, необходимого для подтверждения регистрации. После подтверждения регистрации Вы сможете вводить дополнительную информацию.</div>
+             </div>
+         </div>
+
+
+         <div id="restorePasswordOuter">
+             <div class="row">
+                 <div class="col-sm-12 restore__header">Восстановление пароля</div>
+             </div>
+             <div class="row ui-dialog__row restore__message">Для получения нового пароля введите Email, который Вы указывали при регистрации. Вы получите ссылку на смену пароля на Ваш Email.</div>
+             <div class="row ui-dialog__row">
+                 <div class="col-sm-12 col-md-4" >E-mail</div>
+                 <div class="col-sm-12 col-md-8">
+                     <input type="text" id="restore"/>
+                 </div>
+             </div>
+         </div>
+
+
+
+         <div id="bookmark" title="Избранное" style="display: none;">
+             <div class="row">
+                 <div class="col-sm-12 auth__links-header">Избранное</div>
+             </div>
+             <div class="row bookmark__list-outer">
+                 <ul id="bookmark__list" class="bookmark__list"></ul>
+             </div>
+         </div>
+
+
+         <script>
+             Main.init({
+                 bookmarkDialog: {
+                     choose: "Выбрать", //"Выбрать",
+                     del: "Удалить", //"Удалить",
+                     cancel: "Отмена" //"Отмена"
+                 },
+                 authDialog: {
+                     login: "Войти", //"Войти",
+                     register: "Зарегистрироваться", //"Зарегистрироваться",
+                     save: "Сохранить", //"Сохранить",
+                     cancel: "Отмена", //"Отмена",
+                     forgotten: "Забыли пароль?", //"Забыли пароль?"
+                     loginUsernameMessage : "Укажите свое имя или e-mail", //"Укажите свое имя или e-mail"
+                     loginPasswordMessage : "Укажите пароль", //"Укажите пароль"
+                     reg_usernameMessage : "Укажите свое имя", //"Укажите свое имя"
+                     reg_familyMessage : "Укажите свою фамилию", //"Укажите свою фамилию"
+                     reg_emailMessage : "Укажите Ваш email", //"Укажите Ваш email"
+                     reg_password : "Укажите пароль", //"Укажите пароль"
+                     reg_repasswordMessage : "Подтвердите пароль", //"Подтвердите пароль"
+                     reg_repasswordNotEqualMessage : "Неверное подтверждение пароля" //"Неверное подтверждение пароля"
+                 },
+                 restorePasswordOuter : {
+                     restore: "Восстановить", //"Восстановить",
+                     cancel: "Отмена" //"Отмена",
+                 }
+             });
+         </script>
+
+     </div>
+
+ </div>
+
+</div>
+
+<script>
+    MainPage.initUI({
+        expand : "Развернуть",
+        collapse : "Свернуть"
+    });
+</script>
+
+</body>
+</html>
