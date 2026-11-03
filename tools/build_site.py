@@ -11,7 +11,7 @@ CASE = os.path.join(ROOT, 'case')
 SITE = os.path.join(ROOT, 'site')
 
 LIVING = {'mikhail', 'andrey', 'olga', 'vika', 'sergeyn', 'lidiya'}
-LIVING_SIB = {'nikolay', 'lidiya'}
+LIVING_SIB = {'nikolay', 'lidiya', 'mikhail', 'olga', 'andrey'}
 LIVING_REL = {'mikhail': 'это ты', 'andrey': 'отец', 'olga': 'мать', 'vika': 'бабушка по отцу', 'sergeyn': 'дед по отцу', 'lidiya': 'бабушка по матери'}
 PIDS = {
     'mikhail': 'P-0001', 'andrey': 'P-0002', 'olga': 'P-0003', 'nikolay': 'P-0004', 'lidiya': 'P-0005', 'yakov': 'P-0006',
